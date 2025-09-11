@@ -1,0 +1,5655 @@
+--- CONTENT FROM https://www.ycombinator.com/library ---
+
+About
+What Happens at YC?
+Apply
+YC Interview Guide
+FAQ
+People
+YC Blog
+Companies
+Startup Directory
+Founder Directory
+Launch YC
+Startup Jobs
+All Jobs
+◦ Engineering
+◦ Operations
+◦ Marketing
+◦ Sales
+Internships
+Startup Job Guide
+YC Startup Jobs Blog
+Find a Co-Founder
+Library
+SAFE
+Resources
+Startup School
+Newsletter
+Requests for Startups
+For Investors
+Verify Founders
+Hacker News
+Bookface
+Open main menu
+Log in
+·
+Apply for
+W2026
+batch.
+Apply
+YC Library
+Watch videos, listen to podcasts, and read essays for startup founders. Peruse the full
+library archive
+here
+.
+The FDE Playbook for AI Startups with Bob McGrew
+3 days ago
+Bob McGrew, who helped shape PayPal, Palantir, and OpenAI—where he led the development of ChatGPT, GPT-4, and the o1 reasoning model—joins The Lightcone to share how his Forward Deployed Engineer model shaped today’s AI boom, why “doing things that don’t scale at scale” works, and where the biggest opportunities lie for founders in AI.
+The Latest
+The FDE Playbook for AI Startups with Bob McGrew
+3 days ago
+27:56
+Michael Truell: Building Cursor at 23, Taking on GitHub Copilot, and Advice to Engineering Students
+34K views
+8 days ago
+12:32
+GPT-OSS vs. Qwen vs. Deepseek: Comparing Open Source LLM Architectures
+20K views
+13 days ago
+45:26
+How This 25-Year-Old Built A $675M Legal AI Startup (With No Legal Experience)
+47K views
+16 days ago
+35:57
+Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System Design
+98K views
+23 days ago
+18:49
+The Sales Playbook for Founders
+52K views
+27 days ago
+40:37
+Figma CEO Dylan Field: How AI Will Transform Design
+28K views
+1 month ago
+46:16
+The Finance Startup Bringing Agentic AI to Wall Street
+48K views
+1 month ago
+40:48
+Scaling and the Road to Human-Level AI | Anthropic Co-founder Jared Kaplan
+51K views
+1 month ago
+43:42
+Brand Design Tips From Linear Founder Karri Saarinen
+29K views
+1 month ago
+44:53
+Chelsea Finn: Building Robots That Can Do Anything
+68K views
+1 month ago
+35:51
+Replit CEO Amjad Masad: Coding Agents, Autonomy, and the Future of Work
+33K views
+1 month ago
+27:27
+John Jumper: AlphaFold and the Future of Science
+31K views
+1 month ago
+43:13
+Aravind Srinivas: The Race to Build the AI Browser of the Future
+117K views
+2 months ago
+43:58
+Andrew Ng: Building Faster with AI
+317K views
+2 months ago
+38:56
+How to Spend Your 20s in the AI Era
+309K views
+2 months ago
+34:48
+François Chollet: The ARC Prize & How We Get to AGI
+124K views
+2 months ago
+44:22
+Fei-Fei Li: Spatial Intelligence is the Next Frontier in AI
+163K views
+2 months ago
+40:30
+Satya Nadella: Microsoft's AI Bets, Hyperscaling, Quantum Computing Breakthroughs
+131K views
+2 months ago
+42:44
+Sam Altman: The Future of OpenAI, ChatGPT's Origins, and Building AI Hardware
+442K views
+2 months ago
+49:41
+Elon Musk: Digital Superintelligence, Multiplanetary Life, How to Be Useful
+518K views
+2 months ago
+39:32
+Andrej Karpathy: Software Is Changing (Again)
+2M views
+2 months ago
+61:13
+Alexandr Wang: Building Scale AI, Transforming Work with Agents & Competing With China
+274K views
+2 months ago
+37:29
+Cursor CEO: Going Beyond Code, Superintelligent AI Agents And Why Taste Still Matters
+226K views
+3 months ago
+8:08
+Fusion Energy Is Tech's Next Big Unlock
+51K views
+3 months ago
+31:26
+State-Of-The-Art Prompting For AI Agents
+269K views
+3 months ago
+30:08
+AI Apps Are Broken — Here's How To Fix Them
+92K views
+3 months ago
+40:47
+Startup Ideas You Can Now Build With AI
+256K views
+3 months ago
+19:12
+How AI Coding Agents Will Change Your Job
+111K views
+4 months ago
+52:36
+Windsurf CEO: Betting On AI Agents, Pivoting In 48 Hours, And The Future of Coding
+239K views
+4 months ago
+16:40
+How To Get The Most Out Of Vibe Coding
+290K views
+4 months ago
+8:30
+The Next Breakthrough In AI Agents Is Here
+267K views
+5 months ago
+38:24
+How Zepto Became India’s Fastest Growing Startup
+188K views
+4 months ago
+20:44
+Why Every Founder Should Care About Design
+48K views
+5 months ago
+31:33
+How To Build The Future: Tony Xu
+163K views
+5 months ago
+43:15
+How To Navigate Co-Founder Disputes
+48K views
+5 months ago
+26:12
+Customer Obsession Made Gusto A $9.6 Billion Company
+27K views
+5 months ago
+37:42
+The Future Of Design With Figma's Dylan Field
+62K views
+6 months ago
+8:26
+GPT-4.5 = Big Model Energy
+31K views
+6 months ago
+31:34
+Vibe Coding Is The Future
+267K views
+6 months ago
+36:28
+Design Experts Critique AI Interfaces
+156K views
+6 months ago
+34:39
+How To Build The Future: Aravind Srinivas
+130K views
+6 months ago
+49:29
+How AI Is Changing Enterprise
+118K views
+6 months ago
+13:46
+Building A Supersonic Plane Company From The Ground Up
+80K views
+6 months ago
+29:07
+The Right (And Wrong) Way To Spend Money At Your Startup
+62K views
+7 months ago
+43:49
+How To Get AI Startup Ideas
+241K views
+7 months ago
+13:06
+The Engineering Unlocks Behind DeepSeek | YC Decoded
+208K views
+7 months ago
+30:45
+How To Build The AGI Future: Bob McGrew
+48K views
+7 months ago
+39:33
+AI Revolution: Why This Is The Best Time To Start A Startup
+187K views
+7 months ago
+10:12
+How Scaling Laws Will Determine AI's Future
+38K views
+7 months ago
+14:18
+How To Use AI In Your Startup
+82K views
+7 months ago
+43:28
+How To Build The Future: Parker Conrad
+56K views
+8 months ago
+24:32
+Building A $2 Billion SaaS Company: Lessons From A Two Time Founder
+87K views
+8 months ago
+7:03
+The Lightcone 2025 Forecast
+50K views
+8 months ago
+16:57
+How To Focus On The Right Problems
+146K views
+8 months ago
+19:33
+How David Lieb Turned a Failing Startup Into Google Photos
+349K views
+8 months ago
+38:11
+2024’s Biggest Startup Trends
+103K views
+9 months ago
+7:54
+Anthropic’s Claude Computer Use Is A Game Changer
+136K views
+9 months ago
+21:16
+How To Make The Most Out of Your 20s
+618K views
+9 months ago
+32:57
+How To Start A Dev Tools Company
+59K views
+9 months ago
+42:13
+Vertical AI Agents Could Be 10X Bigger Than SaaS
+903K views
+9 months ago
+22:43
+Twitter vs. X: Product Lessons For Startup Founders
+39K views
+9 months ago
+35:17
+Why The Next AI Breakthroughs Will Be In Reasoning, Not Scaling
+80K views
+10 months ago
+46:52
+How To Build The Future: Sam Altman
+673K views
+10 months ago
+15:58
+The AI Future Has Arrived: Here's What You Should Do About It
+132K views
+10 months ago
+33:45
+The 10 Trillion Parameter AI Model With 300 IQ
+61K views
+10 months ago
+13:41
+You Don’t Have To Be A Billionaire To Launch Satellites
+28K views
+10 months ago
+7:07
+Why OpenAI's o1 Is A Huge Deal
+40K views
+10 months ago
+17:55
+Starting A Company? The Key Terms You Should Know
+72K views
+10 months ago
+37:14
+Now Anyone Can Code: How AI Agents Can Build Your Whole App
+93K views
+10 months ago
+33:38
+Why Design Matters: Lessons from Stripe, Lyft and Airbnb
+54K views
+11 months ago
+18:34
+How Do Billion Dollar Startups Start?
+107K views
+11 months ago
+24:17
+Meta VS Apple: What Their Battle Means For AI Startups
+38K views
+11 months ago
+37:06
+Why Vertical LLM Agents Are The New $1 Billion SaaS Opportunities
+429K views
+11 months ago
+21:06
+Stripe Head of Design Katie Dill Reviews Startup Websites
+86K views
+11 months ago
+20:38
+How To Find A Co-Founder
+86K views
+11 months ago
+13:02
+What Founder Mode Really Means
+95K views
+11 months ago
+55:52
+Building The World's Best Image Diffusion Model
+18K views
+11 months ago
+17:40
+Signs Your Company Is Recovering From ZIRP
+22K views
+11 months ago
+32:46
+How To Convert Customers With Cold Emails
+87K views
+1 year ago
+59:00
+How YC Was Created With Jessica Livingston
+24K views
+1 year ago
+9:45
+Why AI Hasn’t Blown Our Minds…Yet
+50K views
+1 year ago
+29:23
+How To Improve Cohort Retention
+45K views
+1 year ago
+37:36
+Are We In An AI Hype Cycle?
+72K views
+1 year ago
+12:32
+How To Influence Decision Makers
+50K views
+1 year ago
+19:35
+Co-Founder Equity Mistakes to Avoid
+228K views
+1 year ago
+21:11
+How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years
+119K views
+1 year ago
+48:44
+Gmail Creator Paul Buchheit On AGI, Open Source Models, Freedom
+61K views
+1 year ago
+12:29
+The Problem With Startup "Experts"
+46K views
+1 year ago
+17:46
+How To Price For B2B
+106K views
+1 year ago
+13:50
+Tarpit Ideas: The Sequel
+84K views
+1 year ago
+18:18
+Why Startup Founders Should Launch Companies Sooner Than They Think
+88K views
+1 year ago
+38:24
+10 People + AI = Billion Dollar Company?
+207K views
+1 year ago
+18:23
+What Is ZIRP And How Did It Poison Startups?
+67K views
+1 year ago
+12:07
+Standing Up For Startups - YC Goes To D.C.
+17K views
+1 year ago
+41:07
+Better AI Models, Better Startups [Lightcone Podcast Ep. 7]
+84K views
+1 year ago
+25:42
+YC's Group Partners Discuss Doing Things That Don't Scale
+198K views
+1 year ago
+8:16
+How New Technology Creates New Businesses
+63K views
+1 year ago
+21:12
+Does Your Startup Website Pass The First Impression Test?
+49K views
+1 year ago
+42:22
+Consumer is back, What’s getting funded now, The vibes immaculate [Lightcone Podcast Ep. 6]
+90K views
+1 year ago
+12:11
+When Should You Trust Your Gut?
+64K views
+1 year ago
+48:37
+Inside The Hard Tech Startups Turning Sci-Fi Into Reality [Lightcone Podcast Ep. 5]
+77K views
+1 year ago
+9:35
+How to Survive the Crypto Boom & Bust Cycle
+14K views
+1 year ago
+34:06
+Building AI Models Faster And Cheaper Than You Think  [Lightcone Podcast Ep. 4]
+84K views
+1 year ago
+33:27
+Where Is The REAL Cerebral Valley? [Lightcone Podcast Ep. 3]
+84K views
+1 year ago
+11:59
+Stop Innovating (On The Wrong Things)
+91K views
+1 year ago
+27:59
+Apple Vision Pro: Startup Platform Of The Future? [Lightcone Podcast Ep. 2]
+98K views
+1 year ago
+32:27
+The Truth About Building AI Startups Today [Lightcone Podcast Ep. 1]
+509K views
+1 year ago
+14:25
+Backstory: Tom Blomfield
+220K views
+1 year ago
+10:35
+Do technical founders need a business co-founder?
+145K views
+1 year ago
+16:16
+The asymmetric upside of being positive
+41K views
+1 year ago
+23:18
+Five DevTool Startups Get Their Websites Reviewed
+37K views
+1 year ago
+15:14
+Does your tech startup really need a technical co-founder? Yes.
+533K views
+1 year ago
+Emmett Shear, Co-Founder of Twitch
+1 year ago
+17:29
+The 10-Year “Overnight” Success Story of Casetext
+37K views
+1 year ago
+12:21
+From Underdog to Undefeated: The Edrizio De La Cruz founder story
+10K views
+1 year ago
+23:50
+How to convert more visitors into customers
+45K views
+1 year ago
+3:04
+Why YC? We asked 50 founders why they applied to Y Combinator
+21K views
+1 year ago
+Bill Clerico, Co-Founder & CEO of WePay
+1 year ago
+12:48
+How Athelas is revolutionizing healthcare
+19K views
+1 year ago
+13:32
+Is it time to quit your job at a unicorn?
+48K views
+1 year ago
+Dimitri Dadiomov, Co-Founder & CEO of Modern Treasury
+1 year ago
+11:52
+Backstory: Surbhi Sarna
+52K views
+1 year ago
+7:05
+Founder FAQ: 40 AI startup founders on the current state of AI tech
+49K views
+1 year ago
+Brian Armstrong, Co-Founder and CEO of Coinbase
+1 year ago
+17:35
+Dalton & Michael: Why You Shouldn't Copy Your Tech Idols
+107K views
+1 year ago
+24:03
+Building a better mobile app
+129K views
+Over 1 year ago
+Brian Chesky, Co-Founder & CEO of Airbnb (Part II)
+1 year ago
+11:40
+Dalton & Michael: Why Investors (Secretly) Love Y Combinator
+48K views
+Over 1 year ago
+26:09
+YC's Group Partners share their worst investor meetings
+122K views
+Over 1 year ago
+4:00
+Founder FAQ: How did you get your first customer?
+125K views
+Over 1 year ago
+15:18
+Dalton & Michael: Does Your Startup Need To Be In San Francisco?
+78K views
+Over 1 year ago
+3:53
+Founder FAQ: How did you meet your co-founder?
+66K views
+Over 1 year ago
+20:49
+YC's Group Partners share their favorite pivot stories
+137K views
+Over 1 year ago
+13:21
+Dalton & Michael: Will OpenAI kill all startups?
+138K views
+Over 1 year ago
+The FDE Playbook for AI Startups with Bob McGrew
+3 days ago
+27:56
+Michael Truell: Building Cursor at 23, Taking on GitHub Copilot, and Advice to Engineering Students
+34K views
+8 days ago
+12:32
+GPT-OSS vs. Qwen vs. Deepseek: Comparing Open Source LLM Architectures
+20K views
+13 days ago
+Startup School
+17:14
+Should you start a startup?
+487K views
+Over 1 year ago
+32:22
+How to get startup ideas
+1.1M views
+Over 1 year ago
+16:53
+How to build an MVP
+1.1M views
+Over 1 year ago
+28:12
+How startup fundraising works
+406K views
+Over 1 year ago
+24:52
+How to apply and succeed at YC
+279K views
+Over 1 year ago
+31:45
+Keys To Successful Co-Founder Relationships
+135K views
+Over 1 year ago
+32:44
+YC guide to business models
+524K views
+Over 1 year ago
+22:54
+How to get your first customers
+490K views
+Over 1 year ago
+17:31
+How to talk to users
+255K views
+Over 1 year ago
+21:08
+The best way to launch your startup
+289K views
+Over 1 year ago
+28:13
+Tips for technical startup founders
+178K views
+Over 1 year ago
+27:27
+Setting KPIs and goals
+86K views
+Over 1 year ago
+23:47
+Key Startup Metrics
+106K views
+1 year ago
+22:26
+Consumer Startup Metrics
+72K views
+1 year ago
+23:07
+Enterprise Sales for Founders
+134K views
+1 year ago
+17:46
+How To Price For B2B
+106K views
+1 year ago
+19:35
+Co-Founder Equity Mistakes to Avoid
+228K views
+1 year ago
+29:23
+How To Improve Cohort Retention
+45K views
+1 year ago
+32:46
+How To Convert Customers With Cold Emails
+87K views
+1 year ago
+20:38
+How To Find A Co-Founder
+86K views
+11 months ago
+17:55
+Starting A Company? The Key Terms You Should Know
+72K views
+10 months ago
+32:57
+How To Start A Dev Tools Company
+59K views
+9 months ago
+16:40
+How To Get The Most Out Of Vibe Coding
+290K views
+4 months ago
+18:49
+The Sales Playbook for Founders
+52K views
+27 days ago
+17:14
+Should you start a startup?
+487K views
+Over 1 year ago
+32:22
+How to get startup ideas
+1.1M views
+Over 1 year ago
+16:53
+How to build an MVP
+1.1M views
+Over 1 year ago
+Lightcone Podcast
+The FDE Playbook for AI Startups with Bob McGrew
+3 days ago
+35:57
+Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System Design
+98K views
+23 days ago
+38:56
+How to Spend Your 20s in the AI Era
+309K views
+2 months ago
+61:13
+Alexandr Wang: Building Scale AI, Transforming Work with Agents & Competing With China
+274K views
+2 months ago
+31:26
+State-Of-The-Art Prompting For AI Agents
+269K views
+3 months ago
+40:47
+Startup Ideas You Can Now Build With AI
+256K views
+3 months ago
+52:36
+Windsurf CEO: Betting On AI Agents, Pivoting In 48 Hours, And The Future of Coding
+239K views
+4 months ago
+43:15
+How To Navigate Co-Founder Disputes
+48K views
+5 months ago
+31:34
+Vibe Coding Is The Future
+267K views
+6 months ago
+49:29
+How AI Is Changing Enterprise
+118K views
+6 months ago
+43:49
+How To Get AI Startup Ideas
+241K views
+7 months ago
+39:33
+AI Revolution: Why This Is The Best Time To Start A Startup
+187K views
+7 months ago
+7:03
+The Lightcone 2025 Forecast
+50K views
+8 months ago
+38:11
+2024’s Biggest Startup Trends
+103K views
+9 months ago
+42:13
+Vertical AI Agents Could Be 10X Bigger Than SaaS
+903K views
+9 months ago
+35:17
+Why The Next AI Breakthroughs Will Be In Reasoning, Not Scaling
+80K views
+10 months ago
+33:45
+The 10 Trillion Parameter AI Model With 300 IQ
+61K views
+10 months ago
+37:14
+Now Anyone Can Code: How AI Agents Can Build Your Whole App
+93K views
+10 months ago
+37:06
+Why Vertical LLM Agents Are The New $1 Billion SaaS Opportunities
+429K views
+11 months ago
+55:52
+Building The World's Best Image Diffusion Model
+18K views
+11 months ago
+59:00
+How YC Was Created With Jessica Livingston
+24K views
+1 year ago
+37:36
+Are We In An AI Hype Cycle?
+72K views
+1 year ago
+48:44
+Gmail Creator Paul Buchheit On AGI, Open Source Models, Freedom
+61K views
+1 year ago
+38:24
+10 People + AI = Billion Dollar Company?
+207K views
+1 year ago
+41:07
+Better AI Models, Better Startups [Lightcone Podcast Ep. 7]
+84K views
+1 year ago
+19:10
+Why This Is The Perfect Time To Start A Startup [Lightcone Podcast LIVE]
+95K views
+1 year ago
+42:22
+Consumer is back, What’s getting funded now, The vibes immaculate [Lightcone Podcast Ep. 6]
+90K views
+1 year ago
+48:37
+Inside The Hard Tech Startups Turning Sci-Fi Into Reality [Lightcone Podcast Ep. 5]
+77K views
+1 year ago
+34:06
+Building AI Models Faster And Cheaper Than You Think  [Lightcone Podcast Ep. 4]
+84K views
+1 year ago
+33:27
+Where Is The REAL Cerebral Valley? [Lightcone Podcast Ep. 3]
+84K views
+1 year ago
+27:59
+Apple Vision Pro: Startup Platform Of The Future? [Lightcone Podcast Ep. 2]
+98K views
+1 year ago
+32:27
+The Truth About Building AI Startups Today [Lightcone Podcast Ep. 1]
+509K views
+1 year ago
+The FDE Playbook for AI Startups with Bob McGrew
+3 days ago
+35:57
+Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System Design
+98K views
+23 days ago
+38:56
+How to Spend Your 20s in the AI Era
+309K views
+2 months ago
+How To Build The Future
+37:29
+Cursor CEO: Going Beyond Code, Superintelligent AI Agents And Why Taste Still Matters
+226K views
+3 months ago
+38:24
+How Zepto Became India’s Fastest Growing Startup
+188K views
+4 months ago
+31:33
+How To Build The Future: Tony Xu
+163K views
+5 months ago
+37:42
+The Future Of Design With Figma's Dylan Field
+62K views
+6 months ago
+34:39
+How To Build The Future: Aravind Srinivas
+130K views
+6 months ago
+30:45
+How To Build The AGI Future: Bob McGrew
+48K views
+7 months ago
+43:28
+How To Build The Future: Parker Conrad
+56K views
+8 months ago
+46:52
+How To Build The Future: Sam Altman
+673K views
+10 months ago
+36:10
+Jessica Livingston on how to build the future
+115K views
+Over 1 year ago
+19:33
+Elon Musk on how to build the future
+2.1M views
+Over 1 year ago
+25:27
+Mark Zuckerberg on building a startup
+1.9M views
+Over 1 year ago
+34:33
+Vinod Khosla on How to Build the Future
+203K views
+Over 1 year ago
+31:00
+On starting and scaling Dropbox (YC W07)
+81K views
+Over 1 year ago
+21:10
+How to Build the Future
+504K views
+Over 1 year ago
+28:21
+On starting and scaling healthcare startup 23andMe
+47K views
+Over 1 year ago
+37:29
+Cursor CEO: Going Beyond Code, Superintelligent AI Agents And Why Taste Still Matters
+226K views
+3 months ago
+38:24
+How Zepto Became India’s Fastest Growing Startup
+188K views
+4 months ago
+31:33
+How To Build The Future: Tony Xu
+163K views
+5 months ago
+YC Decoded
+12:32
+GPT-OSS vs. Qwen vs. Deepseek: Comparing Open Source LLM Architectures
+20K views
+13 days ago
+10:12
+How Scaling Laws Will Determine AI's Future
+38K views
+7 months ago
+8:26
+GPT-4.5 = Big Model Energy
+31K views
+6 months ago
+8:30
+The Next Breakthrough In AI Agents Is Here
+267K views
+5 months ago
+13:06
+The Engineering Unlocks Behind DeepSeek | YC Decoded
+208K views
+7 months ago
+8:08
+Fusion Energy Is Tech's Next Big Unlock
+51K views
+3 months ago
+7:54
+Anthropic’s Claude Computer Use Is A Game Changer
+136K views
+9 months ago
+7:07
+Why OpenAI's o1 Is A Huge Deal
+40K views
+10 months ago
+12:32
+GPT-OSS vs. Qwen vs. Deepseek: Comparing Open Source LLM Architectures
+20K views
+13 days ago
+10:12
+How Scaling Laws Will Determine AI's Future
+38K views
+7 months ago
+8:26
+GPT-4.5 = Big Model Energy
+31K views
+6 months ago
+AI Startup School
+39:32
+Andrej Karpathy: Software Is Changing (Again)
+2M views
+2 months ago
+49:41
+Elon Musk: Digital Superintelligence, Multiplanetary Life, How to Be Useful
+518K views
+2 months ago
+42:44
+Sam Altman: The Future of OpenAI, ChatGPT's Origins, and Building AI Hardware
+442K views
+2 months ago
+40:30
+Satya Nadella: Microsoft's AI Bets, Hyperscaling, Quantum Computing Breakthroughs
+131K views
+2 months ago
+44:22
+Fei-Fei Li: Spatial Intelligence is the Next Frontier in AI
+163K views
+2 months ago
+34:48
+François Chollet: The ARC Prize & How We Get to AGI
+124K views
+2 months ago
+43:58
+Andrew Ng: Building Faster with AI
+317K views
+2 months ago
+43:13
+Aravind Srinivas: The Race to Build the AI Browser of the Future
+117K views
+2 months ago
+27:27
+John Jumper: AlphaFold and the Future of Science
+31K views
+1 month ago
+44:53
+Chelsea Finn: Building Robots That Can Do Anything
+68K views
+1 month ago
+40:48
+Scaling and the Road to Human-Level AI | Anthropic Co-founder Jared Kaplan
+51K views
+1 month ago
+40:37
+Figma CEO Dylan Field: How AI Will Transform Design
+28K views
+1 month ago
+27:56
+Michael Truell: Building Cursor at 23, Taking on GitHub Copilot, and Advice to Engineering Students
+34K views
+8 days ago
+39:32
+Andrej Karpathy: Software Is Changing (Again)
+2M views
+2 months ago
+49:41
+Elon Musk: Digital Superintelligence, Multiplanetary Life, How to Be Useful
+518K views
+2 months ago
+42:44
+Sam Altman: The Future of OpenAI, ChatGPT's Origins, and Building AI Hardware
+442K views
+2 months ago
+Office Hours
+29:07
+The Right (And Wrong) Way To Spend Money At Your Startup
+62K views
+7 months ago
+14:18
+How To Use AI In Your Startup
+82K views
+7 months ago
+18:34
+How Do Billion Dollar Startups Start?
+107K views
+11 months ago
+18:18
+Why Startup Founders Should Launch Companies Sooner Than They Think
+88K views
+1 year ago
+25:42
+YC's Group Partners Discuss Doing Things That Don't Scale
+198K views
+1 year ago
+16:22
+YC’s Group Partners share productivity tips and advice on actually getting things done
+146K views
+1 year ago
+26:09
+YC's Group Partners share their worst investor meetings
+122K views
+Over 1 year ago
+20:49
+YC's Group Partners share their favorite pivot stories
+137K views
+Over 1 year ago
+29:07
+The Right (And Wrong) Way To Spend Money At Your Startup
+62K views
+7 months ago
+14:18
+How To Use AI In Your Startup
+82K views
+7 months ago
+18:34
+How Do Billion Dollar Startups Start?
+107K views
+11 months ago
+Essays by Paul Graham
+Do things that don't scale
+Paul Graham
+Startups take off because the founders make them take off. Almost all startups are fragile initially. It's important to recruit users manually.
+Do things that don't scale
+Over 1 year ago
+Default alive or default dead
+Paul Graham
+Assuming expenses remain constant and revenue growth continues on trend, will your company make it to profitability on the money you have left? Are you default alive or dead?
+Default alive or default dead
+Over 1 year ago
+How to convince investors
+Paul Graham
+You need three things: formidable founders, a promising market, and some evidence of success so far.
+How to convince investors
+Over 1 year ago
+The 18 mistakes that kill startups
+Paul Graham
+YC's Paul Graham on the biggest mistakes for startups: not making something users want.
+The 18 mistakes that kill startups
+Over 1 year ago
+Startup = growth
+Paul Graham
+A startup is a company designed to grow fast. Everything else we associate with startups follows from growth.
+Startup = growth
+Over 1 year ago
+Why smart people have bad ideas
+Paul Graham
+You come up with a random idea, plunge into it, then at each point (a day, a week, a month) feel you've put so much time into it that this must be THE idea.
+Why smart people have bad ideas
+Over 1 year ago
+How to Get Startup Ideas
+Paul Graham
+The very best startup ideas tend to have three things in common: they're something the founders themselves want, that they themselves can build, and that few others realize are worth doing.
+How to Get Startup Ideas
+Over 1 year ago
+Before the startup
+Paul Graham
+YC's Paul Graham explains that startups are counterintuive and all-consuming, and he boils down his advice to two words: just learn.
+Before the startup
+Over 1 year ago
+Why to not not start a startup
+Paul Graham
+YC's Paul Graham discusses common reasons why people are reluctant to start a company.
+Why to not not start a startup
+Over 1 year ago
+The hardest lessons for startups to learn
+Paul Graham
+Seven counterintuitive lessons about startups — from releasing early to not getting your hopes up.
+The hardest lessons for startups to learn
+Over 1 year ago
+The equity equation
+Paul Graham
+YC's Paul Graham introduces a general formula for deciding if trading away stock in your company is worth it.
+The equity equation
+Over 1 year ago
+Billionaires build
+Paul Graham
+YC's Paul Graham shares advice for acing the YC interview.
+Billionaires build
+Over 1 year ago
+Be relentlessly resourceful
+Paul Graham
+Make something people want' is the destination, but 'be relentlessly resourceful' is how you get there.
+Be relentlessly resourceful
+Over 1 year ago
+A student's guide to startups
+Paul Graham
+The pros and cons of starting a startup in (or soon after) college. Pros: stamina, poverty, rootlessness, colleagues, ignorance. Cons: building stuff that looks like class projects.
+A student's guide to startups
+Over 1 year ago
+Do things that don't scale
+Paul Graham
+Startups take off because the founders make them take off. Almost all startups are fragile initially. It's important to recruit users manually.
+Do things that don't scale
+Over 1 year ago
+Default alive or default dead
+Paul Graham
+Assuming expenses remain constant and revenue growth continues on trend, will your company make it to profitability on the money you have left? Are you default alive or dead?
+Default alive or default dead
+Over 1 year ago
+How to convince investors
+Paul Graham
+You need three things: formidable founders, a promising market, and some evidence of success so far.
+How to convince investors
+Over 1 year ago
+Design Review
+43:42
+Brand Design Tips From Linear Founder Karri Saarinen
+29K views
+1 month ago
+20:44
+Why Every Founder Should Care About Design
+48K views
+5 months ago
+36:28
+Design Experts Critique AI Interfaces
+156K views
+6 months ago
+33:38
+Why Design Matters: Lessons from Stripe, Lyft and Airbnb
+54K views
+11 months ago
+21:06
+Stripe Head of Design Katie Dill Reviews Startup Websites
+86K views
+11 months ago
+21:12
+Does Your Startup Website Pass The First Impression Test?
+49K views
+1 year ago
+23:18
+Five DevTool Startups Get Their Websites Reviewed
+37K views
+1 year ago
+23:50
+How to convert more visitors into customers
+45K views
+1 year ago
+24:03
+Building a better mobile app
+129K views
+Over 1 year ago
+24:01
+Critiquing AI startup websites with YC President Garry Tan
+144K views
+Over 1 year ago
+24:10
+Critiquing startup websites with Webflow CEO Vlad Magdalin
+65K views
+Over 1 year ago
+23:13
+Critiquing startup websites with Instacart's first designer, Zain Ali
+74K views
+Over 1 year ago
+43:42
+Brand Design Tips From Linear Founder Karri Saarinen
+29K views
+1 month ago
+20:44
+Why Every Founder Should Care About Design
+48K views
+5 months ago
+36:28
+Design Experts Critique AI Interfaces
+156K views
+6 months ago
+The Main Function
+21:11
+How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years
+119K views
+1 year ago
+12:07
+Standing Up For Startups - YC Goes To D.C.
+17K views
+1 year ago
+9:35
+How to Survive the Crypto Boom & Bust Cycle
+14K views
+1 year ago
+17:29
+The 10-Year “Overnight” Success Story of Casetext
+37K views
+1 year ago
+12:07
+The Immigrant Journey Behind A Silicon Valley Success Story
+41K views
+Over 1 year ago
+6:54
+The Main Function: How to go from startup dream to reality
+81K views
+Over 1 year ago
+21:11
+How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years
+119K views
+1 year ago
+12:07
+Standing Up For Startups - YC Goes To D.C.
+17K views
+1 year ago
+9:35
+How to Survive the Crypto Boom & Bust Cycle
+14K views
+1 year ago
+Garry Tan's Channel
+62:05
+The Untold Stories of Y Combinator with Co-Founder Jessica Livingston
+13K views
+1 year ago
+13:17
+Day in the Life of Y Combinator President & CEO Garry Tan during the first week of the batch
+42K views
+1 year ago
+12:31
+The Secrets of Y Combinator’s Early Success (with YC Co-Founder Jessica Livingston)
+25K views
+1 year ago
+12:37
+How psychedelics will change society for the better
+7,179 views
+1 year ago
+12:21
+From Underdog to Undefeated: The Edrizio De La Cruz founder story
+10K views
+1 year ago
+12:48
+How Athelas is revolutionizing healthcare
+19K views
+1 year ago
+15:33
+Garry's Channel: Stop chasing money -- Chase wealth
+789K views
+Over 1 year ago
+8:24
+Garry's Channel: How I turned $300k into $2 billion
+385K views
+Over 1 year ago
+13:57
+Garry's Channel: LEARN, EARN or QUIT | My job/career advice
+367K views
+Over 1 year ago
+5:34
+Garry's Channel: My $200 million startup mistake
+319K views
+Over 1 year ago
+8:58
+Garry's Channel: Billion dollar startup ideas
+323K views
+Over 1 year ago
+7:40
+Garry Tan's tips for applying to YC
+118K views
+Over 1 year ago
+13:26
+Garry's Channel: YOU can beat Google the way Amazon does. Here’s how.
+245K views
+Over 1 year ago
+44:17
+Garry's Channel: Coinbase CEO Brian Armstrong on cryptocurrency and the future of decentralization
+223K views
+Over 1 year ago
+13:46
+Garry's Channel: 6 Skills for Successful Startup Founders
+170K views
+Over 1 year ago
+14:39
+Garry's Channel: How REAL movements start, then change the world
+138K views
+Over 1 year ago
+10:27
+Garry's Channel: Billion dollar startups are better, faster, or cheaper
+110K views
+Over 1 year ago
+44:29
+Garry's Channel: Flexport CEO Ryan Petersen on scaling a startup from zero to $8B
+121K views
+Over 1 year ago
+10:45
+Garry's Channel: Figma's $20B, 10 year overnight success
+102K views
+Over 1 year ago
+7:08
+Garry's Channel: Should you be the CEO?
+98K views
+Over 1 year ago
+14:36
+Garry's Channel: How To DESIGN EVERYTHING if you don't know ANYTHING
+102K views
+Over 1 year ago
+9:12
+Garry's Channel: 3 steps for billion dollar startups (How Airbnb & DoorDash succeeded)
+98K views
+Over 1 year ago
+17:15
+Garry's Channel: Why now? The key to million dollar startup ideas
+107K views
+Over 1 year ago
+8:08
+Garry's Channel: An interview with Kai Stinchcombe, founder of True Link Financial
+8,964 views
+Over 1 year ago
+62:05
+The Untold Stories of Y Combinator with Co-Founder Jessica Livingston
+13K views
+1 year ago
+13:17
+Day in the Life of Y Combinator President & CEO Garry Tan during the first week of the batch
+42K views
+1 year ago
+12:31
+The Secrets of Y Combinator’s Early Success (with YC Co-Founder Jessica Livingston)
+25K views
+1 year ago
+The Social Radars Podcast
+Trevor Blackwell, Co-founder Y Combinator; Founder, Anybots
+1 year ago
+Yuri Sagalov, Co-Founder of AeroFS
+1 year ago
+Steve Huffman, Co-Founder & CEO of Reddit
+Over 1 year ago
+Edith Elliott, Co-Founder & CEO of Noora Health
+Over 1 year ago
+Brian Chesky, Co-Founder & CEO of Airbnb (Part II)
+1 year ago
+Brian Chesky, Co-Founder & CEO of Airbnb
+Over 1 year ago
+Dimitri Dadiomov, Co-Founder & CEO of Modern Treasury
+1 year ago
+Parker Conrad, Founder of Zenefits & Rippling
+1 year ago
+Paul Graham, Co-Founder of Y Combinator and Viaweb
+Over 1 year ago
+Patrick & John Collison, Co-Founders of Stripe
+1 year ago
+Adora Cheung, Co-founder of Homejoy & Instalab
+1 year ago
+Emmett Shear, Co-Founder of Twitch
+1 year ago
+Tony Xu, Co-Founder & CEO of Doordash
+Over 1 year ago
+Garry Tan, President and CEO of Y Combinator
+Over 1 year ago
+Brian Armstrong, Co-Founder and CEO of Coinbase
+1 year ago
+David Lieb, Creator of Google Photos
+Over 1 year ago
+Tracy Young, Co-Founder & CEO of PlanGrid
+Over 1 year ago
+Paul Buchheit, Creator of Gmail
+Over 1 year ago
+Bill Clerico, Co-Founder & CEO of WePay
+1 year ago
+Trevor Blackwell, Co-founder Y Combinator; Founder, Anybots
+1 year ago
+Yuri Sagalov, Co-Founder of AeroFS
+1 year ago
+Steve Huffman, Co-Founder & CEO of Reddit
+Over 1 year ago
+Founder FAQ
+5:46
+33 AI Startup Founders Debate the Creation of Artificial General Intelligence
+46K views
+1 year ago
+3:04
+Why YC? We asked 50 founders why they applied to Y Combinator
+21K views
+1 year ago
+7:05
+Founder FAQ: 40 AI startup founders on the current state of AI tech
+49K views
+1 year ago
+4:00
+Founder FAQ: How did you get your first customer?
+125K views
+Over 1 year ago
+3:53
+Founder FAQ: How did you meet your co-founder?
+66K views
+Over 1 year ago
+5:46
+33 AI Startup Founders Debate the Creation of Artificial General Intelligence
+46K views
+1 year ago
+3:04
+Why YC? We asked 50 founders why they applied to Y Combinator
+21K views
+1 year ago
+7:05
+Founder FAQ: 40 AI startup founders on the current state of AI tech
+49K views
+1 year ago
+How to Start a Startup - A course Y Combinator taught at Stanford
+44:43
+How and why to start a startup
+270K views
+Over 1 year ago
+48:08
+How to Start a Startup: Before the startup
+984K views
+Over 1 year ago
+52:14
+How to Start a Startup: Getting started, getting press, and doing things that don't scale
+350K views
+Over 1 year ago
+48:02
+How to Start a Startup: Building products users love
+380K views
+Over 1 year ago
+53:07
+How to Start a Startup: Raising money and succeeding long-term
+61K views
+Over 1 year ago
+50:26
+How to Start a Startup: Building company culture, Part I
+294K views
+Over 1 year ago
+50:37
+How to Start a Startup: Building company culture, Part II
+149K views
+Over 1 year ago
+54:41
+How to Start a Startup: Building for the Enterprise
+57K views
+Over 1 year ago
+46:27
+How to Start a Startup: Talking to users
+200K views
+Over 1 year ago
+49:40
+How to Start a Startup: How to get ideas and find what's working
+120K views
+Over 1 year ago
+58:28
+How to Start a Startup: Startup mechanics
+100K views
+Over 1 year ago
+58:19
+How to Start a Startup: Diversity and inclusion at early stage startups
+10K views
+Over 1 year ago
+48:11
+How to Start a Startup: Finding Product-Market Fit
+179K views
+Over 1 year ago
+44:43
+How and why to start a startup
+270K views
+Over 1 year ago
+48:08
+How to Start a Startup: Before the startup
+984K views
+Over 1 year ago
+52:14
+How to Start a Startup: Getting started, getting press, and doing things that don't scale
+350K views
+Over 1 year ago
+Early Stage Advice
+7:03
+Biggest mistakes first-time founders make
+312K views
+Over 1 year ago
+Do things that don't scale
+Paul Graham
+Startups take off because the founders make them take off. Almost all startups are fragile initially. It's important to recruit users manually.
+Do things that don't scale
+Over 1 year ago
+32:22
+How to get startup ideas
+1.1M views
+Over 1 year ago
+YC's essential startup advice
+Y Combinator
+Here is what we, at YC, consider the most important, most transformative advice for startups.
+YC's essential startup advice
+Over 1 year ago
+13:50
+How to plan an MVP
+751K views
+Over 1 year ago
+16:07
+How to succeed with a startup
+1.8M views
+Over 1 year ago
+4:18
+How to split equity among co-founders
+326K views
+Over 1 year ago
+20:57
+Dalton & Michael: Where do great startup ideas come from?
+198K views
+Over 1 year ago
+17:14
+Should you start a startup?
+487K views
+Over 1 year ago
+A guide to seed fundraising
+Geoff Ralston
+The most comprehensive guide on why, when, and how to raise money for your startup.
+A guide to seed fundraising
+Over 1 year ago
+Guide to product development
+Michael Seibel
+This is a guide to running your product development process. This will help you rapidly iterate, measure, test, and improve your product while fully engaging your team.
+Guide to product development
+Over 1 year ago
+7:03
+Biggest mistakes first-time founders make
+312K views
+Over 1 year ago
+Do things that don't scale
+Paul Graham
+Startups take off because the founders make them take off. Almost all startups are fragile initially. It's important to recruit users manually.
+Do things that don't scale
+Over 1 year ago
+32:22
+How to get startup ideas
+1.1M views
+Over 1 year ago
+Finding a Co-Founder
+20:38
+How To Find A Co-Founder
+86K views
+11 months ago
+28:33
+How to find the right co-founder
+135K views
+Over 1 year ago
+5:19
+How do you convince someone to join your startup?
+63K views
+Over 1 year ago
+4:18
+How to split equity among co-founders
+326K views
+Over 1 year ago
+10 questions to discuss with a potential co-founder
+Y Combinator
+The 10 questions that we think are most important to answer when considering a potential co-founder.
+10 questions to discuss with a potential co-founder
+Over 1 year ago
+8:45
+Dalton & Michael: Co-founder mistakes that kill companies and how to avoid them
+153K views
+Over 1 year ago
+31:45
+Keys To Successful Co-Founder Relationships
+135K views
+Over 1 year ago
+20:38
+How To Find A Co-Founder
+86K views
+11 months ago
+28:33
+How to find the right co-founder
+135K views
+Over 1 year ago
+5:19
+How do you convince someone to join your startup?
+63K views
+Over 1 year ago
+Pivoting
+20:49
+YC's Group Partners share their favorite pivot stories
+137K views
+Over 1 year ago
+56:31
+On starting and scaling one of the biggest iOS apps
+9,423 views
+Over 1 year ago
+27:55
+All about pivoting
+126K views
+Over 1 year ago
+20:49
+YC's Group Partners share their favorite pivot stories
+137K views
+Over 1 year ago
+56:31
+On starting and scaling one of the biggest iOS apps
+9,423 views
+Over 1 year ago
+27:55
+All about pivoting
+126K views
+Over 1 year ago
+Good Ideas, Bad Ideas
+6:21
+How to get and test ideas
+327K views
+Over 1 year ago
+Why smart people have bad ideas
+Paul Graham
+You come up with a random idea, plunge into it, then at each point (a day, a week, a month) feel you've put so much time into it that this must be THE idea.
+Why smart people have bad ideas
+Over 1 year ago
+29:00
+Tarpit ideas - what are tarpit ideas & how to avoid them
+663K views
+Over 1 year ago
+20:57
+Dalton & Michael: Where do great startup ideas come from?
+198K views
+Over 1 year ago
+32:22
+How to get startup ideas
+1.1M views
+Over 1 year ago
+6:21
+How to get and test ideas
+327K views
+Over 1 year ago
+Why smart people have bad ideas
+Paul Graham
+You come up with a random idea, plunge into it, then at each point (a day, a week, a month) feel you've put so much time into it that this must be THE idea.
+Why smart people have bad ideas
+Over 1 year ago
+29:00
+Tarpit ideas - what are tarpit ideas & how to avoid them
+663K views
+Over 1 year ago
+Fundraising and Equity
+4:18
+How to split equity among co-founders
+326K views
+Over 1 year ago
+28:12
+How startup fundraising works
+406K views
+Over 1 year ago
+6:20
+How pitching investors is different than pitching customers
+108K views
+Over 1 year ago
+28:46
+Modern startup funding
+87K views
+Over 1 year ago
+A guide to seed fundraising
+Geoff Ralston
+The most comprehensive guide on why, when, and how to raise money for your startup.
+A guide to seed fundraising
+Over 1 year ago
+45:03
+Understanding SAFEs and priced equity rounds
+342K views
+Over 1 year ago
+7:34
+Dalton & Michael: YC founders made these fundraising mistakes
+84K views
+Over 1 year ago
+4:18
+How to split equity among co-founders
+326K views
+Over 1 year ago
+28:12
+How startup fundraising works
+406K views
+Over 1 year ago
+6:20
+How pitching investors is different than pitching customers
+108K views
+Over 1 year ago
+Footer
+Y Combinator
+Programs
+YC Program
+Startup School
+Work at a Startup
+Co-Founder Matching
+Company
+YC Blog
+Contact
+Press
+People
+Careers
+Privacy Policy
+Notice at Collection
+Security
+Terms of Use
+Resources
+Startup Directory
+Startup Library
+Investors
+SAFE
+Hacker News
+Launch YC
+YC Deals
+Make something people want.
+Apply
+Twitter
+Twitter
+Facebook
+Facebook
+Instagram
+Instagram
+LinkedIn
+LinkedIn
+Youtube
+YouTube
+© 2025 Y Combinator
+
+
+--- CONTENT FROM https://www.ycombinator.com/library/Mt-the-fde-playbook-for-ai-startups-with-bob-mcgrew ---
+
+About
+What Happens at YC?
+Apply
+YC Interview Guide
+FAQ
+People
+YC Blog
+Companies
+Startup Directory
+Founder Directory
+Launch YC
+Startup Jobs
+All Jobs
+◦ Engineering
+◦ Operations
+◦ Marketing
+◦ Sales
+Internships
+Startup Job Guide
+YC Startup Jobs Blog
+Find a Co-Founder
+Library
+SAFE
+Resources
+Startup School
+Newsletter
+Requests for Startups
+For Investors
+Verify Founders
+Hacker News
+Bookface
+Open main menu
+Log in
+·
+Apply for
+W2026
+batch.
+Apply
+Home
+›
+Lightcone Podcast
+›
+The FDE Playbook for AI Startups with Bob McGrew
+Lightcone
+The FDE Playbook for AI Startups with Bob McGrew
+by Y Combinator
+3 days ago
+Bob McGrew helped build some of the most influential technologies of the past two decades. Bob was an early engineer at
+PayPal, an early executive at Palantir and was recently Chief Research Officer at OpenAI - where he led the development
+of ChatGPT, GPT-4 and the o1 reasoning model.
+During his time at Palantir he was a pioneer of the Forward Deployed Engineer (FDE) model, a strategy that is at the
+heart of the AI boom today.
+On this episode of The Lightcone, he explains how FDEs became central to today's startups, why "doing things that don't
+scale at scale" works, and where he sees the biggest opportunities for founders working in AI.
+Up next from Lightcone Podcast
+35:57
+Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System Design
+98K views
+23 days ago
+Related
+38:56
+How to Spend Your 20s in the AI Era
+309K views
+2 months ago
+61:13
+Alexandr Wang: Building Scale AI, Transforming Work with Agents & Competing With China
+274K views
+2 months ago
+4:00
+Founder FAQ: How did you get your first customer?
+125K views
+Over 1 year ago
+35:57
+Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System Design
+98K views
+23 days ago
+37:36
+Are We In An AI Hype Cycle?
+72K views
+1 year ago
+YC's essential startup advice
+Y Combinator
+Here is what we, at YC, consider the most important, most transformative advice for startups.
+Footer
+Y Combinator
+Programs
+YC Program
+Startup School
+Work at a Startup
+Co-Founder Matching
+Company
+YC Blog
+Contact
+Press
+People
+Careers
+Privacy Policy
+Notice at Collection
+Security
+Terms of Use
+Resources
+Startup Directory
+Startup Library
+Investors
+SAFE
+Hacker News
+Launch YC
+YC Deals
+Make something people want.
+Apply
+Twitter
+Twitter
+Facebook
+Facebook
+Instagram
+Instagram
+LinkedIn
+LinkedIn
+Youtube
+YouTube
+© 2025 Y Combinator
+
+
+--- CONTENT FROM https://www.ycombinator.com/jobs/role/operations ---
+
+About
+What Happens at YC?
+Apply
+YC Interview Guide
+FAQ
+People
+YC Blog
+Companies
+Startup Directory
+Founder Directory
+Launch YC
+Startup Jobs
+All Jobs
+◦ Engineering
+◦ Operations
+◦ Marketing
+◦ Sales
+Internships
+Startup Job Guide
+YC Startup Jobs Blog
+Find a Co-Founder
+Library
+SAFE
+Resources
+Startup School
+Newsletter
+Requests for Startups
+For Investors
+Verify Founders
+Hacker News
+Bookface
+Open main menu
+Apply for
+W2026
+batch.
+Apply
+Operations jobs at Y Combinator startups
+September 2025
+Many YC startups are seeing breakout growth, and are actively hiring for operations experts. Find some of the top YC companies at Y Combinator.
+Create a profile
+Creating a profile is free and founders reach out to you.
+Explore Operations jobs by location
+San Francisco
+New York
+Los Angeles
+Seattle
+Boston
+Austin
+India
+Remote jobs
+Operations jobs
+added recently
+Software Engineer
+Design & UI/UX
+Product
+Recruiting & HR
+Sales
+Science
+Lago
+(S21)
+Open Source Metering and Usage Based Billing
+Lago
+(S21)
+•
+Open Source Metering and Usage Based Billing
+(
+3 days
+ago)
+Head of Operations
+Full-time
+•
+Operations
+•
+€80K - €120K EUR
+•
+Paris, IDF, FR / Paris, Île-de-France, FR
+Apply
+SafeBeat
+(S21)
+Guiding cardiac therapeutics - all from your phone
+SafeBeat
+(S21)
+•
+Guiding cardiac therapeutics - all from your phone
+(
+17 days
+ago)
+Head of Clinical Operations and Partnerships
+Full-time
+•
+Operations
+•
+$100K - $120K
+•
+San Francisco, CA, US / Remote (US)
+Apply
+Harper
+(W25)
+AI-native commercial insurance brokerage
+Harper
+(W25)
+•
+AI-native commercial insurance brokerage
+(
+6 days
+ago)
+Future AI Founder
+Full-time
+•
+Operations
+•
+$100K - $150K
+•
+San Francisco, CA, US
+Apply
+maintouch
+(S23)
+Full-stack organic marketing for B2B.
+maintouch
+(S23)
+•
+Full-stack organic marketing for B2B.
+(
+about 2 hours
+ago)
+Chief of Staff
+Full-time
+•
+Operations
+•
+$125 - $150
+•
+New York, NY, US / San Francisco, CA, US
+Apply
+REVER
+(S22)
+Changing the way people buy by giving superpowers to shoppers
+REVER
+(S22)
+•
+Changing the way people buy by giving superpowers to shoppers
+(
+7 days
+ago)
+Key Account Manager (Italy Market)
+Full-time
+•
+Operations
+•
+€30K - €45K EUR
+•
+Barcelona, CT, ES / Barcelona, Catalonia, ES
+Apply
+Dynamo AI
+(W22)
+Compliant-Ready AI for the Enterprise
+Dynamo AI
+(W22)
+•
+Compliant-Ready AI for the Enterprise
+(
+about 2 months
+ago)
+Operations Coordinator
+Full-time
+•
+Operations
+•
+$60K - $80K
+•
+San Francisco, CA, US / New York, NY, US / Remote (US)
+Apply
+Finni Health
+(W23)
+Empowering Autism Care Providers to Go Independent
+Finni Health
+(W23)
+•
+Empowering Autism Care Providers to Go Independent
+(
+about 2 months
+ago)
+Full-Stack Software Developer
+Full-time
+•
+Operations
+•
+$140K - $200K CAD
+•
+Canada Remote / Remote (US)
+Apply
+Giga
+(S23)
+AI customer service agent for B2C  Companies
+Giga
+(S23)
+•
+AI customer service agent for B2C  Companies
+(
+about 2 months
+ago)
+Business Operations
+Full-time
+•
+Operations
+•
+$100K - $130K
+•
+San Francisco, CA, US
+Apply
+Novig
+(S22)
+America's #1 Sports Prediction Market
+Novig
+(S22)
+•
+America's #1 Sports Prediction Market
+(
+about 1 month
+ago)
+Growth Generalist
+Full-time
+•
+Operations
+•
+$125K - $200K
+•
+New York, NY
+Apply
+Airgoods
+(S23)
+Wholesale marketplace for food & beverage
+Airgoods
+(S23)
+•
+Wholesale marketplace for food & beverage
+(
+10 days
+ago)
+Marketplace Operations
+Full-time
+•
+Operations
+•
+$80K - $150K
+•
+New York, NY, US
+Apply
+Posh
+(W22)
+Making sustainable batteries
+Posh
+(W22)
+•
+Making sustainable batteries
+(
+2 months
+ago)
+Chief of Staff
+Full-time
+•
+Operations
+•
+$80K - $120K
+•
+Hayward, CA, US
+Apply
+Landeed
+(S22)
+Landeed is India's fastest property title search engine
+Landeed
+(S22)
+•
+Landeed is India's fastest property title search engine
+(
+1 day
+ago)
+Operations Lead
+Full-time
+•
+Operations
+•
+$480K - $1.2M
+•
+Mumbai, MH, IN / Bengaluru, KA, IN / Hyderabad, TS, IN / Chennai, TN, IN
+Apply
+Greptile
+(W24)
+AI code reviewer with complete context of your codebase
+Greptile
+(W24)
+•
+AI code reviewer with complete context of your codebase
+(
+about 1 month
+ago)
+Developer Advocate
+Full-time
+•
+Operations
+•
+$140K - $160K
+•
+San Francisco
+Apply
+Keye
+(F24)
+The Smartest Private Equity Investor
+Keye
+(F24)
+•
+The Smartest Private Equity Investor
+(
+about 2 months
+ago)
+Founding Private Equity Strategist
+Full-time
+•
+Operations
+•
+$150K - $250K
+•
+New York, NY, US
+Apply
+Craniometrix
+(W22)
+We're building the one-stop-shop care platform for Alzheimer's…
+Craniometrix
+(W22)
+•
+We're building the one-stop-shop care platform for Alzheimer's…
+(
+35 minutes
+ago)
+Chief of Staff (Start within 1 week)
+Full-time
+•
+Operations
+•
+$120K - $180K
+•
+New York, NY, US / Remote (US)
+Apply
+Centaur Labs
+(W19)
+Labeling medical data at scale
+Centaur Labs
+(W19)
+•
+Labeling medical data at scale
+(
+29 days
+ago)
+Engagement and Delivery Manager
+Full-time
+•
+Operations
+•
+$100K - $120K
+•
+US / Remote (US)
+Apply
+Credal.ai
+(W23)
+Harness Frontier Intelligence by building AI assistants that can…
+Credal.ai
+(W23)
+•
+Harness Frontier Intelligence by building AI assistants that can…
+(
+about 1 month
+ago)
+Founding GTM - Deployment Strategist
+Full-time
+•
+Operations
+•
+$130K - $160K
+•
+New York, NY, US
+Apply
+Broccoli AI
+(W22)
+AI-native operating system for home service businesses
+Broccoli AI
+(W22)
+•
+AI-native operating system for home service businesses
+(
+about 2 months
+ago)
+Account Executive
+Full-time
+•
+Operations
+•
+$160K - $300K
+•
+San Francisco, CA, US / Remote (US)
+Apply
+Confido
+(S21)
+AI-enabled financial automation and intelligence for CPG Brands
+Confido
+(S21)
+•
+AI-enabled financial automation and intelligence for CPG Brands
+(
+26 days
+ago)
+Chief of Staff
+Full-time
+•
+Operations
+•
+$165K - $215K
+•
+New York, NY, US
+Apply
+dili
+(S23)
+Automating PWA Compliance and Diligence
+dili
+(S23)
+•
+Automating PWA Compliance and Diligence
+(
+about 1 month
+ago)
+Compliance Customer Success Manager
+Full-time
+•
+Operations
+•
+$100K - $130K
+•
+New York, NY, US / Remote (US)
+Apply
+Complete
+(W22)
+The complete way to do compensation
+Complete
+(W22)
+•
+The complete way to do compensation
+(
+about 2 months
+ago)
+Customer Success Lead
+Full-time
+•
+Operations
+•
+$100K - $150K
+•
+San Francisco Office
+Apply
+Two Dots
+(S22)
+AI fraud prevention and underwriting agent
+Two Dots
+(S22)
+•
+AI fraud prevention and underwriting agent
+(
+about 2 months
+ago)
+Operations Program Manager
+Full-time
+•
+Operations
+•
+$150K - $225K
+•
+San Francisco HQ / Remote (US)
+Apply
+PermitFlow
+(W22)
+TurboTax for Construction Permitting
+PermitFlow
+(W22)
+•
+TurboTax for Construction Permitting
+(
+9 days
+ago)
+Business Operations Manager
+Full-time
+•
+Operations
+•
+$120K - $150K
+•
+New York City, NY
+Apply
+Curri
+(S19)
+Construction & industrial logistics platform.
+Curri
+(S19)
+•
+Construction & industrial logistics platform.
+(
+3 days
+ago)
+Strategy and Operations Manager, Market Growth (Chicago)
+Full-time
+•
+Operations
+•
+$110K - $130K
+•
+Chicago, IL / Remote (Chicago, IL, US)
+Apply
+Biodock
+(W21)
+Cloud AI microscopy automation
+Biodock
+(W21)
+•
+Cloud AI microscopy automation
+(
+24 days
+ago)
+Biodata Workflow Manager (Remote)
+Full-time
+•
+Operations
+•
+$300 - $1K
+•
+KZ / Remote (KZ)
+Apply
+Vapi
+(W21)
+Voice AI for developers.
+Vapi
+(W21)
+•
+Voice AI for developers.
+(
+3 months
+ago)
+Senior Account Executive
+Full-time
+•
+Operations
+•
+San Francisco
+Apply
+AiPrise
+(S22)
+Global KYC and KYB Platform
+AiPrise
+(S22)
+•
+Global KYC and KYB Platform
+(
+about 1 month
+ago)
+Business Analyst
+Full-time
+•
+Operations
+•
+$100K - $120K
+•
+US / Remote (US)
+Apply
+SnapMagic
+(S15)
+AI copilot for electronics design
+SnapMagic
+(S15)
+•
+AI copilot for electronics design
+(
+about 1 month
+ago)
+Chief of Staff
+Full-time
+•
+Operations
+•
+$130K - $200K
+•
+Redwood City, CA, US / Remote (San Francisco, CA, US)
+Apply
+Vitalize
+(W23)
+The OS for Hospital Operations
+Vitalize
+(W23)
+•
+The OS for Hospital Operations
+(
+3 days
+ago)
+Founding Ops
+Full-time
+•
+Operations
+•
+$140K - $180K
+•
+San Francisco, CA, US
+Apply
+Hadrius
+(W23)
+Automating Securities Compliance
+Hadrius
+(W23)
+•
+Automating Securities Compliance
+(
+24 days
+ago)
+Founding Account Manager
+Full-time
+•
+Operations
+•
+$200K - $300K
+•
+New York, NY, US
+Apply
+Vendah
+(W23)
+Empowering brands in LATAM with an AI-driven WhatsApp sales network
+Vendah
+(W23)
+•
+Empowering brands in LATAM with an AI-driven WhatsApp sales network
+(
+2 months
+ago)
+Business Analyst
+Full-time
+•
+Operations
+•
+$15K - $20K
+•
+São Paulo, SP, BR / São Paulo, State of São Paulo, BR
+Apply
+Camber
+(W21)
+Admin automation for healthcare
+Camber
+(W21)
+•
+Admin automation for healthcare
+(
+2 months
+ago)
+Senior Data Analyst
+Full-time
+•
+Operations
+•
+$140K - $170K
+•
+New York, NY
+Apply
+Kombo
+(S22)
+Unified API for HR, payroll and recruiting software
+Kombo
+(S22)
+•
+Unified API for HR, payroll and recruiting software
+(
+about 2 months
+ago)
+Account Executive (US)
+Full-time
+•
+Operations
+•
+$200K - $220K
+•
+New York Office / Remote (US)
+Apply
+BlueCargo
+(S18)
+The automated solution for complex freight transactions.
+BlueCargo
+(S18)
+•
+The automated solution for complex freight transactions.
+(
+3 months
+ago)
+Customer Operations Analyst
+Full-time
+•
+Operations
+•
+$70K - $110K
+•
+Los Angeles, CA, US / New York, NY, US
+Apply
+Toma
+(W24)
+AI Workforce for Automotive
+Toma
+(W24)
+•
+AI Workforce for Automotive
+(
+1 day
+ago)
+Founding Growth Specialist
+Full-time
+•
+Operations
+•
+$60K - $100K
+•
+San Francisco, CA
+Apply
+Bloom
+(X25)
+Build and share mobile apps in seconds
+Bloom
+(X25)
+•
+Build and share mobile apps in seconds
+(
+8 days
+ago)
+Generalist / Growth / Chief of Staff
+Full-time
+•
+Operations
+•
+$70K - $120K
+•
+Zürich, ZH, CH / Zürich, Zurich, CH
+Apply
+Educato AI
+(S24)
+AI-Powered Worldwide exam-prep platform
+Educato AI
+(S24)
+•
+AI-Powered Worldwide exam-prep platform
+(
+16 days
+ago)
+Go‑to‑Market (GTM) Manager - Turkey 🇹🇷
+Full-time
+•
+Operations
+•
+$25K - $50K
+•
+TR / Remote (TR)
+Apply
+Corgi
+(S24)
+Corgi is building an AI insurance company
+Corgi
+(S24)
+•
+Corgi is building an AI insurance company
+(
+about 1 month
+ago)
+Strategic Projects
+Full-time
+•
+Operations
+•
+$100K - $180K
+•
+San Francisco, CA, US
+Apply
+Zensors
+(S21)
+AI to understand and automates the physical world
+Zensors
+(S21)
+•
+AI to understand and automates the physical world
+(
+about 1 month
+ago)
+Solutions & Sales Operations
+Full-time
+•
+Operations
+•
+San Francisco, CA
+Apply
+Create a profile to see more jobs ›
+Work at a Startup
+Jobs
+Internships
+Events
+How it works
+Sign In
+Jobs by Role
+Software Engineer
+Jobs
+Design & UI/UX
+Jobs
+Product Manager
+Jobs
+Recruiting & HR
+Jobs
+Sales
+Jobs
+Marketing
+Jobs
+Support & Success
+Jobs
+Operations
+Jobs
+Science
+Jobs
+Jobs by Location
+Jobs in
+San Francisco
+Jobs in
+New York
+Jobs in
+Los Angeles
+Jobs in
+Seattle
+Jobs in
+Austin
+Jobs in
+Chicago
+Jobs in
+India
+Jobs by Role and Location
+Software Engineer Jobs in San Francisco
+Recruiting Jobs in San Francisco
+Product Manager Jobs in San Francisco
+Software Engineer Jobs in New York
+Recruiting Jobs in New York
+Product Manager Jobs in New York
+Software Engineer Jobs in Los Angeles
+Recruiting Jobs in Los Angeles
+Product Manager Jobs in Los Angeles
+Remote Jobs
+Remote
+Software Engineer
+Jobs
+Remote
+Design & UI/UX
+Jobs
+Remote
+Product Manager
+Jobs
+Remote
+Recruiting & HR
+Jobs
+Remote
+Sales
+Jobs
+Remote
+Marketing
+Jobs
+Remote
+Support & Success
+Jobs
+Remote
+Operations
+Jobs
+Remote
+Science
+Jobs
+Footer
+Y Combinator
+Programs
+YC Program
+Startup School
+Work at a Startup
+Co-Founder Matching
+Company
+YC Blog
+Contact
+Press
+People
+Careers
+Privacy Policy
+Notice at Collection
+Security
+Terms of Use
+Resources
+Startup Directory
+Startup Library
+Investors
+SAFE
+Hacker News
+Launch YC
+YC Deals
+Make something people want.
+Apply
+Twitter
+Twitter
+Facebook
+Facebook
+Instagram
+Instagram
+LinkedIn
+LinkedIn
+Youtube
+YouTube
+©
+2025
+Y Combinator
+
+
+--- CONTENT FROM https://www.ycombinator.com/interviews ---
+
+About
+What Happens at YC?
+Apply
+YC Interview Guide
+FAQ
+People
+YC Blog
+Companies
+Startup Directory
+Founder Directory
+Launch YC
+Startup Jobs
+All Jobs
+◦ Engineering
+◦ Operations
+◦ Marketing
+◦ Sales
+Internships
+Startup Job Guide
+YC Startup Jobs Blog
+Find a Co-Founder
+Library
+SAFE
+Resources
+Startup School
+Newsletter
+Requests for Startups
+For Investors
+Verify Founders
+Hacker News
+Bookface
+Open main menu
+Apply for
+W2026
+batch.
+Apply
+YC Interview Guide
+If you've been invited to a YC interview, congratulations! We’ve designed YC interviews so that you don’t need to do much preparation. Here's what you need to know and what we recommend you do - and don’t do - to prepare.
+The Basics
+YC interviews are 10-minute conversations over Zoom.
+All founders should be present on the call.
+Expect 2-3 YC Partners to be on the call.
+Interviewers will have read your application and have it open during the call.
+Watch this Video
+We recommend watching this video by Dalton Caldwell, Group Partner at YC. He discusses what to expect in your interview and provides insights on what sets successful interviews apart.
+How to Prepare for Your YC Interview
+Because interviews are so short, there just isn’t time for small talk or formal presentations. We only do two things at interviews: we ask you questions, and we look at what you’ve built so far.
+Don’t rehearse
+Founders looking for an edge on how to get accepted into YC sometimes think that doing lots of interview preparation will help. However, beyond the basic preparation recommended here, it is not useful and is often counter-productive.
+You don’t need to do mock interview prep, and we prefer that you don’t prepare any kind of presentation. We sometimes notice that founders overprepare which does not increase the chances of their acceptance because it can make the interview more awkward. (For instance if founders start to answer a question that hasn’t even been fully asked yet.) There isn’t time for prepared speeches, slide presentations, or screencasts. We just want to have a conversation, and that works better when you are talking spontaneously. YC interviews can go in many different directions. So don’t worry if the interview doesn’t take the form you expected.
+Instead of rehearsing, make progress
+If you really want to improve your chances of getting into YC, the best way to get an edge is to work hard and have your startup improve between the time that you applied and the time that you interview. This may mean you launched, improved your product, increased revenue, etc. Demonstrating you can move fast and make quick progress is the most surefire way to impress your interviewers.
+Be ready to describe what your company does
+Typically the first question we ask is: What is your company working on? This is the most basic question an investor could ask, and yet you’d be surprised how many founders find it hard to answer clearly. Explain what you’re doing in a few simple, jargon-free sentences.
+We love learning new things. And a good startup idea usually teaches you something when you encounter it. Don’t worry if the new things about your idea are things only someone in your field would care about. We like that. We’d rather have interesting details than boring generalizations.
+Understand your users and metrics
+If you’re already launched, you should know everything you can about your users and your metrics. We’re impressed by startups who know a lot about their users, and can tell us what they learned.
+Here are some questions we often ask if you’ve launched: Where do new users come from? What is your growth like? How much are your users using the product, and do they stick around? What are your unit economics? What makes new users try you? Why do the reluctant ones hold back? What are the top things users want? What has surprised you about user behavior?
+If you already have users, it is helpful to have your key metrics written down someplace where you can quickly reference them during the interview. We don’t expect teams to have every little number memorized, and having them written down will free you from feeling like you have to. Please note that if you state numbers in the interview we may ask for verification of them afterwards.
+Don’t be afraid to be honest about challenges
+It will also be useful to think about obstacles in your path. We often ask about those and we tend to be more convinced by candid discussion of difficulties than glib dismissal of them. You’re going to face obstacles; every startup does. If you act as if there aren’t any, it will seem to us that you have overlooked them.
+We also don’t expect you to have all the answers. So if we ask a question you don’t know the answer to, don’t panic. A smart person trying sincerely to answer an unexpected question can lead to a great discussion.
+You should be intimately familiar with the existing products in your market, and what, specifically, is wrong with them. It’s not enough to say that you’re going to make something that’s more powerful, or easier to use. You should be able to explain how.
+Have a demo ready
+We sometimes will ask to see a demo of what you’re building. By demo, we mean a working version of whatever you’ve built or plan to build. If you have a working version of your product, be ready to show it. If it’s software, have it loaded up and ready to screenshare with us. If it’s hardware, have it physically with you and be prepared to show us on the call. If it can’t be in the room with you, have a demo video available.
+Make sure all founders are ready to participate
+For teams with multiple founders, we prefer if each founder answers at least one question, so we get to know all of you a bit.
+Be earnest
+The YC folks in your interview are likely the same people you'll work closely with should you be accepted. Interviews are a way for us to identify teams we are looking forward to going through a long journey with, and the more we feel confident that our conversation is sincere, straightforward and natural, the better.
+Post-Interview Feedback
+If your team is not selected after the interview, we’ll give you feedback over email. Our aim is to offer genuinely useful advice that will make you more likely to succeed. It’s very common for teams to take our feedback, re-apply the following batch and get accepted.
+Useful Links
+More advice on interviews from the YC community:
+Tips for YC Interviews
+by Jessica Livingston, YC Founding Partner
+3 Tips to Nail the Y Combinator Interview
+by Garry Tan, YC President and CEO
+My 10 pieces of advice for preparing for a YC interview
+by Michael Seibel, YC Group Partner
+Footer
+Y Combinator
+Programs
+YC Program
+Startup School
+Work at a Startup
+Co-Founder Matching
+Company
+YC Blog
+Contact
+Press
+People
+Careers
+Privacy Policy
+Notice at Collection
+Security
+Terms of Use
+Resources
+Startup Directory
+Startup Library
+Investors
+SAFE
+Hacker News
+Launch YC
+YC Deals
+Make something people want.
+Apply
+Twitter
+Twitter
+Facebook
+Facebook
+Instagram
+Instagram
+LinkedIn
+LinkedIn
+Youtube
+YouTube
+© 2025 Y Combinator
+
+
+--- CONTENT FROM https://www.ycombinator.com/apply ---
+
+About
+What Happens at YC?
+Apply
+YC Interview Guide
+FAQ
+People
+YC Blog
+Companies
+Startup Directory
+Founder Directory
+Launch YC
+Startup Jobs
+All Jobs
+◦ Engineering
+◦ Operations
+◦ Marketing
+◦ Sales
+Internships
+Startup Job Guide
+YC Startup Jobs Blog
+Find a Co-Founder
+Library
+SAFE
+Resources
+Startup School
+Newsletter
+Requests for Startups
+For Investors
+Verify Founders
+Hacker News
+Bookface
+Open main menu
+Apply for
+W2026
+batch.
+Apply
+Apply to Y Combinator
+Winter 2026 Batch
+Apply to Winter 2026
+Not ready to apply this batch?
+Sign up for reminders
+to apply next batch.
+Y Combinator is accepting applications for the
+Winter 2026
+Batch
+funding cycle. The batch will take place from
+January to March in San Francisco
+.
+The deadline to apply on-time is
+November 10 at 8pm PT;
+if you apply before the deadline, you will get a decision by
+December 10
+. If you apply after the deadline, we will still consider the application but can't promise exactly when we'll get back to you.
+About applying to YC
+If you want to apply, please submit your
+application
+online.
+People who applied before the regular deadline will hear back by
+December 10
+. If you apply after the deadline, we'll still consider the application but can't promise exactly when we'll get back to you.
+We encourage you to submit your application as soon as you’re ready to apply.
+If your application is promising, we will invite you to interview with us. Most interviews will be held by video conference in
+November and December
+We typically make decisions the same day as your interview, and we give everyone who interviews detailed feedback on our decision.
+We invest in companies as soon as they are accepted; we do not wait for the batch to start.
+About the batch
+The batch will take place in-person at YC's campus in San Francisco. It starts with a 3-day, in-person kick-off and features weekly meetups in San Francisco. For more information, please read our
+FAQs
+.
+During the batch, we invite eminent people from the startup world to speak. The founders of Airbnb, Stripe, Doordash, and Reddit often come back to tell the inside story of what happened in the early days of their startups.
+Every company works with a dedicated
+YC General Partner
+, who gets to know them well and can help with a wide range of issues.  Every YC general partner is a successful startup founder themselves, has advised hundreds of startups, and works closely with a small group of startups they personally hand-select every batch.  YC companies are in a direct slack channel with their partner and meet weekly during the batch.
+Similar to how many universities have a house model, each YC batch is actually several small, autonomous groups of companies. You go through YC as part of this small group of companies, have dinner with them each week, and build both personal and professional relationships. Many founders build lifelong friendships with the founders in their group.
+During and after the batch, we introduce founders to people who can help with any challenge. Often, this means founders of other
+YC companies
+. Today, The
+YC alumni community
+is one of the most powerful communities in the world, and its members have a strong commitment to help one another.
+Towards the end of the batch, we help companies raise additional funds by introducing them to YC’s extensive network of investors.
+YC doesn't end after 3 months
+. We continue to help founders for the life of their company, and beyond — and so does the YC alumni community. Read more
+here
+.
+If you have other questions, reach out via
+email
+.
+Related
+About Y Combinator
+Founder Ethics
+Frequently Asked Questions
+Requests for Startups
+Apply to Winter 2026
+Footer
+Y Combinator
+Programs
+YC Program
+Startup School
+Work at a Startup
+Co-Founder Matching
+Company
+YC Blog
+Contact
+Press
+People
+Careers
+Privacy Policy
+Notice at Collection
+Security
+Terms of Use
+Resources
+Startup Directory
+Startup Library
+Investors
+SAFE
+Hacker News
+Launch YC
+YC Deals
+Make something people want.
+Apply
+Twitter
+Twitter
+Facebook
+Facebook
+Instagram
+Instagram
+LinkedIn
+LinkedIn
+Youtube
+YouTube
+© 2025 Y Combinator
+
+
+--- CONTENT FROM https://www.ycombinator.com/jobs/role/software-engineer ---
+
+About
+What Happens at YC?
+Apply
+YC Interview Guide
+FAQ
+People
+YC Blog
+Companies
+Startup Directory
+Founder Directory
+Launch YC
+Startup Jobs
+All Jobs
+◦ Engineering
+◦ Operations
+◦ Marketing
+◦ Sales
+Internships
+Startup Job Guide
+YC Startup Jobs Blog
+Find a Co-Founder
+Library
+SAFE
+Resources
+Startup School
+Newsletter
+Requests for Startups
+For Investors
+Verify Founders
+Hacker News
+Bookface
+Open main menu
+Apply for
+W2026
+batch.
+Apply
+Software Engineer jobs at Y Combinator startups
+September 2025
+Many YC startups are seeing breakout growth, and are actively hiring for software engineers. Find some of the top YC companies at Y Combinator.
+Create a profile
+Creating a profile is free and founders reach out to you.
+Explore Software Engineer jobs by location
+San Francisco
+New York
+Los Angeles
+Seattle
+Boston
+Austin
+India
+Remote jobs
+Software Engineer jobs
+added recently
+Design & UI/UX
+Product
+Recruiting & HR
+Sales
+Science
+Snazzy
+(W21)
+Making clear aligners accessible and affordable in India
+Snazzy
+(W21)
+•
+Making clear aligners accessible and affordable in India
+(
+7 days
+ago)
+Founding Engineer (Golang/ReactJS)
+Full-time
+•
+Engineering
+•
+Full stack
+•
+₹800K - ₹2M INR
+•
+Bengaluru, KA, IN / Bengaluru, Karnataka, IN
+Apply
+Payflow
+(S20)
+AI FP&A Agent for insights, reports, planning and forecasting.
+Payflow
+(S20)
+•
+AI FP&A Agent for insights, reports, planning and forecasting.
+(
+5 days
+ago)
+Forward Deployed Data Scientist
+Full-time
+•
+Engineering
+•
+Data science
+•
+$80K - $130K
+•
+Lehi, UT, US / New York, NY, US / Atlanta, GA, US / Remote (US)
+Apply
+Turing Labs Inc.
+(W20)
+AI for R&D of consumer brands like P&G to develop better products
+Turing Labs Inc.
+(W20)
+•
+AI for R&D of consumer brands like P&G to develop better products
+(
+12 days
+ago)
+AI Engineer Intern - build stealth model
+Internship
+•
+Engineering
+•
+Machine learning
+•
+$4K - $10K / monthly
+•
+Palo Alto, CA, US / San Francisco, CA, US
+Apply
+Banner
+(S19)
+Banner makes software for CRE owners to manage capital spend
+Banner
+(S19)
+•
+Banner makes software for CRE owners to manage capital spend
+(
+1 day
+ago)
+Senior Software Engineer
+Full-time
+•
+Engineering
+•
+Full stack
+•
+$160 - $200
+•
+US / Remote (US)
+Apply
+Porter
+(S20)
+Easiest way to deploy on AWS/GCP/Azure
+Porter
+(S20)
+•
+Easiest way to deploy on AWS/GCP/Azure
+(
+about 4 hours
+ago)
+Staff Infrastructure Engineer
+Full-time
+•
+Engineering
+•
+Backend
+•
+$200K - $280K
+•
+New York, NY, US
+Apply
+Strac
+(W22)
+Data Discovery, DLP, DSPM for SaaS, Cloud, Gen AI & Endpoints
+Strac
+(W22)
+•
+Data Discovery, DLP, DSPM for SaaS, Cloud, Gen AI & Endpoints
+(
+5 days
+ago)
+Senior Software Engineer
+Full-time
+•
+Engineering
+•
+Full stack
+•
+$110K - $160K
+•
+Redmond, WA, US / Seattle, WA, US / Austin, TX, US / Bellevue, WA, US
+Apply
+Cogram
+(W22)
+The AI Platform for Architects, Builders, and Engineers
+Cogram
+(W22)
+•
+The AI Platform for Architects, Builders, and Engineers
+(
+1 day
+ago)
+Product Engineer / AI Operator
+Full-time
+•
+Engineering
+•
+Full stack
+•
+€60K - €90K EUR
+•
+Berlin, BE, DE / Remote
+Apply
+Heron Data
+(S20)
+We automate document-heavy workflows in financial services and beyond
+Heron Data
+(S20)
+•
+We automate document-heavy workflows in financial services and beyond
+(
+about 23 hours
+ago)
+Full-Stack Engineers (London)
+Full-time
+•
+Engineering
+•
+Full stack
+•
+£65K - £150K GBP
+•
+London, UK
+Apply
+Confido
+(S21)
+AI-enabled financial automation and intelligence for CPG Brands
+Confido
+(S21)
+•
+AI-enabled financial automation and intelligence for CPG Brands
+(
+about 18 hours
+ago)
+Staff Software Engineer
+Full-time
+•
+Engineering
+•
+Full stack
+•
+$230K - $270K
+•
+New York, NY, US
+Apply
+Nextera Robotics
+(S20)
+AI-native Robotics
+Nextera Robotics
+(S20)
+•
+AI-native Robotics
+(
+3 days
+ago)
+Full-Stack Engineer - Boston, MA or remote (US only)
+Full-time
+•
+Engineering
+•
+Full stack
+•
+$110K - $140K
+•
+Boston, MA / Remote (US)
+Apply
+Aviator
+(S21)
+Google-level engineering productivity suite
+Aviator
+(S21)
+•
+Google-level engineering productivity suite
+(
+3 days
+ago)
+Software engineer, Fullstack
+Full-time
+•
+Engineering
+•
+Backend
+•
+$120K - $160K
+•
+San Francisco, CA, US
+Apply
+Keeper
+(S21)
+We make software for bookkeepers.
+Keeper
+(S21)
+•
+We make software for bookkeepers.
+(
+9 days
+ago)
+QA Engineer
+Full-time
+•
+Engineering
+•
+QA engineer
+•
+$60K - $110K
+•
+US / CA / AR / BR / UY / Remote (US; CA; AR; BR; UY)
+Apply
+Windmill
+(S22)
+Open-source platform to turn scripts into internal apps & workflows
+Windmill
+(S22)
+•
+Open-source platform to turn scripts into internal apps & workflows
+(
+4 days
+ago)
+Backend Software Engineer (Rust)
+Full-time
+•
+Engineering
+•
+Backend
+•
+€40K - €90K EUR
+•
+Paris, IDF, FR / Remote (Paris, IDF, FR)
+Apply
+REVER
+(S22)
+Changing the way people buy by giving superpowers to shoppers
+REVER
+(S22)
+•
+Changing the way people buy by giving superpowers to shoppers
+(
+14 days
+ago)
+Backend Engineer
+Full-time
+•
+Engineering
+•
+Full stack
+•
+€40K - €70K EUR
+•
+Barcelona, CT, ES / ES
+Apply
+BoldVoice
+(S21)
+Speech and accent coaching app for non-native English speakers
+BoldVoice
+(S21)
+•
+Speech and accent coaching app for non-native English speakers
+(
+8 days
+ago)
+Machine Learning Researcher Engineer
+Full-time
+•
+Engineering
+•
+Machine learning
+•
+$140K - $200K
+•
+New York, NY, US / Remote (US)
+Apply
+Infracost
+(W21)
+Shift FinOps Left: Proactively Find & Fix Cloud Cost Issues
+Infracost
+(W21)
+•
+Shift FinOps Left: Proactively Find & Fix Cloud Cost Issues
+(
+8 days
+ago)
+AI Agent Engineer (Go)
+Full-time
+•
+Engineering
+•
+Backend
+•
+€80 - €160 EUR
+•
+Remote
+Apply
+Aden
+(W20)
+Hire Aden to run your business operations at scale
+Aden
+(W20)
+•
+Hire Aden to run your business operations at scale
+(
+about 1 hour
+ago)
+AI Engineering Lead
+Full-time
+•
+Engineering
+•
+Backend
+•
+$250K - $350K
+•
+San Francisco, CA, US / Remote (San Francisco, CA, US)
+Apply
+Adaptyv
+(S21)
+We're building fully automated labs for protein engineering
+Adaptyv
+(S21)
+•
+We're building fully automated labs for protein engineering
+(
+about 7 hours
+ago)
+Product Engineer
+Full-time
+•
+Engineering
+•
+Full stack
+•
+Lausanne / Hybrid / Remote / Remote (US)
+Apply
+Flock Safety
+(S17)
+The first public safety operating system that eliminates crime.
+Flock Safety
+(S17)
+•
+The first public safety operating system that eliminates crime.
+(
+2 days
+ago)
+Senior Software Engineer, Backend Integrations
+Full-time
+•
+Engineering
+•
+Full stack
+•
+$170K - $250K
+•
+Atlanta, GA, US / Remote (Atlanta, GA, US)
+Apply
+Landeed
+(S22)
+Landeed is India's fastest property title search engine
+Landeed
+(S22)
+•
+Landeed is India's fastest property title search engine
+(
+11 days
+ago)
+Founding Fullstack Engineer: React / React Native + Any Backend (India)
+Full-time
+•
+Engineering
+•
+Full stack
+•
+₹2M - ₹6M INR
+•
+Hyderabad, Telangana, India
+Apply
+Bree
+(S21)
+Chime for Canada, starting with cash advances
+Bree
+(S21)
+•
+Chime for Canada, starting with cash advances
+(
+2 days
+ago)
+Senior Full Stack Engineer
+Full-time
+•
+Engineering
+•
+Full stack
+•
+$120 - $200 CAD
+•
+Toronto, ON, CA / Toronto, Ontario, CA
+Apply
+Eight Sleep
+(S15)
+The sleep fitness company.
+Eight Sleep
+(S15)
+•
+The sleep fitness company.
+(
+1 day
+ago)
+Full Stack Engineer, Web
+Full-time
+•
+Engineering
+•
+Full stack
+•
+$180K - $210K
+•
+Remote - UK or Europe, Remote - US, CA or LATAM / Remote (New York, NY, US; San Francisco, CA, US; US)
+Apply
+Pump.co
+(S22)
+The Costco for cloud is here 🔥🔥
+Pump.co
+(S22)
+•
+The Costco for cloud is here 🔥🔥
+(
+8 days
+ago)
+Backend Engineer
+Full-time
+•
+Engineering
+•
+Backend
+•
+$120K - $160K
+•
+San Francisco, CA, US
+Apply
+Verse Medical
+(S18)
+Software platform for in-home healthcare
+Verse Medical
+(S18)
+•
+Software platform for in-home healthcare
+(
+about 2 hours
+ago)
+Senior/Staff Full Stack Engineer
+Full-time
+•
+Engineering
+•
+Full stack
+•
+$150K - $220K
+•
+San Francisco, CA, US
+Apply
+WarpBuild
+(S21)
+Accelerate software development with WarpBuild's 10x faster CI infra.
+WarpBuild
+(S21)
+•
+Accelerate software development with WarpBuild's 10x faster CI infra.
+(
+3 days
+ago)
+Senior/Staff Fullstack Engineer
+Full-time
+•
+Engineering
+•
+Full stack
+•
+₹3M - ₹8M INR
+•
+India / Remote (India)
+Apply
+Secoda
+(S21)
+Secoda is the AI layer for your Analytics
+Secoda
+(S21)
+•
+Secoda is the AI layer for your Analytics
+(
+2 days
+ago)
+Software Engineer
+Full-time
+•
+Engineering
+•
+Full stack
+•
+$150K - $200K CAD
+•
+Hybrid in Toronto
+Apply
+Sphere
+(W22)
+AI-powered sales tax, VAT and GST compliance
+Sphere
+(W22)
+•
+AI-powered sales tax, VAT and GST compliance
+(
+8 days
+ago)
+Senior Backend Engineer (Infrastructure)
+Full-time
+•
+Engineering
+•
+Devops
+•
+$180K - $250K
+•
+San Francisco, CA, US
+Apply
+Zuma
+(S21)
+We help businesses convert leads into sales in minutes using text
+Zuma
+(S21)
+•
+We help businesses convert leads into sales in minutes using text
+(
+7 days
+ago)
+Founding Full Stack Engineer
+Full-time
+•
+Engineering
+•
+Full stack
+•
+$170K - $200K
+•
+San Francisco, CA, US / Santa Monica, CA, US / Remote
+Apply
+CoLoop
+(S21)
+AI Copilot for insights & strategy
+CoLoop
+(S21)
+•
+AI Copilot for insights & strategy
+(
+3 days
+ago)
+Fullstack Engineer
+Full-time
+•
+Engineering
+•
+Full stack
+•
+£70K - £90K GBP
+•
+London, UK
+Apply
+AlgoTest
+(S22)
+Ecosystem for options trading in India
+AlgoTest
+(S22)
+•
+Ecosystem for options trading in India
+(
+2 days
+ago)
+Founding Backend Engineer - Core Trading Platform
+Full-time
+•
+Engineering
+•
+Backend
+•
+$10K - $40K
+•
+Gurgaon, Haryana, India / New Delhi, Delhi, India
+Apply
+AccessOwl
+(S22)
+Managing your Employees' Access to SaaS
+AccessOwl
+(S22)
+•
+Managing your Employees' Access to SaaS
+(
+8 days
+ago)
+Senior Software Engineer (Elixir Focus)
+Full-time
+•
+Engineering
+•
+Full stack
+•
+€70K - €95K EUR
+•
+Berlin, BE, DE / ES / PT / PL / AT / CZ / HU / SK / RO / SI / HR / RS / BA / IT / CH / NL / BE / FR / GB / GR / BG / UA / TR / AF / AL / DZ / AD / AO / AM / AZ / BH / BY / BJ / BW / TD / CY / DK / FI / GE / GL / IS / IL / JO / KZ / KE / LB / LY / LT / MC / NG / NO / QA / SC / SE / AE / YE / ZM / ZW / DE / PK / EG / RW / MK / Remote (Berlin, BE, DE; ES; PT; PL; AT; CZ; HU; SK; RO; SI; HR; RS; BA; IT; CH; NL; BE; FR; GB; GR; BG; UA; TR; AF; AL; DZ; AD; AO; AM; AZ; BH; BY; BJ; BW; TD; CY; DK; FI; GE; GL; IS; IL; JO; KZ; KE; LB; LY; LT; MC; NG; NO; QA; SC; SE; AE; YE; ZM; ZW; DE; PK; EG; RW; MK)
+Apply
+Numeral
+(W23)
+SaaS & Ecommerce sales tax on autopilot.
+Numeral
+(W23)
+•
+SaaS & Ecommerce sales tax on autopilot.
+(
+about 21 hours
+ago)
+Founding Solutions Engineer
+Full-time
+•
+Engineering
+•
+Full stack
+•
+$160K - $210K
+•
+HQ / Remote (US)
+Apply
+Dex
+(S19)
+Dex is a personal CRM that reminds you to keep in touch with the…
+Dex
+(S19)
+•
+Dex is a personal CRM that reminds you to keep in touch with the…
+(
+8 days
+ago)
+Product Engineer (Web / Vue.js / Typescript) - Remote
+Full-time
+•
+Engineering
+•
+Full stack
+•
+$30K - $60K
+•
+Remote
+Apply
+LiveFlow
+(W21)
+LiveFlow empowers finance leaders with real-time insights into every…
+LiveFlow
+(W21)
+•
+LiveFlow empowers finance leaders with real-time insights into every…
+(
+about 8 hours
+ago)
+Senior Full Stack Engineer
+Full-time
+•
+Engineering
+•
+Full stack
+•
+$90K - $150K
+•
+São Paulo, SP, BR / São Paulo, State of São Paulo, BR / London, England, GB / Lisbon, Lisbon, PT / New York, NY, US / Remote (US)
+Apply
+OfOne
+(W23)
+AI-powered order taker for restaurant drive-thrus
+OfOne
+(W23)
+•
+AI-powered order taker for restaurant drive-thrus
+(
+1 day
+ago)
+Founding Engineer
+Full-time
+•
+Engineering
+•
+Backend
+•
+$140K - $200K
+•
+San Francisco, CA, US
+Apply
+Broccoli AI
+(W22)
+AI-native operating system for home service businesses
+Broccoli AI
+(W22)
+•
+AI-native operating system for home service businesses
+(
+6 days
+ago)
+Senior Software Engineer
+Full-time
+•
+Engineering
+•
+Full stack
+•
+$140K - $200K
+•
+San Francisco
+Apply
+Raven
+(S22)
+AI Assistants for Manufacturing Operations
+Raven
+(S22)
+•
+AI Assistants for Manufacturing Operations
+(
+3 days
+ago)
+AI Research Intern – Applied AI
+Internship
+•
+Engineering
+•
+Machine learning
+•
+₹50K - ₹80K INR / monthly
+•
+Bengaluru, KA, IN / Bengaluru, Karnataka, IN / Remote (IN)
+Apply
+Ziina
+(W21)
+A digital wallet for the Middle East & North Africa
+Ziina
+(W21)
+•
+A digital wallet for the Middle East & North Africa
+(
+1 day
+ago)
+Senior Backend Engineer
+Full-time
+•
+Engineering
+•
+Backend
+•
+$100K - $150K
+•
+Dubai
+Apply
+Karat Financial
+(W20)
+Better financial services for creators
+Karat Financial
+(W20)
+•
+Better financial services for creators
+(
+6 days
+ago)
+Engineering Manager
+Full-time
+•
+Engineering
+•
+Engineering manager
+•
+$180K - $200K
+•
+Los Angeles, CA, US
+Apply
+Medplum
+(S22)
+API first electronic health record (EHR) that is open source
+Medplum
+(S22)
+•
+API first electronic health record (EHR) that is open source
+(
+4 days
+ago)
+Founding Engineer (Fullstack)
+Full-time
+•
+Engineering
+•
+Full stack
+•
+$160K - $200K
+•
+San Francisco, CA, US
+Apply
+Create a profile to see more jobs ›
+Work at a Startup
+Jobs
+Internships
+Events
+How it works
+Sign In
+Jobs by Role
+Software Engineer
+Jobs
+Design & UI/UX
+Jobs
+Product Manager
+Jobs
+Recruiting & HR
+Jobs
+Sales
+Jobs
+Marketing
+Jobs
+Support & Success
+Jobs
+Operations
+Jobs
+Science
+Jobs
+Jobs by Location
+Jobs in
+San Francisco
+Jobs in
+New York
+Jobs in
+Los Angeles
+Jobs in
+Seattle
+Jobs in
+Austin
+Jobs in
+Chicago
+Jobs in
+India
+Jobs by Role and Location
+Software Engineer Jobs in San Francisco
+Recruiting Jobs in San Francisco
+Product Manager Jobs in San Francisco
+Software Engineer Jobs in New York
+Recruiting Jobs in New York
+Product Manager Jobs in New York
+Software Engineer Jobs in Los Angeles
+Recruiting Jobs in Los Angeles
+Product Manager Jobs in Los Angeles
+Remote Jobs
+Remote
+Software Engineer
+Jobs
+Remote
+Design & UI/UX
+Jobs
+Remote
+Product Manager
+Jobs
+Remote
+Recruiting & HR
+Jobs
+Remote
+Sales
+Jobs
+Remote
+Marketing
+Jobs
+Remote
+Support & Success
+Jobs
+Remote
+Operations
+Jobs
+Remote
+Science
+Jobs
+Footer
+Y Combinator
+Programs
+YC Program
+Startup School
+Work at a Startup
+Co-Founder Matching
+Company
+YC Blog
+Contact
+Press
+People
+Careers
+Privacy Policy
+Notice at Collection
+Security
+Terms of Use
+Resources
+Startup Directory
+Startup Library
+Investors
+SAFE
+Hacker News
+Launch YC
+YC Deals
+Make something people want.
+Apply
+Twitter
+Twitter
+Facebook
+Facebook
+Instagram
+Instagram
+LinkedIn
+LinkedIn
+Youtube
+YouTube
+©
+2025
+Y Combinator
+
+
+--- CONTENT FROM https://www.ycombinator.com/rfs ---
+
+About
+What Happens at YC?
+Apply
+YC Interview Guide
+FAQ
+People
+YC Blog
+Companies
+Startup Directory
+Founder Directory
+Launch YC
+Startup Jobs
+All Jobs
+◦ Engineering
+◦ Operations
+◦ Marketing
+◦ Sales
+Internships
+Startup Job Guide
+YC Startup Jobs Blog
+Find a Co-Founder
+Library
+SAFE
+Resources
+Startup School
+Newsletter
+Requests for Startups
+For Investors
+Verify Founders
+Hacker News
+Bookface
+Open main menu
+Apply for
+W2026
+batch.
+Apply
+Requests for Startups
+RFS is our tradition of sharing ideas we'd like to see founders tackle. These represent just a fraction of what we fund — if one excites you, take it as extra validation to dive in, but you don't need to work on these ideas to apply to YC.
+Fall 2025
+Summer 2025
+Spring 2025
+Winter 2025
+Summer 2024
+Fall 2025
+The last few years were about proving what AI can do. Now, it's about building with it. We've put together a new list of startup ideas we're especially excited about— ideas that treat AI not as a feature, but as a foundation. They reflect where we think some of the biggest opportunities are right now.
+Retraining Workers for the AI Economy
+By Harj Taggar
+We talk a lot about the AI revolution in terms of models, chips, and software. But to make it a reality, there needs to be a huge buildout of physical infrastructure like data centers and semiconductor fabs.
+
+And that's where we have a problem. While we're focused on the race for AI talent, we also have a shortage of skilled tradespeople—the electricians, the HVAC technicians, the welders—who are essential to building this physical infrastructure.
+
+The government's new AI Action plan creates a forcing function to solve this. There's a big emphasis on a "worker-first" agenda, and directions to the Departments of Labor and Commerce to fund new rapid retraining programs for exactly these kinds of physical labor jobs.
+
+This creates opportunities for startups. We want to fund startups building a new kind of vocational school for the AI economy to train people for these jobs. We think you could use AI to create personalized training programs to get people job-ready in months, not years.
+
+The challenge is, how do you teach someone to weld or fix pipes via AI? Unlike coding, you can't learn these skills by typing on a keyboard — you need to learn by practicing them in the real world.
+
+This is where multimodal AI could create opportunities — for example, maybe a voice AI could coach someone through these tasks. Or perhaps some combination of AR/VR could let people practice the work in simulation with an AI tutor using vision models to watch them and give feedback.
+
+It's clear how you'd make money from this business — employers would pay to hire your well-trained workers. In the past, these types of training businesses — like coding bootcamps — have struggled to expand because it's hard to scale the quality of human tutors, but AI might solve this problem too. If you can make one effective AI teacher, it'll scale infinitely.
+
+This is a chance to build a huge business that lets everyone benefit from and participate in the new AI economy that's changing the world. If you want to work on this, we'd love to hear from you.
+Video Generation as a Primitive
+By David Lieb
+Video generation models are getting really good. Google's Veo 3 already produces 8-second, photorealistic, sound-on clips for just a few dollars per video, often indistinguishable from reality. Soon, you'll be able to generate near-perfect footage of anything, on the fly, for a marginal cost approaching 0, and video will become a new basic building block for software.
+
+When this happens, a lot of new ideas become possible.
+
+It's definitely going to change media and entertainment:
+
+Imagine being able to create a brand new season of your favorite canceled TV series. Or a personalized kids cartoon starring your own family as the characters. Or an AI-native successor to TikTok, where every video is made for exactly one viewer.
+
+Video generation will also change how we buy things:
+
+Imagine you're shopping online, you'll be able to see yourself wearing the clothes or using the products you're browsing. And when you're apartment hunting, your stuff will be auto-staged in every listing you click on.
+
+This new primitive also opens up major changes to gaming and simulation:
+
+We'll have video games built with no game engine. We'll have APIs that return infinite robotic training data. And we'll definitely be able to have video calls with loved ones long after they're gone.
+
+And these are just the obvious ideas we can imagine today.
+We're interested in founders who treat generative video as a new computing primitive—not an output—and build new apps, tooling, and infrastructure for a world with limitless, low-latency video.
+The First 10-person, $100B Company
+By Aaron Epstein
+Thanks to new AI tools, we believe it's now possible for small, high-agency teams – even solo founders – to build multi-billion dollar companies with as little as just $500k in funding from YC.
+
+15 years ago, cloud computing came along and eliminated the need for spending tons of money on physical server infrastructure, making it easier to build a big company with way less capital. This is happening again now, with new AI tools that make it easier for ambitious founders to scale with far fewer people.
+
+That's why the best high-agency startups of the future will all optimize for one metric: revenue per employee.
+
+These small teams have incredible advantages over bloated incumbents, too. With smaller, efficient teams at scale, they won't get bogged down with the politics, excessive meetings, and lack of focus that grinds huge companies to a halt. They can just focus on winning with better speed and execution.
+
+We want to fund these high-agency founders to help them build the first 10-person, $100b dollar company.
+Infrastructure for Multi-Agent Systems
+By Pete Koomen
+AI agents are evolving from single-threaded loops into distributed workflows that fan out many sub‑agent calls in a single run. These multi-agent systems are useful for everything from long-running workflows to agentic mapreduce jobs where hundreds of thousands of subagents apply human-level judgment to filter and search through large amounts of data in parallel.
+
+These systems are difficult to build. They require solving traditional distributed systems problems to ensure high throughput and reliability while controlling costs.
+
+They also introduce new problems that look familiar but can be solved at a higher level of abstraction, like:
+
+- how to write effective agent and subagent prompts
+- how to handle untrusted context
+- how to monitor and debug these agents
+
+We're looking for builders who have felt this pain in production and want to build tools to make these systems easier to build and maintain. If you want to make operating fleets of agents as routine and reliable as deploying a web service or running a Spark job, we'd love to hear from you.
+AI Native Enterprise Software
+By Andrew Miklas
+Salesforce and ServiceNow are two of the world's largest enterprise software vendors, each making more than $10B a year in revenue, and each with a market cap of more than $200B. Both produce software needed to run the world's biggest businesses.
+
+Interestingly, both were founded about 25 years ago. Coincidence? I don't think so! Salesforce built the first cloud-native CRM, and ServiceNow built the first cloud-native ITSM system. Both rode the cloud computing wave to victory over their respective incumbents.
+
+The story is much the same for Netsuite, Successfactors, and a host of other B2B startups from the early two thousands. The founders of these businesses realized that SaaS offered a way to build a ten times better product. Just as important, these founders knew the incumbents would struggle to adapt to the new world of cloud computing, giving them the edge they needed to go up against them and win.
+
+AI presents the same once-in-a-generation opportunity for today's founders. Tomorrow's enterprise software systems won't just be the "system of record" for work done by humans. They'll have AI embedded deeply and thoughtfully throughout, and will help employees do their work faster and more accurately. Think Cursor for sales, HR, and accounting.
+
+Just as before, today's incumbents will struggle to rebuild their product around this new technology, giving today's startups the time they need to win. History doesn't repeat itself, but it sure does rhyme.
+
+Interested in building AI-native enterprise software? If so, we should chat.
+Using LLMs Instead of Government Consulting
+By Gustaf Alstromer
+The U.S. government spends over $100 billion a year on consulting. As you might imagine, this isn't the most efficient or innovative part of our economy.
+
+But over the last couple of years, there have been a few big reasons we believe this will change. Most importantly, today, there is political pressure to cut wasteful consulting and spending. Every part of the government now runs on software, but usually custom software built by a consulting company, and anyone who has used this software knows we can do a lot better. Finally, LLMs today are so good that they can already do the jobs of many consulting firms.
+
+We've recently funded companies that help companies get approved to sell to the government, called FedRAMP. We've also recently funded companies that help the government cut regulation and use LLMs to help make sure the laws and policies coming out of the government are actually legal.
+
+We think there is a lot more work that government consulting firms like Deloitte and Accenture do for the government today, and we want to fund startups that build LLM software to do that work.
+Footer
+Y Combinator
+Programs
+YC Program
+Startup School
+Work at a Startup
+Co-Founder Matching
+Company
+YC Blog
+Contact
+Press
+People
+Careers
+Privacy Policy
+Notice at Collection
+Security
+Terms of Use
+Resources
+Startup Directory
+Startup Library
+Investors
+SAFE
+Hacker News
+Launch YC
+YC Deals
+Make something people want.
+Apply
+Twitter
+Twitter
+Facebook
+Facebook
+Instagram
+Instagram
+LinkedIn
+LinkedIn
+Youtube
+YouTube
+© 2025 Y Combinator
+
+
+--- CONTENT FROM https://www.ycombinator.com/legal ---
+
+About
+What Happens at YC?
+Apply
+YC Interview Guide
+FAQ
+People
+YC Blog
+Companies
+Startup Directory
+Founder Directory
+Launch YC
+Startup Jobs
+All Jobs
+◦ Engineering
+◦ Operations
+◦ Marketing
+◦ Sales
+Internships
+Startup Job Guide
+YC Startup Jobs Blog
+Find a Co-Founder
+Library
+SAFE
+Resources
+Startup School
+Newsletter
+Requests for Startups
+For Investors
+Verify Founders
+Hacker News
+Bookface
+Open main menu
+Apply for
+W2026
+batch.
+Apply
+Legal
+Privacy Policy
+Last Updated February 2024
+Welcome to the website (including all websites to which this Privacy Policy is posted, the “
+Site
+”) operated by Y Combinator Management, LLC and its Affiliates (collectively “
+Y Combinator
+,” “
+we
+,” “
+us
+,” or “
+our
+”). This Site provides, among other things, information about our people, organization and application process, tools for applicants to submit applications and go through the application process, a platform for applying to work at Y Combinator startups, a free online course on how to start a company, our blog, and profiles of founders and companies that have participated in the Y Combinator program (collectively, the “
+Services
+”).
+This Privacy Policy explains what Personal Information we collect, how we use and disclose that data, and your choices concerning our data practices. This Privacy Policy is incorporated into and forms part of our
+Terms of Use
+.
+For deletion requests, please contact us at privacy@ycombinator.com. See Section 4 for additional information regarding changes to accounts generally as well as deletion of Personal Information (defined below).
+For California residents (defined below), please click
+here
+for additional disclosures, our Notice at Collection and Use of Personal Information, and a description of your rights under the California Consumer Privacy Act (with any implementing regulations, as amended by the California Privacy Rights Act (“
+CPRA
+”), and as may be amended from time to time, “
+CCPA
+”).
+Before using the Services or submitting any Personal Information to Y Combinator, please review this Privacy Policy carefully and contact us if you have any questions. By using the Services, you agree to the practices described in this Privacy Policy. If you do not agree to this Privacy Policy, please do not access the Site or otherwise use the Services.
+1. PERSONAL INFORMATION WE COLLECT
+We collect information that alone or in combination with other information in our possession could be used to identify you (“
+Personal Information
+”).
+Personal Information You Provide.
+We may collect Personal Information when you create an account, subscribe to our newsletter, sign up for an event, or communicate with us as follows:
+Event Information:
+If you attend one of our events, or if you are an investor and you sign up to attend Demo Day, you will be asked to provide Personal Information, including your name, the name and a description of your company or your fund, your contact information and other information that we will use to manage and administer your participation in our various events (“
+Event Information
+”).
+Work at a Startup Information:
+If you sign up for our Work at a Startup program (“
+WaaS
+”), we will collect your name, email, LinkedIn profile, and other information relevant to the type of job you are seeking, such as your location, eligibility to work in the United States, and your work experience, education, and skills (“
+WaaS Information
+”).
+Startup School Information:
+If you sign up for our Startup School program (“
+SUS
+”), we will collect your name, email, location (city and country), LinkedIn profile, gender (only if you choose to provide it), education, area of expertise, company information, and cofounder email addresses (“
+SUS Information
+”).
+Application Information:
+When a company submits an application to Y Combinator, we will collect Personal Information relating to the founders of the applicant company, such as names, email addresses, telephone numbers, education, employment history, and the city/country in which they live. We will also collect information about the applicant company, such as the name, industry, and status of the company (together with Personal Information relating to founder(s) and any other information submitted in connection with the application process, “
+Application Information
+”).
+Hacker News Information:
+If you create a Hacker News account (ID and profile), we do not collect any Personal Information unless you choose to provide your email address and/or information in the "about" field (“
+HN Information
+”).  Your submissions to, and comments you make on, the Hacker News site are not Personal Information and are not "HN Information" as defined in this Privacy Policy.
+Communication Information:
+When you subscribe to our newsletter or otherwise communicate with us, we may collect your name, contact information, and the contents of any messages you send (“
+Communication Information
+”).
+Personal Information We Collect Through Our Social Media Pages.
+We have pages on social media sites like Instagram, Facebook, Twitter, YouTube and LinkedIn (“
+Social Media Pages
+”). When you interact with our Social Media Pages, we will collect Personal Information that you elect to provide to us, such as your contact details (“
+Social Information
+”). In addition, the companies that host our Social Media Pages may provide us with aggregate information and analytics regarding the use of our Social Media Pages.
+Personal Information We Receive Automatically From Your Use of the Site.
+When you visit, use, and interact with the Site, we may receive certain information about your visit, use, or interactions (“
+Technical Information
+”). For example, we may monitor the number of people that visit the Site, peak hours of visits, which page(s) are visited, the domains our visitors come from (e.g., google.com, yahoo.com, etc.), and which browsers people use to access the Services (e.g., Chrome, Firefox, Microsoft Internet Explorer, etc.), broad geographical information, and navigation pattern. In particular, Technical Information includes the following, which is created and automatically logged in our systems:
+Log data:
+Log data is information that your browser automatically sends whenever you visit the Site. Log data includes your Internet Protocol address, browser type and settings, the date and time of your request, and how you interacted with the Site.
+Cookies:
+Please see the
+“Cookies”
+section below to learn more about how we use cookies.
+Device information:
+Includes name of the device, operating system, and browser you are using. Information collected may depend on the type of device you use and its settings.
+Usage Information:
+We collect information about how you use our Services, such as the types of content that you view or engage with, the features you use, the actions you take, and the time, frequency, and duration of your activities.
+Session replay information:
+Session replay information includes Device Information, broad geographical information, and the contents of your screen.
+Cookies
+: We use cookies to operate and administer our Site, gather usage data on our Site, and improve your experience on it. A “cookie” is a piece of information sent to your browser by a website you visit. Cookies can be stored on your computer for different periods of time. Some cookies expire after a certain amount of time, or upon logging out (session cookies), others survive after your browser is closed until a defined expiration date set in the cookie (as determined by the third party placing it), and help recognize your computer when you open your browser and browse the Internet again (persistent cookies). For more details on cookies please visit
+All About Cookies
+.
+Session Replay:
+We use PostHog for session replay on SUS to help us analyze how users use the Site and to improve user experience.
+Analytics:
+Among other service providers, we use Google Analytics, a web analytics service provided by Google, Inc. (“
+Google
+”). Google Analytics uses cookies to help us analyze how users use the Site and enhance your experience when you use the Site. For more information on how Google uses this data, go to
+www.google.com/policies/privacy/partners/
+. We also use New Relic, Amplitude, and PostHog.
+Online Tracking and Do Not Track Signals:
+We and our third party service providers may use cookies or other tracking technologies to collect information about your browsing activities over time and across different websites following your use of the Site. Our Site currently does not respond to “Do Not Track” (“
+DNT
+”) signals and operates as described in this Privacy Policy whether or not a DNT signal is received. If we do respond to DNT signals in the future, we will update this Privacy Policy to describe how we do so.
+Your Choices.
+On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive a notification when you are receiving a new cookie and how to turn cookies off. Please see the links below for guidance on how to modify your web browser’s settings on the most popular browsers:
+Internet Explorer
+Mozilla Firefox
+Google Chrome
+Apple Safari
+Please note that if you limit the ability of websites to set cookies, you may be unable to access certain parts of the Site and you may not be able to benefit from the full functionality of the Site.
+Advertising networks may use cookies to collect Personal Information. Most advertising networks offer you a way to opt out of targeted advertising. If you would like to find out more information, please visit the Network Advertising Initiative’s online resources at
+http://www.networkadvertising.org
+and follow the opt-out instructions there.
+If you access the Site on your mobile device, you may not be able to control tracking technologies through the settings.
+2. HOW WE USE PERSONAL INFORMATION
+We may use Personal Information for the following purposes:
+To provide and administer access to the Services;
+To grant access to and track attendance at our events;
+To respond to your inquiries, comments, feedback, or questions;
+To send administrative information to you, for example, information regarding the Services and changes to our terms, conditions, and policies;
+To analyze how you interact with our Services;
+To maintain and improve the content and functionality of the Services;
+To develop new programs and services;
+To prevent fraud, criminal activity, or misuses of our Services, and to ensure the security of our IT systems, architecture, and networks;
+To ensure compliance with sanctions regulations; and
+To comply with legal obligations and legal process and to protect our rights, privacy, safety, or property, and/or that of our Affiliates, you, or other third parties.
+Aggregated Information.
+We may aggregate Personal Information and use the aggregated information to analyze the effectiveness of our Services, to improve and add features to our Services, and for other similar purposes. In addition, from time to time, we may analyze the general behavior and characteristics of users of our Services and share aggregated information like general user statistics with prospective business partners. We may collect aggregated information through the Services, through cookies, and through other means described in this Privacy Policy.
+3. SHARING AND DISCLOSURE OF PERSONAL INFORMATION
+In certain circumstances we may share your Personal Information with third parties without further notice to you, unless required by the law, as set forth below:
+Vendors and Service Providers:
+To assist us in meeting business operations needs and to perform certain services and functions, we may share Personal Information with vendors and service providers, including providers of hosting services, cloud services, and other information technology services providers, event management services, email communication software and email newsletter services, and web analytics services. Pursuant to our instructions, these parties will access, process, or store Personal Information in the course of performing their duties to us.
+Business Transfers:
+If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of all or a portion of our assets, or transition of service to another provider (collectively a “
+Transaction
+”), your Personal Information and other information may be shared in the diligence process with counterparties and others assisting with the Transaction and transferred to a successor or Affiliate as part of that Transaction along with other assets.
+Legal Requirements:
+If required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, including to meet national security or law enforcement requirements, (ii) protect and defend our rights or property, (iii) prevent fraud, (iv) act in urgent circumstances to protect the personal safety of users of the Services, or the public, or (v) protect against legal liability.
+Affiliates:
+We may share Personal Information with our Affiliates, meaning an entity that controls, is controlled by, or is under common control with Y Combinator. Our Affiliates will use the Personal Information we share in a manner consistent with this Privacy Policy.
+With Your Consent.
+We may disclose your Personal Information to third parties upon your request, at your direction, or with your consent.
+Other Users:
+certain actions you take may be visible to other users of the Services.
+Please note that for purposes of this section, “sharing” does not include “sharing” as defined under the CCPA. For additional disclosures and information on our CCPA practices, please review California Privacy Rights below.
+The following disclosures are intended to provide additional information about (1) the categories of Personal Information we collect, (2) the source of the Personal Information, (3) how we use each category of Personal Information, and (4) how we disclose Personal Information. These disclosures do not limit our ability to use or disclose information as described in Sections 2 and 3.
+Category of Personal Information
+Sources Of Personal Information
+Use of Personal Information
+Disclosure of Personal Information
+Event Information
+We collect Event Information directly from you.
+We use Event Information to grant access to, and administer your
+                participation in, our events.
+We disclose Event Information to our Affiliates and the companies
+                participating in and the vendors helping to host our events.
+WaaS Information
+We collect WaaS Information directly from you.
+We use WaaS Information to help WaaS applicants get jobs at Y
+                Combinator- funded companies.
+We disclose WaaS Information to our Affiliates and Y Combinator-funded
+                companies.
+SUS Information
+We collect SUS Information directly from you.
+We use SUS Information to evaluate SUS profiles, to provide access to
+                the SUS forums and network, to compile and publish aggregated and
+                anonymized statistics, and to track participants, investments, and
+                companies.
+We disclose SUS Information to our Affiliates. We make reasonable
+                efforts to treat your SUS Information confidentially, but given the
+                volume of participants we disclaim all responsibility for preventing
+                misuse or unauthorized disclosure of or access to SUS Information.
+Application Information
+We collect Application Information directly from you.
+We use Application Information to evaluate applications, compile and
+                publish aggregated statistics regarding technology, companies, founders,
+                industries, etc., and to track applicants, founders, industries,
+                companies, and application trends.
+We disclose Application Information to our Affiliates. Please see below
+                for additional disclosures regarding Application Information.
+HN Information
+We collect HN Information directly from you.
+We use HN Information for logging you into your account and granting you
+                access to the Services, and in some cases, for password recovery requested by you.
+We do not disclose HN Information to third parties, but certain HN Information that you have chosen to include in your profile is publicly available on the Internet.
+Social Information
+We collect Social Information from you when you interact with our Social
+                Media Pages.
+We use Social Information to perform analytics and to communicate with
+                you.
+We disclose Social Information to our Affiliates.
+Communication Information
+We collect Communication Information directly from you.
+We use Communication Information for providing our Services and
+                responding to you.
+We disclose Communication Information to our Affiliates and
+                communication services providers.
+Technical Information
+We collect Technical Information from you.
+We use Technical Information for analytics and in some cases, for
+                moderation and prevention of fraud and malicious activity by users of
+                our Services.
+We disclose Technical Information to our Affiliates and analytics
+                providers.
+Application Information Disclosures.
+Due to the large number of applications and related materials that we receive and review, and the similarity of much of the information provided in such applications, we cannot accept responsibility for protecting against the misuse or disclosure of any general information, knowledge or other materials (including without limitation any information generally known in your industry) included in your Application Information. Any such general information or knowledge you submit to Y Combinator may be used or disclosed by us or any person with whom we share your application for any purpose and in any manner. You submit applications at your own risk. We implement commercially reasonable technical, administrative, and organizational measures to protect Application Information both online and offline from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or email transmission is ever fully secure or error free. In particular, email sent to or from us may not be secure. Therefore, you should take special care in deciding what Application Information you send to us.
+4. YOUR CHOICES, DELETION REQUESTS, AND UPDATING YOUR INFORMATION
+Your Rights and Choices:
+In certain circumstances providing Personal Information is optional. However, if you choose not to provide Personal Information that is needed to use some features of our Services, you may be unable to use those features. You can contact us at privacy@ycombinator.com to request to update, correct, or delete your Personal Information. Please note that you can correct or delete certain HN Information yourself, by modifying your Hacker News profile. If you request deletion of your Hacker News account, note that we reserve the right to refuse to (i) delete any of the submissions, favorites, or comments you posted on the Hacker News site or linked in your profile and/or (ii) remove their association with your Hacker News ID.
+Deletion Requests:
+If you would like to request that we delete your entire Y Combinator account and all Personal Information associated with it, contact us at privacy@ycombinator.com.
+If you would like to request that we delete your Application Information but otherwise maintain your Y Combinator account, contact us at apply@ycombinator.com.
+If you would like to request that we delete your WaaS Information but otherwise maintain your Y Combinator account, contact us at workatastartup@ycombinator.com.
+Account Update Requests:
+Please log in to your Y Combinator account to change or correct your Personal Information. If you need help, contact us at accounts@ycombinator.com.
+With respect to Application Information, before you submit your application, you can update your Application Information by logging in and editing your application directly.
+If you need help updating your WaaS information, you can contact us at workatastartup@ycombinator.com.
+For Hacker News account recovery, contact us at hn@ycombinator.com.
+If you are a California resident, please review the below section, California Privacy Rights, for additional information on your rights under the CCPA.
+5. CALIFORNIA PRIVACY RIGHTS
+The CCPA imposes certain obligations on us and grants certain rights to California residents (“
+California Resident
+,” “
+you
+” or “
+your
+”) with regard to “personal information.” If you are a California Resident, please review the following information about your potential rights with regard to your Personal Information under the CCPA. The rights described herein are subject to exemptions and other limitations under applicable law. Terms used herein have the meaning ascribed to them in the CCPA. We are a “business.”
+Notice at Collection and Use of Personal Information
+Information We Collect.
+Depending on how you interact with us, we may collect the categories of personal information from or about you as identified in Personal Information We Collect and including:
+Identifiers and similar information
+, such as your name, address, date of birth, email address, online identifiers or other similar identifiers;
+Characteristics of Protected Classifications
+under certain federal or state laws, including gender, national origin, or marital status;
+Commercial information
+, including records of products or services purchased, obtained, or considered, or other purchasing histories or tendencies;
+Audio, electronic, visual
+, or similar information;
+Geolocation information
+, such as information about your location or the location of your device;
+Professional or employment-related information
+, including occupation, compensation, employer, and title;
+Education information
+, defined as information that is not publicly available personally identifiable information as defined in the Family Educational Rights and Privacy Act (20 U.S.C. section 1232g, 34 C.F.R. Part 99);
+Internet or other electronic network activity information
+, including interactions with our website or use of certain online tools, and IP addresses; and
+Inferences drawn from any of the information identified above to
+create a profile reflecting your preferences or similar information.
+Our Use and Collection of Information.
+We may collect and use Personal Information from you for the purposes described above in How We Use Information and described below in Our Collection, Use, and Disclosure of Personal Information.
+Sale or Sharing of Personal Information.
+We do not sell or share your Personal Information (as those terms are defined under the CCPA).
+How Long We Keep Information.
+How long we keep your Personal Information will vary depending on the type of personal data and our reasons for collecting it. The retention period will be determined by various criteria, including the purposes for which we are using it (as it will need to be kept for as long as is necessary for any of those purposes) and our legal obligations (as laws or regulations may set a minimum period for which we have to keep your personal data). In general, we will retain your Personal Information unless your account is deleted, or for as long as we require it to fulfill the business purposes for which it was collected, perform our contractual rights and obligations, or for periods required by our legal and regulatory obligations.
+For more information about our privacy practices, please review our entire
+Privacy Policy
+.
+Our Collection, Use, and Disclosure of Personal Information
+The following disclosures are intended to provide additional information about (1) the categories of Personal Information we have collected in the preceding 12 months (as listed in
+Information We Collect
+), (2) the source of the Personal Information, (3) the business or commercial purposes for our collection of the Personal Information and (4) how we may disclose Personal Information for a business purpose. These disclosures do not limit our ability to use or disclose information as described in Sections 2 and 3. We do not sell or share your personal information (as those terms are defined under the CCPA). We do not knowingly sell or share the personal information of California Residents under 16 years old.
+Category of Personal Information
+Sources Of Personal Information
+Business or Commercial Purpose for Collecting Personal Information
+Disclosure of Personal Information
+Identifiers and similar information
+We collect this information directly from you.
+We use this information for operational purposes, including for logging you into your account and granting you access to the Services, to provide you with the Services, to enforce our community norms and policies, to monitor the Site for security purposes, and in some cases, for password recovery requested by you.
+We disclose this information to our Affiliates, and in some cases, to service providers, Y Combinator-funded companies, and/or other users of the Services.
+Characteristics of Protected Classifications
+We collect this information directly from you.
+We use this information as directed by you and in some cases, to compile and publish aggregated statistics.
+We disclose this information to our Affiliates, and in some cases, to Y Combinator-funded companies, and/or other users of the Services.
+Commercial information
+We collect this information from you directly when you sign up for the Services, and from your interactions with the Services.
+We use this information to provide you with the Services and to improve the Services.
+We disclose this information to our Affiliates and analytics providers.
+Geolocation information
+We collect this information directly from you through your interactions with the Services.
+We use this information for analytics purposes, regulatory compliance, and in some cases, for moderation and prevention of fraud and malicious activity by users of our Services.
+We disclose this information to our Affiliates and analytics providers.
+Professional or employment-related information
+We collect this information directly from you.
+We use this information to provide you with the Services.
+We disclose this information to our Affiliates, and in some cases, to Y Combinator-funded companies, and/or other users of the Services.
+Education information
+We collect this information directly from you.
+We use this information to provide you with the Services.
+We disclose this information to our Affiliates, and in some cases, to Y Combinator-funded companies, and/or other users of the Services.
+Internet or other electronic network activity information
+We collect this information directly from you through your interactions with the Services.
+We use this information to improve the Services, for analytics, and in some cases, for moderation and prevention of fraud and malicious activity by users of our Services.
+We disclose this information to our Affiliates and analytics providers.
+Inferences drawn from any of the information identified above
+We collect this information directly from you through your interactions with the Services.
+We use this information to improve and personalize the Services.
+We disclose this information to our Affiliates.
+In addition, in the preceding 12 months, we may have disclosed all of the categories of Personal Information identified in Information We Collect above to the following categories of third parties: (i) judicial courts, regulators, or other government agents purporting to have jurisdiction over us, our subsidiaries or our Affiliates, or opposing counsel and parties to litigation; and (ii) other third parties as may otherwise be permitted by law. We may disclose the categories of Personal Information identified in Information We Collect for the business or commercial purposes identified above in How We Use Information. Additionally, we may disclose your Personal Information to third parties upon your request, at your direction, or with your consent.
+We may also disclose your Personal Information or otherwise make it available to our service providers, other entities that have agreed to limitations on the use of your Personal Information, or entities that fit within other exemptions or exceptions in, or as otherwise permitted by, the CCPA.
+California Resident's Privacy Rights
+To the extent provided for by law and subject to applicable exceptions, California residents may have the following privacy rights in relation to the Personal Information we collect, including the right to:
+Be informed, at or before the point of collection, of the categories of Personal Information to be collected, and the purposes for which the categories of Personal Information shall be used;
+Know what Personal Information we have collected and how we have used and disclosed that Personal Information (“Request to Know”);
+Request deletion of your Personal Information, subject to certain exemptions (“Request to Delete”);
+Opt-out of the “sale” (as that term is defined in the CCPA) of your personal information if a business sells your Personal Information (we do not);
+Opt-out of the “sharing” (as that term is defined in the CCPA) of your Personal Information if a business shares your Personal Information with third parties (we do not);
+Limit the use and disclosure of sensitive personal information where required by the CCPA (“Right to Limit”) (please note that we are not using your sensitive personal information for purposes that would require that we provide you with a Right to Limit);
+Correct inaccurate Personal Information (“Request to Correct”); and
+Be free from discrimination relating to the exercise of any of your privacy rights.
+The CCPA does not restrict our ability to do certain things like comply with other laws or comply with regulatory investigations. We also reserve the right to retain, and not to delete, certain Personal Information after receipt of a Request to Delete from you where permitted by the CCPA or another law or regulation.
+Exercising Your Rights.
+California residents can exercise their right to Request to Know, Request to Correct or Request to Delete (“Consumer Rights Request”) as described above, through the following toll-free telephone number +1 (415) 874-1528 or by contacting us at privacy@ycombinator.com.
+Verification.
+In order to protect your Personal Information from unauthorized access or deletion, we may require you to verify your login credentials before you can submit a Consumer Rights Request. In verifying your request, we may ask you to provide additional Personal Information and proof of residency for verification. Such information may include, at a minimum, depending on the sensitivity of the information you are requesting and the type of request you are making, your name and email address. Any information gathered as part of the verification process will be used for verification purposes only. If we cannot verify your identity, we will not provide, delete or correct your Personal Information.
+Authorized Agents.
+You may submit a Consumer Rights Request through an authorized agent. If you do so, the agent must present signed written permission to act on your behalf and you may also be required to independently verify your identity and submit proof of your residency with us.
+Shine the Light Disclosures.
+California law requires us to inform California residents who have provided us with personal information that they may request information from us about our disclosures to third parties for their direct marketing purposes. To request this information, please contract us at privacy@ycombinator.com.  In your request, please specify that this is a “California 'Shine the Light' Request.”
+6. CHILDREN
+Our Services are not directed to children who are under the age of 13. Y Combinator does not knowingly collect Personal Information from children under the age of 13. If you have reason to believe that a child under the age of 13 has provided Personal Information to Y Combinator through the Service, please contact us at privacy@ycombinator.com and we will endeavor to delete that information from our databases.
+7. LINKS TO OTHER WEBSITES
+The Services may contain links to other websites not operated or controlled by Y Combinator, including social media services (“
+Third Party Sites
+”). The information that you disclose to Third Party Sites will be governed by the specific privacy policies and terms of service of the Third Party Sites and not by this Privacy Policy. By providing these links we do not imply that we endorse or have reviewed these sites. Please contact the Third Party Sites directly for information on their privacy practices and policies.
+8. SECURITY
+You use the Services at your own risk. We implement commercially reasonable technical, administrative, and organizational measures designed to protect Personal Information both online and offline from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or email transmission is ever fully secure or error free. In particular, email sent to or from us may not be secure. Therefore, you should take special care in deciding what information you send to us via the Services or email. Please keep this in mind when disclosing any Personal Information to Y Combinator via the Internet. In addition, we are not responsible for circumvention of any privacy settings or security measures contained on the Services, or third party websites.
+9. INTERNATIONAL USERS
+By using our Services, you understand and acknowledge that your Personal Information will be transferred from your location to our facilities and servers in the United States.
+10. CHANGES TO THE PRIVACY POLICY
+The Services and our business may change from time to time. As a result we may change this Privacy Policy at any time. When we do, we will post an updated version on this page, unless another type of notice is required by the applicable law. By continuing to use our Services or providing us with Personal Information after we have posted an updated Privacy Policy, or notified you by other means if applicable, you consent to the revised Privacy Policy and practices described in it.
+11. QUESTIONS ABOUT THE PRIVACY POLICY
+If you have any questions about our Privacy Policy or information practices or need to access this Privacy Policy in a different format, please feel free to contact the legal team at yclegal@ycombinator.com. For a downloadable copy of our Privacy Policy, please click
+here
+.
+Terms of Use
+Welcome to the Y Combinator website (including all subdomains, the “
+Site
+”), which is operated by Y Combinator Management, LLC and its affiliates (collectively, “
+Y Combinator
+,” “
+we
+”, “
+us
+” and/or “
+our
+”). This Site provides, among other things, information about our people, organization and application process, tools for applicants to submit applications and go through the application process, forums for discussions about topics relevant to startups, and profiles of founders and companies who have participated in the Y Combinator program.
+THESE TERMS OF USE CONTAIN AN ARBITRATION AGREEMENT, WHICH WILL, WITH LIMITED EXCEPTION, REQUIRE YOU TO SUBMIT CLAIMS YOU HAVE AGAINST US TO BINDING AND FINAL ARBITRATION. UNDER THE ARBITRATION AGREEMENT, (1) YOU WILL ONLY BE PERMITTED TO PURSUE CLAIMS AGAINST Y COMBINATOR ON AN INDIVIDUAL BASIS, NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS OR REPRESENTATIVE ACTION OR PROCEEDING, AND (2) YOU WILL ONLY BE PERMITTED TO SEEK RELIEF (INCLUDING MONETARY, INJUNCTIVE, AND DECLARATORY RELIEF) ON AN INDIVIDUAL BASIS
+We reserve the right, at our sole discretion, to change or modify portions of these Terms of Use at any time. If we do this, we will post the changes on this page and will indicate at the top of this page the date these terms were last revised. We will also notify you, either through the Site user interface, in an email notification or through other reasonable means. Any such changes will become effective no earlier than fourteen (14) days after they are posted, except that changes addressing new functions of the Site or changes made for legal reasons will be effective immediately. Your continued use of the Site after the date any such changes become effective constitutes your acceptance of the new Terms of Use.
+In addition, when using certain components of the Site, you will be subject to any additional terms, policies, rules or guidelines applicable to the Site or such components of the Site that may be posted on the Site from time to time, including, without limitation, the Privacy Policy located
+www.ycombinator.com/legal#privacy
+and any Guidelines applicable to any components of the Site (e.g., the Hacker News Guidelines located at
+https://news.ycombinator.com/newsguidelines.html
+, Bookface Guidelines located at
+https://bookface.ycombinator.com/docs/forum/guidelines
+, etc.). All such terms are hereby incorporated by reference into these Terms of Use.
+Access and Use of the Site
+Your Registration Obligations
+: You may be required to register with Y Combinator in order to access and use certain features of the Site. If you choose to register, you agree to provide and maintain true, accurate, current and complete information about yourself as prompted by the Site’s registration form. Registration data and certain other information about you are governed by our Privacy Policy. If you are under 13 years of age, you are not authorized to register to use the Site.
+Member Account, Password and Security
+: You are responsible for maintaining the confidentiality of your password and account, if any, and are fully responsible for any and all activities that occur under your password or account. You agree to (a) immediately notify Y Combinator of any unauthorized use of your password or account or any other breach of security, and (b) ensure that you exit from your account at the end of each session when accessing the Site. Y Combinator will not be liable for any loss or damage arising from your failure to comply with this Section.
+Modifications to Site
+: Y Combinator reserves the right to modify or discontinue, temporarily or permanently, the Site (or any part thereof) with or without notice. You agree that Y Combinator will not be liable to you or to any third party for any modification, suspension or discontinuance of the Site.
+General Practices Regarding Use and Storage
+: You acknowledge that Y Combinator may establish general practices and limits concerning use of the Site, including without limitation the maximum period of time that data or other content will be retained by the Site and the maximum storage space that will be allotted on Y Combinator’s servers on your behalf. You agree that Y Combinator has no responsibility or liability for the deletion or failure to store any data or other content maintained or uploaded by the Site. You acknowledge that Y Combinator reserves the right to terminate accounts that are inactive for an extended period of time. You further acknowledge that Y Combinator reserves the right to change these general practices and limits at any time, in its sole discretion, with or without notice.
+Conditions Of Use
+User Conduct
+: In addition to any applicable guidelines or policies that may govern specific components of the Site, you agree to comply with the following conditions in using the Site. You are solely responsible for all code, video, images, information, data, text, software, music, sound, photographs, graphics, messages or other materials (“content”) that you upload, post, publish or display (hereinafter, “upload”) or email or otherwise transmit via the Site. The following are examples of the kind of content and/or use that is illegal or prohibited by Y Combinator. Y Combinator reserves the right to investigate and take appropriate legal action against anyone who, in Y Combinator’s sole discretion, violates this provision, including without limitation, removing the offending content from the Site, suspending or terminating the account of such violators and reporting you to the law enforcement authorities. You agree to not use the Site to:
+email or otherwise upload any content that (i) infringes any intellectual property or other proprietary rights of any party; (ii) you do not have a right to upload under any law or under contractual or fiduciary relationships; (iii) contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment; (iv) poses or creates a privacy or security risk to any person; (v) constitutes unsolicited or unauthorized advertising, promotional materials, commercial activities and/or sales, “junk mail,” “spam,” “chain letters,” “pyramid schemes,” “contests,” “sweepstakes,” or any other form of solicitation; (vi) is unlawful, harmful, threatening, abusive, harassing, tortious, excessively violent, defamatory, vulgar, obscene, pornographic, libelous, invasive of another’s privacy, hateful racially, ethnically or otherwise objectionable; or (vii) in the sole judgment of Y Combinator, is objectionable or which restricts or inhibits any other person from using or enjoying the Site, or which may expose Y Combinator or its users to any harm or liability of any type;
+interfere with or disrupt the Site or servers or networks connected to the Site, or disobey any requirements, procedures, policies or regulations of networks connected to the Site;
+violate any applicable local, state, national or international law, or any regulations having the force of law;
+impersonate any person or entity, or falsely state or otherwise misrepresent your affiliation with a person or entity;
+solicit personal information from anyone under the age of 18;
+harvest or collect email addresses or other contact information of other users from the Site by electronic or other means for the purposes of sending unsolicited emails or other unsolicited communications;
+advertise or offer to sell or buy any goods or services for any business purpose that is not specifically authorized;
+further or promote any criminal activity or enterprise or provide instructional information about illegal activities; or
+obtain or attempt to access or otherwise obtain any materials or information through any means not intentionally made available or provided for through the Site.
+Commercial Use
+: Unless otherwise expressly authorized herein or in the Site, you agree not to display, distribute, license, perform, publish, reproduce, duplicate, copy, create derivative works from, modify, sell, resell, exploit, transfer or upload for any commercial purposes, any portion of the Site, use of the Site, or access to the Site.
+The buying, exchanging, selling and/or promotion (commercial or otherwise) of upvotes, comments, submissions, accounts (or any aspect of your account or any other account), karma, and/or content is strictly prohibited, constitutes a material breach of these Terms of Use, and could result in legal liability.
+Intellectual Property Rights
+Site Content, Software and Trademarks
+: You acknowledge and agree that the Site may contain content or features (“Site Content”) that are protected by copyright, patent, trademark, trade secret or other proprietary rights and laws. Except as expressly authorized by Y Combinator, you agree not to modify, copy, frame, scrape, rent, lease, loan, sell, distribute or create derivative works based on the Site or the Site Content, in whole or in part, except that the foregoing does not apply to your own User Content (as defined below) that you legally upload to the Site. In connection with your use of the Site you will not engage in or use any data mining, robots, scraping or similar data gathering or extraction methods. If you are blocked by Y Combinator from accessing the Site (including by blocking your IP address), you agree not to implement any measures to circumvent such blocking (e.g., by masking your IP address or using a proxy IP address). Any use of the Site or the Site Content other than as specifically authorized herein is strictly prohibited. Any rights not expressly granted herein are reserved by Y Combinator.
+The Y Combinator name and logos are trademarks of Y Combinator (collectively the “Y Combinator Trademarks”). Other trademarks used and displayed via the Site may be trademarks of their respective owners who may or may not endorse or be affiliated with or connected to Y Combinator. Nothing in this Terms of Use or the Site should be construed as granting, by implication, estoppel, or otherwise, any license or right to use any of Y Combinator Trademarks displayed on the Site, without our prior written permission in each instance. All goodwill generated from the use of Y Combinator Trademarks will inure to our exclusive benefit.
+Third Party Material
+: Under no circumstances will Y Combinator be liable in any way for any content or materials of any third parties (including founders, investors or other users), including, but not limited to, for any errors or omissions in any content, or for any loss or damage of any kind incurred as a result of the use of any such content. You acknowledge that Y Combinator does not pre-screen content, but that Y Combinator and its designees will have the right (but not the obligation) in their sole discretion to refuse or remove any content that is available via the Site. Without limiting the foregoing, Y Combinator and its designees will have the right to remove any content that violates these Terms of Use or is deemed by Y Combinator, in its sole discretion, to be otherwise objectionable. You agree that you must evaluate, and bear all risks associated with, the use of any content, including any reliance on the accuracy, completeness, or usefulness of such content.
+User Content Transmitted Through the Site
+: With respect to the content or other materials you upload through the Site or share with other users or recipients (collectively, “User Content”), you represent and warrant that you own all right, title and interest in and to such User Content, including, without limitation, all copyrights and rights of publicity contained therein. By uploading any User Content you hereby grant and will grant Y Combinator and its affiliated companies a nonexclusive, worldwide, royalty free, fully paid up, transferable, sublicensable, perpetual, irrevocable license to copy, display, upload, perform, distribute, store, modify and otherwise use your User Content for any Y Combinator-related purpose in any form, medium or technology now known or later developed. However, please review the Privacy Policy located
+here
+for more information on how we treat information included in applications submitted to us.
+You acknowledge and agree that any questions, comments, suggestions, ideas, feedback or other information about the Site (“Submissions”) provided by you to Y Combinator are non-confidential and Y Combinator will be entitled to the unrestricted use and dissemination of these Submissions for any purpose, without acknowledgment or compensation to you.
+Without limiting the foregoing, you acknowledge and agree that Y Combinator may preserve content and may also disclose content if required to do so by law or in the good faith belief that such preservation or disclosure is reasonably necessary to: (a) comply with legal process, applicable laws or government requests; (b) enforce these Terms of Use; (c) respond to claims that any content violates the rights of third parties; or (d) protect the rights, property, or personal safety of Y Combinator, its users and the public. You understand that the technical processing and transmission of the Site, including your content, may involve (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks or devices.
+Copyright Complaints
+: Y Combinator respects the intellectual property of others, and we ask our users to do the same. If you believe that your work has been copied in a way that constitutes copyright infringement, or that your intellectual property rights have been otherwise violated, you should notify Y Combinator of your infringement claim in accordance with the procedure set forth below.
+Y Combinator will process and investigate notices of alleged infringement and will take appropriate actions under the Digital Millennium Copyright Act (“DMCA”) and other applicable intellectual property laws with respect to any alleged or actual infringement. A written notification of claimed copyright infringement should be faxed or mailed to:
+Y Combinator Management, LLC
+335 Pioneer Way
+Mountain View, CA 94041
+Attn: General Counsel / Copyright Agent
+Fax: 650-360-3189
+To be effective, the notification must be in writing and contain the following information:
+an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other intellectual property interest;
+a description of the copyrighted work or other intellectual property that you claim has been infringed;
+a description of where the material that you claim is infringing is located on the Site, with enough detail that we may find it on the Site;
+your address, telephone number, and email address;
+a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright or intellectual property owner, its agent, or the law;
+a statement by you, made under penalty of perjury, that the above information in your Notice is accurate and that you are the copyright or intellectual property owner or authorized to act on the copyright or intellectual property owner’s behalf.
+Counter-Notice
+: If you believe that your User Content that was removed (or to which access was disabled) is not infringing, or that you have the authorization from the copyright owner, the copyright owner’s agent, or pursuant to the law, to upload and use the content in your User Content, you may send a written counter-notice containing the following information to the Copyright Agent:
+your physical or electronic signature;
+identification of the content that has been removed or to which access has been disabled and the location at which the content appeared before it was removed or disabled;
+a statement that you have a good faith belief that the content was removed or disabled as a result of mistake or a misidentification of the content; and
+your name, address, telephone number, and email address, a statement that you consent to the jurisdiction of the federal court located within Northern District of California and a statement that you will accept service of process from the person who provided notification of the alleged infringement.
+If a counter-notice is received by the Copyright Agent, Y Combinator will send a copy of the counter-notice to the original complaining party informing that person that it may replace the removed content or cease disabling it in 10 business days. Unless the copyright owner files an action seeking a court order against the content provider, member or user, the removed content may be replaced, or access to it restored, in 10 to 14 business days or more after receipt of the counter-notice, at our sole discretion.
+Repeat Infringer Policy
+: In accordance with the DMCA and other applicable law, Y Combinator has adopted a policy of terminating, in appropriate circumstances and at Y Combinator's sole discretion, users who are deemed to be repeat infringers. Y Combinator may also at its sole discretion limit access to the Site and/or terminate the registrations of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement.
+Third Party Websites
+The Site may provide, or third parties may provide, links or other access to other sites and resources on the Internet or to third party applications. Y Combinator has no control over such sites, resources or applications and Y Combinator is not responsible for and does not endorse such sites, resources or applications. You further acknowledge and agree that Y Combinator will not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any content, events, goods or services available on or through any such sites, resources or applications. Any dealings you have with third parties found while using the Site are between you and the third party, and you agree that Y Combinator is not liable for any loss or claim that you may have against any such third party.
+Indemnity and Release
+You agree to release, indemnify and hold Y Combinator and its affiliates and their officers, employees, directors and agents harmless from any from any and all losses, damages, expenses, including reasonable attorneys’ fees, rights, claims, actions of any kind and injury (including death) arising out of or relating to your use of the Site or any related information, any User Content, your application(s) to Y Combinator or the results thereof, your violation of these Terms of Use or your violation of any rights of another. If you are a California resident, you waive California Civil Code Section 1542, which says: “A general release does not extend to claims which the creditor does not know or suspect to exist in his favor at the time of executing the release, which if known by him must have materially affected his settlement with the debtor.” If you are a resident of another jurisdiction, you waive any comparable statute or doctrine.
+Disclaimer of Warranties
+YOUR USE OF THE SITE IS AT YOUR SOLE RISK. THE SITE IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. Y COMBINATOR EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT.
+Y COMBINATOR MAKES NO WARRANTY THAT (I) THE SITE WILL MEET YOUR REQUIREMENTS, (II) THE SITE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, OR (III) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SITE WILL BE ACCURATE OR RELIABLE.
+Limitation of Liability
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT Y COMBINATOR WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY DAMAGES, OR DAMAGES FOR LOSS OF PROFITS INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF Y COMBINATOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), WHETHER BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY OR OTHERWISE, RESULTING FROM: (I) THE USE OR THE INABILITY TO USE THE SITE OR ANY RELATED INFORMATION; (II) UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA; (III) STATEMENTS OR CONDUCT OF ANY THIRD PARTY (INCLUDING USERS) ON THE SITE; OR (IV) ANY OTHER MATTER RELATING TO THE SITE. IN NO EVENT WILL Y COMBINATOR’S TOTAL LIABILITY TO YOU FOR ALL DAMAGES, LOSSES OR CAUSES OF ACTION EXCEED ONE HUNDRED DOLLARS ($100).
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS SET FORTH ABOVE MAY NOT APPLY TO YOU. IF YOU ARE DISSATISFIED WITH ANY PORTION OF THE SITE OR WITH THESE TERMS OF USE, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USE OF THE SITE.
+WITHOUT LIMITING THE FOREGOING, IF YOU ARE A USER FROM NEW JERSEY, THE ‘DISCLAIMER OF WARRANTIES’ AND ‘LIMITATION OF LIABILITY’ SECTIONS ABOVE ARE INTENDED TO BE ONLY AS BROAD AS IS PERMITTED UNDER NEW JERSEY LAW. IF ANY PORTION OF THESE SECTIONS IS HELD TO BE INVALID UNDER NEW JERSEY LAW, THE INVALIDITY OF SUCH PORTION SHALL NOT AFFECT THE VALIDITY OF THE REMAINING PORTIONS OF THE APPLICABLE SECTION.
+Dispute Resolution By Binding Arbitration
+: PLEASE READ THIS SECTION CAREFULLY AS IT AFFECTS YOUR RIGHTS.
+a. Agreement to Arbitrate
+This Dispute Resolution by Binding Arbitration section is referred to in this Terms of Use as the “Arbitration Agreement.” You agree that any and all disputes or claims that have arisen or may arise between you and Y Combinator, whether arising out of or relating to this Terms of Use (including any alleged breach thereof), the Site, any advertising, any aspect of the relationship or transactions between us, shall be resolved exclusively through final and binding arbitration, rather than a court, in accordance with the terms of this Arbitration Agreement, except that you may assert individual claims in small claims court, if your claims qualify. Further, this Arbitration Agreement does not preclude you from bringing issues to the attention of federal, state, or local agencies, and such agencies can, if the law allows, seek relief against us on your behalf. You agree that, by entering into this Terms of Use, you and Y Combinator are each waiving the right to a trial by jury or to participate in a class action. Your rights will be determined by a neutral arbitrator, not a judge or jury. The Federal Arbitration Act governs the interpretation and enforcement of this Arbitration Agreement.
+b. Prohibition of Class and Representative Actions and Non-Individualized Relief
+YOU AND Y COMBINATOR AGREE THAT EACH OF US MAY BRING CLAIMS AGAINST THE OTHER ONLY ON AN INDIVIDUAL BASIS AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE ACTION OR PROCEEDING. UNLESS BOTH YOU AND Y COMBINATOR AGREE OTHERWISE, THE ARBITRATOR MAY NOT CONSOLIDATE OR JOIN MORE THAN ONE PERSON’S OR PARTY’S CLAIMS AND MAY NOT OTHERWISE PRESIDE OVER ANY FORM OF A CONSOLIDATED, REPRESENTATIVE, OR CLASS PROCEEDING. ALSO, THE ARBITRATOR MAY AWARD RELIEF (INCLUDING MONETARY, INJUNCTIVE, AND DECLARATORY RELIEF) ONLY IN FAVOR OF THE INDIVIDUAL PARTY SEEKING RELIEF AND ONLY TO THE EXTENT NECESSARY TO PROVIDE RELIEF NECESSITATED BY THAT PARTY’S INDIVIDUAL CLAIM(S).
+c. Pre-Arbitration Dispute Resolution
+Y Combinator is always interested in resolving disputes amicably and efficiently, and most user concerns can be resolved quickly and to the user’s satisfaction by emailing us at
+yclegal@ycombinator.com
+. If such efforts prove unsuccessful, a party who intends to seek arbitration must first send to the other, by certified mail, a written Notice of Dispute (“Notice”). The Notice to Y Combinator should be sent to Y Combinator Management, LLC, 335 Pioneer Way, Mountain View, CA 94041 Attention General Counsel (“Notice Address”). The Notice must (i) describe the nature and basis of the claim or dispute and (ii) set forth the specific relief sought. If Y Combinator and you do not resolve the claim within sixty (60) calendar days after the Notice is received, you or Y Combinator may commence an arbitration proceeding. During the arbitration, the amount of any settlement offer made by Y Combinator or you shall not be disclosed to the arbitrator until after the arbitrator determines the amount, if any, to which you or Y Combinator is entitled.
+d. Arbitration Procedures
+Arbitration will be conducted by a neutral arbitrator in accordance with the American Arbitration Association’s (“AAA”) rules and procedures (collectively, the “AAA Rules”), as modified by this Arbitration Agreement. For information on the AAA, please visit its website, http://www.adr.org. If there is any inconsistency between any term of the AAA Rules and any term of this Arbitration Agreement, the applicable terms of this Arbitration Agreement will control unless the arbitrator determines that the application of the inconsistent Arbitration Agreement terms would not result in a fundamentally fair arbitration. The arbitrator must also follow the provisions of these Terms of Use as a court would. All issues are for the arbitrator to decide, including, but not limited to, issues relating to the scope, enforceability, and arbitrability of this Arbitration Agreement. Although arbitration proceedings are usually simpler and more streamlined than trials and other judicial proceedings, the arbitrator can award the same damages and relief on an individual basis that a court can award to an individual under the Terms of Use and applicable law. Decisions by the arbitrator are enforceable in court and may be overturned by a court only for very limited reasons.
+Unless Y Combinator and you agree otherwise, any arbitration hearings will take place in a reasonably convenient location for both parties with due consideration of their ability to travel and other pertinent circumstances. If the parties are unable to agree on a location, the determination shall be made by AAA. If your claim is for $10,000 or less, Y Combinator agrees that you may choose whether the arbitration will be conducted solely on the basis of documents submitted to the arbitrator, through a telephonic hearing, or by an in-person hearing as established by the AAA Rules. If your claim exceeds $10,000, the right to a hearing will be determined by the AAA Rules. Regardless of the manner in which the arbitration is conducted, the arbitrator shall issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the award is based.
+e. Costs of Arbitration
+Payment of all filing, administration, and arbitrator fees (collectively, the “Arbitration Fees”) will be governed by the AAA Rules, unless otherwise provided in this Arbitration Agreement.
+f. Confidentiality
+All aspects of the arbitration proceeding, and any ruling, decision, or award by the arbitrator, will be strictly confidential for the benefit of all parties.
+g. Severability
+If a court or the arbitrator decides that any term or provision of this Arbitration Agreement (other than the subsection (b) titled “Prohibition of Class and Representative Actions and Non-Individualized Relief” above) is invalid or unenforceable, the parties agree to replace such term or provision with a term or provision that is valid and enforceable and that comes closest to expressing the intention of the invalid or unenforceable term or provision, and this Arbitration Agreement shall be enforceable as so modified. If a court or the arbitrator decides that any of the provisions of subsection (b) above titled “Prohibition of Class and Representative Actions and Non-Individualized Relief” are invalid or unenforceable, then the entirety of this Arbitration Agreement shall be null and void. The remainder of the Terms of Use will continue to apply.
+h. Future Changes to Arbitration Agreement
+Notwithstanding any provision in this Terms of Use to the contrary, Y Combinator agrees that if it makes any future change to this Arbitration Agreement (other than a change to the Notice Address) while you are a user of the Site, you may reject any such change by sending Y Combinator written notice within thirty (30) calendar days of the change to the Notice Address provided above. By rejecting any future change, you are agreeing that you will arbitrate any dispute between us in accordance with the language of this Arbitration Agreement as of the date you first accepted these Terms of Use (or accepted any subsequent changes to these Terms of Use).
+Termination
+You agree that Y Combinator, in its sole discretion, may suspend or terminate your account (or any part thereof) or use of the Site and remove and discard any content within the Site, for any reason, including, without limitation, for lack of use or if Y Combinator believes that you have violated or acted inconsistently with the letter or spirit of these Terms of Use. Any suspected fraudulent, abusive or illegal activity that may be grounds for termination of your use of Site, may be referred to appropriate law enforcement authorities. Y Combinator may also in its sole discretion and at any time discontinue providing the Site, or any part thereof, with or without notice. You agree that any termination of your access to the Site under any provision of this Terms of Use may be effected without prior notice, and acknowledge and agree that Y Combinator may (but has no obligation to) immediately deactivate or delete your account and all related information and files in your account and/or bar any further access to such files or the Site. Termination of your account or access to any component of the Site will not terminate Y Combinator’s rights to your User Content. Further, you agree that Y Combinator will not be liable to you or any third party for any termination of your access to the Site.
+User Disputes
+You agree that you are solely responsible for your interactions with any other user in connection with the Site and Y Combinator will have no liability or responsibility with respect thereto. Y Combinator reserves the right, but has no obligation, to become involved in any way with disputes between you and any other user of the Site.
+General
+These Terms of Use constitute the entire agreement between you and Y Combinator and govern your use of the Site, superseding any prior agreements between you and Y Combinator with respect to the Site. These Terms of Use will be governed by the laws of the State of California without regard to its conflict of law provisions. With respect to any disputes or claims not subject to arbitration, as set forth above, you and Y Combinator agree to submit to the personal and exclusive jurisdiction of the state and federal courts located within San Francisco County, California. The failure of Y Combinator to exercise or enforce any right or provision of these Terms of Use will not constitute a waiver of such right or provision. If any provision of these Terms of Use is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties’ intentions as reflected in the provision, and the other provisions of these Terms of Use remain in full force and effect. You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of the Site or these Terms of Use must be filed within one (1) year after such claim or cause of action arose or be forever barred. A printed version of this agreement and of any notice given in electronic form will be admissible in judicial or administrative proceedings based upon or relating to this agreement to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form. You may not assign this Terms of Use without the prior written consent of Y Combinator, but Y Combinator may assign or transfer this Terms of Use, in whole or in part, without restriction. The section titles in these Terms of Use are for convenience only and have no legal or contractual effect. Notices to you may be made via either email or regular mail. The Site may also provide notices to you of changes to these Terms of Use or other matters by displaying notices or links to notices generally on the Site.
+Your Privacy
+At Y Combinator, we respect the privacy of our users. For details please see our Privacy Policy. By using the Site, you consent to our collection and use of personal data as outlined therein.
+Questions? Concerns?
+Please contact us at
+yclegal@ycombinator.com
+to report any violations of these Terms of Use or to pose any questions regarding this Terms of Use or the Site.
+TRADEMARKS
+The following is a non-exhaustive list of Y Combinator’s trademarks and service marks. The absence of a product or service name or logo from this list does not constitute a waiver of Y Combinator’s trademark, service mark or other intellectual property rights concerning that name or logo.
+Ad Innovation Conference™ Angel Conference™ AngelConf™ Bookface™ Female Founder Stories™ Female Founders Conference™ Hacker News® How to Start a Startup™ Make something people want™ Startup News™ Startup School™ Summer Founders Program™ The Macro™ The Patent Pledge™ Winter Founders Program™ Work at a Startup™ Y Combinator® Y Combinator Continuity™ Y Combinator Continuity Fund™ Y Combinator Fellowship™ YC™ YC Continuity™ YC Continuity Fund™ YC Fellowship™ YC Founders™ YC Hacks™ YC Startups™ YCC™ YCF™ YCNYC™
+Copyright
+Copyright © 2005–2025 Y Combinator.
+Contents
+Privacy Policy
+Terms of Use
+Trademarks
+Footer
+Y Combinator
+Programs
+YC Program
+Startup School
+Work at a Startup
+Co-Founder Matching
+Company
+YC Blog
+Contact
+Press
+People
+Careers
+Privacy Policy
+Notice at Collection
+Security
+Terms of Use
+Resources
+Startup Directory
+Startup Library
+Investors
+SAFE
+Hacker News
+Launch YC
+YC Deals
+Make something people want.
+Apply
+Twitter
+Twitter
+Facebook
+Facebook
+Instagram
+Instagram
+LinkedIn
+LinkedIn
+Youtube
+YouTube
+© 2025 Y Combinator
+
+
+--- CONTENT FROM https://www.ycombinator.com/blog ---
+
+About
+What Happens at YC?
+Apply
+YC Interview Guide
+FAQ
+People
+YC Blog
+Companies
+Startup Directory
+Founder Directory
+Launch YC
+Startup Jobs
+All Jobs
+◦ Engineering
+◦ Operations
+◦ Marketing
+◦ Sales
+Internships
+Startup Job Guide
+YC Startup Jobs Blog
+Find a Co-Founder
+Library
+SAFE
+Resources
+Startup School
+Newsletter
+Requests for Startups
+For Investors
+Verify Founders
+Hacker News
+Bookface
+Open main menu
+Apply for
+W2026
+batch.
+Apply
+Select a tab
+All Posts
+Startup Jobs
+Startup School
+All Posts
+Startup Jobs
+Startup School
+Search Blog Posts
+Welcoming Jon Xu and Andrew Miklas as YC’s Newest General Partners
+Over the last few batches, visiting partners Jon Xu and Andrew Miklas have become two of the most trusted voices in the YC community. They were both founders in YC’s Summer 2010 batch, and now, 15 years and two industry-shaping companies later, they’re back in a new role: General Partners at YC.
+Read More
+Recent Posts
+Dalton Caldwell’s Move to Partner Emeritus
+After 12+ years, 25 batches, and working with more than a thousand startups, Dalton Caldwell is transitioning to Partner Emeritus at YC. ...
+YC News
+Garry Tan
+Garry Tan
+6/12/2025
+Tyler Bosmeny built Clever into a $500M company–now he’s helping YC founders do the same as General Partner
+We’re thrilled to welcome Tyler Bosmeny back to YC, this time as a General Partner.
+YC News
+Garry Tan
+Garry Tan
+4/1/2025
+Michael Seibel's Legacy Continues at YC: Transition to Partner Emeritus
+If you’ve been around YC, you know Michael Seibel has been a huge part of it for over a decade. He’s done it all ...
+YC News
+Garry Tan
+Garry Tan
+3/20/2025
+All Posts
+East Coast College Tour 2025
+by
+Y Combinator
+3/13/2025
+YC is going on a college tour! We're visiting Harvard, Yale, MIT, Columbia, Cornell, and Cornell Tech. 
+
+If you're a current student at any of those schools and interested in startups, we'd love to meet you.
+Read More
+Summer Fellows Grants
+by
+Harj Taggar
+2/17/2025
+This summer, YC will be giving grants to college students to work on their own technical projects. We’re calling these the Summer Fellows Grants.
+
+We hope this will encourage the smartest students to indulge their intellectual curiosity and work on hard technical things.
+Read More
+Join us at AI Startup School — June 16-17
+by
+Garry Tan
+2/12/2025
+We're gathering 2,000 of the top CS undergrads, masters, and PhD candidates in AI to hear from speakers including Elon Musk, Satya Nadella, Sam Altman, Andrej Karpathy, Andrew Ng, and many more — the world’s top AI experts and founders who will teach you how to build the future.
+Read More
+Announcing the YC Spring 2025 batch
+by
+Dalton Caldwell
+1/20/2025
+Y Combinator is now running four batches per year: Winter, Spring, Summer, and Fall. We completed the first ever fall batch last year, F24, and are proud to announce the first ever spring batch. Applications are now open.
+Read More
+YC Winter 2025 batch applications due by Tuesday, November 12, 2024
+by
+Jared Friedman
+,
+Aaron Epstein
+11/5/2024
+To better serve founders given the rapid rate of technological change, YC recently switched from two to four batches per year.
+The winter 2025 batch will run from January to March, and applications are due on November 12.
+Read More
+Correcting the record for Continue and PearAI
+by
+Garry Tan
+10/4/2024
+YC is at our best when backing founders with an ethos of building for others, including strong open source developers like the founders of Continue and many others.
+Read More
+Showing
+1
+to
+10
+of
+2669
+total posts
+Next
+Categories
+Admissions
+Advice
+Biotech
+Blockchain
+Essay
+Female Founders
+Founder Stories
+Interviews
+Startup School
+Work at a Startup
+YC Events
+Sign up for weekly updates from
+Y Combinator
+Subscribe
+Footer
+Y Combinator
+Programs
+YC Program
+Startup School
+Work at a Startup
+Co-Founder Matching
+Company
+YC Blog
+Contact
+Press
+People
+Careers
+Privacy Policy
+Notice at Collection
+Security
+Terms of Use
+Resources
+Startup Directory
+Startup Library
+Investors
+SAFE
+Hacker News
+Launch YC
+YC Deals
+Make something people want.
+Apply
+Twitter
+Twitter
+Facebook
+Facebook
+Instagram
+Instagram
+LinkedIn
+LinkedIn
+Youtube
+YouTube
+© 2025 Y Combinator
+
+
+--- CONTENT FROM https://www.ycombinator.com/ ---
+
+About
+What Happens at YC?
+Apply
+YC Interview Guide
+FAQ
+People
+YC Blog
+Companies
+Startup Directory
+Founder Directory
+Launch YC
+Startup Jobs
+All Jobs
+◦ Engineering
+◦ Operations
+◦ Marketing
+◦ Sales
+Internships
+Startup Job Guide
+YC Startup Jobs Blog
+Find a Co-Founder
+Library
+SAFE
+Resources
+Startup School
+Newsletter
+Requests for Startups
+For Investors
+Verify Founders
+Hacker News
+Bookface
+Open main menu
+Apply for
+W2026
+batch.
+Apply
+Y Combinator
+Make something people want.
+Apply to YC
+5,000
+funded startups
+$800B
+combined valuation
+Top YC companies
++
+We help founders
+make something people want and the results speak for themselves.
+We help founders at their earliest stages regardless of their age.
+We improve the success rate of our startups.
+We give startups a huge fundraising advantage.
+Our companies have a track record of becoming billion dollar companies.
+Our formula for
+success
+.
+YC is
+run by startup founders
+who have built exactly what they wanted when starting and growing a startup.
+The most experienced partners
+Each founder is assigned a dedicated YC partner who has mentored hundreds of YC companies. They have more data on what it takes to build a successful startup than any other early stage startup advisor. These partners read applications, interview companies, and mentor startups throughout the batch. You can access them in person, over email, and on Slack.
+Investor network
+YC companies have raised $85 billion dollars from the best investors in the world. Our founders have access to the YC Investor Database which has profiles and reviews for more than 50,000 startup investors.
+Private social network only for founders
+YC founders get to benefit from the collective wisdom of over 9000 YC alumni. They can access these alums through Bookface, our private social network. We have a forum for asking questions to the community, a founder directory for finding specific people who can provide advice and intros, and a company directory for finding potential customers.
+Exclusive deals
+YC founders have access to over 1000 deals from leading software companies. Every YC company gets free credits or significant discounts on hosting, banking, cap table management, back office, and much more. Companies report these deals to be worth in excess of $500,000.
+The best written advice
+YC founders get to benefit from our collective experience funding 5000 companies across almost 20 years. We have extensive documentation for common questions about fundraising, go to market, sales, product market fit, mental health, hiring, and much more.
+Networks to build your team
+Through
+Work at a Startup
+and
+HN
+, we help our founders hire the small number of early engineers and other team members critical to finding product market fit. At any given time there are 150,000+ candidates searching for jobs at early stage YC companies.
+We put
+founders' interests
+first.
+We don’t take a board seat.
+We don’t demand 20% of your company.
+We don’t take weeks/months to decide to invest.
+We don’t charge fees.
+We don’t require decks, business plans, or MBAs.
+We don't tell you what to do. We only offer advice.
+Hear more from the community.
+"
+Y Combinator is the best program for creating top-end entrepreneurs that has ever existed.
+"
+Marc Andreessen
+,
+General Partner, Andreessen Horowitz
+"
+Y Combinator is the best startup accelerator in the world. YC helps their companies a lot, and the YC community is a huge asset for the companies that go through the program.
+"
+Ron Conway
+,
+Founder, SV Angel
+"
+At YC, we were challenged to do things that don't scale – to start with the perfect experience for one person, then work backwards and scale it to 100 people who love us. This was the best piece of advice we've ever received.
+"
+Brian Chesky
+,
+Founder, Airbnb (YC W09)
+"
+I doubt that Stripe would have worked without YC. It's that simple. Acquiring early customers, figuring out who to hire, closing deals with banks, raising money – YC's partners were closely involved and crucially helpful.
+"
+Patrick Collison
+,
+Founder, Stripe (YC S09)
+The Latest from YC
+The FDE Playbook for AI Startups with Bob McGrew
+3 days ago
+27:56
+Michael Truell: Building Cursor at 23, Taking on GitHub Copilot, and Advice to Engineering Students
+34K views
+8 days ago
+12:32
+GPT-OSS vs. Qwen vs. Deepseek: Comparing Open Source LLM Architectures
+20K views
+13 days ago
+45:26
+How This 25-Year-Old Built A $675M Legal AI Startup (With No Legal Experience)
+47K views
+16 days ago
+35:57
+Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System Design
+98K views
+23 days ago
+18:49
+The Sales Playbook for Founders
+52K views
+27 days ago
+40:37
+Figma CEO Dylan Field: How AI Will Transform Design
+28K views
+1 month ago
+46:16
+The Finance Startup Bringing Agentic AI to Wall Street
+48K views
+1 month ago
+40:48
+Scaling and the Road to Human-Level AI | Anthropic Co-founder Jared Kaplan
+51K views
+1 month ago
+43:42
+Brand Design Tips From Linear Founder Karri Saarinen
+29K views
+1 month ago
+44:53
+Chelsea Finn: Building Robots That Can Do Anything
+68K views
+1 month ago
+35:51
+Replit CEO Amjad Masad: Coding Agents, Autonomy, and the Future of Work
+33K views
+1 month ago
+27:27
+John Jumper: AlphaFold and the Future of Science
+31K views
+1 month ago
+43:13
+Aravind Srinivas: The Race to Build the AI Browser of the Future
+117K views
+2 months ago
+43:58
+Andrew Ng: Building Faster with AI
+317K views
+2 months ago
+38:56
+How to Spend Your 20s in the AI Era
+309K views
+2 months ago
+34:48
+François Chollet: The ARC Prize & How We Get to AGI
+124K views
+2 months ago
+44:22
+Fei-Fei Li: Spatial Intelligence is the Next Frontier in AI
+163K views
+2 months ago
+40:30
+Satya Nadella: Microsoft's AI Bets, Hyperscaling, Quantum Computing Breakthroughs
+131K views
+2 months ago
+42:44
+Sam Altman: The Future of OpenAI, ChatGPT's Origins, and Building AI Hardware
+442K views
+2 months ago
+49:41
+Elon Musk: Digital Superintelligence, Multiplanetary Life, How to Be Useful
+518K views
+2 months ago
+39:32
+Andrej Karpathy: Software Is Changing (Again)
+2M views
+2 months ago
+61:13
+Alexandr Wang: Building Scale AI, Transforming Work with Agents & Competing With China
+274K views
+2 months ago
+37:29
+Cursor CEO: Going Beyond Code, Superintelligent AI Agents And Why Taste Still Matters
+226K views
+3 months ago
+8:08
+Fusion Energy Is Tech's Next Big Unlock
+51K views
+3 months ago
+31:26
+State-Of-The-Art Prompting For AI Agents
+269K views
+3 months ago
+30:08
+AI Apps Are Broken — Here's How To Fix Them
+92K views
+3 months ago
+40:47
+Startup Ideas You Can Now Build With AI
+256K views
+3 months ago
+19:12
+How AI Coding Agents Will Change Your Job
+111K views
+4 months ago
+52:36
+Windsurf CEO: Betting On AI Agents, Pivoting In 48 Hours, And The Future of Coding
+239K views
+4 months ago
+16:40
+How To Get The Most Out Of Vibe Coding
+290K views
+4 months ago
+8:30
+The Next Breakthrough In AI Agents Is Here
+267K views
+5 months ago
+38:24
+How Zepto Became India’s Fastest Growing Startup
+188K views
+4 months ago
+20:44
+Why Every Founder Should Care About Design
+48K views
+5 months ago
+31:33
+How To Build The Future: Tony Xu
+163K views
+5 months ago
+43:15
+How To Navigate Co-Founder Disputes
+48K views
+5 months ago
+26:12
+Customer Obsession Made Gusto A $9.6 Billion Company
+27K views
+5 months ago
+37:42
+The Future Of Design With Figma's Dylan Field
+62K views
+6 months ago
+8:26
+GPT-4.5 = Big Model Energy
+31K views
+6 months ago
+31:34
+Vibe Coding Is The Future
+267K views
+6 months ago
+36:28
+Design Experts Critique AI Interfaces
+156K views
+6 months ago
+34:39
+How To Build The Future: Aravind Srinivas
+130K views
+6 months ago
+49:29
+How AI Is Changing Enterprise
+118K views
+6 months ago
+13:46
+Building A Supersonic Plane Company From The Ground Up
+80K views
+6 months ago
+29:07
+The Right (And Wrong) Way To Spend Money At Your Startup
+62K views
+7 months ago
+43:49
+How To Get AI Startup Ideas
+241K views
+7 months ago
+13:06
+The Engineering Unlocks Behind DeepSeek | YC Decoded
+208K views
+7 months ago
+30:45
+How To Build The AGI Future: Bob McGrew
+48K views
+7 months ago
+39:33
+AI Revolution: Why This Is The Best Time To Start A Startup
+187K views
+7 months ago
+10:12
+How Scaling Laws Will Determine AI's Future
+38K views
+7 months ago
+14:18
+How To Use AI In Your Startup
+82K views
+7 months ago
+43:28
+How To Build The Future: Parker Conrad
+56K views
+8 months ago
+24:32
+Building A $2 Billion SaaS Company: Lessons From A Two Time Founder
+87K views
+8 months ago
+7:03
+The Lightcone 2025 Forecast
+50K views
+8 months ago
+16:57
+How To Focus On The Right Problems
+146K views
+8 months ago
+19:33
+How David Lieb Turned a Failing Startup Into Google Photos
+349K views
+8 months ago
+38:11
+2024’s Biggest Startup Trends
+103K views
+9 months ago
+7:54
+Anthropic’s Claude Computer Use Is A Game Changer
+136K views
+9 months ago
+21:16
+How To Make The Most Out of Your 20s
+618K views
+9 months ago
+32:57
+How To Start A Dev Tools Company
+59K views
+9 months ago
+42:13
+Vertical AI Agents Could Be 10X Bigger Than SaaS
+903K views
+9 months ago
+22:43
+Twitter vs. X: Product Lessons For Startup Founders
+39K views
+9 months ago
+35:17
+Why The Next AI Breakthroughs Will Be In Reasoning, Not Scaling
+80K views
+10 months ago
+46:52
+How To Build The Future: Sam Altman
+673K views
+10 months ago
+15:58
+The AI Future Has Arrived: Here's What You Should Do About It
+132K views
+10 months ago
+33:45
+The 10 Trillion Parameter AI Model With 300 IQ
+61K views
+10 months ago
+13:41
+You Don’t Have To Be A Billionaire To Launch Satellites
+28K views
+10 months ago
+7:07
+Why OpenAI's o1 Is A Huge Deal
+40K views
+10 months ago
+17:55
+Starting A Company? The Key Terms You Should Know
+72K views
+10 months ago
+37:14
+Now Anyone Can Code: How AI Agents Can Build Your Whole App
+93K views
+10 months ago
+33:38
+Why Design Matters: Lessons from Stripe, Lyft and Airbnb
+54K views
+11 months ago
+18:34
+How Do Billion Dollar Startups Start?
+107K views
+11 months ago
+24:17
+Meta VS Apple: What Their Battle Means For AI Startups
+38K views
+11 months ago
+37:06
+Why Vertical LLM Agents Are The New $1 Billion SaaS Opportunities
+429K views
+11 months ago
+21:06
+Stripe Head of Design Katie Dill Reviews Startup Websites
+86K views
+11 months ago
+20:38
+How To Find A Co-Founder
+86K views
+11 months ago
+13:02
+What Founder Mode Really Means
+95K views
+11 months ago
+55:52
+Building The World's Best Image Diffusion Model
+18K views
+11 months ago
+17:40
+Signs Your Company Is Recovering From ZIRP
+22K views
+11 months ago
+32:46
+How To Convert Customers With Cold Emails
+87K views
+1 year ago
+59:00
+How YC Was Created With Jessica Livingston
+24K views
+1 year ago
+9:45
+Why AI Hasn’t Blown Our Minds…Yet
+50K views
+1 year ago
+29:23
+How To Improve Cohort Retention
+45K views
+1 year ago
+37:36
+Are We In An AI Hype Cycle?
+72K views
+1 year ago
+12:32
+How To Influence Decision Makers
+50K views
+1 year ago
+19:35
+Co-Founder Equity Mistakes to Avoid
+228K views
+1 year ago
+21:11
+How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years
+119K views
+1 year ago
+48:44
+Gmail Creator Paul Buchheit On AGI, Open Source Models, Freedom
+61K views
+1 year ago
+12:29
+The Problem With Startup "Experts"
+46K views
+1 year ago
+17:46
+How To Price For B2B
+106K views
+1 year ago
+13:50
+Tarpit Ideas: The Sequel
+84K views
+1 year ago
+18:18
+Why Startup Founders Should Launch Companies Sooner Than They Think
+88K views
+1 year ago
+38:24
+10 People + AI = Billion Dollar Company?
+207K views
+1 year ago
+18:23
+What Is ZIRP And How Did It Poison Startups?
+67K views
+1 year ago
+12:07
+Standing Up For Startups - YC Goes To D.C.
+17K views
+1 year ago
+41:07
+Better AI Models, Better Startups [Lightcone Podcast Ep. 7]
+84K views
+1 year ago
+25:42
+YC's Group Partners Discuss Doing Things That Don't Scale
+198K views
+1 year ago
+8:16
+How New Technology Creates New Businesses
+63K views
+1 year ago
+21:12
+Does Your Startup Website Pass The First Impression Test?
+49K views
+1 year ago
+42:22
+Consumer is back, What’s getting funded now, The vibes immaculate [Lightcone Podcast Ep. 6]
+90K views
+1 year ago
+12:11
+When Should You Trust Your Gut?
+64K views
+1 year ago
+48:37
+Inside The Hard Tech Startups Turning Sci-Fi Into Reality [Lightcone Podcast Ep. 5]
+77K views
+1 year ago
+9:35
+How to Survive the Crypto Boom & Bust Cycle
+14K views
+1 year ago
+34:06
+Building AI Models Faster And Cheaper Than You Think  [Lightcone Podcast Ep. 4]
+84K views
+1 year ago
+33:27
+Where Is The REAL Cerebral Valley? [Lightcone Podcast Ep. 3]
+84K views
+1 year ago
+11:59
+Stop Innovating (On The Wrong Things)
+91K views
+1 year ago
+27:59
+Apple Vision Pro: Startup Platform Of The Future? [Lightcone Podcast Ep. 2]
+98K views
+1 year ago
+32:27
+The Truth About Building AI Startups Today [Lightcone Podcast Ep. 1]
+509K views
+1 year ago
+14:25
+Backstory: Tom Blomfield
+220K views
+1 year ago
+10:35
+Do technical founders need a business co-founder?
+145K views
+1 year ago
+16:16
+The asymmetric upside of being positive
+41K views
+1 year ago
+23:18
+Five DevTool Startups Get Their Websites Reviewed
+37K views
+1 year ago
+15:14
+Does your tech startup really need a technical co-founder? Yes.
+533K views
+1 year ago
+Emmett Shear, Co-Founder of Twitch
+1 year ago
+17:29
+The 10-Year “Overnight” Success Story of Casetext
+37K views
+1 year ago
+12:21
+From Underdog to Undefeated: The Edrizio De La Cruz founder story
+10K views
+1 year ago
+23:50
+How to convert more visitors into customers
+45K views
+1 year ago
+3:04
+Why YC? We asked 50 founders why they applied to Y Combinator
+21K views
+1 year ago
+Bill Clerico, Co-Founder & CEO of WePay
+1 year ago
+12:48
+How Athelas is revolutionizing healthcare
+19K views
+1 year ago
+13:32
+Is it time to quit your job at a unicorn?
+48K views
+1 year ago
+Dimitri Dadiomov, Co-Founder & CEO of Modern Treasury
+1 year ago
+11:52
+Backstory: Surbhi Sarna
+52K views
+1 year ago
+7:05
+Founder FAQ: 40 AI startup founders on the current state of AI tech
+49K views
+1 year ago
+Brian Armstrong, Co-Founder and CEO of Coinbase
+1 year ago
+17:35
+Dalton & Michael: Why You Shouldn't Copy Your Tech Idols
+107K views
+1 year ago
+24:03
+Building a better mobile app
+129K views
+Over 1 year ago
+Brian Chesky, Co-Founder & CEO of Airbnb (Part II)
+1 year ago
+11:40
+Dalton & Michael: Why Investors (Secretly) Love Y Combinator
+48K views
+Over 1 year ago
+26:09
+YC's Group Partners share their worst investor meetings
+122K views
+Over 1 year ago
+4:00
+Founder FAQ: How did you get your first customer?
+125K views
+Over 1 year ago
+15:18
+Dalton & Michael: Does Your Startup Need To Be In San Francisco?
+78K views
+Over 1 year ago
+3:53
+Founder FAQ: How did you meet your co-founder?
+66K views
+Over 1 year ago
+20:49
+YC's Group Partners share their favorite pivot stories
+137K views
+Over 1 year ago
+13:21
+Dalton & Michael: Will OpenAI kill all startups?
+138K views
+Over 1 year ago
+The FDE Playbook for AI Startups with Bob McGrew
+3 days ago
+27:56
+Michael Truell: Building Cursor at 23, Taking on GitHub Copilot, and Advice to Engineering Students
+34K views
+8 days ago
+12:32
+GPT-OSS vs. Qwen vs. Deepseek: Comparing Open Source LLM Architectures
+20K views
+13 days ago
+Startup School
+YC's Partners teach you to build the foundation of a billion dollar company
+Essays by Paul Graham
+A collection of essays by Y Combinator co-founder Paul Graham
+Explore more content
+Visit the YC Library, the hub for YC's startup videos, essays, podcasts, and more
+Want to learn more?
+YC Library
+Videos, podcasts, and essays for startup founders
+Newsletter
+Keep up with the latest news, launches, jobs, and events from the YC community
+Launch YC
+Discover new YC companies and products
+Work at a Startup
+Find your next role at a YC startup
+Blog
+Essays, events, and announcements from YC
+Co-Founder Matching
+Meet a potential co-founder to start a startup with
+Footer
+Y Combinator
+Programs
+YC Program
+Startup School
+Work at a Startup
+Co-Founder Matching
+Company
+YC Blog
+Contact
+Press
+People
+Careers
+Privacy Policy
+Notice at Collection
+Security
+Terms of Use
+Resources
+Startup Directory
+Startup Library
+Investors
+SAFE
+Hacker News
+Launch YC
+YC Deals
+Make something people want.
+Apply
+Twitter
+Twitter
+Facebook
+Facebook
+Instagram
+Instagram
+LinkedIn
+LinkedIn
+Youtube
+YouTube
+©
+2025
+Y Combinator
