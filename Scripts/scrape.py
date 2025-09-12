@@ -2,13 +2,14 @@ import undetected_chromedriver as uc
 import time
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
+import os
 
 def scrape_dynamic_page(url: str) -> str:
     """
     Scrapes the full HTML content of a JavaScript-heavy website
     while attempting to bypass bot detection and handling infinite scroll.
     """
-    driver = None  # Initialize driver to None
+    driver = None
     try:
         print("🚀 Starting browser in headless mode...")
         options = uc.ChromeOptions()
@@ -45,77 +46,94 @@ def scrape_dynamic_page(url: str) -> str:
         return f"Error: Could not scrape the page. {e}"
         
     finally:
+        # Check if the driver object was successfully created
         if driver:
             try:
+                # Use a small delay before quitting to avoid race conditions
+                time.sleep(1)
                 driver.quit()
-            except OSError as e:
-                if "The handle is invalid" in str(e):
-                    pass 
-                else:
-                    raise
+            except Exception as e:
+                # Catch any errors during the quit process itself, like the OSError
+                print(f"Error during driver quit: {e}")
 
 def extract_text_and_links(html_content: str, base_url: str):
-    """
-    Extracts readable text and hyperlinks from the main content area of an HTML document.
-    """
+    # ... (rest of the function is the same)
     soup = BeautifulSoup(html_content, 'html.parser')
-    # List of common CSS selectors for the main content area of a webpage
     main_content_selectors = ['main', 'article', '[role="main"]', '#content', '#main', '.content', '.main']
     search_area = None
     
-    # Try each selector until we find the main content area
     for selector in main_content_selectors:
         search_area = soup.select_one(selector)
         if search_area:
             print(f"  -> Found main content using selector: '{selector}'")
             break
             
-    # If no specific main content area is found, fall back to the whole page body
     if not search_area:
         print("  -> No specific main content tag found. Searching entire page for links.")
         search_area = soup.body
 
-    # Extract text and links from the determined search area
     text = search_area.get_text(separator='\n', strip=True)
     links = set()
     for a_tag in search_area.find_all('a', href=True):
         href = a_tag['href']
-        # Convert relative links (like "/about") to absolute URLs
         absolute_link = urljoin(base_url, href)
         links.add(absolute_link)
         
     return text, list(links)
 
+def read_links_from_file(filename="links.txt"):
+    # ... (rest of the function is the same)
+    links = []
+    if os.path.exists(filename):
+        with open(filename, 'r', encoding='utf-8') as f:
+            links = [line.strip() for line in f if line.strip()]
+        print(f"Loaded {len(links)} initial links from {filename}.")
+    else:
+        print(f"Warning: The file '{filename}' was not found. Starting with an empty list.")
+    return links
 
 # --- Main execution ---
+# --- Main execution ---
 if __name__ == "__main__":
-    start_url = "https://www.ycombinator.com/library"
-    urls_to_visit = [start_url]
+    urls_to_visit = read_links_from_file()
     visited_urls = set()
     all_scraped_text = []
-    
-    # Get the domain to ensure we don't leave the target website
+
+    if not urls_to_visit:
+        print("No URLs to crawl. Exiting.")
+        exit()
+
+    start_url = urls_to_visit[0]
     domain = urlparse(start_url).netloc
     
-    # Set a limit to prevent the crawler from running indefinitely
-    max_pages_to_crawl = 10 
+    # We will use a set to avoid duplicates and a list for the crawl queue
+    urls_to_visit_queue = urls_to_visit.copy()
+    
+    max_pages_to_crawl = 20
     pages_crawled = 0
 
-    print(f"Starting crawl at: {start_url}")
+    print(f"Starting crawl with {len(urls_to_visit_queue)} initial links.")
     print(f"Will stay on domain: {domain}")
     print(f"Maximum pages to crawl: {max_pages_to_crawl}")
 
-    while urls_to_visit and pages_crawled < max_pages_to_crawl:
-        current_url = urls_to_visit.pop(0)
+    while urls_to_visit_queue and pages_crawled < max_pages_to_crawl:
+        current_url = urls_to_visit_queue.pop(0)
         
-        # Clean the URL (remove fragments) and check if we should visit it
         cleaned_url = urljoin(current_url, urlparse(current_url).path)
-        if cleaned_url in visited_urls or urlparse(cleaned_url).netloc != domain:
+        
+        # Check if URL is in the visited set
+        if cleaned_url in visited_urls:
+            print(f"Skipping already visited URL: {cleaned_url}")
+            continue
+
+        # Check if the URL is on the target domain
+        if urlparse(cleaned_url).netloc != domain:
+            print(f"Skipping out-of-domain URL: {cleaned_url}")
             continue
 
         print(f"\n--- Crawling page {pages_crawled + 1}/{max_pages_to_crawl} ---")
         print(f"URL: {cleaned_url}")
-
+        
         scraped_html = scrape_dynamic_page(cleaned_url)
         visited_urls.add(cleaned_url)
         pages_crawled += 1
@@ -124,18 +142,18 @@ if __name__ == "__main__":
             clean_text, new_links = extract_text_and_links(scraped_html, cleaned_url)
             all_scraped_text.append(f"\n\n--- CONTENT FROM {cleaned_url} ---\n\n{clean_text}")
             
-            # Add all new, unvisited links from the same domain to the queue
             for link in new_links:
-                if link not in visited_urls:
-                    urls_to_visit.append(link)
+                # Add new, unvisited links from the same domain to the queue
+                if urlparse(link).netloc == domain:
+                    # Only add if not already in the queue or visited
+                    if link not in visited_urls and link not in urls_to_visit_queue:
+                        urls_to_visit_queue.append(link)
     
     print("\nCrawling finished. Combining text...")
     
-    # Combine the text from all visited pages and save it to a file
     final_text = "\n".join(all_scraped_text)
     file_path = "scraped_text.txt"
     with open(file_path, "w", encoding="utf-8") as f:
         f.write(final_text)
     
     print(f"\n✅ All text from {pages_crawled} pages has been saved to '{file_path}'")
-
