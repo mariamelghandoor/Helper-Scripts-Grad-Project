@@ -1,3 +1,5 @@
+
+
 --- CONTENT FROM https://www.ycombinator.com/library ---
 
 About
@@ -44,31 +46,31 @@ library archive
 here
 .
 The FDE Playbook for AI Startups with Bob McGrew
-3 days ago
+4 days ago
 Bob McGrew, who helped shape PayPal, Palantir, and OpenAI—where he led the development of ChatGPT, GPT-4, and the o1 reasoning model—joins The Lightcone to share how his Forward Deployed Engineer model shaped today’s AI boom, why “doing things that don’t scale at scale” works, and where the biggest opportunities lie for founders in AI.
 The Latest
 The FDE Playbook for AI Startups with Bob McGrew
-3 days ago
+4 days ago
 27:56
 Michael Truell: Building Cursor at 23, Taking on GitHub Copilot, and Advice to Engineering Students
 34K views
-8 days ago
+9 days ago
 12:32
 GPT-OSS vs. Qwen vs. Deepseek: Comparing Open Source LLM Architectures
 20K views
-13 days ago
+14 days ago
 45:26
 How This 25-Year-Old Built A $675M Legal AI Startup (With No Legal Experience)
 47K views
-16 days ago
+17 days ago
 35:57
 Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System Design
 98K views
-23 days ago
+24 days ago
 18:49
 The Sales Playbook for Founders
 52K views
-27 days ago
+28 days ago
 40:37
 Figma CEO Dylan Field: How AI Will Transform Design
 28K views
@@ -220,7 +222,7 @@ How AI Is Changing Enterprise
 13:46
 Building A Supersonic Plane Company From The Ground Up
 80K views
-6 months ago
+7 months ago
 29:07
 The Right (And Wrong) Way To Spend Money At Your Startup
 62K views
@@ -248,7 +250,7 @@ How Scaling Laws Will Determine AI's Future
 14:18
 How To Use AI In Your Startup
 82K views
-7 months ago
+8 months ago
 43:28
 How To Build The Future: Parker Conrad
 56K views
@@ -576,15 +578,15 @@ Dalton & Michael: Will OpenAI kill all startups?
 138K views
 Over 1 year ago
 The FDE Playbook for AI Startups with Bob McGrew
-3 days ago
+4 days ago
 27:56
 Michael Truell: Building Cursor at 23, Taking on GitHub Copilot, and Advice to Engineering Students
 34K views
-8 days ago
+9 days ago
 12:32
 GPT-OSS vs. Qwen vs. Deepseek: Comparing Open Source LLM Architectures
 20K views
-13 days ago
+14 days ago
 Startup School
 17:14
 Should you start a startup?
@@ -681,7 +683,7 @@ How To Get The Most Out Of Vibe Coding
 18:49
 The Sales Playbook for Founders
 52K views
-27 days ago
+28 days ago
 17:14
 Should you start a startup?
 487K views
@@ -696,11 +698,11 @@ How to build an MVP
 Over 1 year ago
 Lightcone Podcast
 The FDE Playbook for AI Startups with Bob McGrew
-3 days ago
+4 days ago
 35:57
 Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System Design
 98K views
-23 days ago
+24 days ago
 38:56
 How to Spend Your 20s in the AI Era
 309K views
@@ -822,11 +824,11 @@ The Truth About Building AI Startups Today [Lightcone Podcast Ep. 1]
 509K views
 1 year ago
 The FDE Playbook for AI Startups with Bob McGrew
-3 days ago
+4 days ago
 35:57
 Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System Design
 98K views
-23 days ago
+24 days ago
 38:56
 How to Spend Your 20s in the AI Era
 309K views
@@ -905,22 +907,14 @@ How To Build The Future: Tony Xu
 163K views
 5 months ago
 YC Decoded
-12:32
-GPT-OSS vs. Qwen vs. Deepseek: Comparing Open Source LLM Architectures
-20K views
-13 days ago
-10:12
-How Scaling Laws Will Determine AI's Future
-38K views
-7 months ago
-8:26
-GPT-4.5 = Big Model Energy
-31K views
-6 months ago
 8:30
 The Next Breakthrough In AI Agents Is Here
 267K views
 5 months ago
+8:26
+GPT-4.5 = Big Model Energy
+31K views
+6 months ago
 13:06
 The Engineering Unlocks Behind DeepSeek | YC Decoded
 208K views
@@ -940,15 +934,23 @@ Why OpenAI's o1 Is A Huge Deal
 12:32
 GPT-OSS vs. Qwen vs. Deepseek: Comparing Open Source LLM Architectures
 20K views
-13 days ago
+14 days ago
 10:12
 How Scaling Laws Will Determine AI's Future
 38K views
 7 months ago
+8:30
+The Next Breakthrough In AI Agents Is Here
+267K views
+5 months ago
 8:26
 GPT-4.5 = Big Model Energy
 31K views
 6 months ago
+13:06
+The Engineering Unlocks Behind DeepSeek | YC Decoded
+208K views
+7 months ago
 AI Startup School
 39:32
 Andrej Karpathy: Software Is Changing (Again)
@@ -1001,7 +1003,7 @@ Figma CEO Dylan Field: How AI Will Transform Design
 27:56
 Michael Truell: Building Cursor at 23, Taking on GitHub Copilot, and Advice to Engineering Students
 34K views
-8 days ago
+9 days ago
 39:32
 Andrej Karpathy: Software Is Changing (Again)
 2M views
@@ -1022,7 +1024,7 @@ The Right (And Wrong) Way To Spend Money At Your Startup
 14:18
 How To Use AI In Your Startup
 82K views
-7 months ago
+8 months ago
 18:34
 How Do Billion Dollar Startups Start?
 107K views
@@ -1054,7 +1056,7 @@ The Right (And Wrong) Way To Spend Money At Your Startup
 14:18
 How To Use AI In Your Startup
 82K views
-7 months ago
+8 months ago
 18:34
 How Do Billion Dollar Startups Start?
 107K views
@@ -1353,50 +1355,50 @@ The Secrets of Y Combinator’s Early Success (with YC Co-Founder Jessica Living
 25K views
 1 year ago
 The Social Radars Podcast
-Trevor Blackwell, Co-founder Y Combinator; Founder, Anybots
+Paul Graham, Co-Founder of Y Combinator and Viaweb
+Over 1 year ago
+Parker Conrad, Founder of Zenefits & Rippling
 1 year ago
-Yuri Sagalov, Co-Founder of AeroFS
+Bill Clerico, Co-Founder & CEO of WePay
 1 year ago
-Steve Huffman, Co-Founder & CEO of Reddit
+Tracy Young, Co-Founder & CEO of PlanGrid
 Over 1 year ago
 Edith Elliott, Co-Founder & CEO of Noora Health
 Over 1 year ago
-Brian Chesky, Co-Founder & CEO of Airbnb (Part II)
+Trevor Blackwell, Co-founder Y Combinator; Founder, Anybots
 1 year ago
-Brian Chesky, Co-Founder & CEO of Airbnb
-Over 1 year ago
 Dimitri Dadiomov, Co-Founder & CEO of Modern Treasury
-1 year ago
-Parker Conrad, Founder of Zenefits & Rippling
-1 year ago
-Paul Graham, Co-Founder of Y Combinator and Viaweb
-Over 1 year ago
-Patrick & John Collison, Co-Founders of Stripe
-1 year ago
-Adora Cheung, Co-founder of Homejoy & Instalab
 1 year ago
 Emmett Shear, Co-Founder of Twitch
 1 year ago
-Tony Xu, Co-Founder & CEO of Doordash
-Over 1 year ago
+Yuri Sagalov, Co-Founder of AeroFS
+1 year ago
+Adora Cheung, Co-founder of Homejoy & Instalab
+1 year ago
 Garry Tan, President and CEO of Y Combinator
 Over 1 year ago
-Brian Armstrong, Co-Founder and CEO of Coinbase
+Patrick & John Collison, Co-Founders of Stripe
+1 year ago
+Brian Chesky, Co-Founder & CEO of Airbnb (Part II)
 1 year ago
 David Lieb, Creator of Google Photos
 Over 1 year ago
-Tracy Young, Co-Founder & CEO of PlanGrid
+Brian Chesky, Co-Founder & CEO of Airbnb
 Over 1 year ago
-Paul Buchheit, Creator of Gmail
+Tony Xu, Co-Founder & CEO of Doordash
 Over 1 year ago
-Bill Clerico, Co-Founder & CEO of WePay
-1 year ago
-Trevor Blackwell, Co-founder Y Combinator; Founder, Anybots
-1 year ago
-Yuri Sagalov, Co-Founder of AeroFS
-1 year ago
 Steve Huffman, Co-Founder & CEO of Reddit
 Over 1 year ago
+Brian Armstrong, Co-Founder and CEO of Coinbase
+1 year ago
+Paul Buchheit, Creator of Gmail
+Over 1 year ago
+Paul Graham, Co-Founder of Y Combinator and Viaweb
+Over 1 year ago
+Parker Conrad, Founder of Zenefits & Rippling
+1 year ago
+Bill Clerico, Co-Founder & CEO of WePay
+1 year ago
 Founder FAQ
 5:46
 33 AI Startup Founders Debate the Creation of Artificial General Intelligence
@@ -1600,14 +1602,6 @@ How do you convince someone to join your startup?
 63K views
 Over 1 year ago
 Pivoting
-20:49
-YC's Group Partners share their favorite pivot stories
-137K views
-Over 1 year ago
-56:31
-On starting and scaling one of the biggest iOS apps
-9,423 views
-Over 1 year ago
 27:55
 All about pivoting
 126K views
@@ -1623,6 +1617,14 @@ Over 1 year ago
 27:55
 All about pivoting
 126K views
+Over 1 year ago
+20:49
+YC's Group Partners share their favorite pivot stories
+137K views
+Over 1 year ago
+56:31
+On starting and scaling one of the biggest iOS apps
+9,423 views
 Over 1 year ago
 Good Ideas, Bad Ideas
 6:21
@@ -1660,6 +1662,19 @@ Tarpit ideas - what are tarpit ideas & how to avoid them
 663K views
 Over 1 year ago
 Fundraising and Equity
+28:46
+Modern startup funding
+87K views
+Over 1 year ago
+6:20
+How pitching investors is different than pitching customers
+108K views
+Over 1 year ago
+A guide to seed fundraising
+Geoff Ralston
+The most comprehensive guide on why, when, and how to raise money for your startup.
+A guide to seed fundraising
+Over 1 year ago
 4:18
 How to split equity among co-founders
 326K views
@@ -1667,19 +1682,6 @@ Over 1 year ago
 28:12
 How startup fundraising works
 406K views
-Over 1 year ago
-6:20
-How pitching investors is different than pitching customers
-108K views
-Over 1 year ago
-28:46
-Modern startup funding
-87K views
-Over 1 year ago
-A guide to seed fundraising
-Geoff Ralston
-The most comprehensive guide on why, when, and how to raise money for your startup.
-A guide to seed fundraising
 Over 1 year ago
 45:03
 Understanding SAFEs and priced equity rounds
@@ -1689,17 +1691,18 @@ Over 1 year ago
 Dalton & Michael: YC founders made these fundraising mistakes
 84K views
 Over 1 year ago
-4:18
-How to split equity among co-founders
-326K views
-Over 1 year ago
-28:12
-How startup fundraising works
-406K views
+28:46
+Modern startup funding
+87K views
 Over 1 year ago
 6:20
 How pitching investors is different than pitching customers
 108K views
+Over 1 year ago
+A guide to seed fundraising
+Geoff Ralston
+The most comprehensive guide on why, when, and how to raise money for your startup.
+A guide to seed fundraising
 Over 1 year ago
 Footer
 Y Combinator
@@ -1741,7 +1744,7 @@ YouTube
 © 2025 Y Combinator
 
 
---- CONTENT FROM https://www.ycombinator.com/library/Mt-the-fde-playbook-for-ai-startups-with-bob-mcgrew ---
+--- CONTENT FROM https://www.ycombinator.com/blog ---
 
 About
 What Happens at YC?
@@ -1775,57 +1778,1196 @@ Verify Founders
 Hacker News
 Bookface
 Open main menu
-Log in
-·
 Apply for
 W2026
 batch.
 Apply
-Home
-›
-Lightcone Podcast
-›
-The FDE Playbook for AI Startups with Bob McGrew
-Lightcone
-The FDE Playbook for AI Startups with Bob McGrew
-by Y Combinator
-3 days ago
-Bob McGrew helped build some of the most influential technologies of the past two decades. Bob was an early engineer at
-PayPal, an early executive at Palantir and was recently Chief Research Officer at OpenAI - where he led the development
-of ChatGPT, GPT-4 and the o1 reasoning model.
-During his time at Palantir he was a pioneer of the Forward Deployed Engineer (FDE) model, a strategy that is at the
-heart of the AI boom today.
-On this episode of The Lightcone, he explains how FDEs became central to today's startups, why "doing things that don't
-scale at scale" works, and where he sees the biggest opportunities for founders working in AI.
-Up next from Lightcone Podcast
-35:57
-Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System Design
-98K views
-23 days ago
-Related
-38:56
-How to Spend Your 20s in the AI Era
-309K views
-2 months ago
-61:13
-Alexandr Wang: Building Scale AI, Transforming Work with Agents & Competing With China
-274K views
-2 months ago
-4:00
-Founder FAQ: How did you get your first customer?
-125K views
-Over 1 year ago
-35:57
-Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System Design
-98K views
-23 days ago
-37:36
-Are We In An AI Hype Cycle?
-72K views
-1 year ago
-YC's essential startup advice
+Select a tab
+All Posts
+Startup Jobs
+Startup School
+All Posts
+Startup Jobs
+Startup School
+Search Blog Posts
+Welcoming Jon Xu and Andrew Miklas as YC’s Newest General Partners
+Over the last few batches, visiting partners Jon Xu and Andrew Miklas have become two of the most trusted voices in the YC community. They were both founders in YC’s Summer 2010 batch, and now, 15 years and two industry-shaping companies later, they’re back in a new role: General Partners at YC.
+Read More
+Recent Posts
+Dalton Caldwell’s Move to Partner Emeritus
+After 12+ years, 25 batches, and working with more than a thousand startups, Dalton Caldwell is transitioning to Partner Emeritus at YC. ...
+YC News
+Garry Tan
+Garry Tan
+6/12/2025
+Tyler Bosmeny built Clever into a $500M company–now he’s helping YC founders do the same as General Partner
+We’re thrilled to welcome Tyler Bosmeny back to YC, this time as a General Partner.
+YC News
+Garry Tan
+Garry Tan
+4/1/2025
+Michael Seibel's Legacy Continues at YC: Transition to Partner Emeritus
+If you’ve been around YC, you know Michael Seibel has been a huge part of it for over a decade. He’s done it all ...
+YC News
+Garry Tan
+Garry Tan
+3/20/2025
+All Posts
+East Coast College Tour 2025
+by
 Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
+3/13/2025
+YC is going on a college tour! We're visiting Harvard, Yale, MIT, Columbia, Cornell, and Cornell Tech. 
+
+If you're a current student at any of those schools and interested in startups, we'd love to meet you.
+Read More
+Summer Fellows Grants
+by
+Harj Taggar
+2/17/2025
+This summer, YC will be giving grants to college students to work on their own technical projects. We’re calling these the Summer Fellows Grants.
+
+We hope this will encourage the smartest students to indulge their intellectual curiosity and work on hard technical things.
+Read More
+Join us at AI Startup School — June 16-17
+by
+Garry Tan
+2/12/2025
+We're gathering 2,000 of the top CS undergrads, masters, and PhD candidates in AI to hear from speakers including Elon Musk, Satya Nadella, Sam Altman, Andrej Karpathy, Andrew Ng, and many more — the world’s top AI experts and founders who will teach you how to build the future.
+Read More
+Announcing the YC Spring 2025 batch
+by
+Dalton Caldwell
+1/20/2025
+Y Combinator is now running four batches per year: Winter, Spring, Summer, and Fall. We completed the first ever fall batch last year, F24, and are proud to announce the first ever spring batch. Applications are now open.
+Read More
+YC Winter 2025 batch applications due by Tuesday, November 12, 2024
+by
+Jared Friedman
+,
+Aaron Epstein
+11/5/2024
+To better serve founders given the rapid rate of technological change, YC recently switched from two to four batches per year.
+The winter 2025 batch will run from January to March, and applications are due on November 12.
+Read More
+Correcting the record for Continue and PearAI
+by
+Garry Tan
+10/4/2024
+YC is at our best when backing founders with an ethos of building for others, including strong open source developers like the founders of Continue and many others.
+Read More
+Showing
+1
+to
+10
+of
+2669
+total posts
+Next
+Categories
+Admissions
+Advice
+Biotech
+Blockchain
+Essay
+Female Founders
+Founder Stories
+Interviews
+Startup School
+Work at a Startup
+YC Events
+Sign up for weekly updates from
+Y Combinator
+Subscribe
+Footer
+Y Combinator
+Programs
+YC Program
+Startup School
+Work at a Startup
+Co-Founder Matching
+Company
+YC Blog
+Contact
+Press
+People
+Careers
+Privacy Policy
+Notice at Collection
+Security
+Terms of Use
+Resources
+Startup Directory
+Startup Library
+Investors
+SAFE
+Hacker News
+Launch YC
+YC Deals
+Make something people want.
+Apply
+Twitter
+Twitter
+Facebook
+Facebook
+Instagram
+Instagram
+LinkedIn
+LinkedIn
+Youtube
+YouTube
+© 2025 Y Combinator
+
+
+--- CONTENT FROM https://www.ycombinator.com/launches ---
+
+About
+What Happens at YC?
+Apply
+YC Interview Guide
+FAQ
+People
+YC Blog
+Companies
+Startup Directory
+Founder Directory
+Launch YC
+Startup Jobs
+All Jobs
+◦ Engineering
+◦ Operations
+◦ Marketing
+◦ Sales
+Internships
+Startup Job Guide
+YC Startup Jobs Blog
+Find a Co-Founder
+Library
+SAFE
+Resources
+Startup School
+Newsletter
+Requests for Startups
+For Investors
+Verify Founders
+Hacker News
+Bookface
+Open main menu
+Apply for
+W2026
+batch.
+Apply
+Launch YC
+The launchpad for YC startups
+🧠 AI
+📊 B2B
+🍃 Climate
+💸 Cryptocurrency
+✏️ Design
+⚒️ Devtools
+🎓 Education
+🏦 Fintech
+🛒 Marketplace
+🖥️ SaaS
+All Batches
+Summer 2025
+Spring 2025
+Winter 2025
+Fall 2024
+Summer 2024
+Winter 2024
+Summer 2023
+Winter 2023
+Summer 2022
+Winter 2022
+Summer 2021
+Winter 2021
+Summer 2020
+Winter 2020
+Summer 2019
+Winter 2019
+Summer 2018
+Winter 2018
+Summer 2017
+Winter 2017
+Summer 2016
+Winter 2016
+Summer 2015
+Winter 2014
+All Industries
+B2B
+Consumer
+Education
+Fintech
+Government
+Healthcare
+Industrials
+Real Estate and Construction
+Sort By:
+Sort Order
+Votes
+Date
+3
+Smobi - Business Texting Reimagined.
+We help businesses 5x their engagement with interactive & conversational texts over RCS.
+Kunal Puri
+Smobi
+a day ago
+Summer 2023
+B2B
+API
+Marketing
+SMS
+Telecommunications
+4
+The Replay Company - Unlimited Free Session Replay + Simulate your users with AI instead of A/B testing
+Stop treating your customers like lab rats. Test changes in simulation and ship the best version.
+Tejas Bhakta
+Morph
+a day ago
+Summer 2023
+Artificial Intelligence
+Generative AI
+AI
+16
+Quill Bills: AI billing that makes doctors more money!
+Transparent, Fast, and Affordable Medical Billing Agency
+Gabriel Banks
+Quill Bills
+3 days ago
+Summer 2023
+Healthcare
+Health Insurance
+Healthcare IT
+Billing
+AI
+📩 Get all of the Launch YC posts in your inbox!
+Subscribe
+22
+GoSearch Free: Personal Enterprise Search & AI Agents
+First free-forever agentic enterprise search solution for personal apps.
+Jorge Zamora
+GoLinks
+3 days ago
+Winter 2019
+SaaS
+Productivity
+Collaboration
+23
+The Hudson Labs Co-Analyst - AI for equity research
+Meet the Co-Analyst - the precision of a terminal with the adaptability of AI
+Kris Bennatti
+Hudson Labs (formerly Bedrock AI)
+3 days ago
+Summer 2021
+Artificial Intelligence
+Fintech
+SaaS
+10
+Duranium — Reshoring critical metal production
+Reshoring critical light-weight metal production (Ti, Mg, Al, Zr, Hf) — more profitably than any other method through modernized carbochlorination and co-production.
+Brenden Prins-McKinney
+Duranium
+3 days ago
+Summer 2025
+Manufacturing
+Advanced Materials
+ClimateTech
+77
+Nottelabs: Web Agents for Enterprise
+Reliable Web Agents that can act and scrape on any site at scale
+Andrea Pinto
+Nottelabs
+8 days ago
+Summer 2025
+Artificial Intelligence
+Developer Tools
+Automation
+6
+Clad Locates: AI for Infrastructure Contractors
+Clad Locates helps excavators submit and track 811 tickets.
+Jason Rudin
+Clad
+8 days ago
+Winter 2023
+Marketplace
+SaaS
+Construction
+B2B
+Collaboration
+9
+Lightbox - Cursor for Content Creation
+From idea to brand, merch, or UGC — all in one AI-native flow.
+Alexandru Turcanu
+Lightbox
+8 days ago
+Winter 2025
+Artificial Intelligence
+Design
+Design Tools
+75
+Atla: The improvement engine for AI agents
+We help teams building AI agents find and fix recurring failures.
+Roman Engeler
+Atla
+8 days ago
+Summer 2023
+AIOps
+Artificial Intelligence
+Developer Tools
+Analytics
+AI
+1
+Trellus: Parallel/Power Dial directly inside of Google Sheets and GoHighLevel
+Embedded parallel dialing natively inside of Google Sheets and GoHighLevel within minutes
+Ajinkya Nene
+Trellus
+8 days ago
+Winter 2022
+AI-Enhanced Learning
+Artificial Intelligence
+SaaS
+B2B
+Sales
+32
+SiPhox Health🩸Painless, At-Home Thyroid Testing
+Test a comprehensive, lab-grade thyroid panel in minutes painlessly from home
+Michael Dubrovsky
+SiPhox Health
+9 days ago
+Summer 2020
+Hard Tech
+Biometrics
+Nanosensors
+Health Tech
+Health & Wellness
+6
+Superagent — the AI Firewall 🥷🔥
+Stops prompt injections, backdoors, and data leaks.
+Alan Zabihi
+Superagent
+9 days ago
+Winter 2024
+Artificial Intelligence
+Open Source
+AI
+3
+AUTODOC: Open-source AI writing your Javadoc
+open-source ai writing your javadoc
+Nicolas Toper
+Inboxbooster
+10 days ago
+Winter 2017
+Marketing
+Email
+19
+Nautilus: The AI platform to grow and optimize car washes
+The unified platform modernizing how 80,000 car washes manage customers, drive repeat sales, and turn data into action.
+Amayr Babar
+Nautilus
+10 days ago
+Summer 2025
+SaaS
+Payments
+Marketing
+CRM
+AI
+32
+Fulcrum: The Agentic Debugger for AI Systems
+Fulcrum - for those who are tired of being bullshitted by their agents
+Uzay Girit
+Fulcrum
+13 days ago
+Summer 2025
+AIOps
+Generative AI
+AI
+4
+Elyos AI 💥 AI Customer Service Reps, built for trades and field services 🛠️
+Elyos AI is the first fully autonomous AI Customer Service Reps for trades and field services.
+Philippa Brown
+Elyos AI
+15 days ago
+Summer 2023
+Artificial Intelligence
+SaaS
+B2B
+AI Assistant
+7
+Mocke - Mock cold email campaigns
+Know your reply rate in 1 min without launching
+Matt Sun
+Mocke
+15 days ago
+Summer 2022
+Artificial Intelligence
+B2B
+Sales
+42
+Riveter ⚡ Thousands of AI search agents running in parallel
+Riveter automates web research for every row in your spreadsheet with just a prompt.
+Abigail Grills
+Riveter AI
+16 days ago
+Fall 2024
+Artificial Intelligence
+B2B
+E-commerce
+Market Research
+AI
+14
+RowFlow: Turn any form into an AI conversation
+We replace clunky webforms with AI conversations that get more responses faster
+Jack Bubes
+RowFlow
+16 days ago
+Summer 2025
+Artificial Intelligence
+B2B
+Workflow Automation
+Chat
+75
+Bezel: AI human fashion models for e-commerce brands.
+Stop hiring production agencies, and start cranking out creatives with AI
+Kashyap Achar
+Bezel
+16 days ago
+Winter 2025
+Generative AI
+Machine Learning
+Marketing
+6
+doola: AI Co-Founder
+The First AI Business-in-a-Box™ for E-Commerce Entrepreneurs
+Arjun Mahadevan
+doola
+16 days ago
+Summer 2020
+Fintech
+SaaS
+3
+The Cosmic AI Platform: A complete AI-enabled app development & deployment platform
+Build and deploy content-powered apps using natural language
+Tony Spiro
+Cosmic
+16 days ago
+Winter 2019
+Developer Tools
+API
+11
+Hyrex - The Open-Source COLD Task Framework
+Production-grade background tasks built on Postgres
+Trevor Reed
+Hyrex
+16 days ago
+Summer 2024
+AIOps
+Developer Tools
+Cloud Computing
+Infrastructure
+12
+Conductor — Run a bunch of Claude Codes in parallel
+Conductor lets you run a bunch of Claude Codes all at once, on your Mac.
+Charlie Holtz
+Conductor
+17 days ago
+Summer 2024
+Developer Tools
+Chat
+AI
+5
+Inconvo: AI agents for customer-facing analytics
+Build ChatGPT-style analytics into your product
+Eoghan Mulcahy
+Inconvo
+17 days ago
+Summer 2023
+Developer Tools
+SaaS
+Analytics
+API
+AI Assistant
+59
+Acrely: The AI Customer Service Representative for Home Services
+24/7 Answering, Less Overhead, More Revenue
+Alek Stefanov
+Acrely
+18 days ago
+Summer 2025
+Artificial Intelligence
+Home Services
+AI Assistant
+5
+Rubbrband - Make movies using AI
+Create movies from screenplay, while controlling dialogue, sound, and shots.
+Jeremy Lee
+Rubbrband
+18 days ago
+Winter 2023
+Artificial Intelligence
+Video
+12
+Stormy — AI Agent for Influencer Marketing
+Describe your campaign once and have the AI agent work for you while you sleep.
+Robert Lukoszko
+Stormy AI
+18 days ago
+Summer 2025
+Artificial Intelligence
+SaaS
+B2B
+Marketing
+17
+Wayline: AI voice and text for property managers
+We convert leads and resolve issues 24/7
+Jason Okra
+WAYLINE
+21 days ago
+Summer 2025
+Artificial Intelligence
+Real Estate
+B2B
+AI
+AI Assistant
+59
+The Prompting Company - We help products get mentioned in ChatGPT
+Not just analytics - The Prompting Company helps your products get mentioned in AI answers
+Michelle Marcelline
+The Prompting Company
+21 days ago
+Summer 2025
+Artificial Intelligence
+SaaS
+B2B
+Marketing
+SEO
+71
+GETASAP ASIA: 8 Hour Distribution for Retailers in Southeast Asia 🏪
+We’re the Amazon for B2B, supplying corner shops, restaurants, and supermarkets, ensuring shelves never go empty.
+Pranavkrishna Suresh
+GETASAP ASIA
+21 days ago
+Summer 2025
+B2B
+Logistics
+E-commerce
+Supply Chain
+11
+Humoniq - AI Contact Center for Travel
+The first customer support center for travel & transport companies run by AI agents, not humans.
+Will Weber
+Humoniq
+22 days ago
+Summer 2025
+Artificial Intelligence
+Travel
+Conversational AI
+62
+🚀 Tesora: AI Procurement Analysts for Advanced Industries 🏭 ✈️ 🚗  🛰️
+The first AI coworker that sources, qualifies, and manages vendors at scale
+Vivek Rao
+Tesora
+22 days ago
+Summer 2025
+B2B
+Supply Chain
+Procurement
+Aerospace
+AI
+20
+Vibe Code Go – Code from your phone
+Vibe Code Go is a mobile app that lets software engineers vibe code on the go.
+Chris Nolet
+Vibe Code Go
+22 days ago
+Summer 2025
+Developer Tools
+SaaS
+AI
+29
+Elevate - AI-powered data management for roll-ups
+Providing private equity-backed companies with better data and access to AI tools
+Scott Cara
+Elevate
+23 days ago
+Summer 2024
+AIOps
+Finance
+B2B
+Automation
+AI
+177
+Frizzle 📝 AI Grading for Math Teachers
+Frizzle uses AI to grade math worksheets and assignments for teachers
+Abhay Gupta
+Frizzle
+23 days ago
+Summer 2025
+Education
+SaaS
+B2B
+Productivity
+AI
+34
+Understood Care: AI Powered Patient Advocacy
+Delivering high quality, Medicare covered patient advocacy to the 68 million Medicare patients in the US.
+Samantha Wu
+Understood Care
+23 days ago
+Summer 2024
+Health Tech
+Healthcare
+Health Insurance
+AI
+AI Assistant
+48
+Candle — The Duolingo for Relationships
+Candle is a game that helps couples and friends connect more through thoughtful prompts, mini games, photo challenges, and shared streaks, in <5 minutes a day.
+Alex Ruber
+Candle
+23 days ago
+Fall 2024
+Artificial Intelligence
+Consumer
+AI
+18
+Normal - Vanta for Hardware
+Automated hardware testing & compliance, saving 50x the time
+Anson Yu
+Normal
+23 days ago
+Summer 2025
+Hardware
+Compliance
+Manufacturing
+AI
+Industrial
+20
+Roundtable Proof of Human: A frictionless way to stop bots and AI spam
+Roundtable Proof of Human provides industry-leading bot detection at the entry level ($99), defeating Google reCAPTCHA and Cloudflare Turnstile on head-to-head comparisons.
+Mayank Agrawal
+Roundtable
+23 days ago
+Summer 2023
+50
+Hyprnote⚡️ Open-source AI notetaker for enterprises
+We help teams craft personalized meeting notes while keeping full control of their data
+John Jeong
+Hyprnote
+23 days ago
+Summer 2025
+B2B
+Productivity
+Enterprise Software
+AI
+32
+Bitrig – Vibe code, test, and deploy Swift apps. All from your iPhone.
+From the creators of SwiftUI
+Kyle Macomber
+bitrig
+23 days ago
+Summer 2025
+Developer Tools
+Design Tools
+89
+Cheers - Reputation engineering for frontline brands
+We attribute customer outcomes to employees, turning unmeasured labor into a growth engine.
+Dylan Allen-Arnegard
+Cheers
+23 days ago
+Summer 2024
+Artificial Intelligence
+Analytics
+Feedback
+Reviews
+16
+Pinch Desktop - Voice translation for real-time conversations
+Attend meetings in any language, on any platform.
+Christian Safka
+Pinch
+23 days ago
+Winter 2025
+Telecommunications
+AI
+115
+Paloma: AI-native CRM for billing, renewals, and expansions
+Auto-pilot everything after the handshake
+Alex Avnit
+Paloma
+23 days ago
+Summer 2025
+Artificial Intelligence
+SaaS
+Customer Success
+Sales
+Billing
+40
+Observee: Integration Infrastructure for Vertical AI Companies
+Integrate with anything, literally
+Rishabh Chanana
+Observee
+23 days ago
+Summer 2025
+Developer Tools
+B2B
+Infrastructure
+AI
+14
+Pleom ☂️ - Talk to your AI
+Hardware AI devices for everyday consumers.
+Royce Arockiasamy
+Pleom
+23 days ago
+Summer 2025
+Artificial Intelligence
+Generative AI
+Hardware
+Electronics
+AI
+14
+Stellon Labs: Building Tiny AI Models for Edge Devices
+We build super-tiny frontier models that can run literally anywhere - No GPU Required!
+Rohan Joshi
+Stellon Labs
+23 days ago
+Summer 2025
+Artificial Intelligence
+Edge Computing Semiconductors
+29
+OnDeck AI - Analyze any video, without training a model.
+We let organizations instantly find any object, behavior or event, in any footage, without needing to train a model or collect any training data.
+Alexander Dungate
+OnDeck AI
+24 days ago
+Summer 2025
+Machine Learning
+Computer Vision
+B2B
+Security
+Video
+66
+EffiGov - The AI Call Center for Local Governments
+24/7 constituent service, without the wait
+Aubteen Pour-Biazar
+EffiGov
+24 days ago
+Summer 2025
+SaaS
+AI
+17
+Blue: The voice assistant your phone has been missing.
+Blue uses your apps to finish tasks, hands-free and on the go.
+Farhan Hossain
+Blue
+24 days ago
+Summer 2025
+Hardware
+Speech Recognition
+AI
+AI Assistant
+16
+Panels: Audio Data for AI Labs
+We power voice AI with high-quality audio data.
+Aaron Wenk
+Panels
+24 days ago
+Summer 2025
+Artificial Intelligence
+B2B
+Data Labeling
+10
+Kalinda - Deep Research for Class Action Lawyers
+Kalinda helps class action law firms qualify potential cases in minutes with AI
+Sayan Bhatia
+Kalinda
+24 days ago
+Summer 2025
+Artificial Intelligence
+SaaS
+B2B
+Legal
+LegalTech
+11
+Lemma: AI-powered consumer brands insights platform
+We help businesses answer the question: What do people think of my brand and products?
+Sherwin Lai
+Lemma
+24 days ago
+Summer 2025
+B2B
+Customer Success
+Data Science
+Market Research
+AI
+29
+ZeroEval - Build self-improving agents
+A tool to evaluate and optimize AI agents using human feedback.
+Sebastian Crossa
+ZeroEval
+24 days ago
+Summer 2025
+AIOps
+Developer Tools
+Generative AI
+SaaS
+AI
+143
+Rebolt: Vibecoding for Enterprise
+Build apps, and agents by speaking with AI. Integrated with your company tools, data and employees.
+Javier Sanchez
+Rebolt
+24 days ago
+Winter 2025
+Artificial Intelligence
+Enterprise Software
+AI Assistant
+59
+Avelis Health ⚔️ Preventing overpayments on medical claims
+We audit medical claims for self-insured employers and health plans
+Angel Onuoha
+Avelis Health
+24 days ago
+Summer 2025
+SaaS
+Healthcare
+Health Insurance
+Healthcare IT
+AI
+18
+F4 - Automated compliance checks for engineering drawings
+We help hardware teams 10x how they redline & interpret engineering drawings
+Paul Shin
+F4
+25 days ago
+Summer 2025
+Hardware
+B2B
+Industrial
+37
+Lark: AI Agents for Billing
+We build AI agents to solve billing issues for subscription companies.
+Vijit Dhingra
+Lark
+25 days ago
+Summer 2025
+Artificial Intelligence
+Fintech
+Payments
+B2B
+Subscriptions
+53
+Datafruit: AI DevOps Engineer
+AI DevOps Engineer that automatically handles deployment and management of cloud infrastructure
+Venkat Arun
+datafruit
+25 days ago
+Summer 2025
+DevOps
+Cloud Computing
+Infrastructure
+12
+Tessa API: State-of-the-Art Browser Agent for Your Vertical AI
+Latest benchmarks show Tessa leads on success rate by 12%. Try it now!
+Harvey Hu
+General Agency
+25 days ago
+Winter 2025
+Artificial Intelligence
+Hard Tech
+Reinforcement Learning
+Automation
+AI Assistant
+11
+Cardinal: The Most Accurate Document Intelligence API
+Cardinal turns unstructured, messy documents into perfectly structured data, instantly and with unmatched accuracy.
+Devishi Jha
+Cardinal
+25 days ago
+Summer 2023
+Enterprise
+Enterprise Software
+Infrastructure
+17
+CoCreate — AI-Native video editing tool
+AI-native video editing software that automates video post-production
+Tamish Pulappadi
+cocreate
+25 days ago
+Summer 2025
+Artificial Intelligence
+Consumer
+Video
+12
+Monarcha - The AI GIS Platform
+We make geospatial analysis instant, no GIS analyst required.
+James Spokes
+Monarcha
+25 days ago
+Summer 2025
+Artificial Intelligence
+Geographic Information System
+B2B
+11
+Sidekick - Automation for the rest of us
+Just describe what you want and watch the automation build itself
+Tom Greenwald
+Sidekick
+a month ago
+Summer 2025
+Artificial Intelligence
+SaaS
+Workflow Automation
+Productivity
+Automation
+26
+CareSwift - AI Copilot for Ambulance Agencies
+We help ambulance crews document reports quicker and more accurately.
+Brian Weigand
+CareSwift
+a month ago
+Summer 2025
+Artificial Intelligence
+Health Tech
+17
+Reacher - Marketing agent for creator collaborations
+Automate creator management, campaign optimization, and content strategy so marketing teams can focus on what humans do best.
+Bora Mutluoglu
+Reacher
+a month ago
+Summer 2025
+Artificial Intelligence
+B2B
+E-commerce
+Creator Economy
+48
+Cacao - Brazilians can now receive USD & crypto instantly
+Get paid in USD or stablecoins, spend with a Visa card, and withdraw to Pix
+Alec Howard
+Cacao
+a month ago
+Summer 2025
+Fintech
+Crypto / Web3
+Payments
+112
+Avent – AI Agents for Industrial Commerce
+We automate quoting and order entry for industrial distributors using AI
+Abhay Kalra
+Avent
+a month ago
+Summer 2025
+SaaS
+B2B
+AI
+Industrial
+18
+Nixo - The first ops platform for forward deployed engineers
+Do things that don't scale, at scale
+Priya Khandelwal
+Nixo
+a month ago
+Summer 2025
+B2B
+Workflow Automation
+Customer Success
+AI
+148
+RealRoots 👯‍♀️ the mobile friendship app for women
+The first mobile app to guarantee women new friendships
+Dorothy Li
+RealRoots
+a month ago
+Summer 2025
+Marketplace
+Consumer
+Social Network
+AI
+97
+⚡ Serafis - the AI knowledge graph
+We help institutional investors distill signal from noise
+Rohan Sharma
+Serafis
+a month ago
+Summer 2025
+Artificial Intelligence
+SaaS
+Finance
+Search
+23
+Alter –  Identity and Access Control Platform To Secure Agents
+Build secure, compliant agents without the fear of breaking production
+Srikar Dandamuraju
+Alter
+a month ago
+Summer 2025
+AIOps
+Artificial Intelligence
+Developer Tools
+DevSecOps
+Security
+15
+Mimos - Answer Engine Optimization for regulated companies
+With compliance at our core, we help you rank in AI search
+Rohit Sirosh
+Mimos
+a month ago
+Summer 2025
+SaaS
+AI
+19
+Omnara - The first command center for AI agents: terminal, web, and mobile
+Run Claude Code from anywhere and switch seamlessly between devices
+Ishaan Sehgal
+Omnara
+a month ago
+Summer 2025
+AIOps
+Artificial Intelligence
+AI Assistant
+20
+Syncly Social - AI social listening for video
+The first social listening platform for the video era
+Joseph Lee
+Syncly
+a month ago
+Winter 2023
+Generative AI
+SaaS
+B2B
+Customer Support
+41
+Palace 🏰 One platform for portfolio company monitoring & reporting
+Introducing Palace: your fund's second brain
+Leeds Rising
+Palace
+a month ago
+Summer 2025
+Fintech
+SaaS
+B2B
+AI
+76
+Minimal: AI Customer Support Teams for E-commerce
+We make it easy for e-commerce brands to build and manage AI customer support teams that resolve 80% of tickets.
+Niek Hogenboom
+Minimal AI
+a month ago
+Summer 2025
+B2B
+E-commerce
+Customer Support
+AI
+30
+Shor – The Fastest, Simplest, Most Affordable Payroll for Global Teams
+Manage and pay global, distributed teams without high fees or outdated UI
+Daivik Goel
+Shor
+a month ago
+Summer 2025
+Fintech
+B2B
+HR Tech
+Payroll
+AI
+5
+CompliantLLM - Detect Data Leaking into 3rd Party GenAI tools
+Detect data breaches in approved & unapproved AI workflows
+Kaushik Srinivasan
+compliant-llm
+a month ago
+Winter 2023
+Generative AI
+Cybersecurity
+9
+DeepAware - Automation for next-gen AI data centers
+AI-driven automation that makes any data center as secure, efficient, and adaptive as Google’s or Amazon’s.
+Jerry Huang
+DeepAware AI
+a month ago
+Summer 2025
+Artificial Intelligence
+Machine Learning
+Robotics
+Energy
+Infrastructure
+10
+Burnt - Agentic OS for Food Supply Chain
+We’re building AI agents that automate order entry for food distributors
+Joseph Jacob
+burnt
+a month ago
+Summer 2025
+Supply Chain
+Food Tech
+AI
+21
+Perspectives Health: AI Agents for behavioral health admin
+Too many clinicians are forced to chase insurance reimbursements through hours of documentation. We’re here to fix that
+Eshan Dosani
+Perspectives Health
+a month ago
+Summer 2025
+Workflow Automation
+Healthcare
+Mental Health
+Healthcare IT
+22
+NOX METALS: The modern metals supplier.
+Modern metals factories to supply America's industrial base.
+Zane Hengsperger
+Nox Metals
+a month ago
+Summer 2025
+12
+MangoDesk: Cursor for Evals and Human Data
+Accelerate creating custom evals and post-training data by spinning up bespoke data-annotation pipelines in seconds.
+Ananth Subramanya
+MangoDesk
+a month ago
+Summer 2025
+Artificial Intelligence
+9
+Spotlight Realty - The AI Real Estate Rental Agent
+A full service residential leasing experience
+Aryan Sharma
+Spotlight Realty
+a month ago
+Summer 2025
+Machine Learning
+Real Estate
+20
+Knowlify: The ElevenLabs for explainer videos
+Knowlify converts textual content, PDFs, etc. into explainer videos
+Ritam Rana
+Knowlify
+a month ago
+Summer 2025
+AI-Enhanced Learning
+Artificial Intelligence
+Education
+B2B
+6
+VibeKit 🖖 The Safety Layer for Your Coding Agent
+Open-source sandboxing and observability for Claude Code, Gemini CLI, et al.
+Alan Zabihi
+Superagent
+a month ago
+Winter 2024
+Artificial Intelligence
+Open Source
+AI
+18
+Nexa Labs: Implantable Microchips for Cattle Monitoring
+We empower cattle farmers with early disease detection and reproductive insights.
+Zarif Azher
+Nexa Labs
+a month ago
+Summer 2025
+Artificial Intelligence
+Livestock Health
+Medical Devices
+Agriculture
+Biotechnology
 Footer
 Y Combinator
 Programs
@@ -1926,215 +3068,6 @@ Product
 Recruiting & HR
 Sales
 Science
-Lago
-(S21)
-Open Source Metering and Usage Based Billing
-Lago
-(S21)
-•
-Open Source Metering and Usage Based Billing
-(
-3 days
-ago)
-Head of Operations
-Full-time
-•
-Operations
-•
-€80K - €120K EUR
-•
-Paris, IDF, FR / Paris, Île-de-France, FR
-Apply
-SafeBeat
-(S21)
-Guiding cardiac therapeutics - all from your phone
-SafeBeat
-(S21)
-•
-Guiding cardiac therapeutics - all from your phone
-(
-17 days
-ago)
-Head of Clinical Operations and Partnerships
-Full-time
-•
-Operations
-•
-$100K - $120K
-•
-San Francisco, CA, US / Remote (US)
-Apply
-Harper
-(W25)
-AI-native commercial insurance brokerage
-Harper
-(W25)
-•
-AI-native commercial insurance brokerage
-(
-6 days
-ago)
-Future AI Founder
-Full-time
-•
-Operations
-•
-$100K - $150K
-•
-San Francisco, CA, US
-Apply
-maintouch
-(S23)
-Full-stack organic marketing for B2B.
-maintouch
-(S23)
-•
-Full-stack organic marketing for B2B.
-(
-about 2 hours
-ago)
-Chief of Staff
-Full-time
-•
-Operations
-•
-$125 - $150
-•
-New York, NY, US / San Francisco, CA, US
-Apply
-REVER
-(S22)
-Changing the way people buy by giving superpowers to shoppers
-REVER
-(S22)
-•
-Changing the way people buy by giving superpowers to shoppers
-(
-7 days
-ago)
-Key Account Manager (Italy Market)
-Full-time
-•
-Operations
-•
-€30K - €45K EUR
-•
-Barcelona, CT, ES / Barcelona, Catalonia, ES
-Apply
-Dynamo AI
-(W22)
-Compliant-Ready AI for the Enterprise
-Dynamo AI
-(W22)
-•
-Compliant-Ready AI for the Enterprise
-(
-about 2 months
-ago)
-Operations Coordinator
-Full-time
-•
-Operations
-•
-$60K - $80K
-•
-San Francisco, CA, US / New York, NY, US / Remote (US)
-Apply
-Finni Health
-(W23)
-Empowering Autism Care Providers to Go Independent
-Finni Health
-(W23)
-•
-Empowering Autism Care Providers to Go Independent
-(
-about 2 months
-ago)
-Full-Stack Software Developer
-Full-time
-•
-Operations
-•
-$140K - $200K CAD
-•
-Canada Remote / Remote (US)
-Apply
-Giga
-(S23)
-AI customer service agent for B2C  Companies
-Giga
-(S23)
-•
-AI customer service agent for B2C  Companies
-(
-about 2 months
-ago)
-Business Operations
-Full-time
-•
-Operations
-•
-$100K - $130K
-•
-San Francisco, CA, US
-Apply
-Novig
-(S22)
-America's #1 Sports Prediction Market
-Novig
-(S22)
-•
-America's #1 Sports Prediction Market
-(
-about 1 month
-ago)
-Growth Generalist
-Full-time
-•
-Operations
-•
-$125K - $200K
-•
-New York, NY
-Apply
-Airgoods
-(S23)
-Wholesale marketplace for food & beverage
-Airgoods
-(S23)
-•
-Wholesale marketplace for food & beverage
-(
-10 days
-ago)
-Marketplace Operations
-Full-time
-•
-Operations
-•
-$80K - $150K
-•
-New York, NY, US
-Apply
-Posh
-(W22)
-Making sustainable batteries
-Posh
-(W22)
-•
-Making sustainable batteries
-(
-2 months
-ago)
-Chief of Staff
-Full-time
-•
-Operations
-•
-$80K - $120K
-•
-Hayward, CA, US
-Apply
 Landeed
 (S22)
 Landeed is India's fastest property title search engine
@@ -2143,7 +3076,7 @@ Landeed
 •
 Landeed is India's fastest property title search engine
 (
-1 day
+2 days
 ago)
 Operations Lead
 Full-time
@@ -2154,157 +3087,24 @@ $480K - $1.2M
 •
 Mumbai, MH, IN / Bengaluru, KA, IN / Hyderabad, TS, IN / Chennai, TN, IN
 Apply
-Greptile
-(W24)
-AI code reviewer with complete context of your codebase
-Greptile
-(W24)
-•
-AI code reviewer with complete context of your codebase
-(
-about 1 month
-ago)
-Developer Advocate
-Full-time
-•
-Operations
-•
-$140K - $160K
-•
-San Francisco
-Apply
-Keye
-(F24)
-The Smartest Private Equity Investor
-Keye
-(F24)
-•
-The Smartest Private Equity Investor
-(
-about 2 months
-ago)
-Founding Private Equity Strategist
-Full-time
-•
-Operations
-•
-$150K - $250K
-•
-New York, NY, US
-Apply
-Craniometrix
-(W22)
-We're building the one-stop-shop care platform for Alzheimer's…
-Craniometrix
-(W22)
-•
-We're building the one-stop-shop care platform for Alzheimer's…
-(
-35 minutes
-ago)
-Chief of Staff (Start within 1 week)
-Full-time
-•
-Operations
-•
-$120K - $180K
-•
-New York, NY, US / Remote (US)
-Apply
-Centaur Labs
-(W19)
-Labeling medical data at scale
-Centaur Labs
-(W19)
-•
-Labeling medical data at scale
-(
-29 days
-ago)
-Engagement and Delivery Manager
-Full-time
-•
-Operations
-•
-$100K - $120K
-•
-US / Remote (US)
-Apply
-Credal.ai
-(W23)
-Harness Frontier Intelligence by building AI assistants that can…
-Credal.ai
-(W23)
-•
-Harness Frontier Intelligence by building AI assistants that can…
-(
-about 1 month
-ago)
-Founding GTM - Deployment Strategist
-Full-time
-•
-Operations
-•
-$130K - $160K
-•
-New York, NY, US
-Apply
-Broccoli AI
-(W22)
-AI-native operating system for home service businesses
-Broccoli AI
-(W22)
-•
-AI-native operating system for home service businesses
-(
-about 2 months
-ago)
-Account Executive
-Full-time
-•
-Operations
-•
-$160K - $300K
-•
-San Francisco, CA, US / Remote (US)
-Apply
-Confido
-(S21)
-AI-enabled financial automation and intelligence for CPG Brands
-Confido
-(S21)
-•
-AI-enabled financial automation and intelligence for CPG Brands
-(
-26 days
-ago)
-Chief of Staff
-Full-time
-•
-Operations
-•
-$165K - $215K
-•
-New York, NY, US
-Apply
-dili
+Airgoods
 (S23)
-Automating PWA Compliance and Diligence
-dili
+Wholesale marketplace for food & beverage
+Airgoods
 (S23)
 •
-Automating PWA Compliance and Diligence
+Wholesale marketplace for food & beverage
 (
-about 1 month
+11 days
 ago)
-Compliance Customer Success Manager
+Marketplace Operations
 Full-time
 •
 Operations
 •
-$100K - $130K
+$80K - $150K
 •
-New York, NY, US / Remote (US)
+New York, NY, US
 Apply
 Complete
 (W22)
@@ -2325,193 +3125,24 @@ $100K - $150K
 •
 San Francisco Office
 Apply
-Two Dots
-(S22)
-AI fraud prevention and underwriting agent
-Two Dots
-(S22)
+maintouch
+(S23)
+Full-stack organic marketing for B2B.
+maintouch
+(S23)
 •
-AI fraud prevention and underwriting agent
+Full-stack organic marketing for B2B.
 (
-about 2 months
-ago)
-Operations Program Manager
-Full-time
-•
-Operations
-•
-$150K - $225K
-•
-San Francisco HQ / Remote (US)
-Apply
-PermitFlow
-(W22)
-TurboTax for Construction Permitting
-PermitFlow
-(W22)
-•
-TurboTax for Construction Permitting
-(
-9 days
-ago)
-Business Operations Manager
-Full-time
-•
-Operations
-•
-$120K - $150K
-•
-New York City, NY
-Apply
-Curri
-(S19)
-Construction & industrial logistics platform.
-Curri
-(S19)
-•
-Construction & industrial logistics platform.
-(
-3 days
-ago)
-Strategy and Operations Manager, Market Growth (Chicago)
-Full-time
-•
-Operations
-•
-$110K - $130K
-•
-Chicago, IL / Remote (Chicago, IL, US)
-Apply
-Biodock
-(W21)
-Cloud AI microscopy automation
-Biodock
-(W21)
-•
-Cloud AI microscopy automation
-(
-24 days
-ago)
-Biodata Workflow Manager (Remote)
-Full-time
-•
-Operations
-•
-$300 - $1K
-•
-KZ / Remote (KZ)
-Apply
-Vapi
-(W21)
-Voice AI for developers.
-Vapi
-(W21)
-•
-Voice AI for developers.
-(
-3 months
-ago)
-Senior Account Executive
-Full-time
-•
-Operations
-•
-San Francisco
-Apply
-AiPrise
-(S22)
-Global KYC and KYB Platform
-AiPrise
-(S22)
-•
-Global KYC and KYB Platform
-(
-about 1 month
-ago)
-Business Analyst
-Full-time
-•
-Operations
-•
-$100K - $120K
-•
-US / Remote (US)
-Apply
-SnapMagic
-(S15)
-AI copilot for electronics design
-SnapMagic
-(S15)
-•
-AI copilot for electronics design
-(
-about 1 month
+about 21 hours
 ago)
 Chief of Staff
 Full-time
 •
 Operations
 •
-$130K - $200K
+$125 - $150
 •
-Redwood City, CA, US / Remote (San Francisco, CA, US)
-Apply
-Vitalize
-(W23)
-The OS for Hospital Operations
-Vitalize
-(W23)
-•
-The OS for Hospital Operations
-(
-3 days
-ago)
-Founding Ops
-Full-time
-•
-Operations
-•
-$140K - $180K
-•
-San Francisco, CA, US
-Apply
-Hadrius
-(W23)
-Automating Securities Compliance
-Hadrius
-(W23)
-•
-Automating Securities Compliance
-(
-24 days
-ago)
-Founding Account Manager
-Full-time
-•
-Operations
-•
-$200K - $300K
-•
-New York, NY, US
-Apply
-Vendah
-(W23)
-Empowering brands in LATAM with an AI-driven WhatsApp sales network
-Vendah
-(W23)
-•
-Empowering brands in LATAM with an AI-driven WhatsApp sales network
-(
-2 months
-ago)
-Business Analyst
-Full-time
-•
-Operations
-•
-$15K - $20K
-•
-São Paulo, SP, BR / São Paulo, State of São Paulo, BR
+New York, NY, US / San Francisco, CA, US
 Apply
 Camber
 (W21)
@@ -2532,62 +3163,62 @@ $140K - $170K
 •
 New York, NY
 Apply
-Kombo
-(S22)
-Unified API for HR, payroll and recruiting software
-Kombo
-(S22)
+Broccoli AI
+(W22)
+AI-native operating system for home service businesses
+Broccoli AI
+(W22)
 •
-Unified API for HR, payroll and recruiting software
+AI-native operating system for home service businesses
 (
 about 2 months
 ago)
-Account Executive (US)
+Account Executive
 Full-time
 •
 Operations
 •
-$200K - $220K
+$160K - $300K
 •
-New York Office / Remote (US)
+San Francisco, CA, US / Remote (US)
 Apply
-BlueCargo
-(S18)
-The automated solution for complex freight transactions.
-BlueCargo
-(S18)
+Credal.ai
+(W23)
+Harness Frontier Intelligence by building AI assistants that can…
+Credal.ai
+(W23)
 •
-The automated solution for complex freight transactions.
+Harness Frontier Intelligence by building AI assistants that can…
 (
-3 months
+about 1 month
 ago)
-Customer Operations Analyst
+Founding GTM - Deployment Strategist
 Full-time
 •
 Operations
 •
-$70K - $110K
+$130K - $160K
 •
-Los Angeles, CA, US / New York, NY, US
+New York, NY, US
 Apply
-Toma
-(W24)
-AI Workforce for Automotive
-Toma
-(W24)
+Hadrius
+(W23)
+Automating Securities Compliance
+Hadrius
+(W23)
 •
-AI Workforce for Automotive
+Automating Securities Compliance
 (
-1 day
+25 days
 ago)
-Founding Growth Specialist
+Founding Account Manager
 Full-time
 •
 Operations
 •
-$60K - $100K
+$200K - $300K
 •
-San Francisco, CA
+New York, NY, US
 Apply
 Bloom
 (X25)
@@ -2597,7 +3228,7 @@ Bloom
 •
 Build and share mobile apps in seconds
 (
-8 days
+9 days
 ago)
 Generalist / Growth / Chief of Staff
 Full-time
@@ -2608,24 +3239,212 @@ $70K - $120K
 •
 Zürich, ZH, CH / Zürich, Zurich, CH
 Apply
-Educato AI
-(S24)
-AI-Powered Worldwide exam-prep platform
-Educato AI
-(S24)
+Confido
+(S21)
+AI-enabled financial automation and intelligence for CPG Brands
+Confido
+(S21)
 •
-AI-Powered Worldwide exam-prep platform
+AI-enabled financial automation and intelligence for CPG Brands
 (
-16 days
+27 days
 ago)
-Go‑to‑Market (GTM) Manager - Turkey 🇹🇷
+Chief of Staff
 Full-time
 •
 Operations
 •
-$25K - $50K
+$165K - $215K
 •
-TR / Remote (TR)
+New York, NY, US
+Apply
+Two Dots
+(S22)
+AI fraud prevention and underwriting agent
+Two Dots
+(S22)
+•
+AI fraud prevention and underwriting agent
+(
+about 2 months
+ago)
+Operations Program Manager
+Full-time
+•
+Operations
+•
+$150K - $225K
+•
+San Francisco HQ / Remote (US)
+Apply
+Vendah
+(W23)
+Empowering brands in LATAM with an AI-driven WhatsApp sales network
+Vendah
+(W23)
+•
+Empowering brands in LATAM with an AI-driven WhatsApp sales network
+(
+2 months
+ago)
+Business Analyst
+Full-time
+•
+Operations
+•
+$15K - $20K
+•
+São Paulo, SP, BR / São Paulo, State of São Paulo, BR
+Apply
+Centaur Labs
+(W19)
+Labeling medical data at scale
+Centaur Labs
+(W19)
+•
+Labeling medical data at scale
+(
+30 days
+ago)
+Engagement and Delivery Manager
+Full-time
+•
+Operations
+•
+$100K - $120K
+•
+US / Remote (US)
+Apply
+Flint
+(S23)
+AI personalized learning for schools
+Flint
+(S23)
+•
+AI personalized learning for schools
+(
+about 17 hours
+ago)
+SMB Account Executive
+Full-time
+•
+Operations
+•
+$120K - $150K
+•
+New York, NY
+Apply
+Novig
+(S22)
+America's #1 Sports Prediction Market
+Novig
+(S22)
+•
+America's #1 Sports Prediction Market
+(
+about 1 month
+ago)
+Growth Generalist
+Full-time
+•
+Operations
+•
+$125K - $200K
+•
+New York, NY
+Apply
+Craniometrix
+(W22)
+We're building the one-stop-shop care platform for Alzheimer's…
+Craniometrix
+(W22)
+•
+We're building the one-stop-shop care platform for Alzheimer's…
+(
+about 19 hours
+ago)
+Chief of Staff (Start within 1 week)
+Full-time
+•
+Operations
+•
+$120K - $180K
+•
+New York, NY, US / Remote (US)
+Apply
+Finni Health
+(W23)
+Empowering Autism Care Providers to Go Independent
+Finni Health
+(W23)
+•
+Empowering Autism Care Providers to Go Independent
+(
+about 2 months
+ago)
+Full-Stack Software Developer
+Full-time
+•
+Operations
+•
+$140K - $200K CAD
+•
+Canada Remote / Remote (US)
+Apply
+Vapi
+(W21)
+Voice AI for developers.
+Vapi
+(W21)
+•
+Voice AI for developers.
+(
+3 months
+ago)
+Senior Account Executive
+Full-time
+•
+Operations
+•
+San Francisco
+Apply
+PermitFlow
+(W22)
+TurboTax for Construction Permitting
+PermitFlow
+(W22)
+•
+TurboTax for Construction Permitting
+(
+10 days
+ago)
+Business Operations Manager
+Full-time
+•
+Operations
+•
+$120K - $150K
+•
+New York City, NY
+Apply
+Dynamo AI
+(W22)
+Compliant-Ready AI for the Enterprise
+Dynamo AI
+(W22)
+•
+Compliant-Ready AI for the Enterprise
+(
+about 2 months
+ago)
+Operations Coordinator
+Full-time
+•
+Operations
+•
+$60K - $80K
+•
+San Francisco, CA, US / New York, NY, US / Remote (US)
 Apply
 Corgi
 (S24)
@@ -2646,6 +3465,120 @@ $100K - $180K
 •
 San Francisco, CA, US
 Apply
+SafeBeat
+(S21)
+Guiding cardiac therapeutics - all from your phone
+SafeBeat
+(S21)
+•
+Guiding cardiac therapeutics - all from your phone
+(
+18 days
+ago)
+Head of Clinical Operations and Partnerships
+Full-time
+•
+Operations
+•
+$100K - $120K
+•
+San Francisco, CA, US / Remote (US)
+Apply
+Harper
+(W25)
+AI-native commercial insurance brokerage
+Harper
+(W25)
+•
+AI-native commercial insurance brokerage
+(
+7 days
+ago)
+Future AI Founder
+Full-time
+•
+Operations
+•
+$100K - $150K
+•
+San Francisco, CA, US
+Apply
+Keye
+(F24)
+The Smartest Private Equity Investor
+Keye
+(F24)
+•
+The Smartest Private Equity Investor
+(
+about 2 months
+ago)
+Founding Private Equity Strategist
+Full-time
+•
+Operations
+•
+$150K - $250K
+•
+New York, NY, US
+Apply
+SnapMagic
+(S15)
+AI copilot for electronics design
+SnapMagic
+(S15)
+•
+AI copilot for electronics design
+(
+about 1 month
+ago)
+Chief of Staff
+Full-time
+•
+Operations
+•
+$130K - $200K
+•
+Redwood City, CA, US / Remote (San Francisco, CA, US)
+Apply
+Greptile
+(W24)
+AI code reviewer with complete context of your codebase
+Greptile
+(W24)
+•
+AI code reviewer with complete context of your codebase
+(
+about 1 month
+ago)
+Developer Advocate
+Full-time
+•
+Operations
+•
+$140K - $160K
+•
+San Francisco
+Apply
+Curri
+(S19)
+Construction & industrial logistics platform.
+Curri
+(S19)
+•
+Construction & industrial logistics platform.
+(
+3 days
+ago)
+Strategy and Operations Manager, Market Growth (Chicago)
+Full-time
+•
+Operations
+•
+$110K - $130K
+•
+Chicago, IL / Remote (Chicago, IL, US)
+Apply
 Zensors
 (S21)
 AI to understand and automates the physical world
@@ -2662,6 +3595,196 @@ Full-time
 Operations
 •
 San Francisco, CA
+Apply
+Educato AI
+(S24)
+AI-Powered Worldwide exam-prep platform
+Educato AI
+(S24)
+•
+AI-Powered Worldwide exam-prep platform
+(
+16 days
+ago)
+Go‑to‑Market (GTM) Manager - Turkey 🇹🇷
+Full-time
+•
+Operations
+•
+$25K - $50K
+•
+TR / Remote (TR)
+Apply
+BlueCargo
+(S18)
+The automated solution for complex freight transactions.
+BlueCargo
+(S18)
+•
+The automated solution for complex freight transactions.
+(
+3 months
+ago)
+Customer Operations Analyst
+Full-time
+•
+Operations
+•
+$70K - $110K
+•
+Los Angeles, CA, US / New York, NY, US
+Apply
+Lago
+(S21)
+Open Source Metering and Usage Based Billing
+Lago
+(S21)
+•
+Open Source Metering and Usage Based Billing
+(
+4 days
+ago)
+Head of Operations
+Full-time
+•
+Operations
+•
+€80K - €120K EUR
+•
+Paris, IDF, FR / Paris, Île-de-France, FR
+Apply
+AiPrise
+(S22)
+Global KYC and KYB Platform
+AiPrise
+(S22)
+•
+Global KYC and KYB Platform
+(
+about 1 month
+ago)
+Business Analyst
+Full-time
+•
+Operations
+•
+$100K - $120K
+•
+US / Remote (US)
+Apply
+Giga
+(S23)
+AI customer service agent for B2C  Companies
+Giga
+(S23)
+•
+AI customer service agent for B2C  Companies
+(
+2 months
+ago)
+Business Operations
+Full-time
+•
+Operations
+•
+$100K - $130K
+•
+San Francisco, CA, US
+Apply
+Biodock
+(W21)
+Cloud AI microscopy automation
+Biodock
+(W21)
+•
+Cloud AI microscopy automation
+(
+25 days
+ago)
+Biodata Workflow Manager (Remote)
+Full-time
+•
+Operations
+•
+$300 - $1K
+•
+KZ / Remote (KZ)
+Apply
+dili
+(S23)
+Automating PWA Compliance and Diligence
+dili
+(S23)
+•
+Automating PWA Compliance and Diligence
+(
+about 1 month
+ago)
+Compliance Customer Success Manager
+Full-time
+•
+Operations
+•
+$100K - $130K
+•
+New York, NY, US / Remote (US)
+Apply
+REVER
+(S22)
+Changing the way people buy by giving superpowers to shoppers
+REVER
+(S22)
+•
+Changing the way people buy by giving superpowers to shoppers
+(
+about 3 hours
+ago)
+Key Account Manager (Italy Market)
+Full-time
+•
+Operations
+•
+€30K - €45K EUR
+•
+Barcelona, CT, ES / Barcelona, Catalonia, ES
+Apply
+Posh
+(W22)
+Making sustainable batteries
+Posh
+(W22)
+•
+Making sustainable batteries
+(
+2 months
+ago)
+Chief of Staff
+Full-time
+•
+Operations
+•
+$80K - $120K
+•
+Hayward, CA, US
+Apply
+Vitalize
+(W23)
+The OS for Hospital Operations
+Vitalize
+(W23)
+•
+The OS for Hospital Operations
+(
+4 days
+ago)
+Founding Ops
+Full-time
+•
+Operations
+•
+$140K - $180K
+•
+San Francisco, CA, US
 Apply
 Create a profile to see more jobs ›
 Work at a Startup
@@ -2742,6 +3865,715 @@ Jobs
 Remote
 Science
 Jobs
+Footer
+Y Combinator
+Programs
+YC Program
+Startup School
+Work at a Startup
+Co-Founder Matching
+Company
+YC Blog
+Contact
+Press
+People
+Careers
+Privacy Policy
+Notice at Collection
+Security
+Terms of Use
+Resources
+Startup Directory
+Startup Library
+Investors
+SAFE
+Hacker News
+Launch YC
+YC Deals
+Make something people want.
+Apply
+Twitter
+Twitter
+Facebook
+Facebook
+Instagram
+Instagram
+LinkedIn
+LinkedIn
+Youtube
+YouTube
+©
+2025
+Y Combinator
+
+
+--- CONTENT FROM https://www.ycombinator.com/ ---
+
+About
+What Happens at YC?
+Apply
+YC Interview Guide
+FAQ
+People
+YC Blog
+Companies
+Startup Directory
+Founder Directory
+Launch YC
+Startup Jobs
+All Jobs
+◦ Engineering
+◦ Operations
+◦ Marketing
+◦ Sales
+Internships
+Startup Job Guide
+YC Startup Jobs Blog
+Find a Co-Founder
+Library
+SAFE
+Resources
+Startup School
+Newsletter
+Requests for Startups
+For Investors
+Verify Founders
+Hacker News
+Bookface
+Open main menu
+Apply for
+W2026
+batch.
+Apply
+Y Combinator
+Make something people want.
+Apply to YC
+5,000
+funded startups
+$800B
+combined valuation
+Top YC companies
++
+We help founders
+make something people want and the results speak for themselves.
+We help founders at their earliest stages regardless of their age.
+We improve the success rate of our startups.
+We give startups a huge fundraising advantage.
+Our companies have a track record of becoming billion dollar companies.
+Our formula for
+success
+.
+YC is
+run by startup founders
+who have built exactly what they wanted when starting and growing a startup.
+The most experienced partners
+Each founder is assigned a dedicated YC partner who has mentored hundreds of YC companies. They have more data on what it takes to build a successful startup than any other early stage startup advisor. These partners read applications, interview companies, and mentor startups throughout the batch. You can access them in person, over email, and on Slack.
+Investor network
+YC companies have raised $85 billion dollars from the best investors in the world. Our founders have access to the YC Investor Database which has profiles and reviews for more than 50,000 startup investors.
+Private social network only for founders
+YC founders get to benefit from the collective wisdom of over 9000 YC alumni. They can access these alums through Bookface, our private social network. We have a forum for asking questions to the community, a founder directory for finding specific people who can provide advice and intros, and a company directory for finding potential customers.
+Exclusive deals
+YC founders have access to over 1000 deals from leading software companies. Every YC company gets free credits or significant discounts on hosting, banking, cap table management, back office, and much more. Companies report these deals to be worth in excess of $500,000.
+The best written advice
+YC founders get to benefit from our collective experience funding 5000 companies across almost 20 years. We have extensive documentation for common questions about fundraising, go to market, sales, product market fit, mental health, hiring, and much more.
+Networks to build your team
+Through
+Work at a Startup
+and
+HN
+, we help our founders hire the small number of early engineers and other team members critical to finding product market fit. At any given time there are 150,000+ candidates searching for jobs at early stage YC companies.
+We put
+founders' interests
+first.
+We don’t take a board seat.
+We don’t demand 20% of your company.
+We don’t take weeks/months to decide to invest.
+We don’t charge fees.
+We don’t require decks, business plans, or MBAs.
+We don't tell you what to do. We only offer advice.
+Hear more from the community.
+"
+Y Combinator is the best program for creating top-end entrepreneurs that has ever existed.
+"
+Marc Andreessen
+,
+General Partner, Andreessen Horowitz
+"
+Y Combinator is the best startup accelerator in the world. YC helps their companies a lot, and the YC community is a huge asset for the companies that go through the program.
+"
+Ron Conway
+,
+Founder, SV Angel
+"
+At YC, we were challenged to do things that don't scale – to start with the perfect experience for one person, then work backwards and scale it to 100 people who love us. This was the best piece of advice we've ever received.
+"
+Brian Chesky
+,
+Founder, Airbnb (YC W09)
+"
+I doubt that Stripe would have worked without YC. It's that simple. Acquiring early customers, figuring out who to hire, closing deals with banks, raising money – YC's partners were closely involved and crucially helpful.
+"
+Patrick Collison
+,
+Founder, Stripe (YC S09)
+The Latest from YC
+The FDE Playbook for AI Startups with Bob McGrew
+4 days ago
+27:56
+Michael Truell: Building Cursor at 23, Taking on GitHub Copilot, and Advice to Engineering Students
+34K views
+9 days ago
+12:32
+GPT-OSS vs. Qwen vs. Deepseek: Comparing Open Source LLM Architectures
+20K views
+14 days ago
+45:26
+How This 25-Year-Old Built A $675M Legal AI Startup (With No Legal Experience)
+47K views
+17 days ago
+35:57
+Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System Design
+98K views
+24 days ago
+18:49
+The Sales Playbook for Founders
+52K views
+28 days ago
+40:37
+Figma CEO Dylan Field: How AI Will Transform Design
+28K views
+1 month ago
+46:16
+The Finance Startup Bringing Agentic AI to Wall Street
+48K views
+1 month ago
+40:48
+Scaling and the Road to Human-Level AI | Anthropic Co-founder Jared Kaplan
+51K views
+1 month ago
+43:42
+Brand Design Tips From Linear Founder Karri Saarinen
+29K views
+1 month ago
+44:53
+Chelsea Finn: Building Robots That Can Do Anything
+68K views
+1 month ago
+35:51
+Replit CEO Amjad Masad: Coding Agents, Autonomy, and the Future of Work
+33K views
+1 month ago
+27:27
+John Jumper: AlphaFold and the Future of Science
+31K views
+1 month ago
+43:13
+Aravind Srinivas: The Race to Build the AI Browser of the Future
+117K views
+2 months ago
+43:58
+Andrew Ng: Building Faster with AI
+317K views
+2 months ago
+38:56
+How to Spend Your 20s in the AI Era
+309K views
+2 months ago
+34:48
+François Chollet: The ARC Prize & How We Get to AGI
+124K views
+2 months ago
+44:22
+Fei-Fei Li: Spatial Intelligence is the Next Frontier in AI
+163K views
+2 months ago
+40:30
+Satya Nadella: Microsoft's AI Bets, Hyperscaling, Quantum Computing Breakthroughs
+131K views
+2 months ago
+42:44
+Sam Altman: The Future of OpenAI, ChatGPT's Origins, and Building AI Hardware
+442K views
+2 months ago
+49:41
+Elon Musk: Digital Superintelligence, Multiplanetary Life, How to Be Useful
+518K views
+2 months ago
+39:32
+Andrej Karpathy: Software Is Changing (Again)
+2M views
+2 months ago
+61:13
+Alexandr Wang: Building Scale AI, Transforming Work with Agents & Competing With China
+274K views
+2 months ago
+37:29
+Cursor CEO: Going Beyond Code, Superintelligent AI Agents And Why Taste Still Matters
+226K views
+3 months ago
+8:08
+Fusion Energy Is Tech's Next Big Unlock
+51K views
+3 months ago
+31:26
+State-Of-The-Art Prompting For AI Agents
+269K views
+3 months ago
+30:08
+AI Apps Are Broken — Here's How To Fix Them
+92K views
+3 months ago
+40:47
+Startup Ideas You Can Now Build With AI
+256K views
+3 months ago
+19:12
+How AI Coding Agents Will Change Your Job
+111K views
+4 months ago
+52:36
+Windsurf CEO: Betting On AI Agents, Pivoting In 48 Hours, And The Future of Coding
+239K views
+4 months ago
+16:40
+How To Get The Most Out Of Vibe Coding
+290K views
+4 months ago
+8:30
+The Next Breakthrough In AI Agents Is Here
+267K views
+5 months ago
+38:24
+How Zepto Became India’s Fastest Growing Startup
+188K views
+4 months ago
+20:44
+Why Every Founder Should Care About Design
+48K views
+5 months ago
+31:33
+How To Build The Future: Tony Xu
+163K views
+5 months ago
+43:15
+How To Navigate Co-Founder Disputes
+48K views
+5 months ago
+26:12
+Customer Obsession Made Gusto A $9.6 Billion Company
+27K views
+5 months ago
+37:42
+The Future Of Design With Figma's Dylan Field
+62K views
+6 months ago
+8:26
+GPT-4.5 = Big Model Energy
+31K views
+6 months ago
+31:34
+Vibe Coding Is The Future
+267K views
+6 months ago
+36:28
+Design Experts Critique AI Interfaces
+156K views
+6 months ago
+34:39
+How To Build The Future: Aravind Srinivas
+130K views
+6 months ago
+49:29
+How AI Is Changing Enterprise
+118K views
+6 months ago
+13:46
+Building A Supersonic Plane Company From The Ground Up
+80K views
+7 months ago
+29:07
+The Right (And Wrong) Way To Spend Money At Your Startup
+62K views
+7 months ago
+43:49
+How To Get AI Startup Ideas
+241K views
+7 months ago
+13:06
+The Engineering Unlocks Behind DeepSeek | YC Decoded
+208K views
+7 months ago
+30:45
+How To Build The AGI Future: Bob McGrew
+48K views
+7 months ago
+39:33
+AI Revolution: Why This Is The Best Time To Start A Startup
+187K views
+7 months ago
+10:12
+How Scaling Laws Will Determine AI's Future
+38K views
+7 months ago
+14:18
+How To Use AI In Your Startup
+82K views
+8 months ago
+43:28
+How To Build The Future: Parker Conrad
+56K views
+8 months ago
+24:32
+Building A $2 Billion SaaS Company: Lessons From A Two Time Founder
+87K views
+8 months ago
+7:03
+The Lightcone 2025 Forecast
+50K views
+8 months ago
+16:57
+How To Focus On The Right Problems
+146K views
+8 months ago
+19:33
+How David Lieb Turned a Failing Startup Into Google Photos
+349K views
+8 months ago
+38:11
+2024’s Biggest Startup Trends
+103K views
+9 months ago
+7:54
+Anthropic’s Claude Computer Use Is A Game Changer
+136K views
+9 months ago
+21:16
+How To Make The Most Out of Your 20s
+618K views
+9 months ago
+32:57
+How To Start A Dev Tools Company
+59K views
+9 months ago
+42:13
+Vertical AI Agents Could Be 10X Bigger Than SaaS
+903K views
+9 months ago
+22:43
+Twitter vs. X: Product Lessons For Startup Founders
+39K views
+9 months ago
+35:17
+Why The Next AI Breakthroughs Will Be In Reasoning, Not Scaling
+80K views
+10 months ago
+46:52
+How To Build The Future: Sam Altman
+673K views
+10 months ago
+15:58
+The AI Future Has Arrived: Here's What You Should Do About It
+132K views
+10 months ago
+33:45
+The 10 Trillion Parameter AI Model With 300 IQ
+61K views
+10 months ago
+13:41
+You Don’t Have To Be A Billionaire To Launch Satellites
+28K views
+10 months ago
+7:07
+Why OpenAI's o1 Is A Huge Deal
+40K views
+10 months ago
+17:55
+Starting A Company? The Key Terms You Should Know
+72K views
+10 months ago
+37:14
+Now Anyone Can Code: How AI Agents Can Build Your Whole App
+93K views
+10 months ago
+33:38
+Why Design Matters: Lessons from Stripe, Lyft and Airbnb
+54K views
+11 months ago
+18:34
+How Do Billion Dollar Startups Start?
+107K views
+11 months ago
+24:17
+Meta VS Apple: What Their Battle Means For AI Startups
+38K views
+11 months ago
+37:06
+Why Vertical LLM Agents Are The New $1 Billion SaaS Opportunities
+429K views
+11 months ago
+21:06
+Stripe Head of Design Katie Dill Reviews Startup Websites
+86K views
+11 months ago
+20:38
+How To Find A Co-Founder
+86K views
+11 months ago
+13:02
+What Founder Mode Really Means
+95K views
+11 months ago
+55:52
+Building The World's Best Image Diffusion Model
+18K views
+11 months ago
+17:40
+Signs Your Company Is Recovering From ZIRP
+22K views
+11 months ago
+32:46
+How To Convert Customers With Cold Emails
+87K views
+1 year ago
+59:00
+How YC Was Created With Jessica Livingston
+24K views
+1 year ago
+9:45
+Why AI Hasn’t Blown Our Minds…Yet
+50K views
+1 year ago
+29:23
+How To Improve Cohort Retention
+45K views
+1 year ago
+37:36
+Are We In An AI Hype Cycle?
+72K views
+1 year ago
+12:32
+How To Influence Decision Makers
+50K views
+1 year ago
+19:35
+Co-Founder Equity Mistakes to Avoid
+228K views
+1 year ago
+21:11
+How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years
+119K views
+1 year ago
+48:44
+Gmail Creator Paul Buchheit On AGI, Open Source Models, Freedom
+61K views
+1 year ago
+12:29
+The Problem With Startup "Experts"
+46K views
+1 year ago
+17:46
+How To Price For B2B
+106K views
+1 year ago
+13:50
+Tarpit Ideas: The Sequel
+84K views
+1 year ago
+18:18
+Why Startup Founders Should Launch Companies Sooner Than They Think
+88K views
+1 year ago
+38:24
+10 People + AI = Billion Dollar Company?
+207K views
+1 year ago
+18:23
+What Is ZIRP And How Did It Poison Startups?
+67K views
+1 year ago
+12:07
+Standing Up For Startups - YC Goes To D.C.
+17K views
+1 year ago
+41:07
+Better AI Models, Better Startups [Lightcone Podcast Ep. 7]
+84K views
+1 year ago
+25:42
+YC's Group Partners Discuss Doing Things That Don't Scale
+198K views
+1 year ago
+8:16
+How New Technology Creates New Businesses
+63K views
+1 year ago
+21:12
+Does Your Startup Website Pass The First Impression Test?
+49K views
+1 year ago
+42:22
+Consumer is back, What’s getting funded now, The vibes immaculate [Lightcone Podcast Ep. 6]
+90K views
+1 year ago
+12:11
+When Should You Trust Your Gut?
+64K views
+1 year ago
+48:37
+Inside The Hard Tech Startups Turning Sci-Fi Into Reality [Lightcone Podcast Ep. 5]
+77K views
+1 year ago
+9:35
+How to Survive the Crypto Boom & Bust Cycle
+14K views
+1 year ago
+34:06
+Building AI Models Faster And Cheaper Than You Think  [Lightcone Podcast Ep. 4]
+84K views
+1 year ago
+33:27
+Where Is The REAL Cerebral Valley? [Lightcone Podcast Ep. 3]
+84K views
+1 year ago
+11:59
+Stop Innovating (On The Wrong Things)
+91K views
+1 year ago
+27:59
+Apple Vision Pro: Startup Platform Of The Future? [Lightcone Podcast Ep. 2]
+98K views
+1 year ago
+32:27
+The Truth About Building AI Startups Today [Lightcone Podcast Ep. 1]
+509K views
+1 year ago
+14:25
+Backstory: Tom Blomfield
+220K views
+1 year ago
+10:35
+Do technical founders need a business co-founder?
+145K views
+1 year ago
+16:16
+The asymmetric upside of being positive
+41K views
+1 year ago
+23:18
+Five DevTool Startups Get Their Websites Reviewed
+37K views
+1 year ago
+15:14
+Does your tech startup really need a technical co-founder? Yes.
+533K views
+1 year ago
+Emmett Shear, Co-Founder of Twitch
+1 year ago
+17:29
+The 10-Year “Overnight” Success Story of Casetext
+37K views
+1 year ago
+12:21
+From Underdog to Undefeated: The Edrizio De La Cruz founder story
+10K views
+1 year ago
+23:50
+How to convert more visitors into customers
+45K views
+1 year ago
+3:04
+Why YC? We asked 50 founders why they applied to Y Combinator
+21K views
+1 year ago
+Bill Clerico, Co-Founder & CEO of WePay
+1 year ago
+12:48
+How Athelas is revolutionizing healthcare
+19K views
+1 year ago
+13:32
+Is it time to quit your job at a unicorn?
+48K views
+1 year ago
+Dimitri Dadiomov, Co-Founder & CEO of Modern Treasury
+1 year ago
+11:52
+Backstory: Surbhi Sarna
+52K views
+1 year ago
+7:05
+Founder FAQ: 40 AI startup founders on the current state of AI tech
+49K views
+1 year ago
+Brian Armstrong, Co-Founder and CEO of Coinbase
+1 year ago
+17:35
+Dalton & Michael: Why You Shouldn't Copy Your Tech Idols
+107K views
+1 year ago
+24:03
+Building a better mobile app
+129K views
+Over 1 year ago
+Brian Chesky, Co-Founder & CEO of Airbnb (Part II)
+1 year ago
+11:40
+Dalton & Michael: Why Investors (Secretly) Love Y Combinator
+48K views
+Over 1 year ago
+26:09
+YC's Group Partners share their worst investor meetings
+122K views
+Over 1 year ago
+4:00
+Founder FAQ: How did you get your first customer?
+125K views
+Over 1 year ago
+15:18
+Dalton & Michael: Does Your Startup Need To Be In San Francisco?
+78K views
+Over 1 year ago
+3:53
+Founder FAQ: How did you meet your co-founder?
+66K views
+Over 1 year ago
+20:49
+YC's Group Partners share their favorite pivot stories
+137K views
+Over 1 year ago
+13:21
+Dalton & Michael: Will OpenAI kill all startups?
+138K views
+Over 1 year ago
+The FDE Playbook for AI Startups with Bob McGrew
+4 days ago
+27:56
+Michael Truell: Building Cursor at 23, Taking on GitHub Copilot, and Advice to Engineering Students
+34K views
+9 days ago
+12:32
+GPT-OSS vs. Qwen vs. Deepseek: Comparing Open Source LLM Architectures
+20K views
+14 days ago
+Startup School
+YC's Partners teach you to build the foundation of a billion dollar company
+Essays by Paul Graham
+A collection of essays by Y Combinator co-founder Paul Graham
+Explore more content
+Visit the YC Library, the hub for YC's startup videos, essays, podcasts, and more
+Want to learn more?
+YC Library
+Videos, podcasts, and essays for startup founders
+Newsletter
+Keep up with the latest news, launches, jobs, and events from the YC community
+Launch YC
+Discover new YC companies and products
+Work at a Startup
+Find your next role at a YC startup
+Blog
+Essays, events, and announcements from YC
+Co-Founder Matching
+Meet a potential co-founder to start a startup with
 Footer
 Y Combinator
 Programs
@@ -2865,1329 +4697,6 @@ by Jessica Livingston, YC Founding Partner
 by Garry Tan, YC President and CEO
 My 10 pieces of advice for preparing for a YC interview
 by Michael Seibel, YC Group Partner
-Footer
-Y Combinator
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Resources
-Startup Directory
-Startup Library
-Investors
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Make something people want.
-Apply
-Twitter
-Twitter
-Facebook
-Facebook
-Instagram
-Instagram
-LinkedIn
-LinkedIn
-Youtube
-YouTube
-© 2025 Y Combinator
-
-
---- CONTENT FROM https://www.ycombinator.com/apply ---
-
-About
-What Happens at YC?
-Apply
-YC Interview Guide
-FAQ
-People
-YC Blog
-Companies
-Startup Directory
-Founder Directory
-Launch YC
-Startup Jobs
-All Jobs
-◦ Engineering
-◦ Operations
-◦ Marketing
-◦ Sales
-Internships
-Startup Job Guide
-YC Startup Jobs Blog
-Find a Co-Founder
-Library
-SAFE
-Resources
-Startup School
-Newsletter
-Requests for Startups
-For Investors
-Verify Founders
-Hacker News
-Bookface
-Open main menu
-Apply for
-W2026
-batch.
-Apply
-Apply to Y Combinator
-Winter 2026 Batch
-Apply to Winter 2026
-Not ready to apply this batch?
-Sign up for reminders
-to apply next batch.
-Y Combinator is accepting applications for the
-Winter 2026
-Batch
-funding cycle. The batch will take place from
-January to March in San Francisco
-.
-The deadline to apply on-time is
-November 10 at 8pm PT;
-if you apply before the deadline, you will get a decision by
-December 10
-. If you apply after the deadline, we will still consider the application but can't promise exactly when we'll get back to you.
-About applying to YC
-If you want to apply, please submit your
-application
-online.
-People who applied before the regular deadline will hear back by
-December 10
-. If you apply after the deadline, we'll still consider the application but can't promise exactly when we'll get back to you.
-We encourage you to submit your application as soon as you’re ready to apply.
-If your application is promising, we will invite you to interview with us. Most interviews will be held by video conference in
-November and December
-We typically make decisions the same day as your interview, and we give everyone who interviews detailed feedback on our decision.
-We invest in companies as soon as they are accepted; we do not wait for the batch to start.
-About the batch
-The batch will take place in-person at YC's campus in San Francisco. It starts with a 3-day, in-person kick-off and features weekly meetups in San Francisco. For more information, please read our
-FAQs
-.
-During the batch, we invite eminent people from the startup world to speak. The founders of Airbnb, Stripe, Doordash, and Reddit often come back to tell the inside story of what happened in the early days of their startups.
-Every company works with a dedicated
-YC General Partner
-, who gets to know them well and can help with a wide range of issues.  Every YC general partner is a successful startup founder themselves, has advised hundreds of startups, and works closely with a small group of startups they personally hand-select every batch.  YC companies are in a direct slack channel with their partner and meet weekly during the batch.
-Similar to how many universities have a house model, each YC batch is actually several small, autonomous groups of companies. You go through YC as part of this small group of companies, have dinner with them each week, and build both personal and professional relationships. Many founders build lifelong friendships with the founders in their group.
-During and after the batch, we introduce founders to people who can help with any challenge. Often, this means founders of other
-YC companies
-. Today, The
-YC alumni community
-is one of the most powerful communities in the world, and its members have a strong commitment to help one another.
-Towards the end of the batch, we help companies raise additional funds by introducing them to YC’s extensive network of investors.
-YC doesn't end after 3 months
-. We continue to help founders for the life of their company, and beyond — and so does the YC alumni community. Read more
-here
-.
-If you have other questions, reach out via
-email
-.
-Related
-About Y Combinator
-Founder Ethics
-Frequently Asked Questions
-Requests for Startups
-Apply to Winter 2026
-Footer
-Y Combinator
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Resources
-Startup Directory
-Startup Library
-Investors
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Make something people want.
-Apply
-Twitter
-Twitter
-Facebook
-Facebook
-Instagram
-Instagram
-LinkedIn
-LinkedIn
-Youtube
-YouTube
-© 2025 Y Combinator
-
-
---- CONTENT FROM https://www.ycombinator.com/jobs/role/software-engineer ---
-
-About
-What Happens at YC?
-Apply
-YC Interview Guide
-FAQ
-People
-YC Blog
-Companies
-Startup Directory
-Founder Directory
-Launch YC
-Startup Jobs
-All Jobs
-◦ Engineering
-◦ Operations
-◦ Marketing
-◦ Sales
-Internships
-Startup Job Guide
-YC Startup Jobs Blog
-Find a Co-Founder
-Library
-SAFE
-Resources
-Startup School
-Newsletter
-Requests for Startups
-For Investors
-Verify Founders
-Hacker News
-Bookface
-Open main menu
-Apply for
-W2026
-batch.
-Apply
-Software Engineer jobs at Y Combinator startups
-September 2025
-Many YC startups are seeing breakout growth, and are actively hiring for software engineers. Find some of the top YC companies at Y Combinator.
-Create a profile
-Creating a profile is free and founders reach out to you.
-Explore Software Engineer jobs by location
-San Francisco
-New York
-Los Angeles
-Seattle
-Boston
-Austin
-India
-Remote jobs
-Software Engineer jobs
-added recently
-Design & UI/UX
-Product
-Recruiting & HR
-Sales
-Science
-Snazzy
-(W21)
-Making clear aligners accessible and affordable in India
-Snazzy
-(W21)
-•
-Making clear aligners accessible and affordable in India
-(
-7 days
-ago)
-Founding Engineer (Golang/ReactJS)
-Full-time
-•
-Engineering
-•
-Full stack
-•
-₹800K - ₹2M INR
-•
-Bengaluru, KA, IN / Bengaluru, Karnataka, IN
-Apply
-Payflow
-(S20)
-AI FP&A Agent for insights, reports, planning and forecasting.
-Payflow
-(S20)
-•
-AI FP&A Agent for insights, reports, planning and forecasting.
-(
-5 days
-ago)
-Forward Deployed Data Scientist
-Full-time
-•
-Engineering
-•
-Data science
-•
-$80K - $130K
-•
-Lehi, UT, US / New York, NY, US / Atlanta, GA, US / Remote (US)
-Apply
-Turing Labs Inc.
-(W20)
-AI for R&D of consumer brands like P&G to develop better products
-Turing Labs Inc.
-(W20)
-•
-AI for R&D of consumer brands like P&G to develop better products
-(
-12 days
-ago)
-AI Engineer Intern - build stealth model
-Internship
-•
-Engineering
-•
-Machine learning
-•
-$4K - $10K / monthly
-•
-Palo Alto, CA, US / San Francisco, CA, US
-Apply
-Banner
-(S19)
-Banner makes software for CRE owners to manage capital spend
-Banner
-(S19)
-•
-Banner makes software for CRE owners to manage capital spend
-(
-1 day
-ago)
-Senior Software Engineer
-Full-time
-•
-Engineering
-•
-Full stack
-•
-$160 - $200
-•
-US / Remote (US)
-Apply
-Porter
-(S20)
-Easiest way to deploy on AWS/GCP/Azure
-Porter
-(S20)
-•
-Easiest way to deploy on AWS/GCP/Azure
-(
-about 4 hours
-ago)
-Staff Infrastructure Engineer
-Full-time
-•
-Engineering
-•
-Backend
-•
-$200K - $280K
-•
-New York, NY, US
-Apply
-Strac
-(W22)
-Data Discovery, DLP, DSPM for SaaS, Cloud, Gen AI & Endpoints
-Strac
-(W22)
-•
-Data Discovery, DLP, DSPM for SaaS, Cloud, Gen AI & Endpoints
-(
-5 days
-ago)
-Senior Software Engineer
-Full-time
-•
-Engineering
-•
-Full stack
-•
-$110K - $160K
-•
-Redmond, WA, US / Seattle, WA, US / Austin, TX, US / Bellevue, WA, US
-Apply
-Cogram
-(W22)
-The AI Platform for Architects, Builders, and Engineers
-Cogram
-(W22)
-•
-The AI Platform for Architects, Builders, and Engineers
-(
-1 day
-ago)
-Product Engineer / AI Operator
-Full-time
-•
-Engineering
-•
-Full stack
-•
-€60K - €90K EUR
-•
-Berlin, BE, DE / Remote
-Apply
-Heron Data
-(S20)
-We automate document-heavy workflows in financial services and beyond
-Heron Data
-(S20)
-•
-We automate document-heavy workflows in financial services and beyond
-(
-about 23 hours
-ago)
-Full-Stack Engineers (London)
-Full-time
-•
-Engineering
-•
-Full stack
-•
-£65K - £150K GBP
-•
-London, UK
-Apply
-Confido
-(S21)
-AI-enabled financial automation and intelligence for CPG Brands
-Confido
-(S21)
-•
-AI-enabled financial automation and intelligence for CPG Brands
-(
-about 18 hours
-ago)
-Staff Software Engineer
-Full-time
-•
-Engineering
-•
-Full stack
-•
-$230K - $270K
-•
-New York, NY, US
-Apply
-Nextera Robotics
-(S20)
-AI-native Robotics
-Nextera Robotics
-(S20)
-•
-AI-native Robotics
-(
-3 days
-ago)
-Full-Stack Engineer - Boston, MA or remote (US only)
-Full-time
-•
-Engineering
-•
-Full stack
-•
-$110K - $140K
-•
-Boston, MA / Remote (US)
-Apply
-Aviator
-(S21)
-Google-level engineering productivity suite
-Aviator
-(S21)
-•
-Google-level engineering productivity suite
-(
-3 days
-ago)
-Software engineer, Fullstack
-Full-time
-•
-Engineering
-•
-Backend
-•
-$120K - $160K
-•
-San Francisco, CA, US
-Apply
-Keeper
-(S21)
-We make software for bookkeepers.
-Keeper
-(S21)
-•
-We make software for bookkeepers.
-(
-9 days
-ago)
-QA Engineer
-Full-time
-•
-Engineering
-•
-QA engineer
-•
-$60K - $110K
-•
-US / CA / AR / BR / UY / Remote (US; CA; AR; BR; UY)
-Apply
-Windmill
-(S22)
-Open-source platform to turn scripts into internal apps & workflows
-Windmill
-(S22)
-•
-Open-source platform to turn scripts into internal apps & workflows
-(
-4 days
-ago)
-Backend Software Engineer (Rust)
-Full-time
-•
-Engineering
-•
-Backend
-•
-€40K - €90K EUR
-•
-Paris, IDF, FR / Remote (Paris, IDF, FR)
-Apply
-REVER
-(S22)
-Changing the way people buy by giving superpowers to shoppers
-REVER
-(S22)
-•
-Changing the way people buy by giving superpowers to shoppers
-(
-14 days
-ago)
-Backend Engineer
-Full-time
-•
-Engineering
-•
-Full stack
-•
-€40K - €70K EUR
-•
-Barcelona, CT, ES / ES
-Apply
-BoldVoice
-(S21)
-Speech and accent coaching app for non-native English speakers
-BoldVoice
-(S21)
-•
-Speech and accent coaching app for non-native English speakers
-(
-8 days
-ago)
-Machine Learning Researcher Engineer
-Full-time
-•
-Engineering
-•
-Machine learning
-•
-$140K - $200K
-•
-New York, NY, US / Remote (US)
-Apply
-Infracost
-(W21)
-Shift FinOps Left: Proactively Find & Fix Cloud Cost Issues
-Infracost
-(W21)
-•
-Shift FinOps Left: Proactively Find & Fix Cloud Cost Issues
-(
-8 days
-ago)
-AI Agent Engineer (Go)
-Full-time
-•
-Engineering
-•
-Backend
-•
-€80 - €160 EUR
-•
-Remote
-Apply
-Aden
-(W20)
-Hire Aden to run your business operations at scale
-Aden
-(W20)
-•
-Hire Aden to run your business operations at scale
-(
-about 1 hour
-ago)
-AI Engineering Lead
-Full-time
-•
-Engineering
-•
-Backend
-•
-$250K - $350K
-•
-San Francisco, CA, US / Remote (San Francisco, CA, US)
-Apply
-Adaptyv
-(S21)
-We're building fully automated labs for protein engineering
-Adaptyv
-(S21)
-•
-We're building fully automated labs for protein engineering
-(
-about 7 hours
-ago)
-Product Engineer
-Full-time
-•
-Engineering
-•
-Full stack
-•
-Lausanne / Hybrid / Remote / Remote (US)
-Apply
-Flock Safety
-(S17)
-The first public safety operating system that eliminates crime.
-Flock Safety
-(S17)
-•
-The first public safety operating system that eliminates crime.
-(
-2 days
-ago)
-Senior Software Engineer, Backend Integrations
-Full-time
-•
-Engineering
-•
-Full stack
-•
-$170K - $250K
-•
-Atlanta, GA, US / Remote (Atlanta, GA, US)
-Apply
-Landeed
-(S22)
-Landeed is India's fastest property title search engine
-Landeed
-(S22)
-•
-Landeed is India's fastest property title search engine
-(
-11 days
-ago)
-Founding Fullstack Engineer: React / React Native + Any Backend (India)
-Full-time
-•
-Engineering
-•
-Full stack
-•
-₹2M - ₹6M INR
-•
-Hyderabad, Telangana, India
-Apply
-Bree
-(S21)
-Chime for Canada, starting with cash advances
-Bree
-(S21)
-•
-Chime for Canada, starting with cash advances
-(
-2 days
-ago)
-Senior Full Stack Engineer
-Full-time
-•
-Engineering
-•
-Full stack
-•
-$120 - $200 CAD
-•
-Toronto, ON, CA / Toronto, Ontario, CA
-Apply
-Eight Sleep
-(S15)
-The sleep fitness company.
-Eight Sleep
-(S15)
-•
-The sleep fitness company.
-(
-1 day
-ago)
-Full Stack Engineer, Web
-Full-time
-•
-Engineering
-•
-Full stack
-•
-$180K - $210K
-•
-Remote - UK or Europe, Remote - US, CA or LATAM / Remote (New York, NY, US; San Francisco, CA, US; US)
-Apply
-Pump.co
-(S22)
-The Costco for cloud is here 🔥🔥
-Pump.co
-(S22)
-•
-The Costco for cloud is here 🔥🔥
-(
-8 days
-ago)
-Backend Engineer
-Full-time
-•
-Engineering
-•
-Backend
-•
-$120K - $160K
-•
-San Francisco, CA, US
-Apply
-Verse Medical
-(S18)
-Software platform for in-home healthcare
-Verse Medical
-(S18)
-•
-Software platform for in-home healthcare
-(
-about 2 hours
-ago)
-Senior/Staff Full Stack Engineer
-Full-time
-•
-Engineering
-•
-Full stack
-•
-$150K - $220K
-•
-San Francisco, CA, US
-Apply
-WarpBuild
-(S21)
-Accelerate software development with WarpBuild's 10x faster CI infra.
-WarpBuild
-(S21)
-•
-Accelerate software development with WarpBuild's 10x faster CI infra.
-(
-3 days
-ago)
-Senior/Staff Fullstack Engineer
-Full-time
-•
-Engineering
-•
-Full stack
-•
-₹3M - ₹8M INR
-•
-India / Remote (India)
-Apply
-Secoda
-(S21)
-Secoda is the AI layer for your Analytics
-Secoda
-(S21)
-•
-Secoda is the AI layer for your Analytics
-(
-2 days
-ago)
-Software Engineer
-Full-time
-•
-Engineering
-•
-Full stack
-•
-$150K - $200K CAD
-•
-Hybrid in Toronto
-Apply
-Sphere
-(W22)
-AI-powered sales tax, VAT and GST compliance
-Sphere
-(W22)
-•
-AI-powered sales tax, VAT and GST compliance
-(
-8 days
-ago)
-Senior Backend Engineer (Infrastructure)
-Full-time
-•
-Engineering
-•
-Devops
-•
-$180K - $250K
-•
-San Francisco, CA, US
-Apply
-Zuma
-(S21)
-We help businesses convert leads into sales in minutes using text
-Zuma
-(S21)
-•
-We help businesses convert leads into sales in minutes using text
-(
-7 days
-ago)
-Founding Full Stack Engineer
-Full-time
-•
-Engineering
-•
-Full stack
-•
-$170K - $200K
-•
-San Francisco, CA, US / Santa Monica, CA, US / Remote
-Apply
-CoLoop
-(S21)
-AI Copilot for insights & strategy
-CoLoop
-(S21)
-•
-AI Copilot for insights & strategy
-(
-3 days
-ago)
-Fullstack Engineer
-Full-time
-•
-Engineering
-•
-Full stack
-•
-£70K - £90K GBP
-•
-London, UK
-Apply
-AlgoTest
-(S22)
-Ecosystem for options trading in India
-AlgoTest
-(S22)
-•
-Ecosystem for options trading in India
-(
-2 days
-ago)
-Founding Backend Engineer - Core Trading Platform
-Full-time
-•
-Engineering
-•
-Backend
-•
-$10K - $40K
-•
-Gurgaon, Haryana, India / New Delhi, Delhi, India
-Apply
-AccessOwl
-(S22)
-Managing your Employees' Access to SaaS
-AccessOwl
-(S22)
-•
-Managing your Employees' Access to SaaS
-(
-8 days
-ago)
-Senior Software Engineer (Elixir Focus)
-Full-time
-•
-Engineering
-•
-Full stack
-•
-€70K - €95K EUR
-•
-Berlin, BE, DE / ES / PT / PL / AT / CZ / HU / SK / RO / SI / HR / RS / BA / IT / CH / NL / BE / FR / GB / GR / BG / UA / TR / AF / AL / DZ / AD / AO / AM / AZ / BH / BY / BJ / BW / TD / CY / DK / FI / GE / GL / IS / IL / JO / KZ / KE / LB / LY / LT / MC / NG / NO / QA / SC / SE / AE / YE / ZM / ZW / DE / PK / EG / RW / MK / Remote (Berlin, BE, DE; ES; PT; PL; AT; CZ; HU; SK; RO; SI; HR; RS; BA; IT; CH; NL; BE; FR; GB; GR; BG; UA; TR; AF; AL; DZ; AD; AO; AM; AZ; BH; BY; BJ; BW; TD; CY; DK; FI; GE; GL; IS; IL; JO; KZ; KE; LB; LY; LT; MC; NG; NO; QA; SC; SE; AE; YE; ZM; ZW; DE; PK; EG; RW; MK)
-Apply
-Numeral
-(W23)
-SaaS & Ecommerce sales tax on autopilot.
-Numeral
-(W23)
-•
-SaaS & Ecommerce sales tax on autopilot.
-(
-about 21 hours
-ago)
-Founding Solutions Engineer
-Full-time
-•
-Engineering
-•
-Full stack
-•
-$160K - $210K
-•
-HQ / Remote (US)
-Apply
-Dex
-(S19)
-Dex is a personal CRM that reminds you to keep in touch with the…
-Dex
-(S19)
-•
-Dex is a personal CRM that reminds you to keep in touch with the…
-(
-8 days
-ago)
-Product Engineer (Web / Vue.js / Typescript) - Remote
-Full-time
-•
-Engineering
-•
-Full stack
-•
-$30K - $60K
-•
-Remote
-Apply
-LiveFlow
-(W21)
-LiveFlow empowers finance leaders with real-time insights into every…
-LiveFlow
-(W21)
-•
-LiveFlow empowers finance leaders with real-time insights into every…
-(
-about 8 hours
-ago)
-Senior Full Stack Engineer
-Full-time
-•
-Engineering
-•
-Full stack
-•
-$90K - $150K
-•
-São Paulo, SP, BR / São Paulo, State of São Paulo, BR / London, England, GB / Lisbon, Lisbon, PT / New York, NY, US / Remote (US)
-Apply
-OfOne
-(W23)
-AI-powered order taker for restaurant drive-thrus
-OfOne
-(W23)
-•
-AI-powered order taker for restaurant drive-thrus
-(
-1 day
-ago)
-Founding Engineer
-Full-time
-•
-Engineering
-•
-Backend
-•
-$140K - $200K
-•
-San Francisco, CA, US
-Apply
-Broccoli AI
-(W22)
-AI-native operating system for home service businesses
-Broccoli AI
-(W22)
-•
-AI-native operating system for home service businesses
-(
-6 days
-ago)
-Senior Software Engineer
-Full-time
-•
-Engineering
-•
-Full stack
-•
-$140K - $200K
-•
-San Francisco
-Apply
-Raven
-(S22)
-AI Assistants for Manufacturing Operations
-Raven
-(S22)
-•
-AI Assistants for Manufacturing Operations
-(
-3 days
-ago)
-AI Research Intern – Applied AI
-Internship
-•
-Engineering
-•
-Machine learning
-•
-₹50K - ₹80K INR / monthly
-•
-Bengaluru, KA, IN / Bengaluru, Karnataka, IN / Remote (IN)
-Apply
-Ziina
-(W21)
-A digital wallet for the Middle East & North Africa
-Ziina
-(W21)
-•
-A digital wallet for the Middle East & North Africa
-(
-1 day
-ago)
-Senior Backend Engineer
-Full-time
-•
-Engineering
-•
-Backend
-•
-$100K - $150K
-•
-Dubai
-Apply
-Karat Financial
-(W20)
-Better financial services for creators
-Karat Financial
-(W20)
-•
-Better financial services for creators
-(
-6 days
-ago)
-Engineering Manager
-Full-time
-•
-Engineering
-•
-Engineering manager
-•
-$180K - $200K
-•
-Los Angeles, CA, US
-Apply
-Medplum
-(S22)
-API first electronic health record (EHR) that is open source
-Medplum
-(S22)
-•
-API first electronic health record (EHR) that is open source
-(
-4 days
-ago)
-Founding Engineer (Fullstack)
-Full-time
-•
-Engineering
-•
-Full stack
-•
-$160K - $200K
-•
-San Francisco, CA, US
-Apply
-Create a profile to see more jobs ›
-Work at a Startup
-Jobs
-Internships
-Events
-How it works
-Sign In
-Jobs by Role
-Software Engineer
-Jobs
-Design & UI/UX
-Jobs
-Product Manager
-Jobs
-Recruiting & HR
-Jobs
-Sales
-Jobs
-Marketing
-Jobs
-Support & Success
-Jobs
-Operations
-Jobs
-Science
-Jobs
-Jobs by Location
-Jobs in
-San Francisco
-Jobs in
-New York
-Jobs in
-Los Angeles
-Jobs in
-Seattle
-Jobs in
-Austin
-Jobs in
-Chicago
-Jobs in
-India
-Jobs by Role and Location
-Software Engineer Jobs in San Francisco
-Recruiting Jobs in San Francisco
-Product Manager Jobs in San Francisco
-Software Engineer Jobs in New York
-Recruiting Jobs in New York
-Product Manager Jobs in New York
-Software Engineer Jobs in Los Angeles
-Recruiting Jobs in Los Angeles
-Product Manager Jobs in Los Angeles
-Remote Jobs
-Remote
-Software Engineer
-Jobs
-Remote
-Design & UI/UX
-Jobs
-Remote
-Product Manager
-Jobs
-Remote
-Recruiting & HR
-Jobs
-Remote
-Sales
-Jobs
-Remote
-Marketing
-Jobs
-Remote
-Support & Success
-Jobs
-Remote
-Operations
-Jobs
-Remote
-Science
-Jobs
-Footer
-Y Combinator
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Resources
-Startup Directory
-Startup Library
-Investors
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Make something people want.
-Apply
-Twitter
-Twitter
-Facebook
-Facebook
-Instagram
-Instagram
-LinkedIn
-LinkedIn
-Youtube
-YouTube
-©
-2025
-Y Combinator
-
-
---- CONTENT FROM https://www.ycombinator.com/rfs ---
-
-About
-What Happens at YC?
-Apply
-YC Interview Guide
-FAQ
-People
-YC Blog
-Companies
-Startup Directory
-Founder Directory
-Launch YC
-Startup Jobs
-All Jobs
-◦ Engineering
-◦ Operations
-◦ Marketing
-◦ Sales
-Internships
-Startup Job Guide
-YC Startup Jobs Blog
-Find a Co-Founder
-Library
-SAFE
-Resources
-Startup School
-Newsletter
-Requests for Startups
-For Investors
-Verify Founders
-Hacker News
-Bookface
-Open main menu
-Apply for
-W2026
-batch.
-Apply
-Requests for Startups
-RFS is our tradition of sharing ideas we'd like to see founders tackle. These represent just a fraction of what we fund — if one excites you, take it as extra validation to dive in, but you don't need to work on these ideas to apply to YC.
-Fall 2025
-Summer 2025
-Spring 2025
-Winter 2025
-Summer 2024
-Fall 2025
-The last few years were about proving what AI can do. Now, it's about building with it. We've put together a new list of startup ideas we're especially excited about— ideas that treat AI not as a feature, but as a foundation. They reflect where we think some of the biggest opportunities are right now.
-Retraining Workers for the AI Economy
-By Harj Taggar
-We talk a lot about the AI revolution in terms of models, chips, and software. But to make it a reality, there needs to be a huge buildout of physical infrastructure like data centers and semiconductor fabs.
-
-And that's where we have a problem. While we're focused on the race for AI talent, we also have a shortage of skilled tradespeople—the electricians, the HVAC technicians, the welders—who are essential to building this physical infrastructure.
-
-The government's new AI Action plan creates a forcing function to solve this. There's a big emphasis on a "worker-first" agenda, and directions to the Departments of Labor and Commerce to fund new rapid retraining programs for exactly these kinds of physical labor jobs.
-
-This creates opportunities for startups. We want to fund startups building a new kind of vocational school for the AI economy to train people for these jobs. We think you could use AI to create personalized training programs to get people job-ready in months, not years.
-
-The challenge is, how do you teach someone to weld or fix pipes via AI? Unlike coding, you can't learn these skills by typing on a keyboard — you need to learn by practicing them in the real world.
-
-This is where multimodal AI could create opportunities — for example, maybe a voice AI could coach someone through these tasks. Or perhaps some combination of AR/VR could let people practice the work in simulation with an AI tutor using vision models to watch them and give feedback.
-
-It's clear how you'd make money from this business — employers would pay to hire your well-trained workers. In the past, these types of training businesses — like coding bootcamps — have struggled to expand because it's hard to scale the quality of human tutors, but AI might solve this problem too. If you can make one effective AI teacher, it'll scale infinitely.
-
-This is a chance to build a huge business that lets everyone benefit from and participate in the new AI economy that's changing the world. If you want to work on this, we'd love to hear from you.
-Video Generation as a Primitive
-By David Lieb
-Video generation models are getting really good. Google's Veo 3 already produces 8-second, photorealistic, sound-on clips for just a few dollars per video, often indistinguishable from reality. Soon, you'll be able to generate near-perfect footage of anything, on the fly, for a marginal cost approaching 0, and video will become a new basic building block for software.
-
-When this happens, a lot of new ideas become possible.
-
-It's definitely going to change media and entertainment:
-
-Imagine being able to create a brand new season of your favorite canceled TV series. Or a personalized kids cartoon starring your own family as the characters. Or an AI-native successor to TikTok, where every video is made for exactly one viewer.
-
-Video generation will also change how we buy things:
-
-Imagine you're shopping online, you'll be able to see yourself wearing the clothes or using the products you're browsing. And when you're apartment hunting, your stuff will be auto-staged in every listing you click on.
-
-This new primitive also opens up major changes to gaming and simulation:
-
-We'll have video games built with no game engine. We'll have APIs that return infinite robotic training data. And we'll definitely be able to have video calls with loved ones long after they're gone.
-
-And these are just the obvious ideas we can imagine today.
-We're interested in founders who treat generative video as a new computing primitive—not an output—and build new apps, tooling, and infrastructure for a world with limitless, low-latency video.
-The First 10-person, $100B Company
-By Aaron Epstein
-Thanks to new AI tools, we believe it's now possible for small, high-agency teams – even solo founders – to build multi-billion dollar companies with as little as just $500k in funding from YC.
-
-15 years ago, cloud computing came along and eliminated the need for spending tons of money on physical server infrastructure, making it easier to build a big company with way less capital. This is happening again now, with new AI tools that make it easier for ambitious founders to scale with far fewer people.
-
-That's why the best high-agency startups of the future will all optimize for one metric: revenue per employee.
-
-These small teams have incredible advantages over bloated incumbents, too. With smaller, efficient teams at scale, they won't get bogged down with the politics, excessive meetings, and lack of focus that grinds huge companies to a halt. They can just focus on winning with better speed and execution.
-
-We want to fund these high-agency founders to help them build the first 10-person, $100b dollar company.
-Infrastructure for Multi-Agent Systems
-By Pete Koomen
-AI agents are evolving from single-threaded loops into distributed workflows that fan out many sub‑agent calls in a single run. These multi-agent systems are useful for everything from long-running workflows to agentic mapreduce jobs where hundreds of thousands of subagents apply human-level judgment to filter and search through large amounts of data in parallel.
-
-These systems are difficult to build. They require solving traditional distributed systems problems to ensure high throughput and reliability while controlling costs.
-
-They also introduce new problems that look familiar but can be solved at a higher level of abstraction, like:
-
-- how to write effective agent and subagent prompts
-- how to handle untrusted context
-- how to monitor and debug these agents
-
-We're looking for builders who have felt this pain in production and want to build tools to make these systems easier to build and maintain. If you want to make operating fleets of agents as routine and reliable as deploying a web service or running a Spark job, we'd love to hear from you.
-AI Native Enterprise Software
-By Andrew Miklas
-Salesforce and ServiceNow are two of the world's largest enterprise software vendors, each making more than $10B a year in revenue, and each with a market cap of more than $200B. Both produce software needed to run the world's biggest businesses.
-
-Interestingly, both were founded about 25 years ago. Coincidence? I don't think so! Salesforce built the first cloud-native CRM, and ServiceNow built the first cloud-native ITSM system. Both rode the cloud computing wave to victory over their respective incumbents.
-
-The story is much the same for Netsuite, Successfactors, and a host of other B2B startups from the early two thousands. The founders of these businesses realized that SaaS offered a way to build a ten times better product. Just as important, these founders knew the incumbents would struggle to adapt to the new world of cloud computing, giving them the edge they needed to go up against them and win.
-
-AI presents the same once-in-a-generation opportunity for today's founders. Tomorrow's enterprise software systems won't just be the "system of record" for work done by humans. They'll have AI embedded deeply and thoughtfully throughout, and will help employees do their work faster and more accurately. Think Cursor for sales, HR, and accounting.
-
-Just as before, today's incumbents will struggle to rebuild their product around this new technology, giving today's startups the time they need to win. History doesn't repeat itself, but it sure does rhyme.
-
-Interested in building AI-native enterprise software? If so, we should chat.
-Using LLMs Instead of Government Consulting
-By Gustaf Alstromer
-The U.S. government spends over $100 billion a year on consulting. As you might imagine, this isn't the most efficient or innovative part of our economy.
-
-But over the last couple of years, there have been a few big reasons we believe this will change. Most importantly, today, there is political pressure to cut wasteful consulting and spending. Every part of the government now runs on software, but usually custom software built by a consulting company, and anyone who has used this software knows we can do a lot better. Finally, LLMs today are so good that they can already do the jobs of many consulting firms.
-
-We've recently funded companies that help companies get approved to sell to the government, called FedRAMP. We've also recently funded companies that help the government cut regulation and use LLMs to help make sure the laws and policies coming out of the government are actually legal.
-
-We think there is a lot more work that government consulting firms like Deloitte and Accenture do for the government today, and we want to fund startups that build LLM software to do that work.
 Footer
 Y Combinator
 Programs
@@ -4771,7 +5280,7 @@ YouTube
 © 2025 Y Combinator
 
 
---- CONTENT FROM https://www.ycombinator.com/blog ---
+--- CONTENT FROM https://www.ycombinator.com/jobs ---
 
 About
 What Happens at YC?
@@ -4809,810 +5318,576 @@ Apply for
 W2026
 batch.
 Apply
-Select a tab
-All Posts
-Startup Jobs
-Startup School
-All Posts
-Startup Jobs
-Startup School
-Search Blog Posts
-Welcoming Jon Xu and Andrew Miklas as YC’s Newest General Partners
-Over the last few batches, visiting partners Jon Xu and Andrew Miklas have become two of the most trusted voices in the YC community. They were both founders in YC’s Summer 2010 batch, and now, 15 years and two industry-shaping companies later, they’re back in a new role: General Partners at YC.
-Read More
-Recent Posts
-Dalton Caldwell’s Move to Partner Emeritus
-After 12+ years, 25 batches, and working with more than a thousand startups, Dalton Caldwell is transitioning to Partner Emeritus at YC. ...
-YC News
-Garry Tan
-Garry Tan
-6/12/2025
-Tyler Bosmeny built Clever into a $500M company–now he’s helping YC founders do the same as General Partner
-We’re thrilled to welcome Tyler Bosmeny back to YC, this time as a General Partner.
-YC News
-Garry Tan
-Garry Tan
-4/1/2025
-Michael Seibel's Legacy Continues at YC: Transition to Partner Emeritus
-If you’ve been around YC, you know Michael Seibel has been a huge part of it for over a decade. He’s done it all ...
-YC News
-Garry Tan
-Garry Tan
-3/20/2025
-All Posts
-East Coast College Tour 2025
-by
-Y Combinator
-3/13/2025
-YC is going on a college tour! We're visiting Harvard, Yale, MIT, Columbia, Cornell, and Cornell Tech. 
-
-If you're a current student at any of those schools and interested in startups, we'd love to meet you.
-Read More
-Summer Fellows Grants
-by
-Harj Taggar
-2/17/2025
-This summer, YC will be giving grants to college students to work on their own technical projects. We’re calling these the Summer Fellows Grants.
-
-We hope this will encourage the smartest students to indulge their intellectual curiosity and work on hard technical things.
-Read More
-Join us at AI Startup School — June 16-17
-by
-Garry Tan
-2/12/2025
-We're gathering 2,000 of the top CS undergrads, masters, and PhD candidates in AI to hear from speakers including Elon Musk, Satya Nadella, Sam Altman, Andrej Karpathy, Andrew Ng, and many more — the world’s top AI experts and founders who will teach you how to build the future.
-Read More
-Announcing the YC Spring 2025 batch
-by
-Dalton Caldwell
-1/20/2025
-Y Combinator is now running four batches per year: Winter, Spring, Summer, and Fall. We completed the first ever fall batch last year, F24, and are proud to announce the first ever spring batch. Applications are now open.
-Read More
-YC Winter 2025 batch applications due by Tuesday, November 12, 2024
-by
-Jared Friedman
-,
-Aaron Epstein
-11/5/2024
-To better serve founders given the rapid rate of technological change, YC recently switched from two to four batches per year.
-The winter 2025 batch will run from January to March, and applications are due on November 12.
-Read More
-Correcting the record for Continue and PearAI
-by
-Garry Tan
-10/4/2024
-YC is at our best when backing founders with an ethos of building for others, including strong open source developers like the founders of Continue and many others.
-Read More
-Showing
-1
-to
-10
-of
-2669
-total posts
-Next
-Categories
-Admissions
-Advice
-Biotech
-Blockchain
-Essay
-Female Founders
-Founder Stories
-Interviews
-Startup School
-Work at a Startup
-YC Events
-Sign up for weekly updates from
-Y Combinator
-Subscribe
-Footer
-Y Combinator
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Resources
-Startup Directory
-Startup Library
-Investors
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Make something people want.
+Find the best startup jobs, curated by Y Combinator.
+Apply to
+thousands
+of startup jobs with a single profile.
+Let YC founders contact you or browse companies privately.
+Find the next Airbnb, Instacart or Coinbase — only YC companies.
+Find a job ›
+Already work at a YC startup?
+Browse privately
+Software Engineer
+jobs added recently
+Design & UI/UX
+Product
+Recruiting & HR
+Sales
+Science
+AccessOwl
+(S22)
+Managing your Employees' Access to SaaS
+AccessOwl
+(S22)
+•
+Managing your Employees' Access to SaaS
+(
+9 days
+ago)
+Senior Software Engineer (Elixir Focus)
+Full-time
+•
+Engineering
+•
+Full stack
+•
+€70K - €95K EUR
+•
+Berlin, BE, DE / ES / PT / PL / AT / CZ / HU / SK / RO / SI / HR / RS / BA / IT / CH / NL / BE / FR / GB / GR / BG / UA / TR / AF / AL / DZ / AD / AO / AM / AZ / BH / BY / BJ / BW / TD / CY / DK / FI / GE / GL / IS / IL / JO / KZ / KE / LB / LY / LT / MC / NG / NO / QA / SC / SE / AE / YE / ZM / ZW / DE / PK / EG / RW / MK / Remote (Berlin, BE, DE; ES; PT; PL; AT; CZ; HU; SK; RO; SI; HR; RS; BA; IT; CH; NL; BE; FR; GB; GR; BG; UA; TR; AF; AL; DZ; AD; AO; AM; AZ; BH; BY; BJ; BW; TD; CY; DK; FI; GE; GL; IS; IL; JO; KZ; KE; LB; LY; LT; MC; NG; NO; QA; SC; SE; AE; YE; ZM; ZW; DE; PK; EG; RW; MK)
 Apply
-Twitter
-Twitter
-Facebook
-Facebook
-Instagram
-Instagram
-LinkedIn
-LinkedIn
-Youtube
-YouTube
-© 2025 Y Combinator
-
-
---- CONTENT FROM https://www.ycombinator.com/ ---
-
-About
-What Happens at YC?
+Bree
+(S21)
+Chime for Canada, starting with cash advances
+Bree
+(S21)
+•
+Chime for Canada, starting with cash advances
+(
+3 days
+ago)
+Senior Full Stack Engineer
+Full-time
+•
+Engineering
+•
+Full stack
+•
+$120 - $200 CAD
+•
+Toronto, ON, CA / Toronto, Ontario, CA
 Apply
-YC Interview Guide
-FAQ
-People
-YC Blog
-Companies
-Startup Directory
-Founder Directory
-Launch YC
-Startup Jobs
-All Jobs
-◦ Engineering
-◦ Operations
-◦ Marketing
-◦ Sales
+Raven
+(S22)
+AI Assistants for Manufacturing Operations
+Raven
+(S22)
+•
+AI Assistants for Manufacturing Operations
+(
+3 days
+ago)
+AI Research Intern – Applied AI
+Internship
+•
+Engineering
+•
+Machine learning
+•
+₹50K - ₹80K INR / monthly
+•
+Bengaluru, KA, IN / Bengaluru, Karnataka, IN / Remote (IN)
+Apply
+Keeper
+(S21)
+We make software for bookkeepers.
+Keeper
+(S21)
+•
+We make software for bookkeepers.
+(
+10 days
+ago)
+QA Engineer
+Full-time
+•
+Engineering
+•
+QA engineer
+•
+$60K - $110K
+•
+US / CA / AR / BR / UY / Remote (US; CA; AR; BR; UY)
+Apply
+WarpBuild
+(S21)
+Accelerate software development with WarpBuild's 10x faster CI infra.
+WarpBuild
+(S21)
+•
+Accelerate software development with WarpBuild's 10x faster CI infra.
+(
+3 days
+ago)
+Senior/Staff Fullstack Engineer
+Full-time
+•
+Engineering
+•
+Full stack
+•
+₹3M - ₹8M INR
+•
+India / Remote (India)
+Apply
+Nextera Robotics
+(S20)
+AI-native Robotics
+Nextera Robotics
+(S20)
+•
+AI-native Robotics
+(
+4 days
+ago)
+Full-Stack Engineer - Boston, MA or remote (US only)
+Full-time
+•
+Engineering
+•
+Full stack
+•
+$110K - $140K
+•
+Boston, MA / Remote (US)
+Apply
+Verse Medical
+(S18)
+Software platform for in-home healthcare
+Verse Medical
+(S18)
+•
+Software platform for in-home healthcare
+(
+about 20 hours
+ago)
+Senior/Staff Full Stack Engineer
+Full-time
+•
+Engineering
+•
+Full stack
+•
+$150K - $220K
+•
+San Francisco, CA, US
+Apply
+Zuma
+(S21)
+We help businesses convert leads into sales in minutes using text
+Zuma
+(S21)
+•
+We help businesses convert leads into sales in minutes using text
+(
+8 days
+ago)
+Founding Full Stack Engineer
+Full-time
+•
+Engineering
+•
+Full stack
+•
+$170K - $200K
+•
+San Francisco, CA, US / Santa Monica, CA, US / Remote
+Apply
+Aden
+(W20)
+Hire Aden to run your business operations at scale
+Aden
+(W20)
+•
+Hire Aden to run your business operations at scale
+(
+about 19 hours
+ago)
+AI Engineering Lead
+Full-time
+•
+Engineering
+•
+Backend
+•
+$250K - $350K
+•
+San Francisco, CA, US / Remote (San Francisco, CA, US)
+Apply
+Windmill
+(S22)
+Open-source platform to turn scripts into internal apps & workflows
+Windmill
+(S22)
+•
+Open-source platform to turn scripts into internal apps & workflows
+(
+5 days
+ago)
+Backend Software Engineer (Rust)
+Full-time
+•
+Engineering
+•
+Backend
+•
+€40K - €90K EUR
+•
+Paris, IDF, FR / Remote (Paris, IDF, FR)
+Apply
+CoLoop
+(S21)
+AI Copilot for insights & strategy
+CoLoop
+(S21)
+•
+AI Copilot for insights & strategy
+(
+4 days
+ago)
+Fullstack Engineer
+Full-time
+•
+Engineering
+•
+Full stack
+•
+£70K - £90K GBP
+•
+London, UK
+Apply
+Landeed
+(S22)
+Landeed is India's fastest property title search engine
+Landeed
+(S22)
+•
+Landeed is India's fastest property title search engine
+(
+12 days
+ago)
+Founding Fullstack Engineer: React / React Native + Any Backend (India)
+Full-time
+•
+Engineering
+•
+Full stack
+•
+₹2M - ₹6M INR
+•
+Hyderabad, Telangana, India
+Apply
+Strac
+(W22)
+Data Discovery, DLP, DSPM for SaaS, Cloud, Gen AI & Endpoints
+Strac
+(W22)
+•
+Data Discovery, DLP, DSPM for SaaS, Cloud, Gen AI & Endpoints
+(
+6 days
+ago)
+Senior Software Engineer
+Full-time
+•
+Engineering
+•
+Full stack
+•
+$110K - $160K
+•
+Redmond, WA, US / Seattle, WA, US / Austin, TX, US / Bellevue, WA, US
+Apply
+Secoda
+(S21)
+Secoda is the AI layer for your Analytics
+Secoda
+(S21)
+•
+Secoda is the AI layer for your Analytics
+(
+3 days
+ago)
+Software Engineer
+Full-time
+•
+Engineering
+•
+Full stack
+•
+$150K - $200K CAD
+•
+Hybrid in Toronto
+Apply
+Sphere
+(W22)
+AI-powered sales tax, VAT and GST compliance
+Sphere
+(W22)
+•
+AI-powered sales tax, VAT and GST compliance
+(
+8 days
+ago)
+Senior Backend Engineer (Infrastructure)
+Full-time
+•
+Engineering
+•
+Devops
+•
+$180K - $250K
+•
+San Francisco, CA, US
+Apply
+AlgoTest
+(S22)
+Ecosystem for options trading in India
+AlgoTest
+(S22)
+•
+Ecosystem for options trading in India
+(
+3 days
+ago)
+Founding Backend Engineer - Core Trading Platform
+Full-time
+•
+Engineering
+•
+Backend
+•
+$10K - $40K
+•
+Gurgaon, Haryana, India / New Delhi, Delhi, India
+Apply
+Cogram
+(W22)
+The AI Platform for Architects, Builders, and Engineers
+Cogram
+(W22)
+•
+The AI Platform for Architects, Builders, and Engineers
+(
+2 days
+ago)
+Product Engineer / AI Operator
+Full-time
+•
+Engineering
+•
+Full stack
+•
+€60K - €90K EUR
+•
+Berlin, BE, DE / Remote
+Apply
+Turing Labs Inc.
+(W20)
+AI for R&D of consumer brands like P&G to develop better products
+Turing Labs Inc.
+(W20)
+•
+AI for R&D of consumer brands like P&G to develop better products
+(
+13 days
+ago)
+AI Engineer Intern - build stealth model
+Internship
+•
+Engineering
+•
+Machine learning
+•
+$4K - $10K / monthly
+•
+Palo Alto, CA, US / San Francisco, CA, US
+Apply
+Banner
+(S19)
+Banner makes software for CRE owners to manage capital spend
+Banner
+(S19)
+•
+Banner makes software for CRE owners to manage capital spend
+(
+about 18 hours
+ago)
+Senior Software Engineer
+Full-time
+•
+Engineering
+•
+Full stack
+•
+$160 - $200
+•
+US / Remote (US)
+Apply
+Dex
+(S19)
+Dex is a personal CRM that reminds you to keep in touch with the…
+Dex
+(S19)
+•
+Dex is a personal CRM that reminds you to keep in touch with the…
+(
+9 days
+ago)
+Product Engineer (Web / Vue.js / Typescript) - Remote
+Full-time
+•
+Engineering
+•
+Full stack
+•
+$30K - $60K
+•
+Remote
+Apply
+See more jobs ›
+14:46
+Sam Altman on how to pick which startup to work at
+1,794
+views
+1 year ago
+YC Startup Job Guide
+Paige Omura
+We put together this guide to help job seekers find the startups that are most interesting, ask the right questions before joining, and increase their chances of landing their dream job.
+YC Startup Job Guide
+Over 1 year ago
+15:33
+Why you should or should not work at a startup
+131K
+views
+Over 1 year ago
+4:58
+How to choose a startup to join
+9,081
+views
+Over 1 year ago
+Advice for job seekers on resumes and reaching out
+Ryan Choi
+To help job seekers, YC's Ryan Choi spends a lot of time doing 1-1s and resume reviews. Here are his most common pieces of advice for those on the job search.
+Advice for job seekers on resumes and reaching out
+Over 1 year ago
+45:49
+Different startup stages and what they mean for you
+14K
+views
+Over 1 year ago
+19:45
+Dalton & Michael: Why you should leave your FAANG job
+256K
+views
+Over 1 year ago
+13:57
+Garry's Channel: LEARN, EARN or QUIT | My job/career advice
+367K
+views
+Over 1 year ago
+14:46
+Sam Altman on how to pick which startup to work at
+1,794
+views
+1 year ago
+YC Startup Job Guide
+Paige Omura
+We put together this guide to help job seekers find the startups that are most interesting, ask the right questions before joining, and increase their chances of landing their dream job.
+YC Startup Job Guide
+Over 1 year ago
+15:33
+Why you should or should not work at a startup
+131K
+views
+Over 1 year ago
+Work at a Startup
+Jobs
 Internships
-Startup Job Guide
-YC Startup Jobs Blog
-Find a Co-Founder
-Library
-SAFE
-Resources
-Startup School
-Newsletter
-Requests for Startups
-For Investors
-Verify Founders
-Hacker News
-Bookface
-Open main menu
-Apply for
-W2026
-batch.
-Apply
-Y Combinator
-Make something people want.
-Apply to YC
-5,000
-funded startups
-$800B
-combined valuation
-Top YC companies
-+
-We help founders
-make something people want and the results speak for themselves.
-We help founders at their earliest stages regardless of their age.
-We improve the success rate of our startups.
-We give startups a huge fundraising advantage.
-Our companies have a track record of becoming billion dollar companies.
-Our formula for
-success
-.
-YC is
-run by startup founders
-who have built exactly what they wanted when starting and growing a startup.
-The most experienced partners
-Each founder is assigned a dedicated YC partner who has mentored hundreds of YC companies. They have more data on what it takes to build a successful startup than any other early stage startup advisor. These partners read applications, interview companies, and mentor startups throughout the batch. You can access them in person, over email, and on Slack.
-Investor network
-YC companies have raised $85 billion dollars from the best investors in the world. Our founders have access to the YC Investor Database which has profiles and reviews for more than 50,000 startup investors.
-Private social network only for founders
-YC founders get to benefit from the collective wisdom of over 9000 YC alumni. They can access these alums through Bookface, our private social network. We have a forum for asking questions to the community, a founder directory for finding specific people who can provide advice and intros, and a company directory for finding potential customers.
-Exclusive deals
-YC founders have access to over 1000 deals from leading software companies. Every YC company gets free credits or significant discounts on hosting, banking, cap table management, back office, and much more. Companies report these deals to be worth in excess of $500,000.
-The best written advice
-YC founders get to benefit from our collective experience funding 5000 companies across almost 20 years. We have extensive documentation for common questions about fundraising, go to market, sales, product market fit, mental health, hiring, and much more.
-Networks to build your team
-Through
-Work at a Startup
-and
-HN
-, we help our founders hire the small number of early engineers and other team members critical to finding product market fit. At any given time there are 150,000+ candidates searching for jobs at early stage YC companies.
-We put
-founders' interests
-first.
-We don’t take a board seat.
-We don’t demand 20% of your company.
-We don’t take weeks/months to decide to invest.
-We don’t charge fees.
-We don’t require decks, business plans, or MBAs.
-We don't tell you what to do. We only offer advice.
-Hear more from the community.
-"
-Y Combinator is the best program for creating top-end entrepreneurs that has ever existed.
-"
-Marc Andreessen
-,
-General Partner, Andreessen Horowitz
-"
-Y Combinator is the best startup accelerator in the world. YC helps their companies a lot, and the YC community is a huge asset for the companies that go through the program.
-"
-Ron Conway
-,
-Founder, SV Angel
-"
-At YC, we were challenged to do things that don't scale – to start with the perfect experience for one person, then work backwards and scale it to 100 people who love us. This was the best piece of advice we've ever received.
-"
-Brian Chesky
-,
-Founder, Airbnb (YC W09)
-"
-I doubt that Stripe would have worked without YC. It's that simple. Acquiring early customers, figuring out who to hire, closing deals with banks, raising money – YC's partners were closely involved and crucially helpful.
-"
-Patrick Collison
-,
-Founder, Stripe (YC S09)
-The Latest from YC
-The FDE Playbook for AI Startups with Bob McGrew
-3 days ago
-27:56
-Michael Truell: Building Cursor at 23, Taking on GitHub Copilot, and Advice to Engineering Students
-34K views
-8 days ago
-12:32
-GPT-OSS vs. Qwen vs. Deepseek: Comparing Open Source LLM Architectures
-20K views
-13 days ago
-45:26
-How This 25-Year-Old Built A $675M Legal AI Startup (With No Legal Experience)
-47K views
-16 days ago
-35:57
-Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System Design
-98K views
-23 days ago
-18:49
-The Sales Playbook for Founders
-52K views
-27 days ago
-40:37
-Figma CEO Dylan Field: How AI Will Transform Design
-28K views
-1 month ago
-46:16
-The Finance Startup Bringing Agentic AI to Wall Street
-48K views
-1 month ago
-40:48
-Scaling and the Road to Human-Level AI | Anthropic Co-founder Jared Kaplan
-51K views
-1 month ago
-43:42
-Brand Design Tips From Linear Founder Karri Saarinen
-29K views
-1 month ago
-44:53
-Chelsea Finn: Building Robots That Can Do Anything
-68K views
-1 month ago
-35:51
-Replit CEO Amjad Masad: Coding Agents, Autonomy, and the Future of Work
-33K views
-1 month ago
-27:27
-John Jumper: AlphaFold and the Future of Science
-31K views
-1 month ago
-43:13
-Aravind Srinivas: The Race to Build the AI Browser of the Future
-117K views
-2 months ago
-43:58
-Andrew Ng: Building Faster with AI
-317K views
-2 months ago
-38:56
-How to Spend Your 20s in the AI Era
-309K views
-2 months ago
-34:48
-François Chollet: The ARC Prize & How We Get to AGI
-124K views
-2 months ago
-44:22
-Fei-Fei Li: Spatial Intelligence is the Next Frontier in AI
-163K views
-2 months ago
-40:30
-Satya Nadella: Microsoft's AI Bets, Hyperscaling, Quantum Computing Breakthroughs
-131K views
-2 months ago
-42:44
-Sam Altman: The Future of OpenAI, ChatGPT's Origins, and Building AI Hardware
-442K views
-2 months ago
-49:41
-Elon Musk: Digital Superintelligence, Multiplanetary Life, How to Be Useful
-518K views
-2 months ago
-39:32
-Andrej Karpathy: Software Is Changing (Again)
-2M views
-2 months ago
-61:13
-Alexandr Wang: Building Scale AI, Transforming Work with Agents & Competing With China
-274K views
-2 months ago
-37:29
-Cursor CEO: Going Beyond Code, Superintelligent AI Agents And Why Taste Still Matters
-226K views
-3 months ago
-8:08
-Fusion Energy Is Tech's Next Big Unlock
-51K views
-3 months ago
-31:26
-State-Of-The-Art Prompting For AI Agents
-269K views
-3 months ago
-30:08
-AI Apps Are Broken — Here's How To Fix Them
-92K views
-3 months ago
-40:47
-Startup Ideas You Can Now Build With AI
-256K views
-3 months ago
-19:12
-How AI Coding Agents Will Change Your Job
-111K views
-4 months ago
-52:36
-Windsurf CEO: Betting On AI Agents, Pivoting In 48 Hours, And The Future of Coding
-239K views
-4 months ago
-16:40
-How To Get The Most Out Of Vibe Coding
-290K views
-4 months ago
-8:30
-The Next Breakthrough In AI Agents Is Here
-267K views
-5 months ago
-38:24
-How Zepto Became India’s Fastest Growing Startup
-188K views
-4 months ago
-20:44
-Why Every Founder Should Care About Design
-48K views
-5 months ago
-31:33
-How To Build The Future: Tony Xu
-163K views
-5 months ago
-43:15
-How To Navigate Co-Founder Disputes
-48K views
-5 months ago
-26:12
-Customer Obsession Made Gusto A $9.6 Billion Company
-27K views
-5 months ago
-37:42
-The Future Of Design With Figma's Dylan Field
-62K views
-6 months ago
-8:26
-GPT-4.5 = Big Model Energy
-31K views
-6 months ago
-31:34
-Vibe Coding Is The Future
-267K views
-6 months ago
-36:28
-Design Experts Critique AI Interfaces
-156K views
-6 months ago
-34:39
-How To Build The Future: Aravind Srinivas
-130K views
-6 months ago
-49:29
-How AI Is Changing Enterprise
-118K views
-6 months ago
-13:46
-Building A Supersonic Plane Company From The Ground Up
-80K views
-6 months ago
-29:07
-The Right (And Wrong) Way To Spend Money At Your Startup
-62K views
-7 months ago
-43:49
-How To Get AI Startup Ideas
-241K views
-7 months ago
-13:06
-The Engineering Unlocks Behind DeepSeek | YC Decoded
-208K views
-7 months ago
-30:45
-How To Build The AGI Future: Bob McGrew
-48K views
-7 months ago
-39:33
-AI Revolution: Why This Is The Best Time To Start A Startup
-187K views
-7 months ago
-10:12
-How Scaling Laws Will Determine AI's Future
-38K views
-7 months ago
-14:18
-How To Use AI In Your Startup
-82K views
-7 months ago
-43:28
-How To Build The Future: Parker Conrad
-56K views
-8 months ago
-24:32
-Building A $2 Billion SaaS Company: Lessons From A Two Time Founder
-87K views
-8 months ago
-7:03
-The Lightcone 2025 Forecast
-50K views
-8 months ago
-16:57
-How To Focus On The Right Problems
-146K views
-8 months ago
-19:33
-How David Lieb Turned a Failing Startup Into Google Photos
-349K views
-8 months ago
-38:11
-2024’s Biggest Startup Trends
-103K views
-9 months ago
-7:54
-Anthropic’s Claude Computer Use Is A Game Changer
-136K views
-9 months ago
-21:16
-How To Make The Most Out of Your 20s
-618K views
-9 months ago
-32:57
-How To Start A Dev Tools Company
-59K views
-9 months ago
-42:13
-Vertical AI Agents Could Be 10X Bigger Than SaaS
-903K views
-9 months ago
-22:43
-Twitter vs. X: Product Lessons For Startup Founders
-39K views
-9 months ago
-35:17
-Why The Next AI Breakthroughs Will Be In Reasoning, Not Scaling
-80K views
-10 months ago
-46:52
-How To Build The Future: Sam Altman
-673K views
-10 months ago
-15:58
-The AI Future Has Arrived: Here's What You Should Do About It
-132K views
-10 months ago
-33:45
-The 10 Trillion Parameter AI Model With 300 IQ
-61K views
-10 months ago
-13:41
-You Don’t Have To Be A Billionaire To Launch Satellites
-28K views
-10 months ago
-7:07
-Why OpenAI's o1 Is A Huge Deal
-40K views
-10 months ago
-17:55
-Starting A Company? The Key Terms You Should Know
-72K views
-10 months ago
-37:14
-Now Anyone Can Code: How AI Agents Can Build Your Whole App
-93K views
-10 months ago
-33:38
-Why Design Matters: Lessons from Stripe, Lyft and Airbnb
-54K views
-11 months ago
-18:34
-How Do Billion Dollar Startups Start?
-107K views
-11 months ago
-24:17
-Meta VS Apple: What Their Battle Means For AI Startups
-38K views
-11 months ago
-37:06
-Why Vertical LLM Agents Are The New $1 Billion SaaS Opportunities
-429K views
-11 months ago
-21:06
-Stripe Head of Design Katie Dill Reviews Startup Websites
-86K views
-11 months ago
-20:38
-How To Find A Co-Founder
-86K views
-11 months ago
-13:02
-What Founder Mode Really Means
-95K views
-11 months ago
-55:52
-Building The World's Best Image Diffusion Model
-18K views
-11 months ago
-17:40
-Signs Your Company Is Recovering From ZIRP
-22K views
-11 months ago
-32:46
-How To Convert Customers With Cold Emails
-87K views
-1 year ago
-59:00
-How YC Was Created With Jessica Livingston
-24K views
-1 year ago
-9:45
-Why AI Hasn’t Blown Our Minds…Yet
-50K views
-1 year ago
-29:23
-How To Improve Cohort Retention
-45K views
-1 year ago
-37:36
-Are We In An AI Hype Cycle?
-72K views
-1 year ago
-12:32
-How To Influence Decision Makers
-50K views
-1 year ago
-19:35
-Co-Founder Equity Mistakes to Avoid
-228K views
-1 year ago
-21:11
-How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years
-119K views
-1 year ago
-48:44
-Gmail Creator Paul Buchheit On AGI, Open Source Models, Freedom
-61K views
-1 year ago
-12:29
-The Problem With Startup "Experts"
-46K views
-1 year ago
-17:46
-How To Price For B2B
-106K views
-1 year ago
-13:50
-Tarpit Ideas: The Sequel
-84K views
-1 year ago
-18:18
-Why Startup Founders Should Launch Companies Sooner Than They Think
-88K views
-1 year ago
-38:24
-10 People + AI = Billion Dollar Company?
-207K views
-1 year ago
-18:23
-What Is ZIRP And How Did It Poison Startups?
-67K views
-1 year ago
-12:07
-Standing Up For Startups - YC Goes To D.C.
-17K views
-1 year ago
-41:07
-Better AI Models, Better Startups [Lightcone Podcast Ep. 7]
-84K views
-1 year ago
-25:42
-YC's Group Partners Discuss Doing Things That Don't Scale
-198K views
-1 year ago
-8:16
-How New Technology Creates New Businesses
-63K views
-1 year ago
-21:12
-Does Your Startup Website Pass The First Impression Test?
-49K views
-1 year ago
-42:22
-Consumer is back, What’s getting funded now, The vibes immaculate [Lightcone Podcast Ep. 6]
-90K views
-1 year ago
-12:11
-When Should You Trust Your Gut?
-64K views
-1 year ago
-48:37
-Inside The Hard Tech Startups Turning Sci-Fi Into Reality [Lightcone Podcast Ep. 5]
-77K views
-1 year ago
-9:35
-How to Survive the Crypto Boom & Bust Cycle
-14K views
-1 year ago
-34:06
-Building AI Models Faster And Cheaper Than You Think  [Lightcone Podcast Ep. 4]
-84K views
-1 year ago
-33:27
-Where Is The REAL Cerebral Valley? [Lightcone Podcast Ep. 3]
-84K views
-1 year ago
-11:59
-Stop Innovating (On The Wrong Things)
-91K views
-1 year ago
-27:59
-Apple Vision Pro: Startup Platform Of The Future? [Lightcone Podcast Ep. 2]
-98K views
-1 year ago
-32:27
-The Truth About Building AI Startups Today [Lightcone Podcast Ep. 1]
-509K views
-1 year ago
-14:25
-Backstory: Tom Blomfield
-220K views
-1 year ago
-10:35
-Do technical founders need a business co-founder?
-145K views
-1 year ago
-16:16
-The asymmetric upside of being positive
-41K views
-1 year ago
-23:18
-Five DevTool Startups Get Their Websites Reviewed
-37K views
-1 year ago
-15:14
-Does your tech startup really need a technical co-founder? Yes.
-533K views
-1 year ago
-Emmett Shear, Co-Founder of Twitch
-1 year ago
-17:29
-The 10-Year “Overnight” Success Story of Casetext
-37K views
-1 year ago
-12:21
-From Underdog to Undefeated: The Edrizio De La Cruz founder story
-10K views
-1 year ago
-23:50
-How to convert more visitors into customers
-45K views
-1 year ago
-3:04
-Why YC? We asked 50 founders why they applied to Y Combinator
-21K views
-1 year ago
-Bill Clerico, Co-Founder & CEO of WePay
-1 year ago
-12:48
-How Athelas is revolutionizing healthcare
-19K views
-1 year ago
-13:32
-Is it time to quit your job at a unicorn?
-48K views
-1 year ago
-Dimitri Dadiomov, Co-Founder & CEO of Modern Treasury
-1 year ago
-11:52
-Backstory: Surbhi Sarna
-52K views
-1 year ago
-7:05
-Founder FAQ: 40 AI startup founders on the current state of AI tech
-49K views
-1 year ago
-Brian Armstrong, Co-Founder and CEO of Coinbase
-1 year ago
-17:35
-Dalton & Michael: Why You Shouldn't Copy Your Tech Idols
-107K views
-1 year ago
-24:03
-Building a better mobile app
-129K views
-Over 1 year ago
-Brian Chesky, Co-Founder & CEO of Airbnb (Part II)
-1 year ago
-11:40
-Dalton & Michael: Why Investors (Secretly) Love Y Combinator
-48K views
-Over 1 year ago
-26:09
-YC's Group Partners share their worst investor meetings
-122K views
-Over 1 year ago
-4:00
-Founder FAQ: How did you get your first customer?
-125K views
-Over 1 year ago
-15:18
-Dalton & Michael: Does Your Startup Need To Be In San Francisco?
-78K views
-Over 1 year ago
-3:53
-Founder FAQ: How did you meet your co-founder?
-66K views
-Over 1 year ago
-20:49
-YC's Group Partners share their favorite pivot stories
-137K views
-Over 1 year ago
-13:21
-Dalton & Michael: Will OpenAI kill all startups?
-138K views
-Over 1 year ago
-The FDE Playbook for AI Startups with Bob McGrew
-3 days ago
-27:56
-Michael Truell: Building Cursor at 23, Taking on GitHub Copilot, and Advice to Engineering Students
-34K views
-8 days ago
-12:32
-GPT-OSS vs. Qwen vs. Deepseek: Comparing Open Source LLM Architectures
-20K views
-13 days ago
-Startup School
-YC's Partners teach you to build the foundation of a billion dollar company
-Essays by Paul Graham
-A collection of essays by Y Combinator co-founder Paul Graham
-Explore more content
-Visit the YC Library, the hub for YC's startup videos, essays, podcasts, and more
-Want to learn more?
-YC Library
-Videos, podcasts, and essays for startup founders
-Newsletter
-Keep up with the latest news, launches, jobs, and events from the YC community
-Launch YC
-Discover new YC companies and products
-Work at a Startup
-Find your next role at a YC startup
-Blog
-Essays, events, and announcements from YC
-Co-Founder Matching
-Meet a potential co-founder to start a startup with
+Events
+How it works
+Sign In
+Jobs by Role
+Software Engineer
+Jobs
+Design & UI/UX
+Jobs
+Product Manager
+Jobs
+Recruiting & HR
+Jobs
+Sales
+Jobs
+Marketing
+Jobs
+Support & Success
+Jobs
+Operations
+Jobs
+Science
+Jobs
+Jobs by Location
+Jobs in
+San Francisco
+Jobs in
+New York
+Jobs in
+Los Angeles
+Jobs in
+Seattle
+Jobs in
+Austin
+Jobs in
+Chicago
+Jobs in
+India
+Jobs by Role and Location
+Software Engineer Jobs in San Francisco
+Recruiting Jobs in San Francisco
+Product Manager Jobs in San Francisco
+Software Engineer Jobs in New York
+Recruiting Jobs in New York
+Product Manager Jobs in New York
+Software Engineer Jobs in Los Angeles
+Recruiting Jobs in Los Angeles
+Product Manager Jobs in Los Angeles
+Remote Jobs
+Remote
+Software Engineer
+Jobs
+Remote
+Design & UI/UX
+Jobs
+Remote
+Product Manager
+Jobs
+Remote
+Recruiting & HR
+Jobs
+Remote
+Sales
+Jobs
+Remote
+Marketing
+Jobs
+Remote
+Support & Success
+Jobs
+Remote
+Operations
+Jobs
+Remote
+Science
+Jobs
 Footer
 Y Combinator
 Programs
@@ -5653,3 +5928,700 @@ YouTube
 ©
 2025
 Y Combinator
+
+
+--- CONTENT FROM https://www.ycombinator.com/jobs/role/sales ---
+
+About
+What Happens at YC?
+Apply
+YC Interview Guide
+FAQ
+People
+YC Blog
+Companies
+Startup Directory
+Founder Directory
+Launch YC
+Startup Jobs
+All Jobs
+◦ Engineering
+◦ Operations
+◦ Marketing
+◦ Sales
+Internships
+Startup Job Guide
+YC Startup Jobs Blog
+Find a Co-Founder
+Library
+SAFE
+Resources
+Startup School
+Newsletter
+Requests for Startups
+For Investors
+Verify Founders
+Hacker News
+Bookface
+Open main menu
+Apply for
+W2026
+batch.
+Apply
+Sales jobs at Y Combinator startups
+September 2025
+Many YC startups are seeing breakout growth, and are actively hiring for salespeople. Find some of the top YC companies at Y Combinator.
+Create a profile
+Creating a profile is free and founders reach out to you.
+Explore Sales jobs by location
+San Francisco
+New York
+Los Angeles
+Seattle
+Boston
+Austin
+India
+Remote jobs
+Sales jobs
+added recently
+Software Engineer
+Design & UI/UX
+Product
+Recruiting & HR
+Science
+Jiga
+(W21)
+Source better parts by partnering directly with vetted manufacturers
+Jiga
+(W21)
+•
+Source better parts by partnering directly with vetted manufacturers
+(
+9 days
+ago)
+Customer Success Manager - Israel
+Full-time
+•
+Sales
+•
+IL / Remote (IL)
+Apply
+Intryc
+(S24)
+Intryc uses AI to automate quality assurance for customer support
+Intryc
+(S24)
+•
+Intryc uses AI to automate quality assurance for customer support
+(
+3 days
+ago)
+Sales Development Representative
+Full-time
+•
+Sales
+•
+$50K - $75K
+•
+London, England, GB / US / Remote (London, England, GB; US)
+Apply
+AiPrise
+(S22)
+Global KYC and KYB Platform
+AiPrise
+(S22)
+•
+Global KYC and KYB Platform
+(
+5 days
+ago)
+Sales Development Representative (SDR) – US
+Full-time
+•
+Sales
+•
+$55K - $85K
+•
+Seattle, WA, US / San Francisco, CA, US / New York, NY, US / Remote (Seattle, WA, US; San Francisco, CA, US; New York, NY, US)
+Apply
+Corgi
+(S24)
+Corgi is building an AI insurance company
+Corgi
+(S24)
+•
+Corgi is building an AI insurance company
+(
+8 days
+ago)
+GTM Sales Associate
+Full-time
+•
+Sales
+•
+$60K - $150K
+•
+Salt Lake City, UT, US
+Apply
+Salient
+(W23)
+AI Servicing for Auto Lenders
+Salient
+(W23)
+•
+AI Servicing for Auto Lenders
+(
+3 days
+ago)
+Founding Account Executive
+Full-time
+•
+Sales
+•
+$150K - $200K
+•
+San Francisco, CA, US
+Apply
+Onyx
+(W24)
+Open Source AI Assistant and Enterprise Search
+Onyx
+(W24)
+•
+Open Source AI Assistant and Enterprise Search
+(
+about 18 hours
+ago)
+Founding Account Executive
+Full-time
+•
+Sales
+•
+$125K - $253K
+•
+San Francisco
+Apply
+Depot
+(W23)
+Build faster. Waste less time.
+Depot
+(W23)
+•
+Build faster. Waste less time.
+(
+10 days
+ago)
+Solutions Engineer
+Full-time
+•
+Sales
+•
+$120K - $150K
+•
+US / CA / Remote (US; CA)
+Apply
+Confido
+(S21)
+AI-enabled financial automation and intelligence for CPG Brands
+Confido
+(S21)
+•
+AI-enabled financial automation and intelligence for CPG Brands
+(
+6 days
+ago)
+Enterprise Account Executive
+Full-time
+•
+Sales
+•
+$250K - $300K
+•
+New York, NY, US
+Apply
+Postal
+(W22)
+An AI native virtual address & mailroom for businesses.
+Postal
+(W22)
+•
+An AI native virtual address & mailroom for businesses.
+(
+3 days
+ago)
+Head of Growth
+Full-time
+•
+Sales
+•
+$150K
+•
+New York, NY, US
+Apply
+FurtherAI
+(W24)
+AI Workforce for the Insurance Industry
+FurtherAI
+(W24)
+•
+AI Workforce for the Insurance Industry
+(
+1 day
+ago)
+Enterprise Account Executive
+Full-time
+•
+Sales
+•
+$100K - $175K
+•
+San Francisco, CA, US / Remote (Chicago, IL, US; New York, NY, US)
+Apply
+Tank Payments
+(S22)
+Modern financial infrastructure for the trucking industry.
+Tank Payments
+(S22)
+•
+Modern financial infrastructure for the trucking industry.
+(
+8 days
+ago)
+Generalist – Sales / Success / Growth
+Full-time
+•
+Sales
+•
+$75K - $110K
+•
+Austin, TX, US
+Apply
+Prodigal
+(S18)
+Lending Intelligence Software
+Prodigal
+(S18)
+•
+Lending Intelligence Software
+(
+1 day
+ago)
+Mid Market Account Executive
+Full-time
+•
+Sales
+•
+$200K - $280K
+•
+Mountain View, California / Remote (US)
+Apply
+Solve Intelligence
+(S23)
+AI patent drafting, prosecution, harvesting and more for legal teams.
+Solve Intelligence
+(S23)
+•
+AI patent drafting, prosecution, harvesting and more for legal teams.
+(
+2 days
+ago)
+Account Executive/GTM
+Full-time
+•
+Sales
+•
+$100K - $200K
+•
+London, England, GB
+Apply
+Morph
+(S23)
+The Fastest Way to Apply AI Edits
+Morph
+(S23)
+•
+The Fastest Way to Apply AI Edits
+(
+about 11 hours
+ago)
+Founding Growth Engineer
+Full-time
+•
+Sales
+•
+$75K - $110K
+•
+San Francisco, CA, US
+Apply
+CoLoop
+(S21)
+AI Copilot for insights & strategy
+CoLoop
+(S21)
+•
+AI Copilot for insights & strategy
+(
+about 21 hours
+ago)
+Sales Development Representative
+Full-time
+•
+Sales
+•
+£40K - £50K GBP
+•
+London, England, GB
+Apply
+Aden
+(W20)
+Hire Aden to run your business operations at scale
+Aden
+(W20)
+•
+Hire Aden to run your business operations at scale
+(
+9 days
+ago)
+Sales Lead
+Full-time
+•
+Sales
+•
+$70K - $220K
+•
+San Francisco, CA, US / Remote
+Apply
+Mercura
+(W25)
+AI Quote and Order Automation for Distributors & Manufacturers
+Mercura
+(W25)
+•
+AI Quote and Order Automation for Distributors & Manufacturers
+(
+40 minutes
+ago)
+Founder’s Associate / GTM Lead
+Full-time
+•
+Sales
+•
+€85K - €200K EUR
+•
+Munich, BY, DE / Munich, Bavaria, DE
+Apply
+ProSights
+(W24)
+ProSights is an AI-native workflow automation / search platform for…
+ProSights
+(W24)
+•
+ProSights is an AI-native workflow automation / search platform for…
+(
+10 days
+ago)
+Head of Growth - AI For Finance Professionals
+Full-time
+•
+Sales
+•
+$125K - $200K
+•
+New York, NY, US
+Apply
+AlgoUniversity
+(S21)
+Building Job driven Virtual Tech University for India 🇮🇳
+AlgoUniversity
+(S21)
+•
+Building Job driven Virtual Tech University for India 🇮🇳
+(
+10 days
+ago)
+Business Development Associate
+Full-time
+•
+Sales
+•
+₹600K - ₹1.5M INR
+•
+Hyderabad, Telangana, India
+Apply
+Venta AI
+(S23)
+The EU-compliant AI SDR that sends letters, emails and LinkedIn
+Venta AI
+(S23)
+•
+The EU-compliant AI SDR that sends letters, emails and LinkedIn
+(
+about 3 hours
+ago)
+Founders Associate
+Full-time
+•
+Sales
+•
+€60K - €70K EUR
+•
+Munich, BY, DE / Munich, Bavaria, DE
+Apply
+Turing Labs Inc.
+(W20)
+AI for R&D of consumer brands like P&G to develop better products
+Turing Labs Inc.
+(W20)
+•
+AI for R&D of consumer brands like P&G to develop better products
+(
+4 days
+ago)
+Sales & GTM Hacker
+Full-time
+•
+Sales
+•
+$50K - $100K
+•
+Palo Alto, CA, US / San Francisco, CA, US / San Jose, CA, US / Sunnyvale, CA, US
+Apply
+Encord
+(W21)
+Building the data backbone for the (artificial) intelligence…
+Encord
+(W21)
+•
+Building the data backbone for the (artificial) intelligence…
+(
+13 days
+ago)
+Account Executive
+Full-time
+•
+Sales
+•
+$220K - $300K
+•
+London, England, GB / San Francisco, CA, US
+Apply
+Landeed
+(S22)
+Landeed is India's fastest property title search engine
+Landeed
+(S22)
+•
+Landeed is India's fastest property title search engine
+(
+3 days
+ago)
+Business Development And Enterprise Sales (BDES)
+Full-time
+•
+Sales
+•
+₹1M - ₹2.5M INR
+•
+Hyderabad, TS, IN / Mumbai, MH, IN / Bengaluru, KA, IN / Chennai, TN, IN / DL, IN / Gurugram, HR, IN
+Apply
+Create a profile to see more jobs ›
+Work at a Startup
+Jobs
+Internships
+Events
+How it works
+Sign In
+Jobs by Role
+Software Engineer
+Jobs
+Design & UI/UX
+Jobs
+Product Manager
+Jobs
+Recruiting & HR
+Jobs
+Sales
+Jobs
+Marketing
+Jobs
+Support & Success
+Jobs
+Operations
+Jobs
+Science
+Jobs
+Jobs by Location
+Jobs in
+San Francisco
+Jobs in
+New York
+Jobs in
+Los Angeles
+Jobs in
+Seattle
+Jobs in
+Austin
+Jobs in
+Chicago
+Jobs in
+India
+Jobs by Role and Location
+Software Engineer Jobs in San Francisco
+Recruiting Jobs in San Francisco
+Product Manager Jobs in San Francisco
+Software Engineer Jobs in New York
+Recruiting Jobs in New York
+Product Manager Jobs in New York
+Software Engineer Jobs in Los Angeles
+Recruiting Jobs in Los Angeles
+Product Manager Jobs in Los Angeles
+Remote Jobs
+Remote
+Software Engineer
+Jobs
+Remote
+Design & UI/UX
+Jobs
+Remote
+Product Manager
+Jobs
+Remote
+Recruiting & HR
+Jobs
+Remote
+Sales
+Jobs
+Remote
+Marketing
+Jobs
+Remote
+Support & Success
+Jobs
+Remote
+Operations
+Jobs
+Remote
+Science
+Jobs
+Footer
+Y Combinator
+Programs
+YC Program
+Startup School
+Work at a Startup
+Co-Founder Matching
+Company
+YC Blog
+Contact
+Press
+People
+Careers
+Privacy Policy
+Notice at Collection
+Security
+Terms of Use
+Resources
+Startup Directory
+Startup Library
+Investors
+SAFE
+Hacker News
+Launch YC
+YC Deals
+Make something people want.
+Apply
+Twitter
+Twitter
+Facebook
+Facebook
+Instagram
+Instagram
+LinkedIn
+LinkedIn
+Youtube
+YouTube
+©
+2025
+Y Combinator
+
+
+--- CONTENT FROM https://www.ycombinator.com/subscribe ---
+
+About
+What Happens at YC?
+Apply
+YC Interview Guide
+FAQ
+People
+YC Blog
+Companies
+Startup Directory
+Founder Directory
+Launch YC
+Startup Jobs
+All Jobs
+◦ Engineering
+◦ Operations
+◦ Marketing
+◦ Sales
+Internships
+Startup Job Guide
+YC Startup Jobs Blog
+Find a Co-Founder
+Library
+SAFE
+Resources
+Startup School
+Newsletter
+Requests for Startups
+For Investors
+Verify Founders
+Hacker News
+Bookface
+Open main menu
+Apply for
+W2026
+batch.
+Apply
+Subscribe to YC's Newsletter
+Keep up with the latest news, launches, jobs, and events from the YC community.
+Sign in to subscribe!
+View Newsletter Archive
+Footer
+Y Combinator
+Programs
+YC Program
+Startup School
+Work at a Startup
+Co-Founder Matching
+Company
+YC Blog
+Contact
+Press
+People
+Careers
+Privacy Policy
+Notice at Collection
+Security
+Terms of Use
+Resources
+Startup Directory
+Startup Library
+Investors
+SAFE
+Hacker News
+Launch YC
+YC Deals
+Make something people want.
+Apply
+Twitter
+Twitter
+Facebook
+Facebook
+Instagram
+Instagram
+LinkedIn
+LinkedIn
+Youtube
+YouTube
+© 2025 Y Combinator

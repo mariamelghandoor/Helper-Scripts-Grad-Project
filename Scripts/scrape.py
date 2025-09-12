@@ -2,6 +2,7 @@ import undetected_chromedriver as uc
 import time
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
+import os
 
 def scrape_dynamic_page(url: str) -> str:
     """
@@ -133,7 +134,15 @@ if __name__ == "__main__":
     
     # Combine the text from all visited pages and save it to a file
     final_text = "\n".join(all_scraped_text)
-    file_path = "scraped_text.txt"
+
+    # --- Robust Path Handling ---
+    # Get the directory where the script is located (e.g., .../Scraper/Scripts)
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    # Go up one level to get the project's root directory (e.g., .../Scraper)
+    project_root = os.path.dirname(script_dir)
+    # Construct the full, correct path to the output file inside the Data directory
+    file_path = os.path.join(project_root, "Data", "scraped_text.txt")
+
     with open(file_path, "w", encoding="utf-8") as f:
         f.write(final_text)
     
