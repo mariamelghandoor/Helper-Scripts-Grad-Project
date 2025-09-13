@@ -2,7 +2,7 @@
 
 import sys
 from pathlib import Path
-
+import os
 # Add current directory to path for imports
 sys.path.append(str(Path(__file__).parent))
 
@@ -31,12 +31,23 @@ def run_website_pipeline(url):
     print(f"\n✅ Pipeline completed! {len(structured_data)} insights extracted.")
     return structured_data
 
+def read_links_from_file(filename="links.txt"):
+    links = []
+    if os.path.exists(filename):
+        with open(filename, 'r', encoding='utf-8') as f:
+            links = [line.strip() for line in f if line.strip()]
+        print(f"Loaded {len(links)} initial links from {filename}.")
+    else:
+        print(f"Warning: The file '{filename}' was not found. Starting with an empty list.")
+    return links
+
 def main():
     """Main function with hardcoded URL."""
     try:
         # Replace this URL with your target website
-        url = "https://www.ycombinator.com/companies/doordash"
-        run_website_pipeline(url)
+        urls_to_visit = read_links_from_file()
+        for url in urls_to_visit:
+            run_website_pipeline(url)
     except Exception as e:
         print(f"Pipeline failed: {e}")
         return 1

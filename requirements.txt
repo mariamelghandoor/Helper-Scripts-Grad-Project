@@ -12,3 +12,5 @@ youtube-transcript-api==0.6.1
 
 # Data processing
 pathlib2==2.3.7
+
+dotenv-python-0.0.1
