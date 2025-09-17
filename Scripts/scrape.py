@@ -84,71 +84,71 @@ def process_url(url):
     clean_text, new_links = extract_text_and_links(scraped_html, url)
     return clean_text, new_links
 
+
 # --- Main execution ---
 if __name__ == "__main__":
-    start_url = "https://www.ycombinator.com/"
-    urls_to_visit = [start_url]
-    visited_urls = set()
-    all_scraped_text = []
-    
-    domain = urlparse(start_url).netloc
-    max_pages_to_crawl = 10 
-    pages_crawled = 0
-    
-    # Use a set for faster lookups
-    url_queue = {start_url}
-
-    print(f"Starting crawl at: {start_url}")
-    print(f"Will stay on domain: {domain}")
-    print(f"Maximum pages to crawl: {max_pages_to_crawl}")
-    
-    # Use ProcessPoolExecutor to manage worker processes
-    with ProcessPoolExecutor(max_workers=4) as executor:  # Set max_workers to your desired number of concurrent processes
-        while len(url_queue) > 0 and pages_crawled < max_pages_to_crawl:
-            # Take a batch of URLs from the queue
-            batch_size = min(len(url_queue), max_pages_to_crawl - pages_crawled)
-            urls_to_process = list(url_queue)[:batch_size]
-            url_queue = url_queue - set(urls_to_process)
-            
-            # Submit tasks to the pool
-            future_to_url = {executor.submit(process_url, url): url for url in urls_to_process}
-            
-            # Process the results as they complete
-            for future in future_to_url:
-                url = future_to_url[future]
-                if pages_crawled >= max_pages_to_crawl:
-                    break
-                
-                try:
-                    clean_text, new_links = future.result()
-                    if clean_text:
-                        all_scraped_text.append(f"\n\n--- CONTENT FROM {url} ---\n\n{clean_text}")
-                        visited_urls.add(url)
-                        pages_crawled += 1
-                        
-                        # Add new, unvisited links from the same domain to the queue
-                        for link in new_links:
-                            cleaned_link = urljoin(link, urlparse(link).path)
-                            if cleaned_link not in visited_urls and urlparse(cleaned_link).netloc == domain:
-                                url_queue.add(cleaned_link)
-
-                except Exception as e:
-                    print(f"Error processing {url}: {e}")
-
-    print("\nCrawling finished. Combining text...")
-    
-    final_text = "\n".join(all_scraped_text)
-
     script_dir = os.path.dirname(os.path.abspath(__file__))
     project_root = os.path.dirname(script_dir)
-    scraped_dir = os.path.join(project_root, "Data", "Scraped")
-    
-    os.makedirs(scraped_dir, exist_ok=True)
-    
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M")
-    file_path = os.path.join(scraped_dir, f"scraped_text_{timestamp}.txt")
+    links_file = os.path.join(project_root, "Data", "links.txt")
 
-    with open(file_path, "w", encoding="utf-8") as f:
-        f.write(final_text)
-    
-    print(f"\n✅ All text from {pages_crawled} pages has been saved to '{file_path}'")
+    # Read URLs from links.txt
+    with open(links_file, "r", encoding="utf-8") as f:
+        start_urls = [line.strip() for line in f if line.strip()]
+
+    print(f"Found {len(start_urls)} start URLs in links.txt")
+
+    for start_url in start_urls:
+        urls_to_visit = [start_url]
+        visited_urls = set()
+        all_scraped_text = []
+
+        domain = urlparse(start_url).netloc
+        max_pages_to_crawl = 1
+        pages_crawled = 0
+        url_queue = {start_url}
+
+        print(f"\n🚀 Starting crawl at: {start_url}")
+        print(f"Will stay on domain: {domain}")
+        print(f"Maximum pages to crawl: {max_pages_to_crawl}")
+
+        with ProcessPoolExecutor(max_workers=4) as executor:
+            while len(url_queue) > 0 and pages_crawled < max_pages_to_crawl:
+                batch_size = min(len(url_queue), max_pages_to_crawl - pages_crawled)
+                urls_to_process = list(url_queue)[:batch_size]
+                url_queue = url_queue - set(urls_to_process)
+
+                future_to_url = {executor.submit(process_url, url): url for url in urls_to_process}
+
+                for future in future_to_url:
+                    url = future_to_url[future]
+                    if pages_crawled >= max_pages_to_crawl:
+                        break
+                    try:
+                        clean_text, new_links = future.result()
+                        if clean_text:
+                            all_scraped_text.append(f"\n\n--- CONTENT FROM {url} ---\n\n{clean_text}")
+                            visited_urls.add(url)
+                            pages_crawled += 1
+
+                            for link in new_links:
+                                cleaned_link = urljoin(link, urlparse(link).path)
+                                if cleaned_link not in visited_urls and urlparse(cleaned_link).netloc == domain:
+                                    url_queue.add(cleaned_link)
+                    except Exception as e:
+                        print(f"Error processing {url}: {e}")
+
+        print("\nCrawling finished. Combining text...")
+
+        final_text = "\n".join(all_scraped_text)
+
+        scraped_dir = os.path.join(project_root, "Data", "Scraped")
+        os.makedirs(scraped_dir, exist_ok=True)
+
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M")
+        safe_domain = domain.replace(".", "_").replace(":", "_")
+        file_path = os.path.join(scraped_dir, f"{safe_domain}_scraped_text_{timestamp}.txt")
+
+        with open(file_path, "w", encoding="utf-8") as f:
+            f.write(final_text)
+
+        print(f"✅ All text from {pages_crawled} pages ({start_url}) saved to '{file_path}'")

@@ -109,60 +109,60 @@ def analyze_text_with_gemini(text_chunk: str) -> list:
 # --- Main execution ---
 if __name__ == "__main__":
     # --- Robust Path Handling ---
-    # Get the directory of the current script (which is inside 'Scripts')
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    # Go up one level to get the project's root directory
     project_root = os.path.dirname(script_dir)
-    # Construct the full path to the .env file in the root directory
     dotenv_path = os.path.join(project_root, '.env')
     
-    # Load environment variables from the specific .env file path
     print(f"Attempting to load .env file from: {dotenv_path}")
     load_dotenv(dotenv_path=dotenv_path)
 
-    # Construct full, absolute paths for data directories
     scraped_dir = os.path.join(project_root, "Data", "Scraped")
     schemas_dir = os.path.join(project_root, "Data", "Schemas")
-    
-    # Create directories if they don't exist
+
     os.makedirs(scraped_dir, exist_ok=True)
     os.makedirs(schemas_dir, exist_ok=True)
 
-    # Generate timestamp-based filename
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M")
-    input_file = os.path.join(scraped_dir, f"scraped_text_{timestamp}.txt")
-    output_file = os.path.join(schemas_dir, f"analysis_results_{timestamp}.json")
+    # Find all scraped text files
+    scraped_files = [f for f in os.listdir(scraped_dir) if f.endswith(".txt")]
 
-    if not os.path.exists(input_file):
-        print(f"Error: Input file '{input_file}' not found. Run the scraper script first.")
+    if not scraped_files:
+        print("❌ No scraped text files found in the Scraped directory. Run the scraper first.")
     else:
-        print(f"📖 Reading content from '{input_file}'...")
-        with open(input_file, "r", encoding="utf-8") as f:
-            scraped_text = f.read()
+        print(f"📂 Found {len(scraped_files)} scraped file(s) to analyze.")
 
-        if not scraped_text.strip():
-            print("Error: The input file is empty.")
-        else:
+        for scraped_file in scraped_files:
+            input_path = os.path.join(scraped_dir, scraped_file)
+            base_name = os.path.splitext(scraped_file)[0]
+            output_file = os.path.join(schemas_dir, f"{base_name}_analysis.json")
+
+            print(f"\n📖 Reading content from '{input_path}'...")
+            with open(input_path, "r", encoding="utf-8") as f:
+                scraped_text = f.read()
+
+            if not scraped_text.strip():
+                print(f"⚠️ Skipping '{scraped_file}' (empty file).")
+                continue
+
             text_chunks = chunk_text(scraped_text)
             all_results = []
-            
+
             for i, chunk in enumerate(text_chunks):
-                print(f"\n🧠 Sending chunk {i + 1}/{len(text_chunks)} to Gemini for analysis...")
+                print(f"\n🧠 Sending chunk {i + 1}/{len(text_chunks)} from '{scraped_file}' to Gemini...")
                 analysis_data = analyze_text_with_gemini(chunk)
-                
+
                 if analysis_data:
                     all_results.extend(analysis_data)
                     print(f"✅ Received {len(analysis_data)} insights from chunk {i + 1}.")
                 else:
-                    print(f"⚠️ Failed to process chunk {i + 1}. Skipping.")
+                    print(f"⚠️ Failed to process chunk {i + 1} of '{scraped_file}'. Skipping.")
                 
                 if i < len(text_chunks) - 1:
-                    time.sleep(2) # A slightly longer delay between successful calls
+                    time.sleep(2)
 
             if all_results:
-                print(f"\n💾 Saving a total of {len(all_results)} insights to '{output_file}'...")
+                print(f"\n💾 Saving {len(all_results)} insights to '{output_file}'...")
                 with open(output_file, "w", encoding="utf-8") as f:
                     json.dump(all_results, f, indent=2)
-                print(f"✅ Success! The analysis is complete. Check the '{output_file}' file.")
+                print(f"✅ Analysis for '{scraped_file}' complete.")
             else:
-                print("❌ Analysis failed. No data was extracted.")
+                print(f"❌ No insights extracted from '{scraped_file}'.")
