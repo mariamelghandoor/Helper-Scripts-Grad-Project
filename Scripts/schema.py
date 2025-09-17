@@ -2,6 +2,7 @@ import json
 import os
 import requests
 import time
+from datetime import datetime
 from dotenv import load_dotenv
 
 def chunk_text(text: str, max_chunk_size: int = 4000) -> list[str]:
@@ -31,7 +32,6 @@ def chunk_text(text: str, max_chunk_size: int = 4000) -> list[str]:
             current_chunk = full_article_text
         else:
             current_chunk += "\n\n" + full_article_text
-
 
     if current_chunk:
         chunks.append(current_chunk)
@@ -120,10 +120,18 @@ if __name__ == "__main__":
     print(f"Attempting to load .env file from: {dotenv_path}")
     load_dotenv(dotenv_path=dotenv_path)
 
-    # Construct full, absolute paths for data files
-    input_file = os.path.join(project_root, "Data", "scraped_text.txt")
-    output_file = os.path.join(project_root, "Data", "analysis_results.json")
+    # Construct full, absolute paths for data directories
+    scraped_dir = os.path.join(project_root, "Data", "Scraped")
+    schemas_dir = os.path.join(project_root, "Data", "Schemas")
+    
+    # Create directories if they don't exist
+    os.makedirs(scraped_dir, exist_ok=True)
+    os.makedirs(schemas_dir, exist_ok=True)
 
+    # Generate timestamp-based filename
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M")
+    input_file = os.path.join(scraped_dir, f"scraped_text_{timestamp}.txt")
+    output_file = os.path.join(schemas_dir, f"analysis_results_{timestamp}.json")
 
     if not os.path.exists(input_file):
         print(f"Error: Input file '{input_file}' not found. Run the scraper script first.")
@@ -158,4 +166,3 @@ if __name__ == "__main__":
                 print(f"✅ Success! The analysis is complete. Check the '{output_file}' file.")
             else:
                 print("❌ Analysis failed. No data was extracted.")
-

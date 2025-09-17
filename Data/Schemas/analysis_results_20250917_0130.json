@@ -1,0 +1,640 @@
+[
+  {
+    "Link": "https://www.ycombinator.com/companies/468",
+    "Idea": "Instacart",
+    "Description": "Instacart is a marketplace for grocery delivery and pickup, operating as the North American leader in online grocery and one of the fastest-growing companies in e-commerce. It provides same-day delivery and pickup services for fresh groceries and everyday essentials, bringing them to busy people and families across the U.S. and Canada in as fast as an hour. Founded in 2012, Instacart has become an essential service for millions, offering flexible earnings opportunities for hundreds of thousands of shoppers. The company partners with over 350 retailers and delivers from more than 25,000 stores across over 5,500 cities in North America, reaching more than 85% of households in the U.S. and over 70% in Canada.",
+    "Takeaway": "Instacart's success demonstrates the strong market demand for convenient, on-demand grocery delivery and pickup services. Its marketplace model effectively connects consumers with local retailers and a flexible workforce, leveraging existing infrastructure to scale rapidly. Key factors include extensive partnerships with retailers, wide geographic coverage, a robust platform for both customers and shoppers, and adapting to become an essential service, which ultimately led to a public offering.",
+    "Domain": "ycombinator.com",
+    "Reason": "Instacart succeeded by addressing the growing consumer need for convenience in grocery shopping. It built a scalable marketplace platform that integrated a vast network of retailers and a large gig-economy workforce, enabling rapid delivery. Its ability to expand across thousands of cities and partner with hundreds of retailers solidified its market leadership, providing essential services and flexible earning opportunities.",
+    "Region": "North America (U.S. and Canada), San Francisco",
+    "Sub_domain": "www",
+    "Tags": [
+      "grocery delivery",
+      "e-commerce",
+      "marketplace",
+      "on-demand service",
+      "logistics",
+      "gig economy",
+      "online grocery",
+      "retail partnerships",
+      "pickup service"
+    ],
+    "success_or_fail": "success"
+  },
+  {
+    "Link": "https://www.ycombinator.com/companies/827",
+    "Idea": "Razorpay: India's Full-Stack Financial Solutions for Businesses",
+    "Description": "Razorpay, founded in 2014 by Harshil Mathur and Shashank Kumar, aimed to democratize online payments for underserved Indian businesses, including startups and SMEs. It evolved from a single online payment gateway into India\u2019s only full-stack financial solutions company, offering both payment and banking solutions. The company has revolutionized money movement, serving millions of businesses across India and expanding internationally with 'Curlec by Razorpay'. Razorpay is recognized for numerous industry-first innovations, such as completely digital onboarding, support for UPI and Bharath QR, recurring payments, multi-network tokenization, and becoming India\u2019s largest omnichannel payment gateway. Through strategic acquisitions and significant funding rounds (totaling $741.5 Mn across Series A-F), Razorpay achieved a valuation of $7.5 billion, making it Y Combinator's first Indian unicorn.",
+    "Takeaway": "Razorpay's journey highlights the profound impact of identifying and diligently addressing a critical market gap, particularly in emerging economies. Key takeaways include the importance of continuous product innovation and evolution from a single offering to a comprehensive full-stack solution. A hyperfocus on customer-centricity and delivering industry-first innovations, coupled with strategic acquisitions for market expansion, were crucial for rapid growth. Furthermore, fully leveraging accelerator programs like Y Combinator and maintaining an unwavering commitment to simplifying money movement and fostering economic inclusivity for small businesses were instrumental to their success.",
+    "Domain": "ycombinator.com",
+    "Reason": "Razorpay serves as a significant case study due to its transformative impact on India's digital payments and financial services landscape. Its success stems from adeptly solving the challenges faced by startups and SMEs in accepting and managing online payments. The company's rapid growth, marked by a $7.5 billion valuation and status as YC's first Indian unicorn, underscores its innovative product development, strategic acquisitions (e.g., Ezetap, Curlec), and effective leveraging of the Y Combinator network. Razorpay's evolution into a full-stack financial solutions provider demonstrates a deep understanding of market needs and a commitment to driving digital economic inclusion in India.",
+    "Region": "India",
+    "Sub_domain": "companies",
+    "Tags": [
+      "fintech",
+      "payments",
+      "banking-as-a-service",
+      "India",
+      "startups",
+      "SMEs",
+      "payment gateway",
+      "neo-banking",
+      "digital payments",
+      "acquisitions",
+      "unicorn",
+      "Y Combinator",
+      "financial solutions",
+      "online payments"
+    ],
+    "success_or_fail": "success"
+  },
+  {
+    "Link": "https://www.ycombinator.com/documents",
+    "Idea": "Safe Financing Documents",
+    "Description": "Y Combinator's simple agreement for future equity (SAFE) is a foundational instrument for early-stage startup fundraising. It evolved from a \"pre-money\" to a \"post-money\" safe in 2018, allowing for immediate and precise calculation of ownership sold. Key features include enabling high-resolution fundraising (closing with investors individually) and reducing legal fees and negotiation time due to its single-document, flexible nature without expiration or maturity dates. It comes in various versions for US and non-US companies.",
+    "Takeaway": "The SAFE simplifies early-stage startup fundraising by providing a flexible, standardized, and cost-effective legal instrument. Its post-money structure offers transparency in ownership calculation, while features like high-resolution fundraising reduce administrative burdens and accelerate investment processes.",
+    "Domain": "ycombinator.com",
+    "Reason": "Introduced to simplify and standardize early-stage startup fundraising, addressing complexities of traditional equity financing and providing clarity for both founders and investors.",
+    "Region": "Global",
+    "Sub_domain": "www",
+    "Tags": [
+      "SAFE",
+      "fundraising",
+      "startup finance",
+      "equity",
+      "investment",
+      "legal documents",
+      "seed funding",
+      "Y Combinator"
+    ],
+    "success_or_fail": "success"
+  },
+  {
+    "Link": "https://www.ycombinator.com/documents",
+    "Idea": "Safe: Valuation Cap, no Discount (US Companies)",
+    "Description": "A version of the YC post-money safe designed for US companies, characterized by a valuation cap but without an investor discount.",
+    "Takeaway": "Provides a clear ceiling on the valuation at which an investor's SAFE converts into equity, offering upside protection without a direct discount on the future priced round.",
+    "Domain": "ycombinator.com",
+    "Reason": "null",
+    "Region": "US",
+    "Sub_domain": "www",
+    "Tags": [
+      "SAFE",
+      "US companies",
+      "valuation cap",
+      "no discount",
+      "fundraising document",
+      "startup finance"
+    ],
+    "success_or_fail": "null"
+  },
+  {
+    "Link": "https://www.ycombinator.com/documents",
+    "Idea": "Safe: Discount, no Valuation Cap (US Companies)",
+    "Description": "A version of the YC post-money safe for US companies, featuring a discount rate for investors but no specified valuation cap.",
+    "Takeaway": "Gives early investors a percentage discount on the price per share of the next priced equity round, incentivizing early investment without limiting future valuation.",
+    "Domain": "ycombinator.com",
+    "Reason": "null",
+    "Region": "US",
+    "Sub_domain": "www",
+    "Tags": [
+      "SAFE",
+      "US companies",
+      "discount",
+      "no valuation cap",
+      "fundraising document",
+      "startup finance"
+    ],
+    "success_or_fail": "null"
+  },
+  {
+    "Link": "https://www.ycombinator.com/documents",
+    "Idea": "Safe: \"Uncapped MFN\" (no Valuation Cap, no Discount) (US Companies)",
+    "Description": "A version of the YC post-money safe for US companies that includes neither a valuation cap nor a discount, but typically incorporates a Most Favored Nation (MFN) clause.",
+    "Takeaway": "Ensures that early investors receive the most advantageous terms later granted to other investors in subsequent funding rounds, without setting a fixed valuation cap or discount upfront.",
+    "Domain": "ycombinator.com",
+    "Reason": "null",
+    "Region": "US",
+    "Sub_domain": "www",
+    "Tags": [
+      "SAFE",
+      "US companies",
+      "uncapped",
+      "no discount",
+      "MFN clause",
+      "fundraising document",
+      "startup finance"
+    ],
+    "success_or_fail": "null"
+  },
+  {
+    "Link": "https://www.ycombinator.com/documents",
+    "Idea": "Pro Rata Side Letter (US Companies)",
+    "Description": "An optional legal addendum for US SAFE investments, granting investors the right to participate in future equity financing rounds to maintain their pro-rata ownership percentage.",
+    "Takeaway": "Protects early investors from excessive dilution by allowing them to invest additional capital in subsequent rounds to preserve their equity stake.",
+    "Domain": "ycombinator.com",
+    "Reason": "null",
+    "Region": "US",
+    "Sub_domain": "www",
+    "Tags": [
+      "SAFE",
+      "US companies",
+      "pro rata",
+      "side letter",
+      "investor rights",
+      "fundraising document",
+      "equity protection"
+    ],
+    "success_or_fail": "null"
+  },
+  {
+    "Link": "https://www.ycombinator.com/documents",
+    "Idea": "Safe: Valuation Cap, No Discount (Canada)",
+    "Description": "A version of the YC post-money safe, with a valuation cap but no discount, specifically adapted for companies formed in Canada.",
+    "Takeaway": "Offers Canadian startups a simplified investment vehicle with a valuation cap, suitable for early-stage fundraising under Canadian legal considerations.",
+    "Domain": "ycombinator.com",
+    "Reason": "null",
+    "Region": "Canada",
+    "Sub_domain": "www",
+    "Tags": [
+      "SAFE",
+      "Canada",
+      "international",
+      "valuation cap",
+      "no discount",
+      "fundraising document"
+    ],
+    "success_or_fail": "null"
+  },
+  {
+    "Link": "https://www.ycombinator.com/documents",
+    "Idea": "Pro Rata Side Letter (Canada)",
+    "Description": "An optional legal addendum for Canadian SAFE investments, granting investors the right to participate in future equity financing rounds to maintain their pro-rata ownership percentage, requiring consultation with a Canadian lawyer.",
+    "Takeaway": "Allows early investors in Canadian startups to protect their equity from dilution by securing participation rights in subsequent funding rounds.",
+    "Domain": "ycombinator.com",
+    "Reason": "null",
+    "Region": "Canada",
+    "Sub_domain": "www",
+    "Tags": [
+      "SAFE",
+      "Canada",
+      "international",
+      "pro rata",
+      "side letter",
+      "investor rights",
+      "fundraising document"
+    ],
+    "success_or_fail": "null"
+  },
+  {
+    "Link": "https://www.ycombinator.com/documents",
+    "Idea": "Safe: Valuation Cap, No Discount (Caymans)",
+    "Description": "A version of the YC post-money safe, with a valuation cap but no discount, specifically adapted for companies formed in the Cayman Islands.",
+    "Takeaway": "Provides a standardized, valuation-capped investment mechanism for early-stage fundraising by Cayman-registered companies.",
+    "Domain": "ycombinator.com",
+    "Reason": "null",
+    "Region": "Caymans",
+    "Sub_domain": "www",
+    "Tags": [
+      "SAFE",
+      "Caymans",
+      "international",
+      "valuation cap",
+      "no discount",
+      "fundraising document"
+    ],
+    "success_or_fail": "null"
+  },
+  {
+    "Link": "https://www.ycombinator.com/documents",
+    "Idea": "Pro Rata Side Letter (Caymans)",
+    "Description": "An optional legal addendum for Cayman SAFE investments, granting investors the right to participate in future equity financing rounds to maintain their pro-rata ownership percentage, requiring consultation with a Cayman lawyer.",
+    "Takeaway": "Secures the right for early investors in Cayman-registered companies to prevent dilution by participating in later funding rounds.",
+    "Domain": "ycombinator.com",
+    "Reason": "null",
+    "Region": "Caymans",
+    "Sub_domain": "www",
+    "Tags": [
+      "SAFE",
+      "Caymans",
+      "international",
+      "pro rata",
+      "side letter",
+      "investor rights",
+      "fundraising document"
+    ],
+    "success_or_fail": "null"
+  },
+  {
+    "Link": "https://www.ycombinator.com/documents",
+    "Idea": "Safe: Valuation Cap, No Discount (Singapore)",
+    "Description": "A version of the YC post-money safe, with a valuation cap but no discount, specifically adapted for companies formed in Singapore.",
+    "Takeaway": "Offers Singaporean startups a simplified, valuation-capped investment instrument for early-stage capital raising, aligning with local legal frameworks.",
+    "Domain": "ycombinator.com",
+    "Reason": "null",
+    "Region": "Singapore",
+    "Sub_domain": "www",
+    "Tags": [
+      "SAFE",
+      "Singapore",
+      "international",
+      "valuation cap",
+      "no discount",
+      "fundraising document"
+    ],
+    "success_or_fail": "null"
+  },
+  {
+    "Link": "https://www.ycombinator.com/documents",
+    "Idea": "Pro Rata Side Letter (Singapore)",
+    "Description": "An optional legal addendum for Singapore SAFE investments, granting investors the right to participate in future equity financing rounds to maintain their pro-rata ownership percentage, requiring consultation with a Singaporean lawyer.",
+    "Takeaway": "Enables early investors in Singaporean startups to protect their ownership stake by securing the option to invest in subsequent funding rounds.",
+    "Domain": "ycombinator.com",
+    "Reason": "null",
+    "Region": "Singapore",
+    "Sub_domain": "www",
+    "Tags": [
+      "SAFE",
+      "Singapore",
+      "international",
+      "pro rata",
+      "side letter",
+      "investor rights",
+      "fundraising document"
+    ],
+    "success_or_fail": "null"
+  },
+  {
+    "Link": "https://www.ycombinator.com/documents",
+    "Idea": "Safe User Guide (YC)",
+    "Description": "A comprehensive guide, primarily for US companies, explaining the mechanics of the SAFE conversion process, including sample calculations, details on the pro rata side letter, and best practices for its application.",
+    "Takeaway": "Provides practical instruction and clarity for founders and investors on how to effectively use and understand YC's SAFE documents, particularly for US-based entities.",
+    "Domain": "ycombinator.com",
+    "Reason": "null",
+    "Region": "US",
+    "Sub_domain": "www",
+    "Tags": [
+      "SAFE",
+      "user guide",
+      "how-to",
+      "conversion mechanics",
+      "best practices",
+      "fundraising",
+      "startup finance"
+    ],
+    "success_or_fail": "null"
+  },
+  {
+    "Link": "https://www.ycombinator.com/documents",
+    "Idea": "Template Sales and Cloud Service Agreements (YC)",
+    "Description": "Legal templates provided by Y Combinator to assist startups in drafting standard sales contracts and agreements for cloud services.",
+    "Takeaway": "Simplifies and expedites the creation of essential business agreements for startups, reducing legal costs and time spent on drafting common contracts.",
+    "Domain": "ycombinator.com",
+    "Reason": "null",
+    "Region": "null",
+    "Sub_domain": "www",
+    "Tags": [
+      "legal templates",
+      "sales agreement",
+      "cloud services",
+      "startup resources",
+      "business operations",
+      "contract drafting"
+    ],
+    "success_or_fail": "null"
+  },
+  {
+    "Link": "https://www.ycombinator.com/documents",
+    "Idea": "Series A Term Sheet Template (YC)",
+    "Description": "A template for a Series A preferred stock term sheet, designed to outline the key terms and conditions for a Series A investment round.",
+    "Takeaway": "Standardizes the negotiation and documentation process for Series A funding, providing a clear and efficient framework for both startups and investors.",
+    "Domain": "ycombinator.com",
+    "Reason": "null",
+    "Region": "null",
+    "Sub_domain": "www",
+    "Tags": [
+      "Series A",
+      "term sheet",
+      "fundraising",
+      "equity financing",
+      "startup investment",
+      "legal template",
+      "venture capital"
+    ],
+    "success_or_fail": "null"
+  },
+  {
+    "Link": "https://www.ycombinator.com/documents",
+    "Idea": "Handshake Deal Protocol (YC)",
+    "Description": "A protocol or guideline suggested by Y Combinator for formalizing informal agreements or \"handshake deals,\" emphasizing clear communication and mutual understanding in early-stage business interactions.",
+    "Takeaway": "Encourages transparency and good faith in less formal business arrangements, aiming to prevent misunderstandings and build trust among founders and early partners.",
+    "Domain": "ycombinator.com",
+    "Reason": "null",
+    "Region": "null",
+    "Sub_domain": "www",
+    "Tags": [
+      "business ethics",
+      "agreement protocol",
+      "startup culture",
+      "negotiation",
+      "trust building",
+      "informal contracts"
+    ],
+    "success_or_fail": "null"
+  },
+  {
+    "Link": "https://www.ycombinator.com/companies/1042",
+    "Idea": "Podium",
+    "Description": "Podium is an all-in-one AI-powered lead management and communication platform used by more than 100,000 businesses to acquire and convert new customers. It ensures businesses respond to leads instantly with its AI employee, significantly increasing lead conversion rates and revenue. Podium helps businesses obtain more reviews, rank higher on Google, consolidate lead channels, and communicate with customers via calls, texts, and bulk messages, all managed from one dashboard.",
+    "Takeaway": "Significant opportunities often lie in underserved, unglamorous markets like brick-and-mortar local businesses, which most people overlook. Staying dedicated to the initial vision and target customer segment, even amidst pressure to pivot towards 'trendier' markets, can lead to explosive revenue growth, high valuations, and recognition. Building a product that truly solves a pain point and is 'bought like crazy' is crucial for success.",
+    "Domain": "SaaS",
+    "Reason": "Success. Podium successfully identified an underserved market (brick-and-mortar local businesses) and developed an innovative AI-powered platform to address their lead management and communication needs. Despite investor advice to pivot, the founders' unwavering belief in their target customer and product led to explosive revenue growth (from $1M to $3.5M ARR in one batch) and a $3 billion valuation.",
+    "Region": "Lehi, Utah",
+    "Sub_domain": "companies",
+    "Tags": [
+      "fintech",
+      "saas",
+      "b2b",
+      "ai"
+    ],
+    "success_or_fail": "Success"
+  },
+  {
+    "Link": "https://www.ycombinator.com/rfs",
+    "Idea": "Retraining Workers for the AI Economy",
+    "Description": "Build a new kind of vocational school for the AI economy to train skilled tradespeople (electricians, HVAC technicians, welders) for the physical infrastructure buildout needed for AI (data centers, semiconductor fabs). Utilize AI to create personalized, rapid training programs (months, not years) potentially with multimodal AI, voice AI coaching, or AR/VR simulations.",
+    "Takeaway": "AI can enable scalable, high-quality vocational training for critical physical labor jobs, addressing skill shortages and allowing workers to participate in the AI economy. Employers would pay for these well-trained workers, creating a profitable business model.",
+    "Domain": "ycombinator.com",
+    "Reason": "There's a shortage of skilled tradespeople essential for building AI's physical infrastructure. The government's 'AI Action plan' emphasizes worker retraining, creating a market opportunity. AI can solve the scalability issues of traditional training programs by enabling personalized, efficient learning.",
+    "Region": "US",
+    "Sub_domain": "www",
+    "Tags": [
+      "AI",
+      "vocational training",
+      "workforce development",
+      "skilled trades",
+      "multimodal AI",
+      "AR/VR",
+      "education",
+      "physical infrastructure"
+    ],
+    "success_or_fail": "null"
+  },
+  {
+    "Link": "https://www.ycombinator.com/rfs",
+    "Idea": "Video Generation as a Primitive",
+    "Description": "Develop new apps, tooling, and infrastructure that treat generative video not just as an output, but as a fundamental computing primitive. Leverage rapidly improving video generation models to enable limitless, low-latency, near-perfect video generation for marginal cost approaching zero.",
+    "Takeaway": "Generative video will fundamentally change media, entertainment, e-commerce, gaming, and simulation. Founders should build foundational platforms and applications that assume video is a readily available, programmable building block.",
+    "Domain": "ycombinator.com",
+    "Reason": "Video generation models are becoming highly advanced and cost-effective, opening up a new paradigm similar to cloud computing. This will enable entirely new categories of applications and experiences currently unimagined.",
+    "Region": "null",
+    "Sub_domain": "www",
+    "Tags": [
+      "AI",
+      "generative video",
+      "media",
+      "entertainment",
+      "e-commerce",
+      "gaming",
+      "simulation",
+      "API",
+      "infrastructure",
+      "new primitive"
+    ],
+    "success_or_fail": "null"
+  },
+  {
+    "Link": "https://www.ycombinator.com/rfs",
+    "Idea": "The First 10-person, $100B Company",
+    "Description": "Build a multi-billion dollar company with a small, high-agency team (even solo founders) of around 10 people, leveraging new AI tools and optimizing for revenue per employee. Aim to achieve a $100B valuation with minimal capital ($500k from YC).",
+    "Takeaway": "AI tools dramatically reduce the need for large teams and capital, enabling highly efficient, agile startups to outcompete incumbents burdened by bureaucracy. Focus on maximizing revenue per employee to build a significant company with a small footprint.",
+    "Domain": "ycombinator.com",
+    "Reason": "AI tools replicate the capital-saving effect of cloud computing, allowing small teams to scale operations without massive headcounts. Small teams benefit from speed, focus, and lack of internal politics, providing a competitive edge.",
+    "Region": "null",
+    "Sub_domain": "www",
+    "Tags": [
+      "AI",
+      "startup",
+      "efficiency",
+      "small teams",
+      "high-agency",
+      "revenue per employee",
+      "capital efficiency"
+    ],
+    "success_or_fail": "null"
+  },
+  {
+    "Link": "https://www.ycombinator.com/rfs",
+    "Idea": "Infrastructure for Multi-Agent Systems",
+    "Description": "Develop tools and infrastructure to simplify the building and maintenance of multi-agent AI systems. These systems involve distributed workflows of sub-agents for tasks like long-running processes or agentic map-reduce, which are complex to build due to traditional distributed systems problems and new AI-specific challenges (prompt writing, untrusted context, monitoring, debugging).",
+    "Takeaway": "As AI agents evolve into complex, distributed systems, there's a critical need for specialized infrastructure to make them as routine and reliable to operate as web services or Spark jobs. Builders who have experienced these challenges in production are well-positioned to create essential tooling.",
+    "Domain": "ycombinator.com",
+    "Reason": "Multi-agent systems are becoming increasingly important for complex AI tasks but are difficult to build and manage. Solving these infrastructure challenges will unlock broader adoption and development of advanced AI applications.",
+    "Region": "null",
+    "Sub_domain": "www",
+    "Tags": [
+      "AI",
+      "multi-agent systems",
+      "distributed systems",
+      "AI infrastructure",
+      "tooling",
+      "agent workflows",
+      "prompt engineering",
+      "monitoring",
+      "debugging"
+    ],
+    "success_or_fail": "null"
+  },
+  {
+    "Link": "https://www.ycombinator.com/rfs",
+    "Idea": "AI Native Enterprise Software",
+    "Description": "Create enterprise software systems where AI is deeply and thoughtfully embedded as a core component, fundamentally transforming how employees perform work (e.g., 'Cursor for sales, HR, and accounting'). These systems should go beyond being mere 'systems of record' and actively help employees work faster and more accurately.",
+    "Takeaway": "AI presents a 'once-in-a-generation' opportunity for startups to disrupt established enterprise software incumbents. By building AI-native solutions from the ground up, startups can offer a 10x better product and leverage incumbents' struggle to adapt to the new AI paradigm.",
+    "Domain": "ycombinator.com",
+    "Reason": "Historical shifts (like cloud computing) led to new waves of enterprise software leaders (Salesforce, ServiceNow). AI represents a similar paradigm shift, where existing incumbents will struggle to integrate AI as a foundational element, creating a massive opportunity for AI-first startups.",
+    "Region": "null",
+    "Sub_domain": "www",
+    "Tags": [
+      "AI",
+      "enterprise software",
+      "SaaS",
+      "B2B",
+      "disruption",
+      "AI-native",
+      "productivity",
+      "automation"
+    ],
+    "success_or_fail": "null"
+  },
+  {
+    "Link": "https://www.ycombinator.com/rfs",
+    "Idea": "Using LLMs Instead of Government Consulting",
+    "Description": "Build LLM-powered software solutions to perform work currently done by government consulting firms (e.g., Deloitte, Accenture), which costs the U.S. government over $100 billion annually. This includes tasks like regulatory compliance (FedRAMP), legal policy review, and other custom software development.",
+    "Takeaway": "LLMs offer a way to significantly cut wasteful government spending on consulting by automating complex tasks that require human-level judgment. Startups can leverage political pressure for efficiency and the advanced capabilities of LLMs to provide superior, more cost-effective solutions.",
+    "Domain": "ycombinator.com",
+    "Reason": "The U.S. government spends vast amounts on inefficient consulting. LLMs are now capable of performing many tasks previously handled by consultants. Political will exists to cut this spending and improve government software.",
+    "Region": "US",
+    "Sub_domain": "www",
+    "Tags": [
+      "AI",
+      "LLMs",
+      "government",
+      "consulting",
+      "public sector",
+      "automation",
+      "efficiency",
+      "FedRAMP",
+      "regulation"
+    ],
+    "success_or_fail": "null"
+  },
+  {
+    "Link": "https://www.ycombinator.com/people/david-lieb",
+    "Idea": "David Lieb's entrepreneurial journey and role at Y Combinator",
+    "Description": "David Lieb is a Group Partner at YC. He was previously the co-founder and CEO of Bump (S09), a mobile app used by more than 150M people to share photos and contact info by bumping their phones together. Bump was acquired by Google in 2013, and an unreleased photo-sharing app they were building became the foundation of Google Photos. Before Bump, Dave was a researcher in the Stanford AI Lab and a software engineer at Texas Instruments. He holds EE/CS degrees from Princeton and Stanford and finished half an MBA at Chicago Booth before dropping out to start Bump. His YC stats include doing over 500 office hours with YC companies and advising top YC alumni, with the companies he's worked with or invested in being worth more than $10B combined.",
+    "Takeaway": "David Lieb's career illustrates a successful path from founding a mobile app startup (Bump) that achieved significant user adoption and was acquired by a tech giant (Google, leading to Google Photos), to becoming a influential figure in the startup ecosystem as a Group Partner at Y Combinator. His story highlights the value of pursuing entrepreneurial ventures even if it means dropping out of traditional paths like an MBA, and the long-term impact successful founders can have through mentorship and investment in new startups.",
+    "Domain": "ycombinator.com",
+    "Reason": "This case study details the successful entrepreneurial journey of David Lieb, from co-founding Bump and its acquisition by Google, which led to Google Photos, to his impactful role as a Group Partner at Y Combinator, significantly contributing to the startup community's growth and success.",
+    "Region": "United States",
+    "Sub_domain": "www",
+    "Tags": [
+      "Entrepreneurship",
+      "Startup Acquisition",
+      "Mobile App",
+      "Google Photos",
+      "Y Combinator",
+      "Group Partner",
+      "Founder",
+      "CEO",
+      "Tech Industry",
+      "Mentorship",
+      "Investment",
+      "Success Story",
+      "Bump"
+    ],
+    "success_or_fail": "Success"
+  },
+  {
+    "Link": "https://www.ycombinator.com/people/david-lieb",
+    "Idea": "On starting and scaling one of the biggest iOS apps",
+    "Description": "On starting and scaling one of the biggest iOS apps",
+    "Takeaway": "null",
+    "Domain": "ycombinator.com",
+    "Reason": "null",
+    "Region": "null",
+    "Sub_domain": "www",
+    "Tags": [
+      "iOS app",
+      "Scaling",
+      "Startup"
+    ],
+    "success_or_fail": "null"
+  },
+  {
+    "Link": "https://www.ycombinator.com/people/david-lieb",
+    "Idea": "How David Lieb Turned a Failing Startup Into Google Photos | Backstory",
+    "Description": "How David Lieb Turned a Failing Startup Into Google Photos | Backstory",
+    "Takeaway": "null",
+    "Domain": "ycombinator.com",
+    "Reason": "null",
+    "Region": "null",
+    "Sub_domain": "www",
+    "Tags": [
+      "Startup failure",
+      "Pivot",
+      "Google Photos",
+      "Success Story"
+    ],
+    "success_or_fail": "null"
+  },
+  {
+    "Link": "https://www.ycombinator.com/people/david-lieb",
+    "Idea": "David Lieb: How I Founded Google Photos & Bump; Why I Left Google | 20VC",
+    "Description": "David Lieb: How I Founded Google Photos & Bump; Why I Left Google | 20VC",
+    "Takeaway": "null",
+    "Domain": "ycombinator.com",
+    "Reason": "null",
+    "Region": "null",
+    "Sub_domain": "www",
+    "Tags": [
+      "Founder",
+      "Google Photos",
+      "Bump",
+      "Departure",
+      "Corporate life"
+    ],
+    "success_or_fail": "null"
+  },
+  {
+    "Link": "https://www.ycombinator.com/people/david-lieb",
+    "Idea": "Google Photos Product Lead and Bump Cofounder David Lieb with Gustaf Alstromer",
+    "Description": "Google Photos Product Lead and Bump Cofounder David Lieb with Gustaf Alstromer",
+    "Takeaway": "null",
+    "Domain": "ycombinator.com",
+    "Reason": "null",
+    "Region": "null",
+    "Sub_domain": "www",
+    "Tags": [
+      "Product Lead",
+      "Cofounder",
+      "Google Photos",
+      "Bump"
+    ],
+    "success_or_fail": "null"
+  },
+  {
+    "Link": "https://www.ycombinator.com/people/david-lieb",
+    "Idea": "Twitter vs. X: Product Lessons For Startup Founders",
+    "Description": "Twitter vs. X: Product Lessons For Startup Founders",
+    "Takeaway": "null",
+    "Domain": "ycombinator.com",
+    "Reason": "null",
+    "Region": "null",
+    "Sub_domain": "www",
+    "Tags": [
+      "Product Lessons",
+      "Startup Founders",
+      "Twitter",
+      "X"
+    ],
+    "success_or_fail": "null"
+  },
+  {
+    "Link": "https://www.ycombinator.com/press",
+    "Idea": "Y Combinator's Seed Funding and Startup Acceleration Model",
+    "Description": "YC helps founders launch, build, and scale great technology companies. Since 2005, it has funded over 5,000 companies, with more than 100 valued over $1B and a combined valuation of over $800B. YC provides $500,000 in seed funding and intensive support for 3 months through its batch program, run four times a year.",
+    "Takeaway": "Y Combinator's model of providing seed funding and intensive mentorship over a 3-month period has successfully launched and scaled over 5,000 technology companies, demonstrating significant impact on the startup ecosystem and economy.",
+    "Domain": "ycombinator.com",
+    "Reason": "null",
+    "Region": "null",
+    "Sub_domain": "www",
+    "Tags": [
+      "startup accelerator",
+      "seed funding",
+      "venture capital",
+      "technology companies",
+      "startup ecosystem",
+      "mentorship"
+    ],
+    "success_or_fail": "success"
+  },
+  {
+    "Link": "https://www.ycombinator.com/companies/podium/jobs",
+    "Idea": "Podium: Get more leads. Make more money.",
+    "Description": "Podium is a YC alumni company (W16 batch, founded 2014) that helps businesses get more leads and make more money. It has a team size of 1000 and is located in Lehi, UT. No jobs are currently posted on the YC platform.",
+    "Takeaway": "Podium is a successful and growing YC-backed company, demonstrating how a clear value proposition ('Get more leads. Make more money.') combined with significant team expansion can lead to a thriving business in the years following accelerator participation.",
+    "Domain": "ycombinator.com",
+    "Reason": "null",
+    "Region": "Lehi, UT",
+    "Sub_domain": "www",
+    "Tags": [
+      "lead generation",
+      "revenue growth",
+      "SaaS",
+      "YC alumni",
+      "business tools",
+      "customer interaction"
+    ],
+    "success_or_fail": "success"
+  }
+]
