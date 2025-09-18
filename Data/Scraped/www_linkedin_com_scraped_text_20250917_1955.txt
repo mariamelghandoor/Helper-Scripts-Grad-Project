@@ -1,0 +1,276 @@
+
+
+--- CONTENT FROM https://www.linkedin.com/posts/cb-insights_483-startup-failure-post-mortems-activity-7164359032995049473-MOyD ---
+
+CB Insights’ Post
+CB Insights
+161,271 followers
+1y
+Report this post
+A time-staggered compilation of startup post-mortems for some of the most notable failures
+https://cbi.team/3HUlSIp
+473 startup failure post-mortems
+cbinsights.com
+6
+Like
+Comment
+Share
+Copy
+LinkedIn
+Facebook
+Twitter
+To view or add a comment,
+sign in
+161,271 followers
+View Profile
+Connect
+More from this author
+Are Twilio’s layoffs a sign of struggle for the CPaaS space?
+CB Insights
+2y
+Sales tech stack consolidation is coming. So who's winning?
+CB Insights
+2y
+Generative AI research roundup
+CB Insights
+2y
+Explore content categories
+Career
+Productivity
+Finance
+Soft Skills & Emotional Intelligence
+Project Management
+Education
+Technology
+Leadership
+Ecommerce
+Show more
+Show less
+
+
+--- CONTENT FROM https://www.linkedin.com/pulse/generative-ai-research-roundup-cb-insights ---
+
+Generative AI research roundup
+Report this article
+CB Insights
+CB Insights
+Market intelligence for high-stakes decisions
+Published Apr 17, 2023
++ Follow
+Welcome to The Transcript. Each week, we mine our interview transcripts with software buyers to reveal their insights on specific companies and tech markets.
+Yardstiq
+is a new product from
+CB Insights
+that connects you with 1000s of analyst-led interviews with software buyers. In today’s edition of The Transcript, we’re highlighting how software buyers are mitigating third-party risk.
+The field of generative AI has exploded.
+Below you’ll find the top research you need to know on the space.
+We also look at how software buyers are responding to and thinking about generative AI after analyzing Yardstiq interviews.
+Dig in.
+Setting the stage: Where is all the money going in generative AI?
+In our
+state of generative AI in 7 charts
+, we break down the generative AI landscape across funding trends, top-valued startups, most active VCs, and more.
+Companies in text generation have taken the lead in funding, while companies in visual media generation lead generative AI deal volume.
+The AI arms race: Differentiated info/data that can feed generative AI models will be key
+As the
+Sourcegraph
+customer above highlights, having special access to content (like code) will be hugely valuable in improving AI agents.
+We’ve already seen this with
+Replit
+’s recent deal with
+Google Cloud
+. The pair have teamed up to build coding tools to take on
+Microsoft
+’s
+GitHub
+and its popular Copilot product.
+Recommended by LinkedIn
+The week's top generative AI updates - July 23, 2024
+SymphonyAI
+1 year ago
+Future Trends in Generative AI: Predictions from…
+Pratibha Kumari J.
+1 year ago
+Innovate and Create: Harnessing the Power of…
+Objectways
+1 year ago
+The large language models (LLMs) content licensing battles are going to intensify. We map out
+21 of those targets here
+.
+Potential for disruption: Keeping up with the rapidly advancing tech will separate winners from losers
+OpenAI
+, the company behind massively popular generative AI tools like ChatGPT, notched a multi-billion-dollar investment from Microsoft at a rumored valuation of up to $29B earlier this year.
+Now, it’s ratcheting up its own venture investing to put itself at the center of a sweeping AI ecosystem.
+Check out
+OpenAI’s investment strategy map here
+. We also look at
+Microsoft’s generative AI strategy here
+.
+Potential for disruption: Keeping up with the rapidly advancing tech will separate winners from losers
+For CB Insights customers, we also dig into generative AI applications in
+financial services
+,
+retail
+, and
+industrials
+.
+Who are the players? The 250 companies driving generative AI forward
+We mined the CB Insights database to map 250 startups across 45 different categories, from protein design to patent generation.
+See
+the market map here
+.
+We also analyze the
+59 generative AI startups in YC’s latest cohort here
+.
+Subscribe to the CB Insights newsletter
+to get more insights like these directly in your inbox.
+Like
+Comment
+Copy
+LinkedIn
+Facebook
+Twitter
+Share
+40
+2 Comments
+Hannah L.
+Wedding & Lifestyle Photographer | Capturing Love, Connection & Adventure | Based in NM, Traveling Worldwide ✨📷
+2y
+Report this comment
+Great information, thanks for sharing!
+Like
+Reply
+1 Reaction
+KRISHNAN N NARAYANAN
+Sales Associate at American Airlines
+2y
+Report this comment
+Thanks for posting
+Like
+Reply
+1 Reaction
+See more comments
+To view or add a comment,
+sign in
+More articles by CB Insights
+May 22, 2023
+Are Twilio’s layoffs a sign of struggle for the CPaaS space?
+Welcome to The Transcript. Each week, we mine our interview transcripts with software buyers to reveal their insights…
+25
+Apr 24, 2023
+Sales tech stack consolidation is coming. So who's winning?
+Welcome to The Transcript. Each week, we mine our interview transcripts with software buyers to reveal their insights…
+26
+1 Comment
+Apr 3, 2023
+Snowflake's competition
+Welcome to The Transcript. Each week, we mine our interview transcripts with software buyers to reveal their insights…
+18
+1 Comment
+Mar 27, 2023
+"Flawed but fixable" tech companies
+Welcome to The Transcript. Each week, we mine our interview transcripts with software buyers to reveal their insights…
+18
+1 Comment
+Mar 20, 2023
+What software buyers are saying about third-party risk
+Welcome to The Transcript. Each week, we mine our interview transcripts with software buyers to reveal their insights…
+17
+Mar 13, 2023
+Where Thoma Bravo is betting big
+Welcome to The Transcript. Each week, we mine our interview transcripts with software buyers to reveal their insights…
+43
+Mar 7, 2023
+Fortune 500 renewals
+Welcome to The Transcript. Each week, we mine our interview transcripts with software buyers to reveal their insights…
+19
+Feb 27, 2023
+How fraud prevention players stack up
+Welcome to The Transcript. Each Monday, we mine our interview transcripts with software buyers to reveal their insights…
+15
+Feb 20, 2023
+Software that reduces spend (or not)
+Welcome to The Transcript. Each Monday, we mine our interview transcripts with software buyers to reveal their insights…
+14
+Feb 13, 2023
+How project management software players stack up
+Welcome to The Transcript. Each Monday, we mine our interview transcripts with software buyers to reveal their insights…
+71
+2 Comments
+Show more
+See all articles
+Others also viewed
+Everything You Need to Know About Generative AI Adoption and Usage in Enterprises
+Luiz Neto
+1y
+Unleashing Creativity with Generative AI: Transforming Art, Science, and Business
+Aritra Ghosh
+1y
+AI in 2024: Moving Beyond Hype to Profitability and Enterprise Sales
+Montgomery Singman
+1y
+Generative AI for Business: The Essential Guide for Business Leaders
+Vrata Tech Solutions (VTS)
+1y
+Top Generative AI Development Companies to Watch in 2025-26
+Shaksham Sharma
+6mo
+The Integration Patterns of Generative AI Application
+Rickbed Nandi
+7mo
+Top 10 Generative AI Development Companies in India
+Deepika Pandey
+5mo
+Generative AI: Transforming Creativity, Innovation, and Business
+Yatendra Singh Pundhir
+7mo
+Global Generative AI Market Set to Skyrocket to USD 109.37 Billion by 2032, Fueled by a 30.1% CAGR
+Statsmarketresearch
+1mo
+AI Growth  and the Post-AI Skills Landscape
+Anoop Jayakumar
+6mo
+Show more
+Show less
+Explore content categories
+Career
+Productivity
+Finance
+Soft Skills & Emotional Intelligence
+Project Management
+Education
+Technology
+Leadership
+Ecommerce
+User Experience
+Recruitment & HR
+Customer Experience
+Real Estate
+Marketing
+Sales
+Retail & Merchandising
+Science
+Supply Chain Management
+Future Of Work
+Consulting
+Writing
+Economics
+Artificial Intelligence
+Employee Experience
+Workplace Trends
+Fundraising
+Networking
+Corporate Social Responsibility
+Negotiation
+Communication
+Engineering
+Hospitality & Tourism
+Business Strategy
+Change Management
+Organizational Culture
+Design
+Innovation
+Event Planning
+Training & Development
+Show more
+Show less

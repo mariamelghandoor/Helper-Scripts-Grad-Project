@@ -1,0 +1,858 @@
+
+
+--- CONTENT FROM https://www.kaggle.com/datasets/dagloxkankwanda/startup-failures ---
+
+Kaggle uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic.
+Learn more
+OK, Got it.
+Daglox Kankwanda
+· Updated
+6 months ago
+arrow_drop_up
+31
+code
+Code
+file_download
+Download
+more_vert
+Startup Failures
+A Comprehensive Dataset of 483 Startup Failures by sector of operations
+Startup Failures
+Data Card
+Code (6)
+Discussion (1)
+Suggestions (0)
+About Dataset
+Explore the rise and fall of 483 startups with this detailed dataset, sourced from CB Insights' "Startup Failure Post-Mortem" compilation (last updated May 29, 2024). This dataset catalogs failed ventures across diverse industries, offering insights into their names, operational sectors, and years of activity—from founding to shutdown. Spanning over three decades (1992–2024), it captures the volatile world of innovation, from dot-com busts to modern tech flops.
+Columns:
+Name
+: The startup’s name.
+Sector
+: Industry classification (all "Information" here, NAICS 51).
+Years of Operation
+: Lifespan in years, with founding and shutdown years (e.g., "3 (2010-2013)").
+What They Did
+: Brief overview of the startup’s product or service.
+How Much They Raised
+: Funding amount in millions ($M) or tied to parent totals (e.g., "$1.7B (Dropbox)").
+Why They Failed
+: Reason the startup ceased or faded as a standalone entity.
+Takeaway
+: Key lesson derived from the failure.
+Giants
+: 1 if lost to tech giants (e.g., Google, Amazon), 0 if not.
+No Budget
+: 1 if ran out of cash or was underfunded, 0 if not.
+Competition
+: 1 if outpaced by direct rivals (not just giants), 0 if not.
+Poor Market Fit
+: 1 if product lacked demand or user interest, 0 if not.
+Acquisition Stagnation
+: 1 if stagnated or faded after acquisition, 0 if not.
+Platform Dependency
+: 1 if overly reliant on another platform (e.g., Twitter), 0 if not.
+Monetization Failure
+: 1 if couldn’t turn users into revenue, 0 if not.
+Niche Limits
+: 1 if too niche to scale broadly, 0 if not.
+Execution Flaws
+: 1 if mismanagement or tech failures contributed, 0 if not.
+Trend Shifts
+: 1 if market or user trends shifted away, 0 if not.
+Toxicity/Trust Issues
+: 1 if user toxicity or trust breaches hurt, 0 if not.
+Regulatory Pressure
+: 1 if legal or regulatory issues forced closure, 0 if not.
+Overhype
+: 1 if hype exceeded deliverable results, 0 if not.
+Uncover the secrets of business failures with this comprehensive dataset. Data analysts, entrepreneurs, and researchers can: pinpoint failure causes (e.g., 92 cases attributed to 'Giants'), analyze funding's impact on success, and visualize company lifespans. Explore why giants like Google contributed to 57% of failures, or why 29% collapsed after acquisition. Whether you need industry-specific failure counts, lifespan visualizations, or historical trend analysis, this dataset provides valuable post-mortem insights for strategic decision-making.
+Source
+: CB Insights -
+Startup Failure Post-Mortem
+License
+: This dataset is derived from publicly available data on CB Insights’ site; please review their terms for usage. Compiled and structured for research purposes.
+Let’s learn from the ashes of ambition—happy analyzing!
+expand_more
+View more
+Usability
+info
+9.41
+License
+Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Expected update frequency
+Never
+Tags
+Business
+Tabular
+Finance
+Classification
+Survey Analysis
+Startup Failure (Finance and Insurance).csv
+(7.45 kB)
+get_app
+fullscreen
+chevron_right
+Detail
+Compact
+Column
+10 of 20 columns
+keyboard_arrow_down
+About this file
+Startup in Finance and Insurance sector.
+text_format
+Name
+sort
+text_format
+Sector
+sort
+text_format
+Years of Operation
+sort
+text_format
+What They Did
+sort
+text_format
+How Much They Raised
+sort
+text_format
+Why They Failed
+sort
+text_format
+Takeaway
+sort
+grid_3x3
+Giants
+sort
+grid_3x3
+No Budget
+sort
+grid_3x3
+Competition
+sort
+47
+unique values
+1
+unique value
+2012-2023
+6%
+2006-2011
+4%
+Other (42)
+89%
+Personal finance app
+6%
+Online personal loans
+2%
+Other (43)
+91%
+$5M
+6%
+$15M
+6%
+Other (41)
+87%
+Lost to Stripe and sold
+4%
+Lost to LendingClub and high defaults
+2%
+Other (44)
+94%
+Payments need scale
+4%
+Lending needs risk balance
+2%
+Other (44)
+94%
+0
+1
+0
+1
+1
+1
+Avant
+Finance and Insurance
+2012-2023
+Online personal loans
+$655M
+Lost to LendingClub and high defaults
+Lending needs risk balance
+1
+1
+1
+Bitpass
+Finance and Insurance
+2002-2008
+Micropayments platform
+$2M
+Lost to PayPal and low adoption
+Micropayments need mass use
+1
+0
+1
+Cake Financial
+Finance and Insurance
+2006-2011
+Portfolio tracking tool
+$3M
+Lost to Mint and sold to TradeKing
+Finance tools need scale
+1
+0
+1
+Circle
+Finance and Insurance
+2013-2023
+Crypto payments and stablecoin
+$500M
+Lost to Coinbase and market shifts
+Crypto needs stability
+1
+0
+1
+Clarity Money
+Finance and Insurance
+2016-2022
+Personal finance app
+$11M
+Lost to Mint/Acorns and sold to Goldman
+Finance apps need edge
+1
+0
+1
+Clinkle
+Finance and Insurance
+2011-2016
+Mobile wallet
+$30M
+No product vs Apple Pay/PayPal
+Execution over promises
+1
+0
+1
+Coinbase NFT
+Finance and Insurance
+2021-2023
+NFT marketplace
+$0 (Coinbase-funded)
+Lost to OpenSea and NFT crash
+NFTs need timing
+1
+0
+1
+FundersClub
+Finance and Insurance
+2012-2022
+Crowdfunding for startups
+$20M
+Lost to Kickstarter and low ROI
+Crowdfunding needs hits
+1
+0
+1
+Fuze Network
+Finance and Insurance
+2010-2016
+Prepaid card payments
+$5M
+Lost to Green Dot and small scale
+Prepaid needs reach
+1
+0
+1
+Indiegogo Life
+Finance and Insurance
+2014-2019
+Personal crowdfunding
+$10M (est.)
+Lost to GoFundMe and niche focus
+Personal funding needs appeal
+1
+0
+1
+Isentium
+Finance and Insurance
+2012-2020
+Social sentiment for trading
+$15M
+Lost to Bloomberg and low uptake
+Trading tools need traction
+1
+0
+1
+LendUp
+Finance and Insurance
+2012-2021
+Loans for subprime borrowers
+$350M
+Regulatory fines and OppLoans competition
+Fintech can’t skirt regs
+1
+0
+1
+LendingClub
+Finance and Insurance
+2006-2021
+P2P lending platform
+$1B
+Lost to banks and trust issues
+P2P needs trust
+1
+0
+1
+LendLayer
+Finance and Insurance
+2013-2017
+Coding bootcamp loans
+$0.4M
+Lost to Affirm and sold
+Small niches get swallowed
+1
+0
+1
+Loyal3
+Finance and Insurance
+2008-2018
+Commission-free brokerage
+$30M
+Lost to Robinhood and closed
+Brokerages need volume
+1
+0
+1
+Money360
+Finance and Insurance
+2012-2020
+Real estate lending platform
+$10M (est.)
+Lost to Fundrise and slow growth
+Lending needs scale
+1
+0
+1
+Monitor110
+Finance and Insurance
+2005-2008
+Financial data aggregator
+$3M (est.)
+Lost to Bloomberg and early market
+Timing is key
+1
+0
+1
+Mozido
+Finance and Insurance
+2008-2017
+Mobile payments platform
+$185M
+Lost to Square and mismanagement
+Payments need execution
+1
+0
+1
+Pawngo
+Finance and Insurance
+2011-2017
+Online pawn lending
+$6M
+Lost to traditional pawnshops and niche
+Niche lending needs demand
+0
+0
+1
+Pay By Touch
+Finance and Insurance
+2002-2007
+Biometric payments
+$300M (est.)
+Lost to PayPal and tech issues
+Biometrics need reliability
+1
+0
+1
+Plum Will
+Finance and Insurance
+2015-2020
+Digital estate planning
+$2M (est.)
+Lost to LegalZoom and low uptake
+Estate tech needs traction
+1
+0
+1
+PoundPay
+Finance and Insurance
+2009-2013
+Payment gateway
+$1M (est.)
+Lost to Stripe and sold
+Payments need scale
+1
+0
+1
+ReadyForZero
+Finance and Insurance
+2010-2017
+Debt management app
+$5M
+Lost to Credit Karma and sold
+Debt tools need edge
+1
+0
+1
+RushCard
+Finance and Insurance
+2003-2018
+Prepaid debit card
+$20M (est.)
+Lost to Chime and trust issues
+Prepaid needs trust
+1
+0
+1
+Seed
+Finance and Insurance
+2012-2017
+Small biz banking
+$5M
+Lost to Brex and closed
+Banking needs scale
+1
+0
+1
+Sensible
+Finance and Insurance
+2016-2020
+Personal finance for gig workers
+$4M (est.)
+Lost to Even and niche
+Niche finance needs reach
+1
+0
+1
+SigFig
+Finance and Insurance
+2007-2018
+Robo-advisor
+$70M
+Lost to Wealthfront and sold
+Robo-advisors need edge
+1
+0
+1
+Simple
+Finance and Insurance
+2009-2016
+Neobank with budgeting
+$25M
+Lost to Chime/Ally and shut post-BBVA sale
+Neobanks need independence
+1
+0
+1
+SmartAsset
+Finance and Insurance
+2012-2023
+Financial planning tools
+$161M
+Lost to NerdWallet and slow growth
+Planning needs traction
+1
+0
+1
+SoFi Social
+Finance and Insurance
+2016-2021
+Social finance platform
+$0 (SoFi-funded)
+Lost to Robinhood and niche
+Social finance needs scale
+1
+0
+1
+Square Cash
+Finance and Insurance
+2013-2020
+P2P payments (early)
+$0 (Square-funded)
+Lost to Venmo and pivoted
+Payments need dominance
+1
+0
+1
+Taulia
+Finance and Insurance
+2009-2022
+Supply chain finance
+$200M
+Lost to Coupa and sold
+Finance needs edge
+1
+0
+1
+Tilt
+Finance and Insurance
+2012-2018
+Social crowdfunding
+$67M
+Lost to GoFundMe and sold
+Crowdfunding needs mass
+1
+0
+1
+Toshl
+Finance and Insurance
+2008-2020
+Personal finance app
+$1M (est.)
+Lost to Mint and low scale
+Finance apps need reach
+1
+0
+1
+TrustEgg
+Finance and Insurance
+2012-2016
+Crowdfunded trusts
+$0.5M (est.)
+Lost to traditional trusts and niche
+Niche needs demand
+0
+0
+1
+Upstart
+Finance and Insurance
+2012-2023
+AI-driven lending
+$144M
+Lost to banks and high defaults
+Lending needs stability
+1
+1
+1
+Vemo
+Finance and Insurance
+2015-2021
+Income-share agreements
+$20M (est.)
+Lost to Lambda School and regs
+ISAs need traction
+1
+0
+1
+Venmo Groups
+Finance and Insurance
+2015-2020
+Group payments feature
+$0 (Venmo-funded)
+Lost to Splitwise and niche
+Niche payments need use
+1
+0
+1
+Vittana
+Finance and Insurance
+2008-2015
+Student microloans
+$5M (est.)
+Lost to SoFi and low scale
+Microloans need reach
+1
+0
+1
+Wealthfront Cash
+Finance and Insurance
+2018-2023
+High-yield savings
+$0 (Wealthfront-funded)
+Lost to Ally and pivoted
+Savings need edge
+1
+0
+1
+Wealthsimple Trade
+Finance and Insurance
+2017-2023
+Commission-free trading
+$0 (Wealthsimple-funded)
+Lost to Robinhood and pivoted
+Trading needs volume
+1
+0
+1
+Wepay
+Finance and Insurance
+2008-2020
+Payment processing
+$75M
+Lost to Stripe and sold
+Payments need scale
+1
+0
+1
+Wesabe
+Finance and Insurance
+2006-2011
+Personal finance app
+$4M
+Lost to Mint and early market
+Timing matters
+1
+0
+1
+Wise
+Finance and Insurance
+2011-2023
+International transfers
+$689M
+Lost to PayPal and high costs
+Transfers need edge
+1
+1
+1
+YayPay
+Finance and Insurance
+2015-2021
+Accounts receivable automation
+$15M
+Lost to Bill.com and sold
+Automation needs scale
+1
+0
+1
+Ycharts
+Finance and Insurance
+2009-2021
+Financial data platform
+$15M
+Lost to Bloomberg and sold
+Data needs dominance
+1
+0
+1
+ZestFinance
+Finance and Insurance
+2009-2020
+AI underwriting loans
+$112M
+Lost to Upstart and regs
+Lending needs compliance
+1
+0
+1
+No more data to show
+Data Explorer
+99.25 kB
+calendar_view_week
+Startup Failure (Finance and Insurance).csv
+calendar_view_week
+Startup Failure (Food and services).csv
+calendar_view_week
+Startup Failure (Health Care).csv
+calendar_view_week
+Startup Failure (Manufactures).csv
+calendar_view_week
+Startup Failure (Retail Trade).csv
+calendar_view_week
+Startup Failures (Information Sector).csv
+calendar_view_week
+Startup Failures.csv
+Summary
+arrow_right
+folder
+7 files
+arrow_right
+calendar_view_week
+120 columns
+lightbulb
+See what others are saying about this dataset
+What have you used this dataset for?
+Learning 3
+Research 1
+Application 1
+LLM Fine-Tuning 0
+How would you describe this dataset?
+Well-documented 1
+Well-maintained 1
+Clean data 3
+Original 1
+High-quality notebooks 1
+Other
+text_snippet
+Metadata
+unfold_more
+Expand All
+Collaborators
+keyboard_arrow_down
+Authors
+keyboard_arrow_down
+Coverage
+keyboard_arrow_down
+DOI Citation
+keyboard_arrow_down
+Provenance
+keyboard_arrow_down
+License
+keyboard_arrow_down
+Expected Update Frequency
+keyboard_arrow_down
+insights
+Activity Overview
+visibility
+Views
+14K
+trending_up
+327
+in the last 30 days
+download
+Downloads
+2819
+trending_up
+77
+in the last 30 days
+downloading
+Engagement
+0.20175
+downloads per view
+forum
+Comments
+3
+posted
+person
+Top Contributors
+Detail View
+keyboard_arrow_up
+Views
+Last month
+Downloads
+Last month
+code
+Related Notebooks
+See all
+Startup Failures Analysis  Overhype Predictor
+more_vert
+Updated
+6 months ago
+Startup Failures
+arrow_drop_up
+9
+Startup Failure Analytics
+more_vert
+Updated
+6 months ago
+Startup Failures
+arrow_drop_up
+5
+StartupFailuresEDA
+more_vert
+Updated
+6 months ago
+Startup Failures
+arrow_drop_up
+5
+table_chart
+Similar Datasets
+Company IPOs over time
+more_vert
+The Devastator
+· Updated
+3 years ago
+Usability
+9.4
+· 7 MB · 206 downloads
+3 Files (CSV)
+arrow_drop_up
+2
+Technology Company Layoffs (2022-2023)
+more_vert
+Widya Salim
+· Updated
+3 years ago
+Usability
+10.0
+· 13 kB · 5,258 downloads
+1 File (CSV)
+arrow_drop_up
+68
+USA StartUps Data
+more_vert
+Alefe Galiani
+· Updated
+3 years ago
+Usability
+8.2
+· 41 kB · 111 downloads
+1 File (CSV)
+arrow_drop_up
+0
+Startup Success Prediction
+more_vert
+Gaurav Dutta
+· Updated
+3 years ago
+Usability
+5.9
+· 82 kB · 353 downloads
+2 Files (CSV)
+arrow_drop_up
+4
+
+
+--- CONTENT FROM https://www.kaggle.com/salimwid ---
+
+Kaggle uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic.
+Learn more
+OK, Got it.
+Datasets Expert
+1,891 of 8,894
+salimwid
+Widya Salim
+work
+Business & Data Analyst at SEEK
+pin_drop
+Singapore, Singapore
+date_range
+Joined
+2 years ago
+· last seen
+a year ago
+About
+Datasets (3)
+Discussion (3)
+Followers (8)
+Following (3)
+Kaggle Achievements
+Datasets
+Expert
+Medals
+3
+Rank
+1,891
+of 8,894
+478
+highest ever
+Bio
+No bio yet...
+Quietly working away
+Followers (8)
+Xhoni Shollaj
+Ahmet Caliskan
+ARPAN CHOUDHURY 98
+alexOXm
+Fatima Meddi
+Vic G
+Guru Madyale
+Melanie Kailly
+Following (3)
+Xhoni Shollaj
+Sahil
+Melanie Kailly
+Badges
+Widya Salim
+salimwid
+Follow
+Contact
+more_vert
+salimwid
+LinkedIn
+language
+http://widyasalim.com/blog

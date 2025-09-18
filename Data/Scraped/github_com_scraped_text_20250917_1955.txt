@@ -1,0 +1,190 @@
+
+
+--- CONTENT FROM https://github.com/semanser/awesome-startup-postmortems ---
+
+semanser
+/
+awesome-startup-postmortems
+Public
+Notifications
+You must be signed in to change notification settings
+Fork
+0
+Star
+7
+A curated list of startup postmortems to learn from
+License
+MIT license
+7
+stars
+0
+forks
+Branches
+Tags
+Activity
+Star
+Notifications
+You must be signed in to change notification settings
+Code
+Issues
+0
+Pull requests
+0
+Actions
+Security
+Uh oh!
+There was an error while loading.
+Please reload this page
+.
+Insights
+Additional navigation options
+Code
+Issues
+Pull requests
+Actions
+Security
+Insights
+semanser/awesome-startup-postmortems
+master
+1
+Branch
+0
+Tags
+Go to file
+Code
+Open more actions menu
+Folders and files
+Name
+Name
+Last commit message
+Last commit date
+Latest commit
+semanser
+Update README.md
+May 9, 2025
+adf3bab
+·
+May 9, 2025
+History
+2 Commits
+Open commit details
+LICENSE
+LICENSE
+Initial commit
+May 9, 2025
+README.md
+README.md
+Update README.md
+May 9, 2025
+View all files
+Repository files navigation
+README
+MIT license
+awesome-startup-postmortems
+A curated list of startup postmortems to learn from. Written by founders for founders.
+Contributions are welcome.
+Formspring - A Postmortem
+Outbox is Shutting Down–A Note of Gratitude
+Key Lessons From Cryptine Network’s Failure*
+A Postmortem - Tract
+Post Mortem on a Failed Product
+Lessons Learned
+My First Startup
+Lessons from a startup failure
+Postmortem Of My First Company (A Reposting)
+Postmortem of a Venture-backed Startup
+The right words to say goodbye
+Play by your own rules.
+Moz Returns to SEO
+Lessons learned from a failed startup
+ArsDigita: From Start-Up to Bust-Up
+Startup lessons learned from my failed startup
+The Uphill Battle Of Social Event Sharing: A Post-Mortem for Plancast
+The Decline And Fall Of Flowtab, A Startup Story
+10 lessons from a failed startup
+Postmortem of My First Startup (Approkers)
+Bevy Post-Mortem :  My Sharing Economy Startup & Failure
+Revisiting the Standout Jobs postmortem; Part I
+Post-mortem of our 1st YC startup: a Reverse ETL
+Startup Diary: Read, listen and research to avoid fatal mistakes
+Startup Lessons I Needed to Learn First Hand (But Maybe You Don’t)
+About
+A curated list of startup postmortems to learn from
+Resources
+Readme
+License
+MIT license
+Uh oh!
+There was an error while loading.
+Please reload this page
+.
+Activity
+Stars
+7
+stars
+Watchers
+1
+watching
+Forks
+0
+forks
+Report repository
+
+
+--- CONTENT FROM https://github.com/semanser/awesome-startup-postmortems/stargazers ---
+
+semanser
+/
+awesome-startup-postmortems
+Public
+Notifications
+You must be signed in to change notification settings
+Fork
+0
+Star
+7
+Code
+Issues
+0
+Pull requests
+0
+Actions
+Security
+Uh oh!
+There was an error while loading.
+Please reload this page
+.
+Insights
+Additional navigation options
+Code
+Issues
+Pull requests
+Actions
+Security
+Insights
+Stargazers
+All
+7
+You know
+bennyho382
+Joined on Sep 25, 2024
+Follow
+uvaliyev
+Joined on Apr 10, 2021
+agonbina
+Works for Commercetools GmbH
+Commercetools GmbH
+Follow
+tkersey
+Works for @thisisartium
+@thisisartium
+Follow
+renton4code
+Joined on Oct 22, 2015
+Follow
+karstenhoffmann
+Joined on Jul 16, 2017
+semanser
+Works for DepsHub
+DepsHub
+Follow

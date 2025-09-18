@@ -1,0 +1,1532 @@
+
+
+--- CONTENT FROM https://news.ycombinator.com/item?id=43703682 ---
+
+Hacker News
+new
+|
+past
+|
+comments
+|
+ask
+|
+show
+|
+jobs
+|
+submit
+login
+A Postmortem of a Startup
+(
+buildwithtract.com
+)
+168 points
+by
+jamierumbelow
+5 months ago
+|
+hide
+|
+past
+|
+favorite
+|
+129 comments
+shalmanese
+5 months ago
+|
+next
+[–]
+When I coach startup founders, I walk them through a very simple 4 step process when we meet:
+1. What have you learnt since we last met and how has that altered your priors?
+2. What do you now believe is the most important problem you should be solving?
+3. What's currently blocking you from solving that problem?
+4. How do we overcome those blocks?
+Crucial to this process is that Q1 is not what have you
+done
+, it's what have you
+learnt
+. I do not give a shit about anything you've done if it's not in the service of learning.
+I also run a retro every 3 months with founders where we ask the following questions:
+1. What would you want to tell yourself 3/6/12 months ago (essentially, all the lessons learnt in italics) to save the maximum amount of pain?
+2. When did you learn each specific thing?
+3. When was the earliest you could have learnt that thing?
+4. What changes can we make going forward to minimize that delta?
+Extremely simple things but extraordinarily powerful when applied consistently over a long enough span of time.
+mrweiner
+5 months ago
+|
+parent
+|
+next
+[–]
+Thank you — the way you frame this is helpful.
+monkeydust
+5 months ago
+|
+parent
+|
+prev
+|
+next
+[–]
+This is good especially 1. bit of Bayesian thinking thrown in.
+I find a lot of founders ask for feedback, advice and just carry on doing what they were going to do anyway, perhaps convince themselves that the advice backs up their thinking when it doesn't. Not everyone of course but a lot, hence why I like your question.
+shalmanese
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+I think the linked tweet from the article explains it better than I could:
+> The more time I spend advising founders, the clearer it gets that 80% of my value is repeating "don't die, don't lie to yourself"
+https://x.com/_ArnaudS_/status/1805638715739619679
+hermitShell
+5 months ago
+|
+parent
+|
+prev
+|
+next
+[–]
+Do you steer them away from ‘bad ideas’? Trying to recall pg’s essay, which was admitted sw focused, but the core idea is both worthless on the open market and essential to the ultimate success. Is this coaching ‘don’t become a statistic’ or ‘better luck next time’
+shalmanese
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+Whatever my private opinion of the idea, that they're pursuing it means they believe it. It's about getting whatever information fast enough to evaluate whether it truly is a bad idea or not.
+Startups are contrarian, many of the most successful ones are the ones "experts" are convinced are bad. I think in terms of the retrospective, assume we're at the point where the startup has shut down and the post-mortem is done and the reason was because it was a bad idea, how do we get there as fast as possible so there's time to pivot.
+morsecodist
+5 months ago
+|
+prev
+|
+next
+[–]
+This is interesting and they make some good observations but I can't help but think the deck was stacked against them because they are trying to come up with a technical/business solution to what is fundamentally a political problem.
+OccamsMirror
+5 months ago
+|
+parent
+|
+next
+[–]
+Yeah "founded to build software to fix Britain’s housing crisis."
+There was literally zero hope for success.
+hinkley
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+I know of an ISP that wrote a custom CRM/ERP solution in order to harass the less well behaved telecom company in town into doing their jobs when they said they would do them. So it would do things like send you a reminder to see if the approval or the hookup they promised you Wednesday was done so you could meet you customer’s expectation of having their Internet turned on by Friday.
+That’s probably the best you can do. Make it obvious to everyone including the bureaucracy what their externalities are doing, and either nudge them to go faster or divest some responsibilities to someone else.
+mytailorisrich
+5 months ago
+|
+parent
+|
+prev
+|
+next
+[–]
+Planning permission is partly a political issue, partly down to expertise. You need experience, you need to know the rules, you need to know the tricks, you need to know how to draft the application. You need to know the game. Indeed this is not something that is waiting for a technical solution.
+It's great that they tried, though. But it strikes me that they seem to be 20 something students (not meant disparagingly) with no experience in this so perhaps lacked the insights and understanding of the pain points. It does seem that VCs were happy to fund based on an AI play, though ;)
+hinkley
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+My ex worked at a government contractor and they started paying the guy who wrote grant proposals more than the CEO because without grants they were fucked, and the grant writer was getting wistful for other horizons.
+Talking to government is a highly compensated skill set. That’s all lobbyists are.
+dccoolgai
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+Bingo, and most engineers have zero clue or respect for this skillset. Even traditional PMs / business dev types don't know what they don't know about how to talk with government or government-adjacent businesses. I've worked for at least 3 companies who had high hopes for building on state/municipal/higher-ed revenue and talked it up in their internal meetings, but when you would ask the CEO/CFO where their government affairs team was, they would look at you like you were speaking Latin. They basically just planned to take their consumer sales motion and apply it to these areas, which fails hilariously almost every time.
+trelane
+5 months ago
+|
+root
+|
+parent
+|
+prev
+|
+next
+[–]
+That is a lot of
+what
+to know.
+I don't doubt that at
+least
+as important is
+who
+you know, and especially how well
+they know you.
+mike_hearn
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+They say that in the article where they talk about social technology and the importance of drinking in pubs.
+gopher_space
+5 months ago
+|
+parent
+|
+prev
+|
+next
+[–]
+The deck was stacked against them because nobody understood why the conversion process was so expensive or even there in the first place.  It would have been easier to identify the handful of organizations that'd benefit from labeling this a political problem and embed themselves as vendors.
+Their business model made sense for America, where sprawl is embraced.
+AJRF
+5 months ago
+|
+prev
+|
+next
+[–]
+Thanks for writing this!
+> Housing in Britain is expensive because getting planning permission is difficult.
+Isn't the real problem that supply is artificially constrained because house prices and the economy are interlinked in a way in a special way in the UK economy, such that the majority of home owners don't want it changed (because more supply == downward pricing pressure)
+I think the only entity that could meaningfully change this situation is government, and well it's easier to not upset your donors.
+Edit:
+To be fair to the author, they do mention artificial supply constraints but I think my point stands - it is there by design, too much inertia forcing it to be that way that won't be changed by streamlining the bureaucratic elements
+AJRF
+5 months ago
+|
+parent
+|
+next
+[–]
+NIMBYism is not unique, but the importance of house prices to the UK economy is more severe than other countries.
+- The UK has a very strong household wealth affect (consumption is tied to house price growth / decline). The US and UK borrowers borrow at a rate against household wealth not seen in other nations (look at the chart on page 6 -
+https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1117.pdf
+)
+- It has had dramatic, sustained house price growth (400% real price growth since 1980) vs US (200%), France (200%), Germany (150%), Spain (Collapsed in 2008), Italy (Stagnant since 2008)
+Some Links:
+-
+https://www.bankofengland.co.uk/-/media/boe/files/working-pa...
+-
+https://www.imf.org/en/Publications/CR/Issues/2016/12/31/Uni...
+immibis
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+It's been said about the New Zealand economy that it mainly consists of five people trading houses with each other for ever bigger numbers.
+mytailorisrich
+5 months ago
+|
+parent
+|
+prev
+|
+next
+[–]
+Supply is somewhat constrained
+and
+demand is also artificially inflated (at national level it is 100% caused by immigration, which is kept high by the successive governments).
+Everyone relies on the property market going up. Beyond the obvious reasons, another important one is that fixed rate mortgages are not fixed for the life of the mortgage but only for, usually, 2 to 5 years after which rates jump so everyone is continuously worried about remortgaging.
+spacebanana7
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+It's curious to think about what house prices in the UK would be like without immigration.
+With a sustained negative fertility rate over the past few decades, there could've feasibly been stable prices with no new houses built at all.
+mytailorisrich
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+The UK population would have started to decrease naturally I believe around 2024 without immigration. It so happens that the past few years have also seen record high immigration and population growth...
+Obviously the property market would be looking very differently if population was decreasing. The whole economy would.
+LurkerAtTheGate
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+> Obviously the property market would be looking very differently if population was decreasing. The whole economy would.
+Isn't this exactly what's happening in Japan?  Govt practically giving away mostly rural homes, as owners died without heirs.
+spacebanana7
+5 months ago
+|
+root
+|
+parent
+|
+prev
+|
+next
+[–]
+> It so happens that the UK population would have started to decrease naturally I believe around 2024 without immigration
+I think it would've been much earlier than that. Cumulative net migration since 2000 is around 8.5 million people. So the UK's current population would be radically lower today without immigration.
+https://www.statista.com/statistics/283287/net-migration-fig...
+(annoyingly the per year figures need to be summed up manually on both this and ONS reports)
+immibis
+5 months ago
+|
+root
+|
+parent
+|
+prev
+|
+next
+[–]
+Are you trying to paint a conspiracy here? It seems like people just move around if they can, and one pressure that drives people away is a lack of housing even worse than other places' lack of housing. If there's less of a lack of housing (relative to how bad it is everywhere else), of course a place becomes more attractive to move to.
+n4r9
+5 months ago
+|
+root
+|
+parent
+|
+prev
+|
+next
+[–]
+Well, house prices
+outside of London
+have increased roughly in line with inflation over the last couple of decades.
+ONS data states that the average house price outside of London and the South East rose from £134k in 2005 to £192k in 2019 [0].
+The Bank of England's inflation calculator states that £192k in 2019 costs £139k in 2005 [1].
+Looking at London specifically, house prices more than doubled from £303k to £684k over the same period [2]. That's a 63% increase in real terms. Immigration would have some effect on this, but so would UK citizens moving to London or foreign nationals buying up property as an investment.
+[0]
+https://www.ons.gov.uk/economy/inflationandpriceindices/adho...
+[1]
+https://www.bankofengland.co.uk/monetary-policy/inflation/in...
+[2]
+https://www.home.co.uk/guides/house_prices_report.htm?locati...
+spacebanana7
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+The data actually implies UK citizens have been consistently moving out of London. The absolute white British population in 1971 was 6,500,000 but was only 3,239,281 in 2021 [1].
+Of course not all UK citizens are white British, and the negative fertility rate would've applied downward pressure, and it's conceivable that white Londoners emigrated to Australia etc at a higher rate than other parts of the UK. But none of these factors can really explain a 50% decline in population in the same way that internal migration can. It certainly becomes very difficult to reconcile the numbers if any signifiant number of people from predominantly white areas had been moving into London.
+I agree with you that most of the change in average UK house prices is driven by London. In a zero immigration scenario it seems likely that London prices would be radically lower with the rest of the country having much less, if any, change.
+[1]
+https://en.wikipedia.org/wiki/Ethnic_groups_in_London
+n4r9
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+Yes, London house prices would likely be lower. But we'd also be poorer on average, since immigrants are a net benefit to the economy. Moreover the combination of a starkly aging population with higher costs of labour would cause a real strain on the public purse, like Japan is seeing. On balance I much prefer the current situation. Though I guess I would say that, having an immigrant parent.
+mytailorisrich
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+Net benefit to the economy does not mean net benefit to everyone individually.
+That's one reason that made people at the lower end of the payscale vote for Brexit: Immigration keeps wages low.
+We're also seeing it since Covid: immigration keeps the GDP (barely) growing while the GDP per capita is decreasing.
+The cost is wholesale destruction of local culture, too. London is a city in England but no longer really an English city, for example.
+spacebanana7
+5 months ago
+|
+root
+|
+parent
+|
+prev
+|
+next
+[–]
+I have an immigrant parent too. Also agree the UK - and Europe generally - would be likely in a state of Japanification without migration.
+Still, I think it's valuable to understand the economics at play. Especially in a business context.
+fakedang
+5 months ago
+|
+root
+|
+parent
+|
+prev
+|
+next
+[–]
+I mean, you're already poorer, given that immigration has depressed wages significantly. Post-Brexit, EU immigration was only replaced by non-EU immigration which has a higher tolerance for lower wages and poorer living conditions. Something that I got to see firsthand a couple of weeks back.
+n4r9
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+Immigration is thought to have a small negative impact on the wages of low skilled workers, but is probably financially beneficial for those further up the payscale.
+> Post-Brexit, EU immigration was only replaced by non-EU immigration
+Yes, in fact this was how Brexit was sold to many south Asian voters: your family will have an easier time moving to the UK.
+fakedang
+4 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+> Immigration is thought to have a small negative impact on the wages of low skilled workers, but is probably financially beneficial for those further up the payscale.
+And that's a good thing?
+> Yes, in fact this was how Brexit was sold to many south Asian voters: your family will have an easier time moving to the UK.
+Yes, and now the very fabric of most English cities has broken down in many parts.
+Honestly don't see the UK (or the EU) pull itself out of this mess for a long time. Both embraced too much free immigration instead of embracing more automation and digitization.
+n4r9
+4 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+I'm not saying it's a good thing necessarily. I was replying to your statement "you're already poorer". I am probably better off for immigration. Some people are poorer, but it's a small effect and I suspect there are ways we could explore addressing it without losing the benefits of immigration.
+> the very fabric of most English cities has broken down
+How do you mean? That doesn't match my experience in London.
+pyb
+5 months ago
+|
+parent
+|
+prev
+|
+next
+[–]
+It's true that the general public have a revealed preference for the housing crisis to continue forever.
+However in principle, as with many social issues, a motivated actor such as a startup could still have a chance of fixing it.
+lalaithion
+5 months ago
+|
+parent
+|
+prev
+|
+next
+[–]
+One of the ways in which supply is artificially restricted is that getting planning permission is difficult, so you’re not actually disagreeing with OP
+kijin
+5 months ago
+|
+parent
+|
+prev
+|
+next
+[–]
+It looks like this startup tried to hack the system by streamlining one of the key mechanisms of artificial constraint: the difficulty of getting permits.
+Not a fundamental cure, of course, but it sounds like a promising hack to squeeze out a few more building permits than would otherwise have been issued.
+rob74
+5 months ago
+|
+parent
+|
+prev
+|
+next
+[–]
+I agree with you that that's probably the real problem, but not that the situation is unique to Britain (although maybe it's worse in Britain then elsewhere)...
+Destiner
+5 months ago
+|
+parent
+|
+prev
+|
+next
+[–]
+I think you're describing NIMBY, which is more of a US/SF thing (but also is a case in Europe to some extent).
+zihotki
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+NIMBY is an universal human concept, it's present everywhere - Europe, Asia, South America. It may come in different flavours but it's everywhere. People don't welcome changes to the surrounding environment if it doesn't benefit them more or less directly.
+dickersnoodle
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+It isn't as simple as "doesn't benefit them more or less directly".  There are often projects that benefit some people that will actively degrade life for everyone else.
+amy214
+5 months ago
+|
+root
+|
+parent
+|
+prev
+|
+next
+[–]
+It's one of those things like littering or tragedy of the commons - one instance, by itself, is not a big deal so it's understandable why people might not think much of NIMBYing.  But en masse these behaviors are ruinous
+nemomarx
+5 months ago
+|
+parent
+|
+prev
+|
+next
+[–]
+is that a very special thing? it seems like that in the US too imo
+rhubarbtree
+5 months ago
+|
+parent
+|
+prev
+|
+next
+[–]
+I’ve posted this before, but I think the reason house prices are expensive in the UK is that they are an asset. If the rich can buy that asset and make a return, they will buy it. So price equilibrium is where rents are at an absolute maximum that can be born by tenants. As the price is determined the potential yield, the price then rises as high as possible.
+Building more houses won’t change this situation until the number of houses is greater than the number of tenants. At the point where the number of tenants equals the housing supply, the returns can still be made and prices will be bid up.
+The problem is that is a competition between the rich buying as an asset vs the rest of us buying as a home. The only solutions are to reduce or eliminate the possible returns for the rich.
+And as posted if the prices are then allowed to fall, the whole economy is in danger, because it is based on the creation of illusory wealth via asset inflation. Remortgaging a house that has risen in price feeds money into the economy, despite no wealth actually being created. And the entire economy is based on this, because the rest of the economy has been destroyed by neoliberalism.
+matt-p
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+Yes, it's seriously unhealthy to have most of peoples individual wealth tied up in the fact that there's constrained property supply. If we just built a bunch more housing (or removed net immigration) such that house prices dropped say 25% (which would still be too little, actually), people would be in negative equity, the banks would collapse, government voted out, riots in the street. Yet it's whats needed. If a late 20's professional in London is earning £40,000 after tax they're doing fairly well, yet a one bed flat in zone 2 would still be 10X their annual income.
+automatic6131
+5 months ago
+|
+root
+|
+parent
+|
+prev
+|
+next
+[–]
+>Building more houses won’t change this situation until the number of houses is greater than the number of tenants.
+That's wrong though. Building more houses eases this situation as it approaches the number of tenants. It gets better! Better is good!
+And the (perceived) appreciation of houses is also part of the asset price, not just the rental income.
+rhubarbtree
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+> Building more houses eases this situation as it approaches the number of tenants. It gets better! Better is good!
+Why? I don't see any reason this should be true.
+matt-p
+5 months ago
+|
+root
+|
+parent
+|
+prev
+|
+next
+[–]
+arguably asset price is built on scarcity vs demand everything else is all second order really.
+rhubarbtree
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+No, asset price is built on yield, not on scarcity. That is exactly my point.
+It's a bit brain-melting, but once you realise it, the talk of NIMBY-ism etc. is just irrelevant.
+If you add more assets with a good yield, assuming that yield is better than bonds etc., then those assets will get bought.
+The only other brake on that is diversity of portfolios, but it doesn't strike me as particularly important, especially if many landlords only own a few properties.
+matt-p
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+Yes, but isn't yield due to scarcity?
+For example right now there's more demand than supply for a 2 bed house for £2000pcm, but if we doubled the supply then there'd be competition and we'd end up at a much lower price?
+jamil7
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+This assumes the population of a city is fixed.
+dukeyukey
+5 months ago
+|
+root
+|
+parent
+|
+prev
+|
+next
+[–]
+> but I think the reason house prices are expensive in the UK is that they are an asset
+Houses are also assets in other countries. It's not uniquely a British thing.
+clpm4j
+5 months ago
+|
+prev
+|
+next
+[–]
+If a government truly wanted to fix a housing "crisis", wouldn't a ban on any type of corporate entity from buying single-family homes be an efficient solution? E.g., LLC's can no longer purchase single-family homes. Only real, live human individuals can purchase single-family homes. They could also try to implement some type of ban on any single individual person from purchasing more than 1 (or choose a number) single-family home.
+ketzo
+5 months ago
+|
+parent
+|
+next
+[–]
+Depends on whether you think renting a home is a way to solve the housing crisis.
+If your definition of “solved housing crisis” is “everyone can buy a home,” a ban on corporate ownership could help a little.
+If your goal is instead “everyone has a place to live,” no, corporate ownership is not
+inherently
+problematic.
+poulsbohemian
+5 months ago
+|
+parent
+|
+prev
+|
+next
+[–]
+I am a realtor and sit on my state's realtor association legislative steering committee, which this year sough to work with legislators on a bill that would limit mass corporate control over housing units... it's surprisingly more complicated than it first appears, and an area where realtors take a view that might be contrary to consumer expectations - we generally like the idea of limitations on corporate ownership, as it in theory creates the greatest opportunity for individual homeownership...
+Anyway, some of the scenarios we ran into are things like the 2008 mortgage crisis - what happens if you end up in a market where there is a lot of inventory that no one can afford to hold? In my market, it's starting to look like a lot of builders (read: corporations) built too many houses either that weren't what consumers wanted or demand has shrunk (it is a town with a lot of federal jobs that are evaporating at the moment...). So can a builder hold that inventory indefinitely (assuming they can afford that) as a corporation? Likewise, people often don't want to hear this, but landlords do create efficiencies in the market - there are people out there that either don't want to own a home or can't qualify for a mortgage, and a landlord makes it possible to provide housing for those people as a kind of intermediary. We can argue over what it takes to qualify for a mortgage, but that's really a separate issue. We of course get into the issue of vacation homes or even situations like can I as an individual own a place for my business and a home - after all, they are both real estate, so how tight can we make these rules around ownership? Point being - the basic idea is sound, and some states like CA apparently already have laws on the books, but it's a more complicated matter than just one person == one house.
+socalgal2
+5 months ago
+|
+parent
+|
+prev
+|
+next
+[–]
+Why would that be a solution? What's the difference between the LLC that buys a bunch of homes and the LLC the builds bunch of homes. When the homes are done being built the LLC has morphed from an LLC that builds homes to an LLC that bought a bunch of homes.
+The solution to me is to stop preventing people and companies from building homes.
+https://www.youtube.com/watch?v=cjWs7dqaWfY
+Effectively, goverments and nimbyism prevent houses from being built. Even when some laws change to supposedly allow it other laws continue to prevent it. It's got nothing to do with LLCs buying existing houses, it's got to do with not enough houses period.
+clpm4j
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+The solution lies in eliminating the entire concept of investment properties, and to classify single-homes as purely places to live. You do realize that part of "not enough" houses is due to corporate entities / investment vehicles / investors owning
+many
+properties.
+And the types of cities (dense, highly-desirable urban cities like SF, London, Paris) where the NIMBY people complain most often also happen to be the most common markets for these investors to purchase/own multiple homes.
+socalgal2
+4 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+> You do realize that part of "not enough" houses is due to corporate entities / investment vehicles / investors owning many properties.
+No, I do not realize this. This is only possible because of limited supply. If the supply was not limited by government and nimbys then it would not be profitable for "corporate entities / investment vehicles / investors owning many properties."
+It's also irrelevant, no amount of preventing "corporate entities / investment vehicles / investors owning many properties." will do anything to keep prices low as long as demand is high and supply is low.
+morsecodist
+5 months ago
+|
+parent
+|
+prev
+|
+next
+[–]
+I agree that the core problem of housing affordability is that housing serves a dual role as an investment and a place to live. But I think this policy will not do very much and in isolation would even be counterproductive.
+Why focus on single family homes? If corporate ownership is as bad as you are framing it then why is it OK for someone who lives in an apartment to be advantage of? Worse still, these entities would still want to invest in real estate so presumably they would invest even more in multi-family properties. If their ownership is what causes unaffordability, are you not making things even worse for people who live in multi-family housing?
+DrBazza
+5 months ago
+|
+parent
+|
+prev
+|
+next
+[–]
+One cause of the UK's 'housing crisis' (or rather un-affordability), just like other countries I suppose, is simply that if I buy
+other
+properties, I get:  capital appreciation on the asset, and return on investment (by renting it out).
+Offer me a £500k passive investment that makes the same returns with the same guarantees, and I'll take that over a house.
+Except they don't.  No other investment comes close for the British middle classes with that sort of extra cash.  And the UK government will tax you to the hilt on everything else.
+Exacerbating the problem, is that you can get a bank loan for additional properties.
+antisthenes
+5 months ago
+|
+parent
+|
+prev
+|
+next
+[–]
+The solution to the housing crisis is letting people build "not quite up to code" structures and relaxing zoning.
+This means heavy handedly forcing local municipalities to change zoning.
+A lot of people don't like that.
+DrBazza
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+Zoning is a US thing.  The article refers to the UK housing problem and we don't really have that problem, but I suppose that might fix the US market.
+UK houses are a good investment, in fact the best investment for £500k, and also their price is additionally inflated by 'cheap money' and dual incomes.
+Can't quite afford that house that's current 'under offer' at £500k?  You might be able to find a bank that will lend you just that little bit more. 5.5x your salary?  No problem.  Congratulations, the bank has just helped push house prices that little bit higher.  In the UK in the 1970s the single income 3x mortgage multiplier was on its last legs.  Now it's 4+ times your joint salary.  Madness.
+dukeyukey
+5 months ago
+|
+parent
+|
+prev
+|
+next
+[–]
+Why would that solve a housing crisis? Functionally making it impossible to rent a SFH seems like a dick move.
+philipallstar
+5 months ago
+|
+prev
+|
+next
+[–]
+> Housing in Britain is expensive because getting planning permission is difficult.
+It's true that planning departments are very expensive, don't do much positively, and still seem to allow awful-looking things to be built, and I'd probably happily do away with them, but the fundamental driver is the incredible onboarding of people from overseas for years that crushes the combination of the existing population and the new people into a number of dwellings that isn't that dissimilar to the previous year.
+You can't take on a net number of people each year that would require a new city the size of Nottingham to be built to accommodate, and say "well, it's all the planning process' fault."
+froddd
+5 months ago
+|
+parent
+|
+next
+[–]
+Reducing the problem to ‘people coming from overseas’ is an equally reductionist argument.
+There are properties going unused, for very many reasons. Second homes, holiday homes, etc. This also drives the price of properties up. This is one of the inputs to the problem. Planning permission laws is another input. The size and change of size of the people needing housing is another input.
+spacebanana7
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+Is it not the dominant factor, at least in the short term? It's much faster for 150k people to enter/leave the UK than for a corresponding number of homes to built/demolished.
+macrocosmos
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+It’s obviously the dominant factor to anyone with the eyes to see it.
+chippiewill
+5 months ago
+|
+root
+|
+parent
+|
+prev
+|
+next
+[–]
+It does, but occupancy rates in the UK are already incredibly high compared to countries like France.
+There are simply too many people and not enough houses.
+matt-p
+5 months ago
+|
+root
+|
+parent
+|
+prev
+|
+next
+[–]
+reductionist in this case is not a bad thing. We need a major change to fix this situation and doing some little tweaks like increasing taxes on second homes or holiday homes does not actually fix this (we already tax those specific cases, with things like second home stamp duty or in some areas second home council tax).
+You have
+A - Demand (immigration of 1 Million per year)
+Or
+B - Supply (building only 120,000 houses per year)
+We MUST fix one or both of these sides of the equation. Holiday homes aren't going to add up to a row of beans quite frankly (and will have very negative effects on the tourism industry, not so bad in London - but might be quite an impact in cornwall for example).
+froddd
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+Holiday homes have quite the impact in many parts of Wales.
+Occupancy ratings per house seem to be quite low on average [1], but weirdly I can’t seem to find any figures for overall occupancy.
+[1]
+https://www.ons.gov.uk/peoplepopulationandcommunity/housing/...
+Edit: clarification
+matt-p
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+Maybe on a hyper local basis, but beware there will be negatives with flushing them out too.
+On a national scale I'm afraid it's just not statistically significant.
+mattmanser
+5 months ago
+|
+root
+|
+parent
+|
+prev
+|
+next
+[–]
+The people have been saying pretty clearly for 20 years that they want A fixed.
+But the politicians just ignore that for "growth" and keep granting 100,000+s of visas and then blame asylum seekers.
+And then complain that there's mysteriously low productivity in the UK.
+mattmanser
+5 months ago
+|
+parent
+|
+prev
+|
+next
+[–]
+Nottingham city, the pure "legal" definition, is actually quite small and not what most people think of when you say "Nottingham".
+For example, it doesn't include Beeston, West Bridgford, Stapleford, Clifton, Ilkeston, Arnold, Long Eaton, Hucknall and more.
+Even though no outsider could draw a line where Nottingham city stops and most of them start.
+djoldman
+5 months ago
+|
+prev
+|
+next
+[–]
+I looked for a source for this statement in the article:
+> Granting permission takes the median hectare of land from £20,000 to £2.4 million - a 139x uplift.
+I couldn't find one. However, I did run into some interesting viewpoints by a certain Paul Cheshire, Professor Emeritus of Economic Geography at the London School of Economics... "one of the world’s pre-eminent housing economists"
+He has this to say about "Green Belts":
+> Britain imposed its first Green Belt in 1955 and now, if re-zoned for building, farmland at the built edge of London has an 800-fold mark-up. There was no secular trend in housing land prices in Britain until the mid-1950s, but after Green Belts were imposed real prices increased some 15-fold. More than houses because you can substitute land out of house production. There is a similar pattern in Canada, New Zealand or the West and East coasts of the United States where policies restrict land supply.
+https://www.newgeography.com/content/006358-lse-economist-pa...
+gnfargbl
+5 months ago
+|
+parent
+|
+next
+[–]
+> I couldn't find one.
+A parliamentary publication from 2018 estimated the uplift factor to be 93x outside London and 287x inside [1]. Found via ChatGPT.
+I would think that the north-south variation has flattened a little bit by now, but I can't immediately find any similar document from the last couple of years.
+[1]
+https://assets.publishing.service.gov.uk/government/uploads/...
+, page 12.
+[2]
+https://www.progressive-policy.net/publications/gathering-th...
+matt-p
+5 months ago
+|
+parent
+|
+prev
+|
+next
+[–]
+I have not researched this but someone I know at one of the big house-builders pegged the cost of building a 3 bed at around £35-40,000, so in the south east land with PP is 10X more valuable than what's sat on it.
+"Farm" land, even in the SE is about 12K an acre, and you get 6-8 houses to the acre so you should be able build a three bed and sell it for £50K on the outskirts of London, Cambridge, Oxford or Brighton (just by example) still making a profit if we liberalised planning in those areas. That shows you how extreme this situation of fake constraint is.
+It could therefore never be allowed to happen. The big house-builders wouldn't build and sell at that price, the locals wouldn't allow it as they've bought their houses for 500K, 10X as much and would literally all go personally bankrupt...
+ejsdev
+5 months ago
+|
+prev
+|
+next
+[–]
+I wrote something similar to this last year - it was an incredibly cathartic writing experience. It's extremely weird to realise that you're hung up on a business venture from years before, but made a lot of sense.
+FWIW I am never doing a 3-way marketplace again, hellish.
+If anyone is interested -
+https://edjs.dev/blog/my-first-startup/
+dzonga
+5 months ago
+|
+prev
+|
+next
+[–]
+well written. I think your fatal mistake even though you folks are smart was not understanding the complete value chain of your business.
+What I mean by understanding the economics of the value chain is you've to understand how your customers make money, how their customers make money & how their suppliers make money. From there - you can workout your value proposition - are you saving your customers money (means there's a cap on how much value you can extract) or are you allowing your customers to make more money (how much value you can extract is kinda uncapped - depending on mechanics)
+The other mistake - which you correctly kinda alluded to is not understanding the incentives / dynamics of the industry. UK land is tricky since most wealth / power is packed into UK land. hence your part about emotion etc.
+final mistake was equating success to raising money. Profit, if not revenue growth is the only measure of success. Raising money is not.
+immibis
+5 months ago
+|
+parent
+|
+next
+[–]
+Success is when you get paid. If the product is unprofitable, you lose out on a bunch more money, and your investors lose out on most of their money, but
+you
+did your job and got paid for that, and as long as it was a reasonable rate, what's the failure on your part?
+Etheryte
+5 months ago
+|
+parent
+|
+prev
+|
+next
+[–]
+I don't think the last paragraph is correct, many unicorns don't generate profit, yet are hugely successful by any other metric. In many cases, generating profit is actually undesirable for tax reasons.
+mytailorisrich
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+Generating profit is highly desirable for any business.
+For tax purpose you need to differentiate between "profit" and "taxable profit". You can try to lower your taxable profit to minimise tax, e.g. by re-investing your profits, but ultimately it is better to turn a profit and to have to pay some tax on it that to have an unprofitable business.
+Etheryte
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+Not necessarily, this is a classic misunderstanding. As a famous example, Uber did not make a profit for 14 years, all the way up to 2023. For taxable profit it's even more severe, they've built up a considerable backlog of losses, so they'll pay very little in taxes for the foreseeable future, even though they're now profitable.
+mytailorisrich
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+Uber, like Amazon before, had the strategy to forego profit in the short term to focus on growth. Ultimately the goal is to be profitable because that's the point of a business.
+I think the misunderstanding is to confuse this for "profit isn't desirable".
+Sure you may try to minimise your taxable profit for tax purposes but that means you are turning a profit, and that may be impossible if you intend to pay dividends.
+frankdejonge
+5 months ago
+|
+root
+|
+parent
+|
+prev
+|
+next
+[–]
+I believe that why they said "if not revenue growth". Those successful, yet unprofitable companies do have revenue growth, or market share growth.
+mleonhard
+5 months ago
+|
+prev
+|
+next
+[–]
+> We want to stress from the start that the ultimate failure of the company lies with us.
+This statement discounts how much random chance contributes to success & failure.  Could the world's best founding team find and build a successful business in that field?  Maybe.  And even if they could, is it failure to be less good than the best?  Not at all.
+> Stay lean until you have proven revenue.
+They raised a pre-seed round and used it to search for business opportunities.  This seems like the normal way of doing a startup.
+> TIME AND MONEY SPENT ON NON-ESSENTIALS - These included an office, website and branding, a trip to America, contractors, and unnecessary employees.
+Having an office can boost energy and productivity.  Taking a trip to US to connect with new advisors, investors, and other founders seems like a pretty normal thing to do.
+I think these founders are being too hard on themselves.  They got an amazing education in entrepreneurship.  They don't need to feel bad about it.
+monkeydust
+5 months ago
+|
+prev
+|
+next
+[–]
+Nice writeup, wish more startups who didn't succeed did this though understand not easy thing to write so kudos.
+One factor to success is timing, as someone who lives in UK around London and is seeing (slowly) greenbelt getting developed on perhaps the market might be moving towards you in the next 5 years.
+ktallett
+5 months ago
+|
+parent
+|
+next
+[–]
+I would agree but I doubt it will become more of a thing, too many seem to not be willing to accept failure or show vunerability. This will always be rare in the start up market as long as bravado and fake it till you make it is still a thing, which it is.
+pyb
+5 months ago
+|
+prev
+|
+next
+[–]
+A good question to ask before starting a startup is : "Do I see myself working 10 years on this problem?". Looks like they ran out of steam, rather than out of runway.
+bad_username
+5 months ago
+|
+parent
+|
+next
+[–]
+Why 10 years? Is it not typical with startup founders to plan a lucrative exit in a much shorter time frame?
+drdrek
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+7-10 years is the realistic time frame for a moderately successful exit, usually those that are "Bought" after 1-3 years are actually failed ventures with all or most of the money going back to the investors to recoup their loses.
+_fat_santa
+5 months ago
+|
+root
+|
+parent
+|
+prev
+|
+next
+[–]
+It seems high at first but take a look at practically any successful startup (Slack, Dropbox, Notion, etc) and they all were around for 8-12 years before the founders cashed out.
+flessner
+5 months ago
+|
+root
+|
+parent
+|
+prev
+|
+next
+[–]
+> "Good startups usually take 10 years." - Sam Altman
+It also aligns with other Y Combinator teachings, such as targeting growing markets.
+pyb
+5 months ago
+|
+root
+|
+parent
+|
+prev
+|
+next
+[–]
+No, where did you get this idea? Good startups do not think this way.
+kengoa
+5 months ago
+|
+prev
+|
+next
+[–]
+Very interesting read, I wish more startups did postmortems like this. It seems like the authors managed to build a set of tools that provided real value that ultimately did not make commercial sense, but would've been interesting to see if this learning:
+> Scout was our most-used product. Its users weren’t our target market, but some were. We had vague ambitions to use it as an inbound marketing tool, but we never capitalised on it. This was a missed opportunity.
+was applicable in a conservative industry like real estate and government as lots of open-core companies operate on this model (e.g. free open-source software and marked-up hosted solutions).
+freeone3000
+5 months ago
+|
+prev
+|
+next
+[–]
+One of the key takeaways belies the entire premise: if you want to build a housing fix for the UK, build it in America?
+After identifying a very real, pressing problem, they made a business to solve it. They were then more focused on building that business rather than fixing the actual problem. It seems like the takeaway is: don’t worry too much about the problems where you are, instead move to the US and write software.
+flessner
+5 months ago
+|
+prev
+|
+next
+[–]
+Very thoughtful writing and great to see someone cut it early instead of continuing without a clear path.
+> If I were to start a startup again, I’d take more time and be more intentional in talking to potential customers before needing to raise money.
+From the outside, this pretty much hit the nail on the head.
+4ndrewl
+5 months ago
+|
+prev
+|
+next
+[–]
+"address Britain’s housing crisis"
+It's a feature, not a bug.
+matt-p
+5 months ago
+|
+parent
+|
+next
+[–]
+up to a certain point, yes, asset holders do benefit from workers spending 50% of post tax income on housing. It is now restricting GDP growth, however - so long term it's not in many peoples interest.
+FpUser
+5 months ago
+|
+prev
+|
+next
+[–]
+They've started in  a wrong place. To solve problems like this they need to create political party, not a company.
+andrewstuart
+5 months ago
+|
+prev
+|
+next
+[–]
+>> After raising a £744,000 pre-seed round in April 2024, we explored several business models
+Capital after traction
+hnthrow90348765
+5 months ago
+|
+parent
+|
+next
+[–]
+I don't know, getting paid to try things out sounds like a good deal
+immibis
+5 months ago
+|
+parent
+|
+prev
+|
+next
+[–]
+Good advice for investors, maybe - not for founders. Why would a founder turn down money?
+dzonga
+5 months ago
+|
+parent
+|
+prev
+|
+next
+[–]
+to those who cry about 'BS' like diversity etc ask yourself if people without the same backgrounds, looks would have been able to raise the same amount without a business model.
+drdrek
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+The financial world is not equitable, its about results. People from privileged backgrounds are more likely to raise funds because their privilege makes them more likely to succeed. If Being raised in a trailer park raised the odds of a successful exit, you can be sure VC interns would be having business meetings over deep fried Oreos way more often.
+devmor
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+This presupposes that VC firms generally know what is more likely to succeed, which is demonstrably wrong and the entire reason that the “eggs” are put into so many different baskets every season.
+Urahandystar
+5 months ago
+|
+root
+|
+parent
+|
+prev
+|
+next
+[–]
+Is that so or is it more likely to succeed because they can raise funds? The way modern VC works is just a packaging industry anyway. A VC will give money to a founder if he thinks that he can raise more money in the future. They'll get back what they put in from someone else before it fails.
+tiffanyh
+5 months ago
+|
+prev
+|
+next
+[–]
+A lot of time & effort went into that write-up.
+I realize what I'm about to say will get backlash ... but I can't help but think is the time to write this postmortem indicative of how the business was run.
+Meaning, who benefits from the output of this postmortem? Seems like mostly strangers (who might not even live in UK).
+What other time/effort/resources was spent on things that weren't directly engaging with their customer ... because it seems extremely clear without knowing much about that market that this isn't a technical challenge per se - but a regulatory / social problem and the modest amount of capital they raised won't even scratch the service on solving this problem.
+Note: not intending to be negative. It just seems like the elephant in the room is that the team was so ill-prepared and not understanding what actual problem they are solving - that my heart goes out to them.
+shalmanese
+5 months ago
+|
+parent
+|
+next
+[–]
+> Meaning, who benefits from the output of this postmortem? Seems like mostly strangers (who might not even live in UK).
+Seems to be a piece of content marketing intended to help the two founders land a new role in the US so, in that sense, it does seem pretty strategic and well targeted.
+spacebanana7
+5 months ago
+|
+parent
+|
+prev
+|
+next
+[–]
+> this isn't a technical challenge per se - but a regulatory / social problem and the modest amount of capital they raised won't even scratch the service on solving this problem.
+Stripe hasn't fully fixed online payments but still made a good business of making things better.
+At a high level, SaaS to help people filling out planning permission forms sounds like a viable business. Many thousands of people do this as their full time job, so their employers might be willing to pay £100 per user per month on something that makes them more productive.
+maxehmookau
+5 months ago
+|
+prev
+|
+next
+[–]
+> In May 2023, Tract was founded to build software to fix Britain’s housing crisis.
+I mean, they took on a heck of a problem. At least they tried, but I suspect it was an upward battle from day 0.
+margorczynski
+5 months ago
+|
+prev
+[–]
+I think the problem with startups (from a business perspective) is that they're ego-driven and instead of looking at the business reality in an objective fashion they mostly try to "revolutionize" and "make a difference".
+It isn't as sexy as doing the next Facebook or disrupting global healthcare but just copying an existing archaic & expensive product and doing it better can yield a great and stable business. There's a plethora of software products (offline & online) which cost way too much and work like crap - all you need to do is do it better for a more reasonable price (where those old companies have a big headcount and lots of mouths to feed producing a hard price floor for them).
+abanana
+5 months ago
+|
+parent
+|
+next
+[–]
+> the problem with startups is that they're ego-driven
+100% agree. This looks like another case of nothing more than arrogance - another case of somebody thinking they know it all, can revolutionise an industry, even though their experience within that industry is basically zero. Some of the choices of wording in there, e.g. "potential for venture-backed disruption", say it all.
+It's not far from being that typical problem where someone, without domain knowledge, has that common simplistic thought: "why don't they just..." because it's always so obvious from the outside! In this case, why don't they just buy our software? Turns out it wasn't so obvious after all.
+It feels like I've seen several stories on HN from people seduced by the idea of being called an entrepreneur. (Or more accurately, wanting to call
+themselves
+an entrepreneur.) Sometimes they keep failing, and just try a different industry instead of taking stock and changing their approach to one that starts with some real learning. Their blog posts make it clear that creating a startup is/was their goal. No understanding that to be successful, your business is supposed to be a means to an end, not the end in itself - do enough research first to create a viable solution to an actual problem. Though it seems in venture capital funding, businesses tend to get funding regardless... it's another world.
+duped
+5 months ago
+|
+parent
+|
+prev
+|
+next
+[–]
+> I don't want to make a little money every day, I want to make a fuckton of money all at once
+- Russ Hanneman
+The thing that distinguishes a startup from a small business is that the goal is growth - not being "great and stable." That said, I've worked at startups for years and I would not agree that
+good
+startups are "ego driven." They may seem that way on the outside if you take LinkedIn posts at face value or only read blog posts by people trying to hack it through publicity. They often have more understanding of the business reality of the markets they're trying to enter (or create) than anyone else, the value they add is by saying "fuck that" to a particular set of assumptions everyone else in the market might live by.
+Sometimes that set of assumptions can't be discarded, but if it can and the startup is right, the backers stand to make a fuckton of money all at once.
+FloorEgg
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+Most startups fail, and most startups are run by founders driven by ego and vision rather than by disciplined market research or curiosity or understanding of the market.
+The successful ones will either have gotten very lucky, or know lots about the market as you say. In fact the first main success hurdle is to understand the market well enough to know it's actually a market, and that it can be monetized.
+All that to say, I agree with both you and OP.
+_fat_santa
+5 months ago
+|
+parent
+|
+prev
+|
+next
+[–]
+> There's a plethora of software products (offline & online) which cost way too much and work like crap - all you need to do is do it better for a more reasonable price (where those old companies have a big headcount and lots of mouths to feed producing a hard price floor for them).
+Our startup is basically doing this right now. Our thesis is basically if we can make a product marginally better than our massive competitors and be able to peel away just a sliver of their customer base and get rich by virtue of having just 2 people and not 2000.
+The business itself it not sexy at all but there are still loads of interesting technical problems to solve from building the app to marketing.
+I would say our biggest strength right now is just having me and my co-founder and no other folks to pay. When your burn rate is your monthly digital ocean bill (which runs ~$50), you can burn practically forever.
+c_hastings
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+As long as you remember to pay yourselves too!
+6stringmerc
+5 months ago
+|
+root
+|
+parent
+|
+prev
+|
+next
+[–]
+Interesting! My concept isn’t a startup as a culture because the problem I am to solve isn’t a technology or hardware or access issue - it’s a content issue. AI can not begin to touch what my human brain can do to add value via consulting with a specific company in a regulated and legally sensitive business process. I can potentially teach another human being how to replicate my methodology, but as it stands, I’m going to fill a niche for a large market by providing an inherently subject service: talent.
+belinder
+5 months ago
+|
+parent
+|
+prev
+[–]
+Now where to get a list of such companies and products to decide what to build...
+razakel
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+People constantly moan about their jobs, stupid processes, broken software and tools... listen to them and build something better.
+bombcar
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+The problem is that usually the moaners are not the loaners - they're not the ones making the purchase decisions.
+That's why you either get in via very small business (where the owner is the buyer and user) or guerrilla (like Slack et al).
+Zambyte
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+The people moaning are the ones building things that can be built better, not the ones that you should try to sell to.
+pavel_lishin
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+I'm a moaner, but I'm not building anything.
+The software my school uses to communicate with parents is fucking
+awful
+. Based on digging around their website & linkedin, I suspect they have a team of offshore developers - which is
+fine
+- but my money is that they don't actually have a team, they're paying a company that gives them supposedly-fungible engineer-hours instead of an actual cohesive team that works on the product and is proud of what they've made. They just eat requirements and shit something approximating software.
+But what am I going to do? Say I build a competitor, solo, for cheap. (It can be done. The software doesn't do much. The hardest thing would be ensuring the emails actually get delivered.)
+Now I get to play salesman. I have to sell it to my school. Now I have to maintain it. Our school isn't rich; a local school paid $130k for an unrelated hardware+software solution, so I'm
+at most
+going to get that, and now I'm on call 24/7, now I'm training the teachers & administrators to use it, now I'm fielding support emails, etc., etc.
+Fuck it. I'll keep moaning.
+bombcar
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+This is a perfect example. The school is suffering, but has nearly no budget. The users suffer, but have no say. Nothing changes, everyone cripples along.
+dazh
+5 months ago
+|
+root
+|
+parent
+|
+prev
+|
+next
+[–]
+Is this true? I've tried for months to get people to talk to me about their problems and the most common answer I get is "everything's... fine?".
+madmask
+5 months ago
+|
+root
+|
+parent
+|
+prev
+|
+next
+[–]
+A decent 3d CAD and multiphysics FEM (cheap comsol) would be a good start
+ph4evers
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+Yes but the industry is so rooted and vendor locked that it is extremely hard. People pay for Autodesk, Ansys, comsol etc. because it is proven and engineers are trained to use it. I would not be eager to use something new if I’m a constructor or car manufacturer.
+nradov
+5 months ago
+|
+root
+|
+parent
+|
+next
+[–]
+Sure, a new startup will never get any market share in large, stable businesses like those. They would have to sell to other startups. New auto parts manufacturers pop up all the time.
+qazxcvbnmlp
+5 months ago
+|
+root
+|
+parent
+|
+prev
+|
+next
+[–]
+Yep, decent 3d CAD is expensive. Competition in this space would be fantastic
+mickael-kerjean
+5 months ago
+|
+root
+|
+parent
+|
+prev
+|
+next
+[–]
+A dirty secret I recently learned about: look for public contracts in your area, to find some of those, google "contract register filetype:pdf".
+Tons of crazy shit in there waiting to be disrupted. The tricky part is to get the right financials to bid on the interesting stuff, a good pathway there is to combine multiple companies together and make a shared bid, reach out to me if you're interested.
+bagpuss
+5 months ago
+|
+root
+|
+parent
+|
+prev
+[–]
+there's neoseed.io that sends out emails weekly with "ideas you can replicate"
+Guidelines
+|
+FAQ
+|
+Lists
+|
+API
+|
+Security
+|
+Legal
+|
+Apply to YC
+|
+Contact
+Search:
+
+
+--- CONTENT FROM https://news.ycombinator.com/item ---
+
+No such item.

@@ -1,0 +1,126 @@
+
+
+--- CONTENT FROM https://www.frac.tl/work/marketing-research/why-startups-fail-study/ ---
+
+Decoding Startup Failure: Why 193 Failed Startups Didn’t Survive
+Startup founders dream of becoming the next Airbnb or Uber, but the harsh reality is that most startups don’t end with a success story. The silver lining is that
+failed startups serve as cautionary tales for entrepreneurs
+. Much can be learned from why others didn’t succeed.
+We looked at the stories of 193 failed startupsto extract the lessons from their demise. To find the patterns behind why these startups failed, we analyzed postmortem essays written by the founders as well as press coverage about the shut downs.
+Why Do Startups Fail?
+One issue didn’t emerge as the primary cause of startup failure, but rather most startups pointed to a combination of reasons. This is likely due to certain issues being symptoms of another issue. If your business model isn’t sustainable or profitable, you’ll blow through cash quickly. Without money, you can’t grow. If you don’t show signs of growth, it becomes difficult to get funding … and so on.
+That being said, the following issues were the most common among the failed startups we analyzed:
+Good Idea, Bad Business.
+More than a quarter of startups pointed to a weak business model as a reason they failed. As Vitoto founder Vinay Patankar wrote, a good idea but bad business was a primary reason for
+his startup’s shutdown
+. No matter how brilliant the idea, if you can’t make it profitable or scalable, you won’t have a successful business.
+Not Enough Money.
+Twenty-four percent of startups said that running out of money contributed to failure, while another 13% struggled to get financing. Cash is king for startups. Even a successful business model will fail without proper cash flow.
+Lack of Market Interest.
+Eighteen percent couldn’t get enough traction and 12% found there was no market need for their business. Moped founder Schuyler Deerman sums this issue up perfectly
+in his postmortem
+, saying “we didn’t build something that enough people wanted.”
+To further illustrate how most startups went out of business due to several issues, we created an interactive network model that groups startups together according to their common reasons for failure.
+In this graph, each node represents a startup or reason for failure. The lines represent connections between nodes, so when two startups are connected by a line it means they have one or more reasons for failure in common. Click on each node to see more information, such as whether or not the startup had funding (and how much) and a link to the story about why the startup failed.
+You can also view the full graph here
+.
+&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br /&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;
+&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br /&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;
+Within this network graph, 12 different groupings emerged between the startups:
+Disharmony on Team/Investors, Lacked Financing/Investors
+Bad Timing, Not Enough Traction, Outcompeted
+Inexperience/Skills Gap, Failure to Pivot
+No Market Need
+Customer Development Issues, Ignored Customers
+Business Model Not Viable, Lack of Passion
+Technical/Product Issues, Poor Marketing, Bad Location, Hiring Mistakes
+Lack of Focus, Pricing/Cost Issues
+Legal Challenges
+Ran Out of Cash, Pivot Gone Wrong
+Veered From Original Vision
+Fraud Victims
+These groupings show how the culmination of multiple things going wrong may contribute to a startup’s demise. However, some singular reasons, such as legal challenges or no market need, can be enough to cause a startup to go under.
+Funded Startups vs. Unfunded Startups: More Money, More Problems?
+More than three-quarters (76%) of the startups we analyzed had some degree of funding, ranging from $10,000 to $850 million. Surprisingly, money-related issues were the most common reasons the funded startups failed, with a combined 40% citing running out of cash or a lack of funding as a reason for failure.
+On the other hand, only 28% of startups without funding blamed a lack of funding or running out of cash for their shutdown. More than a quarter (26%) of unfunded startups blamed a poor business model, while 17% cited customer development issues, a lack of funding, and no market need as reasons they failed.
+Three issues that didn’t crack the top 10 for funded startups but were cited by the unfunded startups were customer development issues, disharmony on the team, and inexperience. Unlike the funded startups, the startups-without-funding’s top 10 reasons for failure did not include being outcompeted, pricing issues, or bad timing.
+Most Startups Were Tech-Focused
+Social media, mobile apps, software, and e-commerce were the most common verticals among the startups we analyzed. Quite a few startups on our list were created in tandem with emerging technologies, such as location-based apps, virtual currency, and cloud storage. It’s no wonder these startups struggled to survive, with so many created at once and oversaturating the market.
+Additional vertical-specific insights:
+Some software companies were too caught up in the technical side
+, which led to customer development issues. Devver, a cloud-based enterprise software tool, “focused on engineering first and customers second,”
+according to its founder
+.
+Social media startups tended to struggle with gaining traction
+and creating a viable business model.
+Mobile apps were difficult to turn into a sustainable business.
+“No clear or predictable way to sustainability” led to the
+failure of Cusoy
+, an app that helped people find gluten-free restaurants.
+Most
+fashion-focused companies had money issues
+, either running out of cash or failing to secure funding.
+Many of the
+music startups faced technical and legal challenges
+. Exfm founder
+Dan Kantor said
+, “
+The technical challenges are compounded by the litigious nature of the music industry, which means every time we have any meaningful growth, it’s coupled with the immediate attention of the record labels in the form of takedowns and legal emails.”
+Hindsight Is 20/20: Advice From Startup Founders
+Startup postmortems are one part closure for the founder and one part giving back to the startup community. In these personal essays, startup founders analyze what went wrong with their business in hopes that others can learn from their mistakes. Many of the founders doled out similar advice: a solid business model, sufficient funds, and enough market interest are crucial for success.
+Use Content Marketing for Startup Growth
+Since most startups are strapped for cash, sinking substantial budget into marketing is not an option. Yet marketing is necessary to get people talking about the startup. Without anyone talking about your startup, it becomes difficult grow. And if you can’t show signs of growth, attracting investors becomes near impossible.
+Many startups are turning to
+content marketing to fuel growth
+, due to its relative affordability compared with traditional marketing and PR tactics. Better yet,
+this approach is highly effective
+. A well-executed,
+comprehensive content marketing strategy
+can attract press coverage, improve SEO, and drive traffic to your site – all of which can help startups gain traction.
+Methodology
+We chose 193 startups for this study based on those with founders who publicly wrote about their failure, or had sufficient media coverage detailing the shutdown. We found many of these startups through
+CB Insights’ startup postmortems
+list. From there, we read each postmortem essay or article about the startup and identified the top one through four primary reasons for failure.
+Sources
+https://www.cbinsights.com/blog/startup-failure-post-mortem/
+https://medium.com/@michalbohanes/seven-lessons-i-learned-from-the-failure-of-my-first-startup-dinnr-c166d1cfb8b8#.pc84l236y
+http://techcrunch.com/2014/02/16/shutting-down-blurtt/
+http://articles.economictimes.indiatimes.com/2014-03-04/news/47894914_1_data-analytics-startups-bangalore-company
+https://www.linkedin.com/pulse/20130923123247-758147-7-things-i-learned-from-startup-failure
+https://medium.com/@jasonhuertas/my-startup-failed-6c54bd68c654
+http://www.instigatorblog.com/postmortem-analysis-of-standout-jobs/2010/10/05/
+http://blog.getsocial.io/5-mistakes-i-made-launching-a-startup
+https://medium.com/@andershsi/3-reasons-why-my-tech-startup-failed-fa19919a565a#.g9q4nrrzq
+https://riotvine.wordpress.com/2010/08/09/post-mortem
+
+
+--- CONTENT FROM https://www.frac.tl/work/marketing-research/content-marketing-works-bottom-line/ ---
+
+How Content Marketing Works For Your Bottom Line
+More and more brands are turning to content marketing because of its strong focus on consumers and effectiveness – particularly its effectiveness at a much lower cost than similar outbound efforts. Instead of something overly promotional, your audience expects something that has high value with very little branding. The goal is to encourage engagement through every level of the sales funnel, specifically awareness, trust, and conversion.
+We
+recently outlined how an effective content marketing strategy – specifically one that combines an alignment of on- and off-site content – can help push your leads further down the sales funnel.
+Here we’ll walk through how we effectively leveraged content marketing to impact three critical stages of the sales funnel for multiple clients.
+1. A large-scale content marketing campaign generated awareness by earning our client more than 3 million views through a single placement.
+Content marketing success relies heavily on earning coverage from top-tier publishers, and it is one of the most effective ways for your content to impact consumers at the awareness level. Additional gains from earned media include the following:
+Search engines’ indexing your site higher through a strong inbound link portfolio, increasing the overall visibility of your site
+Growth in traffic to your site from new visitors who might not be familiar with your brand
+A higher return on the content you created because you’re actively promoting it versus simply relying on natural syndication
+For the exclusive for one of our client campaigns – “
+Perceptions of Perfection Across Borders
+” – we reached out to an editor at
+BuzzFeed
+who had previously covered body issues. She loved the idea and wanted the feature to go live immediately. Capitalizing on their already large, built-in audience, the post earned more than 3 million views for the client before syndication.
+2. Prioritize on-site content to build trust: More than half of consumers say that offering free content is an effective way to attract their business.
+While earning placements on authoritative sites is a great way to increase awareness, it is also a simple way to generate trust. To increase this sense of brand loyalty, though, you want these placements to drive visitors back to your brand’s site and offer them something of additional value. A great way to do this is through on-site content that is readily available to download:
+More than 50 percent of consumers
+agree that offering free content is an effective way to earn their business.
+A great example of effective on-site content that aligns with business goals is BuzzStream’s blog. In an effort to improve search rankings and increase on-site engagement, Fractl outlined an evergreen blog strategy that featured posts on their latest data-driven campaigns along with best practice guides. You can check out some of our specific blog posts below:
+The Most Social Publishers
+Best Practice Guide for Influencer Marketing Pitches
+7 Practices That Maximize the ROI of Negative Pitch Replies
+3. A mix of on- and off-site content can generate faster conversions by shortening your sales funnel.
+Remember that all your content has the ability to affect all levels of the sales funnel. For example, content that assists with the top of the funnel aims to push conversion events – like email subscribers – but can also lead to conversions. A great example of a content marketing strategy that reached consumers at all levels of the funnel is the one employed by Rehabs.com, which generated
+85
+0 percent increase in traffic
+, 1,200 press mentions, and more than 2,900 percent ROI.
