@@ -1,5 +1,5 @@
 .env
 venv
-Data/Scraped/
-Data/Cleaned/
-Data/Schemas/
+Data/Scraped/*
+Data/Cleaned/*
+Data/Schemas/*
