@@ -88,7 +88,7 @@ def process_url(url):
 # --- Main execution ---
 if __name__ == "__main__":
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    project_root = os.path.dirname(script_dir)
+    project_root = os.path.dirname(os.path.dirname(script_dir))
     links_file = os.path.join(project_root, "Data", "links.txt")
 
     # Read URLs from links.txt

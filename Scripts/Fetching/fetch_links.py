@@ -42,7 +42,7 @@ def search_serper(query):
         print(f"An error occurred with the Serper API: {e}")
         return []
 
-def save_links_to_file(links, filename="../Data/links.txt"):
+def save_links_to_file(links, filename="../../Data/links.txt"):
     """
     Saves a list of links to a text file, with each link on a new line.
 

@@ -80,7 +80,7 @@ def remove_invalid_files(folder_path, min_size_bytes=2048, valid_extensions=['.t
     print(f"Total files removed: {removed_count}")
 
 
-folder_to_clean = '../Data/Scraped'  
+folder_to_clean = '../../Data/Scraped'  
 
 # You can customize the minimum size and valid extensions
 # This will remove any file that isn't a .txt, .csv or is less than 50 bytes.

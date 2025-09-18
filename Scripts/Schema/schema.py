@@ -112,7 +112,7 @@ def analyze_text_with_gemini(text_chunk: str) -> list:
 if __name__ == "__main__":
     # --- Robust Path Handling ---
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    project_root = os.path.dirname(script_dir)
+    project_root = os.path.dirname(os.path.dirname(script_dir))
     dotenv_path = os.path.join(project_root, '.env')
     
     print(f"Attempting to load .env file from: {dotenv_path}")
