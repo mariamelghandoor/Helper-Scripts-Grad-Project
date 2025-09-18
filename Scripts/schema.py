@@ -67,12 +67,14 @@ def analyze_text_with_gemini(text_chunk: str) -> list:
         }
     }
     prompt = (
-        "Act as a meticulous business analyst. Analyze the following text, which contains articles, case studies, or lists of content. Each full article is preceded by '--- CONTENT FROM' and its URL. "
-        "For each distinct business idea, case study, or item in a list (like an article or video title), extract the information and structure it as a JSON object according to the provided schema. "
-        "Crucially, use the URL provided directly above each text block for the 'Link', 'Domain', and 'Sub_domain' fields. "
-        "If an entry is just a title with metadata (like views or duration), use the title for both the 'Idea' and 'Description' fields. For these short entries, it is expected that fields like 'Reason' and 'Takeaway' will be null. "
-        "If a specific piece of information for any field cannot be found in the text, you MUST use `null` as its value instead of omitting the field. Here is the text:\n\n"
-        f"{text_chunk}"
+    "Act as a meticulous business analyst and venture capital expert. Your task is to identify and extract **only** information related to specific business or startup ideas, case studies of businesses (either successful or failed), or analyses of a company's performance. "
+    "Ignore generic articles, 'how-to' guides, or lists that do not describe a specific company, business model, or a success/failure case. "
+    "For each distinct startup idea or case study found in the text, extract the information and structure it as a JSON object according to the provided schema. "
+    "Each full article is preceded by '--- CONTENT FROM' and its URL. Use the URL for the 'Link', 'Domain', and 'Sub_domain' fields. "
+    "If an entry is just a title with metadata, use the title for both the 'Idea' and 'Description' fields. For these short entries, fields like 'Reason' and 'Takeaway' will be null. "
+    "If no relevant startup idea or case study can be found in a chunk of text, you MUST return an empty JSON array `[]`."
+    "If a specific piece of information for any field cannot be found in the text, you MUST use `null` as its value. Here is the text:\n\n"
+    f"{text_chunk}"
     )
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
