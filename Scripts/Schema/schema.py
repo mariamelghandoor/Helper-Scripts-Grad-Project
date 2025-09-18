@@ -118,7 +118,7 @@ if __name__ == "__main__":
     print(f"Attempting to load .env file from: {dotenv_path}")
     load_dotenv(dotenv_path=dotenv_path)
 
-    scraped_dir = os.path.join(project_root, "Data", "Scraped")
+    scraped_dir = os.path.join(project_root, "Data", "Cleaned")
     schemas_dir = os.path.join(project_root, "Data", "Schemas")
 
     os.makedirs(scraped_dir, exist_ok=True)
