@@ -52,7 +52,6 @@ def scrape_dynamic_page(url: str) -> str:
                     raise
 
 def extract_text_and_links(html_content: str, base_url: str):
-    # (Your existing extract_text_and_links function goes here)
     soup = BeautifulSoup(html_content, 'html.parser')
     main_content_selectors = ['main', 'article', '[role="main"]', '#content', '#main', '.content', '.main']
     search_area = None

@@ -18,6 +18,7 @@ from Scripts.Fetching.scrape import process_url
 from Scripts.Cleaning.data_cleaner import DataCleaner
 from Scripts.Schema.schema import chunk_text, analyze_text_with_gemini
 from project_config import *
+from Scripts.project_config import *
 
 # Load environment variables
 load_dotenv(dotenv_path=PROJECT_ROOT / ".env")
@@ -69,8 +70,6 @@ def run_cleaning_and_structuring_pipeline(input_path: str, output_name: str):
     except Exception as e:
         print(f"❌ An error occurred during the pipeline: {e}")
 
-
-# --- Main Execution Logic ---
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Run the data pipeline.")
     parser.add_argument("pipeline", choices=["youtube", "website"], help="Specify which pipeline to run (youtube or website).")
@@ -96,13 +95,37 @@ if __name__ == "__main__":
             save_links_to_file(links, SCRAPED_LINKS_FILE)
             
             # Step 2: Scrape content from the fetched links
-            all_scraped_text = process_url(SCRAPED_LINKS_FILE)
+            all_scraped_text_list = []
             
-            # Save scraped data
-            scraped_file_path = SCRAPED_DIR / "web_scraped_text.txt"
-            SCRAPED_DIR.mkdir(parents=True, exist_ok=True)
-            with open(scraped_file_path, "w", encoding="utf-8") as f:
-                f.write(all_scraped_text)
+            # Read URLs from the saved links file
+            try:
+                with open(SCRAPED_LINKS_FILE, "r", encoding="utf-8") as f:
+                    urls = [line.strip() for line in f if line.strip()]
+            except FileNotFoundError:
+                print("❌ Links file not found. Exiting.")
+                sys.exit()
+
+            print(f"🚀 Found {len(urls)} links to scrape.")
+            for url in urls:
+                # process_url returns a tuple, so unpack it
+                scraped_text, _ = process_url(url) 
+                if scraped_text:
+                    all_scraped_text_list.append(f"\n\n--- CONTENT FROM {url} ---\n\n{scraped_text}")
+                else:
+                    print(f"⚠️ Skipping URL due to scraping error: {url}")
             
-            # Step 3: Run the cleaning and structuring pipeline
-            run_cleaning_and_structuring_pipeline(scraped_file_path, "web_content")
+            # Combine all scraped text into a single string
+            final_scraped_content = "\n".join(all_scraped_text_list)
+            
+            if final_scraped_content:
+                # Save scraped data
+                scraped_file_path = SCRAPED_DIR / "web_scraped_text.txt"
+                SCRAPED_DIR.mkdir(parents=True, exist_ok=True)
+                with open(scraped_file_path, "w", encoding="utf-8") as f:
+                    f.write(final_scraped_content)
+                
+                # Step 3: Run the cleaning and structuring pipeline
+                run_cleaning_and_structuring_pipeline(scraped_file_path, "web_content")
+                print("✅ Website pipeline completed successfully.")
+            else:
+                print("❌ No content was successfully scraped. Exiting pipeline.")

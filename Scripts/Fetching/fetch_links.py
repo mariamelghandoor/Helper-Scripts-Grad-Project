@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv() 
 
 SERPER_API_KEY = os.getenv("SERPER_API_KEY")
-print(f"SERPER_API_KEY: {SERPER_API_KEY}")
+
 
 def search_serper(query):
     """

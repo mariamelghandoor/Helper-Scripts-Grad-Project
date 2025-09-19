@@ -8,10 +8,11 @@ import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 # Now you can import from the parent directory
-from project_config import CLEANED_DIR, SCRAPED_DIR
+from Scripts.project_config import config
 
 class DataCleaner:
     def __init__(self):
+        
         self.stop_words = {'the', 'a', 'an', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for', 'of', 'with', 'by', 'is', 'are', 'was', 'were', 'be', 'been', 'being', 'have', 'has', 'had', 'do', 'does', 'did', 'will', 'would', 'could', 'should'}
     
     def remove_html_artifacts(self, text):
@@ -120,8 +121,8 @@ def clean_data(input_file_path):
 
 if __name__ == "__main__":
     # Define input and output directories
-    scraped_dir = SCRAPED_DIR
-    cleaned_dir = CLEANED_DIR
+    scraped_dir = os.path.join(config.project_root, "Data", "Scraped")
+    cleaned_dir = os.path.join(config.project_root, "Data", "Cleaned")
     
     # Create the output directory if it doesn't exist
     os.makedirs(cleaned_dir, exist_ok=True)
