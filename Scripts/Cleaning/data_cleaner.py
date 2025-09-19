@@ -8,7 +8,7 @@ import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 # Now you can import from the parent directory
-from project_config import config
+from project_config import CLEANED_DIR, SCRAPED_DIR
 
 class DataCleaner:
     def __init__(self):
@@ -120,8 +120,8 @@ def clean_data(input_file_path):
 
 if __name__ == "__main__":
     # Define input and output directories
-    scraped_dir = os.path.join(config.project_root, "Data", "Scraped")
-    cleaned_dir = os.path.join(config.project_root, "Data", "Cleaned")
+    scraped_dir = SCRAPED_DIR
+    cleaned_dir = CLEANED_DIR
     
     # Create the output directory if it doesn't exist
     os.makedirs(cleaned_dir, exist_ok=True)
