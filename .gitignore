@@ -1,5 +1,8 @@
 .env
 venv
 Data/Scraped/*
+!Data/Scraped/.gitkeep
 Data/Cleaned/*
+!Data/Cleaned/.gitkeep
 Data/Schemas/*
+!Data/Schemas/.gitkeep
