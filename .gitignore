@@ -6,3 +6,5 @@ Data/Cleaned/*
 !Data/Cleaned/.gitkeep
 Data/Schemas/*
 !Data/Schemas/.gitkeep
+Data/Validated_Schemas/*
+!Data/Validated_Schemas/.gitkeep
