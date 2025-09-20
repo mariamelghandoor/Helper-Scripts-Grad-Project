@@ -28,7 +28,7 @@ startup_schema = {
                 "type": "array",
                 "items": {"type": "string"}
             },
-            "success_or_fail": {"type": "string", "enum": ["success", "fail","Success","Fail","SUCCESS","FAIL"]}
+            "success_or_fail": {"type": "string", "enum": ["success", "fail","Success","Fail","SUCCESS","FAIL","failure","Failure","FAILURE"]}
         },
         "required": ["Link", "Idea", "Description", "Takeaway", "Domain", "Reason", "Region", "Sub_domain", "Tags", "success_or_fail"]
     }
