@@ -7,10 +7,10 @@ PROJECT_ROOT = Path(__file__).resolve().parent
 # --- Directories ---
 DATA_DIR = PROJECT_ROOT / "Data"
 SCRIPTS_DIR = PROJECT_ROOT / "Scripts"
-CLEANED_DIR = DATA_DIR / "cleaned"
+CLEANED_DIR = DATA_DIR / "Cleaned"
 TRANSCRIPTS_DIR = DATA_DIR / "transcripts"
-SCRAPED_DIR = DATA_DIR / "scraped"
-SCHEMAS_DIR = DATA_DIR / "schemas"
+SCRAPED_DIR = DATA_DIR / "Scraped"
+SCHEMAS_DIR = DATA_DIR / "Schemas"
 AUDIO_DIR = DATA_DIR / "audio"
 LINKS_DIR = DATA_DIR / "links"
 

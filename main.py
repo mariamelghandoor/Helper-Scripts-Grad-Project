@@ -4,6 +4,7 @@ import argparse
 import time
 import json
 from dotenv import load_dotenv
+from urllib.parse import urlparse
 
 # Add the parent directory to the Python path
 # This allows imports from the project root and other scripts
@@ -17,6 +18,7 @@ from Scripts.Fetching.fetch_links import search_serper, save_links_to_file
 from Scripts.Fetching.scrape import process_url
 from Scripts.Cleaning.data_cleaner import DataCleaner
 from Scripts.Schema.schema import chunk_text, analyze_text_with_gemini
+from Scripts.Cleaning.remove import remove_invalid_files
 from project_config import *
 from Scripts.project_config import *
 
@@ -95,7 +97,6 @@ if __name__ == "__main__":
             save_links_to_file(links, SCRAPED_LINKS_FILE)
             
             # Step 2: Scrape content from the fetched links
-            all_scraped_text_list = []
             
             # Read URLs from the saved links file
             try:
@@ -106,26 +107,44 @@ if __name__ == "__main__":
                 sys.exit()
 
             print(f"🚀 Found {len(urls)} links to scrape.")
+            SCRAPED_DIR.mkdir(parents=True, exist_ok=True)
+            
+            scraped_files_to_process = []
             for url in urls:
-                # process_url returns a tuple, so unpack it
-                scraped_text, _ = process_url(url) 
+                scraped_text, _ = process_url(url)
+                
                 if scraped_text:
-                    all_scraped_text_list.append(f"\n\n--- CONTENT FROM {url} ---\n\n{scraped_text}")
+                    safe_filename = urlparse(url).netloc.replace('.', '_') + "_" + str(time.time()).replace('.', '')
+                    scraped_file_path = SCRAPED_DIR / f"{safe_filename}.txt"
+                    
+                    with open(scraped_file_path, "w", encoding="utf-8") as f:
+                        f.write(scraped_text)
+                    
+                    scraped_files_to_process.append(scraped_file_path)
+                    print(f"✅ Scraped data for {url} saved to {scraped_file_path}")
                 else:
                     print(f"⚠️ Skipping URL due to scraping error: {url}")
             
-            # Combine all scraped text into a single string
-            final_scraped_content = "\n".join(all_scraped_text_list)
-            
-            if final_scraped_content:
-                # Save scraped data
-                scraped_file_path = SCRAPED_DIR / "web_scraped_text.txt"
-                SCRAPED_DIR.mkdir(parents=True, exist_ok=True)
-                with open(scraped_file_path, "w", encoding="utf-8") as f:
-                    f.write(final_scraped_content)
+            if scraped_files_to_process:
+                # Step 2.5: Remove invalid files from the scraped directory
+                print("\n🧹 Starting file validation and cleanup...")
+                # SCRAPED_DIR is a pathlib.Path object, so convert it to a string for the function
+                remove_invalid_files(str(SCRAPED_DIR))
+                print("✅ File cleanup completed.")
                 
-                # Step 3: Run the cleaning and structuring pipeline
-                run_cleaning_and_structuring_pipeline(scraped_file_path, "web_content")
-                print("✅ Website pipeline completed successfully.")
+                # Re-read the list of files to process after invalid ones are removed
+                final_files_to_process = [
+                    file_path for file_path in scraped_files_to_process 
+                    if os.path.exists(file_path)
+                ]
+                
+                if final_files_to_process:
+                    # Run the cleaning and structuring pipeline for each file
+                    for file_path in final_files_to_process:
+                        file_name = file_path.stem 
+                        print(f"\n--- Processing scraped file: {file_name} ---")
+                        run_cleaning_and_structuring_pipeline(file_path, file_name)
+                else:
+                    print("❌ No valid files remaining after cleanup. Exiting pipeline.")
             else:
                 print("❌ No content was successfully scraped. Exiting pipeline.")
