@@ -22,7 +22,7 @@ from Scripts.Cleaning.remove import remove_invalid_files
 from project_config import *
 from Scripts.project_config import *
 from Scripts.Database.supabase_client import bulk_insert_from_json
-
+from Scripts.PostProcessing.validation import validate_startup_json, startup_schema
 # Load environment variables
 load_dotenv(dotenv_path=PROJECT_ROOT / ".env")
 
@@ -61,12 +61,28 @@ def run_cleaning_and_structuring_pipeline(input_path: str, output_name: str):
             if i < len(text_chunks) - 1:
                 time.sleep(2)
         
-        # Step 4: Save final structured data
-        SCHEMAS_DIR.mkdir(parents=True, exist_ok=True)
-        output_file_path = SCHEMAS_DIR / f"{output_name}_structured.json"
-        with open(output_file_path, "w", encoding="utf-8") as f:
-            json.dump(all_results, f, indent=2)
-        print(f"✅ Final structured data saved to {output_file_path}")
+        # --- NEW: Validate the data after analysis ---
+        valid_results = []
+        invalid_results = []
+        print("\n🧐 Starting data validation...")
+        for item in all_results:
+            # The schema is for an array, so pass the item in a list
+            if validate_startup_json([item], startup_schema):
+                valid_results.append(item)
+            else:
+                invalid_results.append(item)
+        
+        print(f"✅ Validation complete: Found {len(valid_results)} valid and {len(invalid_results)} invalid entries.")
+
+        # Step 4: Save final structured data (only valid results)
+        if valid_results:
+            SCHEMAS_DIR.mkdir(parents=True, exist_ok=True)
+            output_file_path = SCHEMAS_DIR / f"{output_name}_structured.json"
+            with open(output_file_path, "w", encoding="utf-8") as f:
+                json.dump(valid_results, f, indent=2)
+            print(f"✅ Final structured data saved to {output_file_path}")
+        else:
+            print(f"⚠️ No valid data found for {output_name}. Skipping file save.")
 
     except FileNotFoundError:
         print(f"❌ Error: The input file {input_path} was not found.")

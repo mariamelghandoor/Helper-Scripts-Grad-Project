@@ -57,18 +57,18 @@ def analyze_text_with_gemini(text_chunk: str) -> list:
         "items": {
             "type": "OBJECT",
             "properties": {
-                "link": {"type": "STRING"},
-                "domain": {"type": "STRING"},
-                "sub_domain": {"type": "STRING"},
-                "idea": {"type": "STRING"},
-                "description": {"type": "STRING"},
+                "Link": {"type": "STRING"},
+                "Domain": {"type": "STRING"},
+                "Sub_domain": {"type": "STRING"},
+                "Idea": {"type": "STRING"},
+                "Description": {"type": "STRING"},
                 "success_or_fail": {"type": "STRING"},
-                "reason": {"type": "STRING"},
-                "takeaway": {"type": "STRING"},
-                "region": {"type": "STRING"},
-                "tags": {"type": "ARRAY", "items": {"type": "STRING"}}
+                "Reason": {"type": "STRING"},
+                "Takeaway": {"type": "STRING"},
+                "Region": {"type": "STRING"},
+                "Tags": {"type": "ARRAY", "items": {"type": "STRING"}}
             },
-            "required": ["link", "idea", "description", "takeaway", "domain"]
+            "required": ["Link", "Idea", "Description", "Takeaway", "Domain"]
         }
     }
     prompt = (
