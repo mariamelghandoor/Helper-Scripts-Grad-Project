@@ -21,6 +21,7 @@ from Scripts.Schema.schema import chunk_text, analyze_text_with_gemini
 from Scripts.Cleaning.remove import remove_invalid_files
 from project_config import *
 from Scripts.project_config import *
+from Scripts.Database.supabase_client import bulk_insert_from_json
 
 # Load environment variables
 load_dotenv(dotenv_path=PROJECT_ROOT / ".env")
@@ -73,6 +74,10 @@ def run_cleaning_and_structuring_pipeline(input_path: str, output_name: str):
         print(f"❌ An error occurred during the pipeline: {e}")
 
 if __name__ == "__main__":
+    # Create all required directories at startup
+    for directory in [SCRAPED_DIR, CLEANED_DIR, SCHEMAS_DIR, LINKS_DIR]:
+        directory.mkdir(parents=True, exist_ok=True)
+    
     parser = argparse.ArgumentParser(description="Run the data pipeline.")
     parser.add_argument("pipeline", choices=["youtube", "website"], help="Specify which pipeline to run (youtube or website).")
     parser.add_argument("--query", required=True, help="The search query for the pipeline.")
@@ -148,3 +153,14 @@ if __name__ == "__main__":
                     print("❌ No valid files remaining after cleanup. Exiting pipeline.")
             else:
                 print("❌ No content was successfully scraped. Exiting pipeline.")
+    
+    # After processing is complete, upload to Supabase
+    print("\n Uploading analyzed data to Supabase...")
+    schema_files = list(SCHEMAS_DIR.glob('*_structured.json'))
+    
+    for schema_file in schema_files:
+        print(f"\nUploading {schema_file.name}...")
+        if bulk_insert_from_json(schema_file):
+            print(f"✅ Successfully uploaded {schema_file.name}")
+        else:
+            print(f"❌ Failed to upload {schema_file.name}")

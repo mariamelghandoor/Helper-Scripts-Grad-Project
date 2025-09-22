@@ -45,11 +45,10 @@ def scrape_dynamic_page(url: str) -> str:
         if driver:
             try:
                 driver.quit()
-            except OSError as e:
-                if "The handle is invalid" in str(e):
-                    pass 
-                else:
-                    raise
+            except Exception as e:
+                # Silently ignore the invalid handle error
+                if not ("The handle is invalid" in str(e)):
+                    print(f"Warning: ChromeDriver cleanup error: {e}")
 
 def extract_text_and_links(html_content: str, base_url: str):
     soup = BeautifulSoup(html_content, 'html.parser')

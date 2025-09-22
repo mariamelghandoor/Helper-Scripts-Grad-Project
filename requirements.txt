@@ -1,0 +1,26 @@
+# API Clients
+google-api-python-client>=2.0.0
+groq>=0.4.0
+google-generativeai>=0.3.0
+
+# Web Scraping
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+undetected-chromedriver>=3.5.0
+
+# Audio Processing
+yt-dlp>=2024.3.10
+openai-whisper>=20231117
+
+# Data Processing and Database
+python-dotenv>=1.0.0
+jsonschema>=4.21.0
+supabase==2.19.0
+
+# Machine Learning
+torch>=2.2.0  # Required for Whisper
+numpy>=1.26.0
+
+# Utilities
+pathlib>=1.0.1
+
