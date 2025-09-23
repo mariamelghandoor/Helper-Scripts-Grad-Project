@@ -111,12 +111,24 @@ def clean_data(input_file_path):
     """Clean a single scraped data file."""
     # Read raw data
     with open(input_file_path, "r", encoding="utf-8") as f:
-        raw_text = f.read()
+        lines = f.readlines()
     
+    # Extract the first line (the link)
+    if lines:
+        first_line = lines[0]
+        raw_text = "".join(lines[1:])
+    else:
+        first_line = ""
+        raw_text = ""
+        
     # Clean data
     cleaner = DataCleaner()
     cleaned_text = cleaner.clean_text(raw_text)
     
+    # Re-attach the first line to the cleaned text
+    if first_line:
+        cleaned_text = first_line + cleaned_text
+        
     return cleaned_text
 
 if __name__ == "__main__":

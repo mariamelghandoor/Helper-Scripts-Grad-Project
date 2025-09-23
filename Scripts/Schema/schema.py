@@ -11,24 +11,34 @@ def chunk_text(text: str, max_chunk_size: int = 4000) -> list[str]:
     The max_chunk_size has been further reduced to prevent timeouts.
     """
     print("Splitting text into smaller chunks for analysis...")
-    articles = text.split('\n\n--- CONTENT FROM ')
+    
+    # Split the original text into the link and the rest of the content
+    lines = text.split('\n', 1)
+    link_line = lines[0] if lines else ""
+    content_text = lines[1] if len(lines) > 1 else ""
+
+    articles = content_text.split('\n\n--- CONTENT FROM ')
     chunks = []
     current_chunk = ""
 
     if not articles[0].strip().startswith("--- CONTENT FROM"):
         if articles[0].strip():
-             current_chunk = f"--- CONTENT FROM [assumed start]\n\n{articles.pop(0)}"
+            current_chunk = f"--- CONTENT FROM [assumed start]\n\n{articles.pop(0)}"
+    
+    # Prepend the link to the very first chunk being built
+    # This ensures the link is always present for the prompt to find
+    if current_chunk:
+        current_chunk = link_line + "\n\n" + current_chunk
+    elif articles:
+        # If no initial article, start with the first one and the link
+        full_article_text = f"--- CONTENT FROM {articles.pop(0)}"
+        current_chunk = link_line + "\n\n" + full_article_text
     
     for article in articles:
         # Re-add the separator that was removed by split()
         full_article_text = f"--- CONTENT FROM {article}"
         if len(current_chunk) + len(full_article_text) > max_chunk_size and current_chunk:
             chunks.append(current_chunk)
-            current_chunk = ""
-        
-        # If the chunk is empty, it means the article itself is larger than the max size.
-        # We start the chunk with this large article. It might still fail, but this is a graceful way to handle it.
-        if not current_chunk:
             current_chunk = full_article_text
         else:
             current_chunk += "\n\n" + full_article_text

@@ -147,6 +147,7 @@ if __name__ == "__main__":
         file_path = os.path.join(scraped_dir, f"{safe_domain}_scraped_text_{timestamp}.txt")
 
         with open(file_path, "w", encoding="utf-8") as f:
+            f.write(f"Original Link: {start_url}\n\n")
             f.write(final_text)
 
         print(f"✅ All text from {pages_crawled} pages ({start_url}) saved to '{file_path}'")
