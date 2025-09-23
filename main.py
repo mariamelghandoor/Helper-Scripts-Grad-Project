@@ -96,79 +96,99 @@ if __name__ == "__main__":
     
     parser = argparse.ArgumentParser(description="Run the data pipeline.")
     parser.add_argument("pipeline", choices=["youtube", "website"], help="Specify which pipeline to run (youtube or website).")
-    parser.add_argument("--query", required=True, help="The search query for the pipeline.")
+    parser.add_argument("--query", required=False, help="The search query for the pipeline.")
+    parser.add_argument("--queries_file", required=False, help="Path to a file with multiple queries (one per line).")
     
     args = parser.parse_args()
 
-    # --- Run YouTube Pipeline ---
-    if args.pipeline == "youtube":
-        print("--- Starting the YouTube Pipeline ---")
-        scrape_youtube_videos(args.query)
-        run_cleaning_and_structuring_pipeline(YOUTUBE_TRANSCRIPT_FILE, "youtube_videos")
+    # --- Determine the query source ---
+    queries = []
+    if args.query:
+        queries.append(args.query)
+    elif args.queries_file:
+        try:
+            with open(args.queries_file, 'r') as f:
+                queries = [line.strip() for line in f if line.strip()]
+        except FileNotFoundError:
+            print(f"❌ Error: The queries file {args.queries_file} was not found.")
+            sys.exit(1)
+    else:
+        print("❌ Error: You must provide either a single --query or a --queries_file.")
+        sys.exit(1)
 
-    # --- Run Website Pipeline ---
-    elif args.pipeline == "website":
-        print("--- Starting the Website Pipeline ---")
-        # Step 1: Fetch links from Serper
-        print(f"🔍 Searching for web links about: '{args.query}'")
-        links = search_serper(args.query)
-        if not links:
-            print("❌ No links found. Exiting.")
-        else:
-            save_links_to_file(links, SCRAPED_LINKS_FILE)
-            
-            # Step 2: Scrape content from the fetched links
-            
-            # Read URLs from the saved links file
-            try:
-                with open(SCRAPED_LINKS_FILE, "r", encoding="utf-8") as f:
-                    urls = [line.strip() for line in f if line.strip()]
-            except FileNotFoundError:
-                print("❌ Links file not found. Exiting.")
-                sys.exit()
+    # --- Run Pipeline based on choice and queries ---
+    for query in queries:
+        print(f"\n--- Starting pipeline for query: '{query}' ---")
 
-            print(f"🚀 Found {len(urls)} links to scrape.")
-            SCRAPED_DIR.mkdir(parents=True, exist_ok=True)
-            
-            scraped_files_to_process = []
-            for url in urls:
-                scraped_text, _ = process_url(url)
-                
-                if scraped_text:
-                    safe_filename = urlparse(url).netloc.replace('.', '_') + "_" + str(time.time()).replace('.', '')
-                    scraped_file_path = SCRAPED_DIR / f"{safe_filename}.txt"
-                    
-                    with open(scraped_file_path, "w", encoding="utf-8") as f:
-                        f.write(scraped_text)
-                    
-                    scraped_files_to_process.append(scraped_file_path)
-                    print(f"✅ Scraped data for {url} saved to {scraped_file_path}")
-                else:
-                    print(f"⚠️ Skipping URL due to scraping error: {url}")
-            
-            if scraped_files_to_process:
-                # Step 2.5: Remove invalid files from the scraped directory
-                print("\n🧹 Starting file validation and cleanup...")
-                # SCRAPED_DIR is a pathlib.Path object, so convert it to a string for the function
-                remove_invalid_files(str(SCRAPED_DIR))
-                print("✅ File cleanup completed.")
-                
-                # Re-read the list of files to process after invalid ones are removed
-                final_files_to_process = [
-                    file_path for file_path in scraped_files_to_process 
-                    if os.path.exists(file_path)
-                ]
-                
-                if final_files_to_process:
-                    # Run the cleaning and structuring pipeline for each file
-                    for file_path in final_files_to_process:
-                        file_name = file_path.stem 
-                        print(f"\n--- Processing scraped file: {file_name} ---")
-                        run_cleaning_and_structuring_pipeline(file_path, file_name)
-                else:
-                    print("❌ No valid files remaining after cleanup. Exiting pipeline.")
+        # --- Run YouTube Pipeline ---
+        if args.pipeline == "youtube":
+            print("--- Starting the YouTube Pipeline ---")
+            scrape_youtube_videos(query)
+            run_cleaning_and_structuring_pipeline(YOUTUBE_TRANSCRIPT_FILE, "youtube_videos")
+
+        # --- Run Website Pipeline ---
+        elif args.pipeline == "website":
+            print("--- Starting the Website Pipeline ---")
+            # Step 1: Fetch links from Serper
+            print(f"🔍 Searching for web links about: '{query}'")
+            links = search_serper(query)
+            if not links:
+                print("❌ No links found. Exiting.")
             else:
-                print("❌ No content was successfully scraped. Exiting pipeline.")
+                save_links_to_file(links, SCRAPED_LINKS_FILE)
+                
+                # Step 2: Scrape content from the fetched links
+                
+                # Read URLs from the saved links file
+                try:
+                    with open(SCRAPED_LINKS_FILE, "r", encoding="utf-8") as f:
+                        urls = [line.strip() for line in f if line.strip()]
+                except FileNotFoundError:
+                    print("❌ Links file not found. Exiting.")
+                    sys.exit()
+
+                print(f"🚀 Found {len(urls)} links to scrape.")
+                SCRAPED_DIR.mkdir(parents=True, exist_ok=True)
+                
+                scraped_files_to_process = []
+                for url in urls:
+                    scraped_text, _ = process_url(url)
+                    
+                    if scraped_text:
+                        safe_filename = urlparse(url).netloc.replace('.', '_') + "_" + str(time.time()).replace('.', '')
+                        scraped_file_path = SCRAPED_DIR / f"{safe_filename}.txt"
+                        
+                        with open(scraped_file_path, "w", encoding="utf-8") as f:
+                            f.write(scraped_text)
+                        
+                        scraped_files_to_process.append(scraped_file_path)
+                        print(f"✅ Scraped data for {url} saved to {scraped_file_path}")
+                    else:
+                        print(f"⚠️ Skipping URL due to scraping error: {url}")
+                
+                if scraped_files_to_process:
+                    # Step 2.5: Remove invalid files from the scraped directory
+                    print("\n🧹 Starting file validation and cleanup...")
+                    # SCRAPED_DIR is a pathlib.Path object, so convert it to a string for the function
+                    remove_invalid_files(str(SCRAPED_DIR))
+                    print("✅ File cleanup completed.")
+                    
+                    # Re-read the list of files to process after invalid ones are removed
+                    final_files_to_process = [
+                        file_path for file_path in scraped_files_to_process 
+                        if os.path.exists(file_path)
+                    ]
+                    
+                    if final_files_to_process:
+                        # Run the cleaning and structuring pipeline for each file
+                        for file_path in final_files_to_process:
+                            file_name = file_path.stem 
+                            print(f"\n--- Processing scraped file: {file_name} ---")
+                            run_cleaning_and_structuring_pipeline(file_path, file_name)
+                    else:
+                        print("❌ No valid files remaining after cleanup. Exiting pipeline.")
+                else:
+                    print("❌ No content was successfully scraped. Exiting pipeline.")
     
     # After processing is complete, upload to Supabase
     print("\n Uploading analyzed data to Supabase...")
