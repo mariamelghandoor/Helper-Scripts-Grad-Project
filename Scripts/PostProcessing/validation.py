@@ -16,17 +16,18 @@ startup_schema = {
     "items": {
         "type": "object",
         "properties": {
-            "Link": {"type": ["string", "null"], "format": "uri"},
-            "Idea": {"type": ["string", "null"]},
-            "Description": {"type": ["string", "null"]},
-            "Takeaway": {"type": ["string", "null"]},
+            "Link": {"type": "string", "format": "uri"},
+            "Idea": {"type": "string"},
+            "Description": {"type": "string"},
+            "Takeaway": {"type": "string"},
             "Domain": {"type": ["string", "null"]},
-            "Reason": {"type": ["string", "null"]},
+            "Reason": {"type": "string"},
             "Region": {"type": ["string", "null"]},
             "Sub_domain": {"type": ["string", "null"]},
             "Tags": {
                 "type": "array",
-                "items": {"type": "string"}
+                "items": {"type": "string"},
+                "minItems": 1
             },
             "success_or_fail": {"type": "string", "enum": ["success", "fail","Success","Fail","SUCCESS","FAIL","failure","Failure","FAILURE"]}
         },
