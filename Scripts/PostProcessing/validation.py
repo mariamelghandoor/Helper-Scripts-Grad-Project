@@ -16,7 +16,7 @@ startup_schema = {
     "items": {
         "type": "object",
         "properties": {
-            "Link": {"type": "string", "format": "uri"},
+            "Link": {"type": ["string", "null"], "format": "uri"},
             "Idea": {"type": "string"},
             "Description": {"type": "string"},
             "Takeaway": {"type": "string"},
@@ -78,15 +78,23 @@ def process_folder(folder_path, output_folder):
 
             # Construct the prompt with the file content
             prompt = (
-                "Act as a meticulous business analyst and venture capital expert. Your task is to identify and extract **only** information related to specific business or startup ideas, case studies of businesses (either successful or failed), or analyses of a company's performance. "
-                "Ignore generic articles, 'how-to' guides, or lists that do not describe a specific company, business model, or a success/failure case. "
-                "For each distinct startup idea or case study found in the text, extract the information and structure it as a JSON object according to the provided schema. "
-                "Each full article is preceded by '--- CONTENT FROM' and its URL. Use the URL for the 'Link', 'Domain', and 'Sub_domain' fields. "
-                "If an entry is just a title with metadata, use the title for both the 'Idea' and 'Description' fields. For these short entries, fields like 'Reason' and 'Takeaway' will be null. "
-                "If no relevant startup idea or case study can be found in a chunk of text, you MUST return an empty JSON array `[]`."
-                "If a specific piece of information for any field cannot be found in the text, you MUST use `null` as its value. Here is the text:\n\n"
-                f"{text_chunk}"
-            )
+    "You are a meticulous business analyst and venture capital expert. Your task is to identify and extract ONLY information related to specific business or startup ideas, case studies of businesses (either successful or failed), or analyses of a company's performance from the provided text."
+    " **Your output must be a valid JSON array of objects.**"
+    "\n\n**INSTRUCTIONS & RULES:**"
+    "\n1. **Be Selective:** Ignore generic articles, 'how-to' guides, or lists that do not describe a specific company, business model, or a success/failure case. If no specific case study is found, you MUST return an empty array `[]`."
+    "\n2. **Use Source Info:** Each full article is preceded by '--- CONTENT FROM' and its URL. Use this URL for the 'Link', 'Domain', and 'Sub_domain' fields."
+    "\n3. **Strict Non-Null Fields:** The following fields are mandatory and MUST contain a non-null, descriptive string. **If you cannot find sufficient information in the text to populate any of these specific fields, DO NOT create an entry for that business idea.**"
+    "    - `Idea` (a concise summary)"
+    "    - `Description` (a more detailed explanation)"
+    "    - `Takeaway` (the key lesson or insight)"
+    "    - `Reason` (the reason for success or failure)"
+    "    - `success_or_fail` (the outcome)"
+    "\n4. **Mandatory Tags:** The `Tags` field MUST be an array containing at least one relevant string tag. An empty `[]` array is not allowed."
+    "\n5. **Optional Fields:** The fields `Domain`, `Region`, and `Sub_domain` can be `null` if the information is not present."
+    "\n6. **Short Entry Handling:** If an entry is just a title with metadata, and you cannot find a proper 'Reason' or 'Takeaway', it does not meet the criteria from Rule #3. You should skip it and not include it in the output."
+    "\n\nHere is the text:\n\n"
+    f"{text_chunk}"
+)
 
             # Call Groq API
             chat_completion = client.chat.completions.create(

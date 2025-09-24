@@ -7,8 +7,6 @@ from datetime import datetime
 from concurrent.futures import ProcessPoolExecutor
 
 def scrape_dynamic_page(url: str) -> str:
-    # (Your existing scrape_dynamic_page function goes here)
-    # Make sure this function is self-contained and returns the HTML
     driver = None
     try:
         print(f"🚀 Scraping in new process: {url}")
