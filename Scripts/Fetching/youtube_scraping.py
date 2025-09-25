@@ -105,7 +105,7 @@ def download_audio(video_id: str, title: str):
 # ----------------------------
 # Whisper Transcription
 # ----------------------------
-def transcribe_with_whisper(audio_path: str, title: str, transcript_file_handle, failed_file_handle):
+def transcribe_with_whisper(audio_path: str, title: str, url: str, transcript_file_handle, failed_file_handle):
     """
     Transcribes the given audio file with OpenAI Whisper (local).
     """
@@ -126,7 +126,7 @@ def transcribe_with_whisper(audio_path: str, title: str, transcript_file_handle,
         text = result.get("text", "").strip()
         if not text:
             raise RuntimeError("Whisper returned empty transcript")
-
+        transcript_file_handle.write(f"--- CONTENT FROM {url} ---\n\n")
         transcript_file_handle.write(f"--- Title: {title} ---\n\n")
         transcript_file_handle.write(text + "\n\n")
         print(f"✅ Appended transcript to '{YOUTUBE_TRANSCRIPT_FILE}'")
@@ -169,7 +169,7 @@ def scrape_youtube_videos(query: str):
                 continue
 
             time.sleep(random.randint(2, 6))
-            transcribe_with_whisper(audio_path, title, transcript_file, failed_file)
+            transcribe_with_whisper(audio_path, title, url, transcript_file, failed_file)
             time.sleep(random.randint(2, 5))
     
     print(f"\n📄 Failed items (if any) saved to: {YOUTUBE_FAILED_LINKS_FILE}")
