@@ -10,4 +10,5 @@ Data/Validated_Schemas/*
 !Data/Validated_Schemas/.gitkeep
 Data/audio/*
 !Data/audio/.gitkeep
+Data/links/links.txt
 queries.txt
