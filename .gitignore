@@ -8,3 +8,6 @@ Data/Schemas/*
 !Data/Schemas/.gitkeep
 Data/Validated_Schemas/*
 !Data/Validated_Schemas/.gitkeep
+Data/audio/*
+!Data/audio/.gitkeep
+queries.txt
