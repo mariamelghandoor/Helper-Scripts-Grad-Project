@@ -161,6 +161,15 @@ def process_folder(folder_path, output_folder):
 
 # 5. Run the processing on the folder
 if __name__ == "__main__":
-    source_folder = "../../Data/Schemas"
-    output_folder = "../../Data/Validated_Schemas"
+    # --- Robust Path Configuration ---
+    # This logic makes the script runnable from anywhere by calculating absolute paths.
+    SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+    PROJECT_ROOT = os.path.abspath(os.path.join(SCRIPT_DIR, "../../"))
+
+    source_folder = os.path.join(PROJECT_ROOT, "Data", "Schemas")
+    output_folder = os.path.join(PROJECT_ROOT, "Data", "Validated_Schemas")
+    
+    print(f"Source Folder: {source_folder}")
+    print(f"Output Folder: {output_folder}")
+    
     process_folder(source_folder, output_folder)

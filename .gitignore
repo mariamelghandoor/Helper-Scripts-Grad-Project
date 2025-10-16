@@ -12,3 +12,5 @@ Data/audio/*
 !Data/audio/.gitkeep
 Data/links/links.txt
 queries.txt
+Data/StartupNames/*
+!Data/StartupNames/.gitkeep
