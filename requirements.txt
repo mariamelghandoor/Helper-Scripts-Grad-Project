@@ -9,7 +9,7 @@ requests>=2.31.0
 undetected-chromedriver>=3.5.0
 
 # Audio Processing
-yt-dlp>=2024.3.10
+yt-dlp==2026.3.13
 openai-whisper>=20231117
 
 # Data Processing and Database
@@ -23,4 +23,5 @@ numpy>=1.26.0
 
 # Utilities
 pathlib>=1.0.1
+python-dotenv>=1.0.0
 

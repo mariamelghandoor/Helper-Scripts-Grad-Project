@@ -12,3 +12,4 @@ Data/audio/*
 !Data/audio/.gitkeep
 Data/links/links.txt
 queries.txt
+Scripts/pitches/downloads/
