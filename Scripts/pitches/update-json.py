@@ -138,7 +138,7 @@ def update_legacy_jsons():
                         updated_count += 1
                         
                         # Crucial: Sleep for 2 seconds to avoid hitting API rate limits
-                        time.sleep(2) 
+                        time.sleep(20) 
                     else:
                         logging.warning(f"Failed to generate new metadata for {file}.")
 

@@ -14,8 +14,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 # Using flash for fast, cheap, and highly accurate JSON generation
 model = genai.GenerativeModel('gemini-2.5-flash')
-FIELDS = ["supply chain tech"
-]
+FIELDS = ["Architecture", "Food", "Gaming", "Construction", "Transportation", "Manufacturing", "Energy", "Aerospace"]
 TARGET_VIDEOS_PER_FIELD = 10
 DOWNLOAD_DIR = "downloads"
 HISTORY_FILE = os.path.join(DOWNLOAD_DIR, "history.txt")
